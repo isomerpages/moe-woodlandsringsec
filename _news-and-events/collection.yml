@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Activities in 2017/.keep
       - Activities in 2018/.keep
       - Activities in 2019/.keep
       - Activities in 2020/.keep
