@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Soldier of the Year.md
       - Science Talent Development Programme.md
       - Humanities Talent Development Programme.md
