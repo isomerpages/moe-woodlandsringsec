@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - For Students/Class Timetable.md
       - For Students/Assessment.md
       - For Students/2022 Sept Holiday Revision.md
       - For Students/2022 Secondary 3 Subject Combination and Class Allocation.md
