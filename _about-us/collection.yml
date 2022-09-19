@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/.keep
       - Academic Staff/.keep
       - Administrative & Support Staff.md
