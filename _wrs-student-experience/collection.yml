@@ -1,4 +1,5 @@
 collections:
   wrs-student-experience:
     output: true
-    order: []
+    order:
+      - Aesthetics Education Programme.md
