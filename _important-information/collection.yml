@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Students/.keep
+      - For Parents/Student Insurance Coverage.md
       - For Parents/Financial Assistance.md
       - For Parents/.keep
       - Partners/School Advisory Committee.md
