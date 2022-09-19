@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - For Students/2022 Secondary 3 Subject Combination and Class Allocation.md
       - For Students/Holiday Learning Tasks.md
       - For Students/Useful Links.md
       - For Students/.keep
