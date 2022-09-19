@@ -1,2 +1,23 @@
 logo: /images/sch logo.png
-links: []
+links:
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Philosophy,Mission,Vision,Va..
+        url: /about-us/philosophy-mission-vision-values/
+      - title: School History
+        url: /about-us/school-history/
+      - title: School Song
+        url: /about-us/school-song/
+      - title: School Emblem
+        url: /about-us/school-emblem/
+      - title: Staff
+        url: /about-us/staff/
+      - title: Academic Staff
+        url: /about-us/academic-staff/
+      - title: Admin Staff & Support Staff
+        url: /about-us/administrative-staff-and-support-staff/
+      - title: Contact Us
+        url: /contact-us/
