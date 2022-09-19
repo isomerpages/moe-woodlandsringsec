@@ -19,10 +19,4 @@ sections:
         - title: Contact Us
           description: Click here for more details
           url: /contact-us/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
