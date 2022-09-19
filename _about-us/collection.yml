@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Song.md
       - School Emblem.md
       - Staff/.keep
       - Academic Staff/.keep
