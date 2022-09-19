@@ -2,6 +2,7 @@ collections:
   wrs-student-experience:
     output: true
     order:
+      - Academic Learning/Mathematics.md
       - Academic Learning/Humanities.md
       - Academic Learning/Science.md
       - Academic Learning/Craft & Technology.md
