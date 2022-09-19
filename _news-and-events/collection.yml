@@ -2,4 +2,5 @@ collections:
   news-and-events:
     output: true
     order:
+      - Activities in 2021/.keep
       - Activities in 2022/.keep
