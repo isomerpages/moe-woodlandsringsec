@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Students/.keep
+      - For Parents/Letters to Parents.md
       - For Parents/Direct School Admission Secondary (DSA Sec) Exercise.md
       - For Parents/Subject Offerings for 2022 Sec 3.md
       - For Parents/Student Insurance Coverage.md
