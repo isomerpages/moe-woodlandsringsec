@@ -2,5 +2,6 @@ collections:
   wrs-student-experience:
     output: true
     order:
+      - CCA/.keep
       - Learning for Life Programme.md
       - Aesthetics Education Programme.md
