@@ -21,3 +21,18 @@ links:
         url: /about-us/administrative-staff-and-support-staff/
       - title: Contact Us
         url: /contact-us/
+  - title: Achievements
+    url: /achievements/school-awards/
+    sublinks:
+      - title: School Awards
+        url: /achievements/school-awards/
+      - title: Lee Kuan Yew Special Awards
+        url: /achievements/lky-special-awards/
+      - title: Awards for Alumni
+        url: /achievements/awards-for-alumni/
+      - title: Soldier of the Year
+        url: /achievements/soldier-of-the-year/
+      - title: Science Talent Development
+        url: /achievements/science-talent-development-programme/
+      - title: Humanities Talent Development
+        url: /achievements/humanities-talent-development-programme/
