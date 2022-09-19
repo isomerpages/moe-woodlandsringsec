@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - School Awards.md
       - Lee Kuan Yew Special Awards.md
       - Awards for Alumni/.keep
       - Soldier of the Year.md
