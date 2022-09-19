@@ -2,4 +2,5 @@ collections:
   wrs-student-experience:
     output: true
     order:
+      - Learning for Life Programme.md
       - Aesthetics Education Programme.md
