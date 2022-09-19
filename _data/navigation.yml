@@ -36,3 +36,46 @@ links:
         url: /achievements/science-talent-development-programme/
       - title: Humanities Talent Development
         url: /achievements/humanities-talent-development-programme/
+  - title: WRS Student Experience
+    url: /wrs-student-experience/
+    sublinks:
+      - title: Academic Learning
+        url: /wrs-student-experience/academic-learning/
+      - title: Character and Citizenship Edu
+        url: /wrs-student-experience/cce/
+      - title: Global Classroom Experience
+        url: /wrs-student-experience/global-classroom-experience/
+      - title: Applied Learning Programme
+        url: /wrs-student-experience/alp/
+      - title: CCA
+        url: /wrs-student-experience/cca/
+      - title: Learning for Life Programme
+        url: /wrs-student-experience/llp/
+      - title: Aesthetics Education Programme
+        url: /wrs-student-experience/aesthetics-education-programme/
+  - title: Important Information
+    url: /important-information/for-students/
+    sublinks:
+      - title: For Students
+        url: /important-information/for-students/
+      - title: For Parents
+        url: /important-information/for-parents/
+      - title: Partners
+        url: /important-information/partners/
+  - title: News & Events
+    url: /news-and-events/wrs-in-the-news/
+    sublinks:
+      - title: WRS in the News
+        url: /news-and-events/wrs-in-the-news/
+      - title: Activities in 2017
+        url: /news-and-events/2017/
+      - title: Activities in 2018
+        url: /news-and-events/2018/
+      - title: Activities in 2019
+        url: /news-and-events/2019/
+      - title: Activities in 2020
+        url: /news-and-events/2020/
+      - title: Activities in 2021
+        url: /news-and-events/2021/
+      - title: Activities in 2022
+        url: /news-and-events/2022/
