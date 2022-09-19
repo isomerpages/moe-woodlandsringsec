@@ -2,5 +2,6 @@ collections:
   important-information:
     output: true
     order:
+      - For Students/.keep
       - For Parents/.keep
       - Partners/.keep
