@@ -1,4 +1,5 @@
 collections:
   achievements:
     output: true
-    order: []
+    order:
+      - Humanities Talent Development Programme.md
