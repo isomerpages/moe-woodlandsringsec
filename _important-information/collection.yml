@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - For Students/Teach The Child Programme (TTCP).md
       - For Students/Class Timetable.md
       - For Students/Assessment.md
       - For Students/2022 Sept Holiday Revision.md
