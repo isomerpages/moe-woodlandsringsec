@@ -86,3 +86,8 @@ Here, our Mobile Robotics students explore, design and build electronic systems 
 ##### **N**URTURES talent
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/AM4S0joYLiI" title="Nurture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+At WRS, the **Science Talent Development Programme** provides a wide range of opportunities designed to enable individual students to discover, pursue and nurture their own aspirations and talents. It caters to students’ varying abilities, strengths, talents and interests, and provides breadth and depth in their journey of learning and self-discovery.
+
+##### Fosters **C**REATIVITY
+
