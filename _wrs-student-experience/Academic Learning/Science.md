@@ -57,3 +57,6 @@ and [**E**XCITES](https://woodlandsringsec.moe.edu.sg/science/#excites) learni
 ##### **S**TIMULATES passion for learning
 <iframe width="700" height="350" src="https://www.youtube.com/embed/Dy4kKtDvSQ0" title="STIMULATES passion for learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Performing demonstrations of scientific phenomena ‘live’ excites students and stimulates their passion for learning
+
+##### Presents **C**HALLENGES
