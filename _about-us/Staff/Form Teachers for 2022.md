@@ -71,16 +71,16 @@ third_nav_title: Staff
 |  | Mdm Nurul Ayn Binte abdul Razak | [nurul_ayn_abdul_razak@moe.edu.sg](mailto:nurul_ayn_abdul_razak@moe.edu.sg) |
 | 3E2B | Mrs Chuah-Ng Lih Yng | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
 |  | Miss Lu Huiping | [lu_huiping@moe.edu.sg](mailto:lu_huiping@moe.edu.sg) |
-| 3E3 | Mr Jeremy See Poo Leng | see_poo_leng@moe.edu.sg |
-|  | Ms Liu Xinqi | liu_xin_qi@moe.edu.sg |
-| 3E4 | Mr Andrew Yap Ming Hwee | andrew_yap_ming_hwee@moe.edu.sg |
-|  | Mdm Ng Mei Ting | ng_mei_ting@moe.edu.sg |
-| 3N5 | Mr Tok Hong Da | tok_hong_da@moe.edu.sg |
-|  | Miss Nurharizah Bte Mohamad Hamzah | nurharizah_mohamad_hamzah@moe.edu.sg (T2) |
-| 3N6 | Mr Yeoh Sin Hui (Fexil) | yeoh_sin_hui@moe.edu.sg |
-|  | Mdm Nor Lizawati Bte Mohd Tahir | nor_lizawati_mohd_tahir@moe.edu.sg (wef S2) |
-| 3T7 | Mr Adnan Bin Mahmud | adnan_mahmud@moe.edu.sg |
-|  | Ms Li Zhiping | li_zhiping@moe.edu.sg |
+| 3E3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
+|  | Ms Liu Xinqi | [liu_xin_qi@moe.edu.sg](mailto:liu_xin_qi@moe.edu.sg) |
+| 3E4 | Mr Andrew Yap Ming Hwee | [andrew_yap_ming_hwee@moe.edu.sg](mailto:andrew_yap_ming_hwee@moe.edu.sg) |
+|  | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
+| 3N5 | Mr Tok Hong Da | [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
+|  | Miss Nurharizah Bte Mohamad Hamzah | [nurharizah_mohamad_hamzah@moe.edu.sg](mailto:nurharizah_mohamad_hamzah@moe.edu.sg) (T2) |
+| 3N6 | Mr Yeoh Sin Hui (Fexil) | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
+|  | Mdm Nor Lizawati Bte Mohd Tahir | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) (wef S2) |
+| 3T7 | Mr Adnan Bin Mahmud | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
+|  | Ms Li Zhiping | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
 |
 
 ##### **Form Teachers for Secondary 4 and 5**
