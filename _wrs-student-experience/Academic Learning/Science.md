@@ -60,3 +60,5 @@ and [**E**XCITES](https://woodlandsringsec.moe.edu.sg/science/#excites) learni
 Performing demonstrations of scientific phenomena ‘live’ excites students and stimulates their passion for learning
 
 ##### Presents **C**HALLENGES
+
+<iframe width="792" height="480" src="https://www.youtube.com/embed/Q5-HBNfxRbA" title="Presents CHALLENGES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
