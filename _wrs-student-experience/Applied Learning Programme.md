@@ -12,3 +12,24 @@ At Woodlands Ring Secondary School (WRSS), our ALP focus area is on Science, Tec
 In partnership with STEM Inc., Science Centre Singapore, we have reviewed our ALP to include coding. In 2017, students learn to programme, code and upload to an Arduino microcontroller to perform simple tasks like lighting up an LED or make a buzzer sound, to more complicated tasks such as mimicking a traffic-light system or use infra-red input devices to measure and control output devices. Authentic scenarios are presented to challenge students’ critical and inventive thinking; to test their troubleshooting skills besides learning soft skills such as communicating with team members and learning to make responsible decisions.
 
 Involvement of students in larger project tasks such as designing and prototyping a robot arm to perform precise functions or to make it ‘dance’ to a one-minute music tune, using smartphone to control Robotics arms via Bluetooth, further stretches the students’ imagination and potential to complete the task while living out the school core values of Responsibility, Respect and Resilience.
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<img style="width:25%" src="/images/alp1.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<img style="width:25%" src="/images/alp2%20new.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<img style="width:25%" src="/images/alp3.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<img style="width:25%" src="/images/alp4.jpg" align = left>
+</a></p>
+
+![](/images/ALP%20enlarged%201.jpg)
+![](/images/ALP%20enlarged%202.jpg)
+![](/images/ALP%20enlarged%203.jpg)
+![](/images/ALP%20enlarged%204.jpg)
