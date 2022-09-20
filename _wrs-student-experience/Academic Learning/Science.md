@@ -91,3 +91,9 @@ At WRS, the **Science Talent Development Programme** provides a wide range of 
 
 ##### Fosters **C**REATIVITY
 
+<iframe width="700" height="350" src="https://www.youtube.com/embed/tdUUT8L_LcE" title="Fosters CREATIVITY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Students select a daily phenomenon related to chemistry and **collaboratively design an experiment to investigate** the phenomenon. They also hone their communication skills to present their findings creatively.
+
+##### **E**XCITES learning
+
