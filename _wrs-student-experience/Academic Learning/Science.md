@@ -20,7 +20,9 @@ All students are engaged in the assembly programmes that showcase science demons
 All Secondary 1 to 3 students are engaged in scientific investigation and /or research projects which aims to develop critical and inventive thinking, collaboration and communication skills. Students are engaged in collaborative projects to investigate phenomena, analyse data and present their findings.
 
 **(3) Talent Development programme**<br>
-In 2022 (Term 1), Sec 1 Science TDP students participated in the Cardboard Challenge activity. Each group of students was required to create a chair using only carboard without any types of adhesive material (e.g., glue, tape
+In 2022 (Term 1), Sec 1 Science TDP students participated in the Cardboard 
+
+Challenge activity. Each group of students was required to create a chair using only carboard without any types of adhesive material (e.g., glue, tape
 
 <img src="/images/sci1.jpg" style="width:85%">
 
@@ -35,3 +37,23 @@ The DNA extraction kits used in the workshop were generously provided by Illumin
 2021 TDP students participated in the following competitions and the results are as shown:
 
 <img src="/images/sci4.jpg" style="width:85%">
+
+**need help with these hyperlink** @jackson
+
+[**S**TIMULATES](https://woodlandsringsec.moe.edu.sg/science/#stimulates) passion for learning
+
+ presents [**C**HALLENGES](https://woodlandsringsec.moe.edu.sg/science/#challenges)  
+
+promotes [**I**NQUIRY](https://woodlandsringsec.moe.edu.sg/science/#inquiry)  
+
+[**E**NGAGES](https://woodlandsringsec.moe.edu.sg/science/#engages) the heart, mind and body,
+
+[**N**URTURES](https://woodlandsringsec.moe.edu.sg/science/#nurtures) talent
+
+fosters [**C**REATIVITY](https://woodlandsringsec.moe.edu.sg/science/#creativity)  
+
+and [**E**XCITES](https://woodlandsringsec.moe.edu.sg/science/#excites) learning.
+
+##### **S**TIMULATES passion for learning
+<iframe width="700" height="350" src="https://www.youtube.com/embed/Dy4kKtDvSQ0" title="STIMULATES passion for learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
