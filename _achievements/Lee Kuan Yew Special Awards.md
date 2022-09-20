@@ -14,8 +14,8 @@ LKY –ONC
 <img src="/images/lky%20award%201.jpg" 
      style="width:25%" align=left>
 		 
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
 		 
 **Year: 2018**                                                   **Year: 2017**  
 LKY –ONC                                                  LKY –ONC LKY–ARE (NT)		 
@@ -30,5 +30,4 @@ LKY –ONC                                              �
 LKY –ONC                                                   LKY –ARE (NA)		 
 <br>
 <img src="/images/lky%20award%205.jpg"
-     style="width:65%" align=left>		 
-
+     style="width:65%" align=left>
