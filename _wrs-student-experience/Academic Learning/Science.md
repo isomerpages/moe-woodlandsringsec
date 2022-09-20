@@ -82,3 +82,7 @@ They plan and design their own experiments to test their hypothesis of the most 
 WRS is one of 14 schools in Singapore that offers **Mobile Robotics** to students from the Normal (Technical) course of study.
 
 Here, our Mobile Robotics students explore, design and build electronic systems and mobile robots to solve authentic problems. Through learning by doing, students are able to develop core skills in electronics and appreciate the importance of robotics in the industry. Most importantly, they have fun in the process!
+
+##### **N**URTURES talent
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/AM4S0joYLiI" title="Nurture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
