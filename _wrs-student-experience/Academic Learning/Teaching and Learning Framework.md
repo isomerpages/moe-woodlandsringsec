@@ -46,15 +46,14 @@ We believe that with us as caring educators, working alongside teachable student
 5 The Reflective Practice Model was referred to during the STP Workshops conducted for school teams in July/Aug 2017. In using the model, we reflect and review our teaching and learning processes by asking What, Why, So What and Now What.
 
 **References**<br>
-MOE, Singapore. (2017a, May 31). The Singapore Teaching Practice. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice](https://www.moe.gov.sg/about/singapore-teaching-practice)
+MOE, Singapore. (2017a, May 31). The Singapore Teaching Practice. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice](https://www.moe.gov.sg/about/singapore-teaching-practice) 
 
-MOE, Singapore. (2017b, May 31). The Singapore Curriculum Philosophy. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice/singapore-curriculum-philosophy](https://www.moe.gov.sg/about/singapore-teaching-practice/singapore-curriculum-philosophy)
+MOE, Singapore. (2017b, May 31). The Singapore Curriculum Philosophy. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice/singapore-curriculum-philosophy](https://www.moe.gov.sg/about/singapore-teaching-practice/singapore-curriculum-philosophy) **website unavailable**
 
-MOE, Singapore. (2017c, July 31). The Reflective Practice Model. Retrieved from [https://opal.moe.edu.sg/stp/others/stp-workshop-resources](https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fopal.moe.edu.sg%2Fstp%2Fothers%2Fstp-workshop-resources)
+MOE, Singapore. (2017c, July 31). The Reflective Practice Model. Retrieved from [https://opal.moe.edu.sg/stp/others/stp-workshop-resources](https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fopal.moe.edu.sg%2Fstp%2Fothers%2Fstp-workshop-resources)  **website unavailable**
 
 MOE, Singapore. (2017d, Jan 6). The SLS Pedagogical Scaffold. Retrieved from SLS Design Toolkit.
 
 Print, M. (1993). _Curriculum development and design_. St. Leonards, NSW, Australia : Allen & Unwin, 1993.
 
 Wheeler, D. K. (1967). _Curriculum process_. London : University of London, c1967.
-
