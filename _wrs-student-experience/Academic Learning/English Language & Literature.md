@@ -21,4 +21,30 @@ Students are appointed as RAs and receive training on how to pass on the passion
 
 <img src="/images/ra.jpg" style="width:65%">
 
+* **Achievements 2021**
+
+| Name of Competition | Awards (if any) |
+|:---:|:---:|
+| Speech Arts Festival 2021 (by ACJC) | Top 10 for Comic Monologue (Lower Secondary) – Muhammad Hairul Qusyairul S/O Harjit Singh |
+| National Schools Literature Festival (Unseen Debates)) | Winners for Sec 3 team |
+| National Schools Literature Festival (Choral Speaking & Book Trailer) | Participation |
+| 2nd Eurasian Spelling Bee English Language Competition | Participation |
+|
+
+Our RAs are also given the opportunities to organise activities for EL Reading Week and to promote reading to their schoolmates.
+
+<img src="/images/ra1.jpg" style="width:65%">
+
+#### **Communication Skills**
+*   Communication skill is the a much sought-after skill by employers in the 21st Century and at Woodlands Ring Secondary, we ensure that our students get sufficient exposure to this skill in an authentic setting. Among these platforms are :
+    *   Public Speaking Workshop at Secondary 1
+    *   Poetry Slam through Literature at Secondary 2
+    *   Debates at Secondary 3
+
+<img src="/images/ra2.jpg" style="width:85%">
+<img src="/images/ra3.jpg" style="width:85%">
+<img src="/images/ra4.jpg" style="width:85%">
+
+<iframe width="556" height="310" src="https://www.youtube.com/embed/geyvFtn2rWU" title="English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
