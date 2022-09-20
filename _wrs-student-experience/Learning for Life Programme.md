@@ -28,3 +28,11 @@ In addition, the LLP provides a good opportunity for teachers to interact with s
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%204.jpg">
 <img style="width:25%" src="/images/llp4.jpg" align = left>
 </a></p>
+
+![](/images/llp%20enlarged%201.jpg)
+
+![](/images/llp%20enlarged%202.jpg)
+
+![](/images/llp%20enlarged%203.jpg)
+
+![](/images/llp%20enlarged%204.jpg)
