@@ -31,4 +31,4 @@ o 中三：语言使用的趣味活动，例如：相声、流行歌曲等等。
 
 <img src="/images/chi.jpg" style="width:75%">
 
-<iframe width="556" height="310" src="https://www.youtube.com/embed/BIm0Z0_OG8w" title="MT Dept" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/BIm0Z0_OG8w" title="MT Dept" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
