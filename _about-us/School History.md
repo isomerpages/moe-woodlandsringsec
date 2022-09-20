@@ -7,12 +7,35 @@ description: ""
 #### **A Brief History**
 The school opened its doors to its first batch of 395 Secondary One students on 2 January 1998.  There were a total of 10 classes with 15 teachers. Our student population now stands at 1300 students with 84 teaching staff.
 
-![](/images/history1.jpg)
-![](/images/history2.jpg)
-![](/images/history3.jpg)
-![](/images/history4.jpg)
-![](/images/history5.jpg)
-![](/images/history6.jpg)
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history1.jpg">
+<img style="width:25%" src="/images/historyyy1.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history2.jpg">
+<img style="width:25%" src="/images/historyyy2.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history3.jpg">
+<img style="width:25%" src="/images/historyyy3.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history4.jpg">
+<img style="width:25%" src="/images/historyyy4.jpg" align = left>
+</a></p>
+
+<br><br><br>
+<br><br><br>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<img style="width:25%" src="/images/historyyy5.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history6.jpg">
+<img style="width:25%" src="/images/historyyy6.jpg" align = left>
+</a></p>
+
+<br><br><br>
+<br><br><br>
 
 The school is located in the Woodlands Division of Sembawang GRC. The design and construction of the school started on 18 June 1997. The school was officially handed over to the then Public Works Division (PWD) on 6 December 1997.  A part of the 4th generation (supplementary) building programme, the school was a design-and-build model with Mr Wee Chwee Heng and Mr Chew Kok Keene from Kumpulan Arkitek as its principal consultant architects.
 
