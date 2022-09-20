@@ -2,7 +2,7 @@
 layout: homepage
 title: Woodlands Ring Secondary School
 description: Brief site description here
-image: /images/sch logo.png
+image: /images/logo.gif
 permalink: /
 notification: ""
 sections:
@@ -20,3 +20,4 @@ sections:
           description: Click here for more details
           url: /contact-us/
 ---
+
