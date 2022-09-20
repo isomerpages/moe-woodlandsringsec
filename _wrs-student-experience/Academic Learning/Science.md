@@ -62,3 +62,23 @@ Performing demonstrations of scientific phenomena ‘live’ excites students an
 ##### Presents **C**HALLENGES
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/Q5-HBNfxRbA" title="Presents CHALLENGES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Some images were captured before COVID.)
+
+At WRS, Biology lessons are not restricted to classroom learning! We challenge our students to apply their understanding of biological concepts through the creation of their own plant cell models (using jelly and candies) and engaging hands-on activities such as dissection of sheep hearts. We too, would like our students to experience what life is like working in a biology/medical laboratory by getting them to apply practical skills to determine medical conditions/ diseases through simple biological tests.
+
+##### Promotes **I**NQUIRY
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/nZiAEFkH_so" title="Promotes INQUIRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Secondary 1 students start their scientific endeavour at WRS by **investigating the absorbency of baby diapers**.
+
+They plan and design their own experiments to test their hypothesis of the most absorbent diaper brand.
+
+##### **E**NGAGES the heart, mind and body
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/661aWSHyLf0" title="ENGAGES the heart, mind and body" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Some images were captured before COVID.)
+
+WRS is one of 14 schools in Singapore that offers **Mobile Robotics** to students from the Normal (Technical) course of study.
+
+Here, our Mobile Robotics students explore, design and build electronic systems and mobile robots to solve authentic problems. Through learning by doing, students are able to develop core skills in electronics and appreciate the importance of robotics in the industry. Most importantly, they have fun in the process!
