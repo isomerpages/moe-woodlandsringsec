@@ -97,3 +97,10 @@ Students select a daily phenomenon related to chemistry and **collaboratively d
 
 ##### **E**XCITES learning
 
+<iframe width="700" height="350" src="https://www.youtube.com/embed/dZbOPb-9GGI" title="EXCITES learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Woodlands Ring Secondary is one of nine schools in Singapore that offers **Electronics at O-Level**.
+
+Typically, students learn Electronics by building simple hardware circuits to verify what they have learnt in theory.
+
+At WRS, besides hardware, Electronics students use computer software to simulate more complex electronics systems before learning the theory, by using tools in the software. This helps them become more skilled at using the industry-standard computer software.
