@@ -38,39 +38,39 @@ third_nav_title: Staff
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 2E1 | Mr Chan Han Yen | chan_han_yen@moe.edu.sg |
-|  | Ms Cheong Mum Mum Michelle | cheong_mum_mum_michelle@moe.edu.sg |
-| 2E2 | Mr Neo Kai Sheng | neo_kai_sheng@moe.edu.sg |
-|  | Miss Teo Si Ni | teo_si_ni@moe.edu.sg |
-| 2E3 | Mr Toh Yeow Chong (John) | toh_yeow_chong@moe.edu.sg |
-|  | Miss Tan Fang Yu Sharon | tan_fang_yu_sharon@moe.edu.sg |
-| 2N5 | Mr Choy Cheng Zhen | choy_chengzhen@moe.edu.sg |
-|  | Ms Siti Hafizah d/o Subramaniam | siti_hafizah_subramaniam@moe.edu.sg |
-| 2N6 | Mr Faizal Bin Farouk | faizal_b_farouk@moe.edu.sg |
-|  | Miss Jolene Khoo Li Wen | jolene_khoo_li_wen@moe.edu.sg |
-| 2T7 | Mr Karamjit Singh | karamjit_singh_s_singh@moe.edu.sg |
-|  | Mdm Suzana Bte Sarikon   | suzana_sarikon@moe.edu.sg |
-|  | Mr Conrad Oh Eu Jin | oh_eu_jin_conrad@moe.edu.sg |
+| 2E1 | Mr Chan Han Yen | [chan_han_yen@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
+|  | Ms Cheong Mum Mum Michelle | [cheong_mum_mum_michelle@moe.edu.sg](mailto:cheong_mum_mum_michelle@moe.edu.sg) |
+| 2E2 | Mr Neo Kai Sheng | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
+|  | Miss Teo Si Ni | [teo_si_ni@moe.edu.sg](mailto:teo_si_ni@moe.edu.sg) |
+| 2E3 | Mr Toh Yeow Chong (John) | [toh_yeow_chong@moe.edu.sg](mailto:toh_yeow_chong@moe.edu.sg) |
+|  | Miss Tan Fang Yu Sharon | [tan_fang_yu_sharon@moe.edu.sg](mailto:tan_fang_yu_sharon@moe.edu.sg) |
+| 2N5 | Mr Choy Cheng Zhen | [choy_chengzhen@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
+|  | Ms Siti Hafizah d/o Subramaniam | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
+| 2N6 | Mr Faizal Bin Farouk | [faizal_b_farouk@moe.edu.sg](mailto:faizal_b_farouk@moe.edu.sg) |
+|  | Miss Jolene Khoo Li Wen | [jolene_khoo_li_wen@moe.edu.sg](mailto:jolene_khoo_li_wen@moe.edu.sg) |
+| 2T7 | Mr Karamjit Singh | [karamjit_singh_s_singh@moe.edu.sg](mailto:karamjit_singh_s_singh@moe.edu.sg) |
+|  | Mdm Suzana Bte Sarikon   | [suzana_sarikon@moe.edu.sg](mailto:suzana_sarikon@moe.edu.sg) |
+|  | Mr Conrad Oh Eu Jin | [oh_eu_jin_conrad@moe.edu.sg](mailto:oh_eu_jin_conrad@moe.edu.sg) |
 | 
 
 #### **Year Heads for Upper Secondary**
 
 |  |  |
 |---|---|
-| Mr Yap Choong Shiong (YH) | Yap_choong_shiong@moe.edu.sg |
-| Mdm Chong Siew Foong (AYH) | chong_siew_foong@moe.edu.sg |
+| Mr Yap Choong Shiong (YH) | [Yap_choong_shiong@moe.edu.sg](mailto:Yap_choong_shiong@moe.edu.sg) |
+| Mdm Chong Siew Foong (AYH) | [chong_siew_foong@moe.edu.sg](mailto:chong_siew_foong@moe.edu.sg) |
 |  |  |
 
 #####  **Form Teachers for Secondary 3**
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 3E1 | Mr Low Chun Wei | low_chun_wei@moe.edu.sg |
-|  | Miss Raidah Binte Moktar | raidah_moktar@moe.edu.sg |
-| 3E2A | Miss Ong Wan Ying | ong_wan_ying@moe.edu.sg |
-|  | Mdm Nurul Ayn Binte abdul Razak | nurul_ayn_abdul_razak@moe.edu.sg |
-| 3E2B | Mrs Chuah-Ng Lih Yng | ng_lih_yng@moe.edu.sg |
-|  | Miss Lu Huiping | lu_huiping@moe.edu.sg |
+| 3E1 | Mr Low Chun Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
+|  | Miss Raidah Binte Moktar | [raidah_moktar@moe.edu.sg](mailto:raidah_moktar@moe.edu.sg) |
+| 3E2A | Miss Ong Wan Ying | [ong_wan_ying@moe.edu.sg](mailto:ong_wan_ying@moe.edu.sg) |
+|  | Mdm Nurul Ayn Binte abdul Razak | [nurul_ayn_abdul_razak@moe.edu.sg](mailto:nurul_ayn_abdul_razak@moe.edu.sg) |
+| 3E2B | Mrs Chuah-Ng Lih Yng | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
+|  | Miss Lu Huiping | [lu_huiping@moe.edu.sg](mailto:lu_huiping@moe.edu.sg) |
 | 3E3 | Mr Jeremy See Poo Leng | see_poo_leng@moe.edu.sg |
 |  | Ms Liu Xinqi | liu_xin_qi@moe.edu.sg |
 | 3E4 | Mr Andrew Yap Ming Hwee | andrew_yap_ming_hwee@moe.edu.sg |
