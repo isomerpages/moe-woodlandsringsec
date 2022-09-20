@@ -20,7 +20,5 @@ Personally, I view life as a journey that has many different paths; and any path
 
 May all who join the WRS family experience joy of learning in their journey! 
 
-Mrs Ng Siew Bee 
-
+Mrs Ng Siew Bee<br>
 Principal
-
