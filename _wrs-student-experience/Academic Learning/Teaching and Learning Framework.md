@@ -46,7 +46,7 @@ We believe that with us as caring educators, working alongside teachable student
 5 The Reflective Practice Model was referred to during the STP Workshops conducted for school teams in July/Aug 2017. In using the model, we reflect and review our teaching and learning processes by asking What, Why, So What and Now What.
 
 **References**<br>
-MOE, Singapore. (2017a, May 31). The Singapore Teaching Practice. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice](https://www.moe.gov.sg/about/singapore-teaching-practice) 
+MOE, Singapore. (2017a, May 31). The Singapore Teaching Practice. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice](https://www.moe.gov.sg/about/singapore-teaching-practice) **website unavailable**
 
 MOE, Singapore. (2017b, May 31). The Singapore Curriculum Philosophy. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice/singapore-curriculum-philosophy](https://www.moe.gov.sg/about/singapore-teaching-practice/singapore-curriculum-philosophy) **website unavailable**
 
