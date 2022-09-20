@@ -9,29 +9,29 @@ third_nav_title: Staff
 
 |  |  |
 |---|---|
-| Mr Kheng Kok Seong (YH) | [kheng_kok_seong@moe.edu.sg |
-| Mrs Chuah-Ng Lih Yng (AYH) | ng_lih_yng@moe.edu.sg |
+| Mr Kheng Kok Seong (YH) | [kheng_kok_seong@moe.edu.sg](mailto:kheng_kok_seong@moe.edu.sg) |
+| Mrs Chuah-Ng Lih Yng (AYH) | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
 |
 
 ##### **Form Teachers for Secondary 1**
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 1E1 | Mr Jimmy Kong | jimmy_kong@moe.edu.sg |
-|  | Miss Aruna Govind | aruna_govind@moe.edu.sg |
-| 1E2 | Mr Tan Hong Tee | tan_hong_tee@moe.edu.sg |
-|  | Mrs Angelia Tan | tan_guat_yen_angelia@moe.edu.sg |
-| 1E3 | Miss Chung Xiao Xuan Gloria | chung_xiao_xuan_gloria@moe.edu.sg |
-|  | Mdm Siti Shahzuliahari Binte Johari | siti_shahzuliahari_johari@moe.edu.sg |
-| 1N4 | Miss Azyan Bte Azami | azyan_azami@moe.edu.sg |
-|  | Ms Sri Ratinawati Bte Hussein      | sri_ratinawati@moe.edu.sg |
-| 1N5 | Mr Soh Kian Hong | soh_kian_hong@moe.edu.sg |
-|  | Miss Chua Kah Hsing | chua_kah_hsing@moe.edu.sg |
-| 1N6 | Mr Tan Gim Yong (Justin) | tan_gim_yong@moe.edu.sg |
-|  | Ms Chan Cee Teing | chan_cee_teing@moe.edu.sg |
-| 1T7 | Mr Zulhufiz Bin Zainal | zulhafiz_zainal@moe.edu.sg |
-|  | Miss Gwendolyn Koh Jianing | gwendolyn_koh_jianing@moe.edu.sg |
-|  | Mdm Norhani Bte Sasuri | norhani_sumsuri@moe.edu.sg |
+| 1E1 | Mr Jimmy Kong | [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
+|  | Miss Aruna Govind | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
+| 1E2 | Mr Tan Hong Tee | [tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
+|  | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
+| 1E3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:chung_xiao_xuan_gloria@moe.edu.sg) |
+|  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
+| 1N4 | Miss Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
+|  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
+| 1N5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
+|  | Miss Chua Kah Hsing | [chua_kah_hsing@moe.edu.sg](mailto:chua_kah_hsing@moe.edu.sg) |
+| 1N6 | Mr Tan Gim Yong (Justin) | [tan_gim_yong@moe.edu.sg](mailto:tan_gim_yong@moe.edu.sg) |
+|  | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
+| 1T7 | Mr Zulhufiz Bin Zainal | [zulhafiz_zainal@moe.edu.sg](mailto:zulhafiz_zainal@moe.edu.sg) |
+|  | Miss Gwendolyn Koh Jianing | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
+|  | Mdm Norhani Bte Sasuri | [norhani_sumsuri@moe.edu.sg](mailto:norhani_sumsuri@moe.edu.sg) |
 |
 
 ##### **Form Teachers for Secondary 2**
@@ -104,4 +104,3 @@ third_nav_title: Staff
 | S5-1 | Mdm Siti Aisah Bte Mohamed Yusop | siti_aisah_mohamed_yusop@moe.edu.sg     |
 |  | Miss Gan Hwee Fern | gan_hwee_fern@moe.edu.sg |
 |
-
