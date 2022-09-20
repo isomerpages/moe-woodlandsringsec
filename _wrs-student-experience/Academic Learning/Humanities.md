@@ -9,25 +9,17 @@ Department Programmes / Highlights
 ##### **Humanities Department**
  **Learning Vision: _To equip our student with appropriate values, critical thinking skills and knowledge so that they can to appreciate and navigate the world we live in_**
  
- ##### **Subjects Offered**
+##### **Subjects Offered**
 **The Humanities Department at WRS offers the following subjects to our students:**
 
-1\. Social Studies
-
-2\. Social Studies (Normal Technical)
-
-3\. Geography Elective
-
-4\. History Elective
-
-5.Full Geography
-
-6\. Full History
-
-7\. Lower Secondary Geography
-
-8\. Lower Secondary History
-
+1\. Social Studies<br>
+2\. Social Studies (Normal Technical)<br>
+3\. Geography Elective<br>
+4\. History Elective<br>
+5.Full Geography<br>
+6\. Full History<br>
+7\. Lower Secondary Geography<br>
+8\. Lower Secondary History<br>
 9\. Elements of Business Studies
 
 ##### **Programmes**
