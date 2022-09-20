@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Learning
 ---
 ### **Humanities**
-Department Programmes / Highlights
+#### **Department Programmes / Highlights**
 ##### **Humanities Department**
  **Learning Vision: _To equip our student with appropriate values, critical thinking skills and knowledge so that they can to appreciate and navigate the world we live in_**
  
