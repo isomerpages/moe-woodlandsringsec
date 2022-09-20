@@ -13,26 +13,19 @@ Where will students demonstrate the application of these acquired skills? In Sec
 
 In addition, the LLP provides a good opportunity for teachers to interact with students in an informal setting, thus strengthening the teacher-student relationship. Teachers’ facilitation skills are enhanced as they serve as facilitators during the lessons conducted in the LLP.
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
 <img style="width:25%" src="/images/llp1.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
 <img style="width:25%" src="/images/llp2.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
 <img style="width:25%" src="/images/llp3.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
 <img style="width:25%" src="/images/llp4.jpg" align = left>
 </a></p>
 
-![](/images/llp%20enlarged%201.jpg)
-
-![](/images/llp%20enlarged%202.jpg)
-
-![](/images/llp%20enlarged%203.jpg)
-
-![](/images/llp%20enlarged%204.jpg)
