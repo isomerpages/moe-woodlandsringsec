@@ -45,6 +45,4 @@ Our RAs are also given the opportunities to organise activities for EL Reading W
 <img src="/images/ra3.jpg" style="width:85%">
 <img src="/images/ra4.jpg" style="width:85%">
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/geyvFtn2rWU" title="English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="556" height="310" src="https://www.youtube.com/embed/geyvFtn2rWU" title="English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/geyvFtn2rWU" title="English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
