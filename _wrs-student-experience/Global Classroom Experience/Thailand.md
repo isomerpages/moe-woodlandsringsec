@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Global Classroom Experience
 ---
 ### **Thailand**
-<img src="/images/thailand.jpg" style="width:75%">
+<img src="/images/thailand.jpg" style="width:85%">
