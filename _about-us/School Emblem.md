@@ -4,4 +4,5 @@ permalink: /about-us/school-emblem/
 description: ""
 ---
 ### **School Emblem**
-![](/images/sch%20logo.png)
+
+<img src="/images/logo.gif" style="width:25%">
