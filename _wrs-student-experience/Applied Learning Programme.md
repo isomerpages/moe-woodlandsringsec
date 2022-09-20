@@ -13,23 +13,19 @@ In partnership with STEM Inc., Science Centre Singapore, we have reviewed our AL
 
 Involvement of students in larger project tasks such as designing and prototyping a robot arm to perform precise functions or to make it ‘dance’ to a one-minute music tune, using smartphone to control Robotics arms via Bluetooth, further stretches the students’ imagination and potential to complete the task while living out the school core values of Responsibility, Respect and Resilience.
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%201.jpg">
 <img style="width:25%" src="/images/alp1.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%202.jpg">
 <img style="width:25%" src="/images/alp2%20new.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%203.jpg">
 <img style="width:25%" src="/images/alp3.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/history5.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%204.jpg">
 <img style="width:25%" src="/images/alp4.jpg" align = left>
 </a></p>
 
-![](/images/ALP%20enlarged%201.jpg)
-![](/images/ALP%20enlarged%202.jpg)
-![](/images/ALP%20enlarged%203.jpg)
-![](/images/ALP%20enlarged%204.jpg)
