@@ -1,6 +1,6 @@
 title: Woodlands Ring Secondary School
 url: https://woodlandsringsecondary.sg
-favicon: /images/sch logo.png
+favicon: /images/logo.gif
 colors:
   primary-color: "#d88e1e"
   secondary-color: "#d88e1e"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1zt0oshmgcgjg.amplifyapp.com
 prod: https://master.d1zt0oshmgcgjg.amplifyapp.com
-shareicon: /images/sch logo.png
+shareicon: /images/logo.gif
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
