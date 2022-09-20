@@ -12,6 +12,7 @@ As part of our Music Talent Development Programme, outstanding students will be 
 
 Our Art Programme aims to nurture young, confident artists by creating opportunities for students to participate actively and to work with one another. By developing visual literacy, students will be able to observe and perceive the world with increased awareness and aesthetic sensitivity. Artmaking engages students to express their thoughts and feelings while art discussion allows students to interpret and discover insights of artworks. Through these skills, students develop greater appreciation for art and its role in society.
 
-![](/images/aesthetics%20programme.jpg)
+<img style="width:85%" src="/images/aesthetics%20programme.jpg">
+
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/i5VADXACyes" title="Aesthetic Department" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
