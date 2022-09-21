@@ -17,10 +17,9 @@ third_nav_title: For Students
 
 | Schedule of Preliminary Exam (‘N’ Level) |
 |:---:|
-| [Sec 4 NA] |
-| [Sec 4 NT] |
+| [Sec 4 NA](/files/sec%204%20na.pdf) |
+| [Sec 4 NT](/files/sec%204%20nt.pdf) |
 | **Schedule of Preliminary Exam (‘O’ Level)** |
-| [Sec 4NA (Student offering ‘O’ Level Subject/s)] |
-| [Sec 4Exp & 5NA] |
+| [Sec 4NA (Student offering ‘O’ Level Subject/s)](/files/Sec-4NA-SBB-Prelim-Schedule-26-July.pdf) |
+| [Sec 4Exp & 5NA](/files/Sec-4E5NA-Prelim-Schedule-22-Aug.pdf) |
 |
-
