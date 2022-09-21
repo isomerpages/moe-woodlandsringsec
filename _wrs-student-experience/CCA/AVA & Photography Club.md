@@ -21,4 +21,3 @@ third_nav_title: CCA
 | **Target number of students** | : | 7 |
 | **Photos** | : | Photos were taken during pre-Covid period <br><br><img style="width:85%" src="/images/ava.jpg">
 |
-|
