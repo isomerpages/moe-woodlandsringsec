@@ -9,7 +9,7 @@ third_nav_title: For Students
 
 | Schedule of Assessment | Topics/Skills Assessed |
 |---|---|
-| [Sec 1 Exp Schedule]<br>[Sec 1 NA Schedule]<br>[Sec 1 NT Schedule] | [Sec 1 Exp TOS]<br>[Sec 1 NA TOS]<br>[Sec 1 NT TOS] |
+| [Sec 1 Exp Schedule](/files/sec1%20exp.pdf)<br>[Sec 1 NA Schedule](/files/sec%201%20na.pdf)<br>[Sec 1 NT Schedule](/files/sec%201%20nt.pdf) | [Sec 1 Exp TOS](/files/sec%201%20exp%20to.pdf)<br>[Sec 1 NA TOS](/files/sec%201%20na%20to.pdf)<br>[Sec 1 NT TOS](/files/sec%201%20nt%20to.pdf) |
 | [Sec 2 Exp Schedule]<br>[Sec 2 NA Schedule]<br>[Sec 2 NT Schedule] | [Sec 2 Exp TOS]<br>[Sec 2 NA TOS]<br>[Sec 2 NT TOS] |
 | [Sec 3 Exp Schedule]<br>[Sec 3 NA Schedule]<br>[Sec 3 NT Schedule] | [Sec 3 Exp TOS]<br>[Sec 3 NA TOS]<br>[Sec 3 NT TOS] |
 | [Sec 3 EL & MTL Oral Schedule] |   |
