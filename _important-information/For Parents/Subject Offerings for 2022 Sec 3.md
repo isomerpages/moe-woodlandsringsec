@@ -117,26 +117,21 @@ third_nav_title: For Parents
 <br><br><br><br>
 <br><br><br><br>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering25.jpg">
 <img style="width:25%" src="/images/so25.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering26.jpg">
 <img style="width:25%" src="/images/so26.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering27.jpg">
 <img style="width:25%" src="/images/so27.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering28.jpg">
 <img style="width:25%" src="/images/so28.jpg" align = left>
 </a></p>
-
-![](/images/subjectoffering25.jpg)
-![](/images/subjectoffering26.jpg)
-![](/images/subjectoffering27.jpg)
-![](/images/subjectoffering28.jpg)
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
 <img style="width:25%" src="/images/so29.jpg" align = left>
