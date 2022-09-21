@@ -49,7 +49,7 @@ third_nav_title: For Parents
 ![](/images/subjectoffering8.jpg)
 
 <br><br><br><br>
-<br><br><br>
+<br><br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
@@ -214,8 +214,8 @@ third_nav_title: For Parents
 ![](/images/subjectoffering35.jpg)
 ![](/images/subjectoffering36.jpg)
 
-<br><br><br>
-<br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
