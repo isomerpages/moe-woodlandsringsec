@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Partners
 ---
 ###  **Parents Support Group**
-##### VISION    :   Together we build a **_BETTER_** school <br>MISSION :   _**SUPPORTING**_ as partners in education and _**INSPIRING**_ as parents.
+##### **VISION    :   Together we build a **_BETTER_** school <br>MISSION :   _**SUPPORTING**_ as partners in education and _**INSPIRING**_ as parents.**
 
 ####  **Overview**
 Every Parent, A Supportive Partner.
