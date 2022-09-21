@@ -21,3 +21,9 @@ third_nav_title: CCA
 | **Targeted number of students** | : | 7 students |  |  |  |  |  |  |
 | **Photos** | : | Some photos were taken during pre-Covid period <br><br><img style="width:85%" src="/images/mrl.jpg">|  |  |  |  |  |  |
 |
+
+| Day | Duty timing |
+|:---:|:---:|
+| Mon or | 2:30 – 4:30 pm |
+| Fri | 1.30 – 3.30 pm |
+
