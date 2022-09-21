@@ -9,8 +9,16 @@ third_nav_title: For Students
 
 | Level | Express | Normal Academic | Normal Technical |
 |---|---|---|---|
-| Secondary 1 | [Sec 1E] | [Sec 1NA] | [Sec 1NT] |
-| Secondary 2 | [Sec 2E]  | [Sec 2NA] | [Sec 2NT]  |
-| Secondary 3 | [Sec 3E] | [Sec 3NA] | [Sec 3NT] |
-| 
+| Secondary 1 | [Sec 1E](/files/1e.pdf) | [Sec 1NA](/files/1na.pdf) | [Sec 1NT](/files/1nt.pdf) |
+| Secondary 2 | [Sec 2E](/files/2e.pdf)  | [Sec 2NA](/files/2na.pdf) | [Sec 2NT](/files/2nt.pdf)  |
+| Secondary 3 | [Sec 3E](/files/3e.pdf) | [Sec 3NA](/files/3na.pdf) | [Sec 3NT](/files/3nt.pdf) |
+|
+
+
+
+
+
+
+
+
 
