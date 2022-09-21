@@ -57,4 +57,3 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 13\. Parents can contact the school at 63643712 extension 49 or email ng\_lih\_yng@moe.edu.sg to discuss or seek clarification about the school’s sexuality education programme from Mrs Lyn Chuah, Sexuality Education Coordinator.
 
 14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
