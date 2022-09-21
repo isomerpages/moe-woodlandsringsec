@@ -60,7 +60,7 @@ third_nav_title: For Parents
 
 <br><br><br>
 <br><br><br>
-<br><br><br>
+<br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering13.jpg">
 <img style="width:25%" src="/images/so13.jpg" align = left>
@@ -80,7 +80,7 @@ third_nav_title: For Parents
 
 <br><br><br><br>
 <br><br><br><br>
-<br><br><br><br>
+<br><br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering17.jpg">
 <img style="width:25%" src="/images/so17.jpg" align = left>
@@ -170,7 +170,7 @@ third_nav_title: For Parents
 </a></p>
 
 <br><br><br><br>
-<br><br><br><br>
+<br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering37.jpg">
