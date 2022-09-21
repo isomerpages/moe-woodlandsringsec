@@ -38,11 +38,6 @@ third_nav_title: For Parents
 <img style="width:25%" src="/images/so8.jpg" align = left>
 </a></p>
 
-![](/images/subjectoffering5.jpg)
-![](/images/subjectoffering6.jpg)
-![](/images/subjectoffering7.jpg)
-![](/images/subjectoffering8.jpg)
-
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br>
