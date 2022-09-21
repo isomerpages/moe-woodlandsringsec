@@ -19,3 +19,10 @@ Education to our children is a joint responsibility between school and parents. 
 		 
 Click [here](https://go.gov.sg/wrspsg) to apply to be part of our PSG.
 
+### **2021 PSG Activities**
+
+<img src="/images/psg1.jpg" style="width:75%"><br>
+
+<img src="/images/psg2.jpg" style="width:75%"><br>
+
+<img src="/images/psg3.jpg" style="width:75%">
