@@ -19,5 +19,6 @@ third_nav_title: CCA
 | **Targeted Student Profile** | : | must be physically fit; keen interest in photography and videography; shows initiative; positive learning attitude and willingness to serve the school and committee |
 | **CCA Trial Procedures** | : | Interview with Teachers-in-charge to determine interest and suitability for the CCA, including the execution of a photography task to determine student’s aptitude. |
 | **Target number of students** | : | 7 |
-| **Photos** | : | Photos were taken during pre-Covid period |
+| **Photos** | : | Photos were taken during pre-Covid period <br><br><img style="width:85%" src="/images/ava.jpg">
+|
 |
