@@ -28,3 +28,36 @@ Simple and practical strategies to help parents confidently manage their childre
 – Effective in reducing child behavioural problems and improving parental self-efficacy and satisfaction.
 
 – Implemented in 25 countries such as Australia, Japan and Hong Kong.
+
+<img style="width:85%" src="/images/fam1.jpg">
+
+The Art & Science of Parenting in the Digital Age (Cyber Wellness for Teenagers) by Mr Poh Yeang Cherng, Practitioner-Researcher in Cyber Wellness
+
+<img style="width:85%" src="/images/fam2.jpg">
+
+Oppa Teenage Style – Understanding your child’s psycho-social emotional needs by Ms Charis Patrick, Counsellor/ Trainer/ Family Life Educator
+
+<img style="width:85%" src="/images/fam3.jpg">
+
+Dinning in the Dark at SAVH
+
+<img style="width:85%" src="/images/fam4.jpg">
+
+River Safari
+
+<img style="width:85%" src="/images/fam5.jpg">
+
+Simple ways to bond with your children
+
+<img style="width:85%" src="/images/fam6.jpg">
+
+Dragon Boating
+
+<img style="width:85%" src="/images/fam7.jpg">
+
+Kite making and flying at Gardens by the Bay
+
+<img style="width:85%" src="/images/fam8.jpg">
+
+Dialogue in the Dark
+
