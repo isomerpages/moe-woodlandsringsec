@@ -16,7 +16,7 @@ The first committee headed by Mr Mohamad Farhan (Class of 2011) and Miss Jolene 
 
 <img style="width:25%" src="/images/alumni%20committee.jpg" align = left>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 The committee also designed a logo that is inspired by the school song. The W in WRS is spread out, mimicking the wings of a butterfly as they have unfolded from their cocoons (as stated in the school song). The letters W, R and S are linked to represent the role of the Alumni Committee, to be the bridge between the school and all of the alumni of WRS. The three school colours have also been incorporated into the design, serving as a reminder that the alumni will always be part of the WRS community. The colours are splattered, showing the growth that they have gone through during their time in the school.
 
