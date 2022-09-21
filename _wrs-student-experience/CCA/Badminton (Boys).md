@@ -13,3 +13,14 @@ third_nav_title: CCA
 | Achievement(s) | : | 2020<br><br>North Zone Badminton Tournament: ‘B’ Boys – Round 1<br>2019<br>North Zone Badminton Tournament: ‘C’ Boys – Top 8<br>North Zone Badminton Tournament: ‘B’ Boys – Round 1<br>2018<br>North Zone Badminton Tournament: ‘C’ Boys – Round 1<br>North Zone Badminton Tournament: ‘B’ Boys – Round 1 |
 | Frequency of CCA |  |  |
 | <br><br>School Term | : | 2 sessions per week, 3 – 4 hours per session |
+
+| Day | Time | Venue |
+|:---:|:---:|:---:|
+| Monday | 2:30 – 5:30 pm | External Venue* |
+| Friday | 1:30 – 5:00 pm | School Hall |
+| 
+
+| Day | Time | Venue |
+|:---:|:---:|:---:|
+| Monday /Wednesday Friday | 8;30 – 12:30 pm | School Hall |
+|  
