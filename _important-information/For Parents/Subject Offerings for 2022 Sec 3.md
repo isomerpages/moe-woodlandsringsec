@@ -22,19 +22,19 @@ third_nav_title: For Parents
 <img style="width:25%" src="/images/so4.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering5.jpg">
 <img style="width:25%" src="/images/so5.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering6.jpg">
 <img style="width:25%" src="/images/so6.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering7.jpg">
 <img style="width:25%" src="/images/so7.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering8.jpg">
 <img style="width:25%" src="/images/so8.jpg" align = left>
 </a></p>
 
