@@ -6,26 +6,21 @@ third_nav_title: For Parents
 ---
 ### **Subject Offerings for 2022 Sec 3**
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering1.jpg">
 <img style="width:25%" src="/images/so1.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering2.jpg">
 <img style="width:25%" src="/images/so2.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering3.jpg">
 <img style="width:25%" src="/images/so3.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering4.jpg">
 <img style="width:25%" src="/images/so4.jpg" align = left>
 </a></p>
-
-![](/images/subjectoffering1.jpg)
-![](/images/subjectoffering2.jpg)
-![](/images/subjectoffering3.jpg)
-![](/images/subjectoffering4.jpg)
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
 <img style="width:25%" src="/images/so5.jpg" align = left>
