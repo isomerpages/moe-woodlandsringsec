@@ -41,3 +41,20 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |:---:|:---:|
 | | \| [Secondary 1](/files/sec1.pdf) \| [Secondary 2](/files/sec2.pdf) \| [Secondary 3](/files/sec3.pdf) \| [Secondary 4](/files/sec4.pdf) \| [Secondary 5](/files/sec5.pdf) \|
 |  |  |
+
+##### **eTeens Programme:**
+8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions. Please click [here](/files/eteens.pdf)for more details on the eTeens programme.
+
+##### **Information for Parents**
+10\. Parents may opt their children out of Growing Years and/or eTeens programmes.
+
+11\. Parents of Secondary 1, 2, 4 and 5 students who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable [here](/files/sex%20edu%20opt%20out.pdf). The completed form is to be submitted by 11/02/2022.
+
+12\. Parents of Secondary 3 students who wish to opt their children out of the Sexuality Education lessons and/ or the eTeens programme need to complete an opt-out form. This form is also downloadable [here](/files/eteens%20opt%20out.pdf). The completed form is to be submitted by 11/02/2022.
+
+13\. Parents can contact the school at 63643712 extension 49 or email ng\_lih\_yng@moe.edu.sg to discuss or seek clarification about the school’s sexuality education programme from Mrs Lyn Chuah, Sexuality Education Coordinator.
+
+14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
