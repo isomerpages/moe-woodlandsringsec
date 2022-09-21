@@ -39,8 +39,8 @@ third_nav_title: For Parents
 </a></p>
 
 <br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br>
+<br><br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
 <img style="width:25%" src="/images/so9.jpg" align = left>
@@ -58,9 +58,9 @@ third_nav_title: For Parents
 <img style="width:25%" src="/images/so12.jpg" align = left>
 </a></p>
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
 <img style="width:25%" src="/images/so13.jpg" align = left>
@@ -169,9 +169,9 @@ third_nav_title: For Parents
 <img style="width:25%" src="/images/so36.jpg" align = left>
 </a></p>
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
 <img style="width:25%" src="/images/so37.jpg" align = left>
