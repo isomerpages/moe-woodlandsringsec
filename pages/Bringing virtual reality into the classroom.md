@@ -17,3 +17,6 @@ Miss Deborah Ong, an Art and English Literature teacher has introduced Virtual R
 
 Miss Ong’s project was one of the exhibitors for the  International Conference on Teaching and Learning with Technology (iCTLT) 2018. Please click on the link for more information on her VR project.
 
+![](/images/wrs%20vr%201.jpg)
+![](/images/wrs%20vr%202.jpg)
+![](/images/wrs%20vr%203.jpg)
