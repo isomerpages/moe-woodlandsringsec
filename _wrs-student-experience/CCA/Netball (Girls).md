@@ -6,9 +6,8 @@ third_nav_title: CCA
 ---
 ### **Netball (Girls)**
 
-|  |  |
-|---|---|
 | **Name of CCA:** | Netball (Girls) |
+|---|---|
 | **Name of Teachers:** | Ms Dina Lee Ying Ying (I/C)<br>Miss Tan Gek Eng<br>Miss Chua Kah Hsing |
 | **About the CCA:** | WRS Netball Club is regarded as a well-disciplined and hardworking CCA. Members are required not only to be exemplary in behaviour but also to show excellent performance in their studies. Netballers are dedicated and committed in working together to achieve shared goals and success for the team. Members are not only groomed to be skillful players on court, they are also given opportunities to lead and organise events like the Secondary 1 CCA Bazaar, Secondary 1 CCA Trial, Farewell Party for Graduating Netballers and the annual Netball Camp. |
 | **Achievement(s):** | **NSG was not organised in 2021 due to Covid2020**<br>- North Zone Netball Tournament ‘B’ division – Round 1<br><br>**2019**<br>- North Zone Netball Tournament ‘B’ division – Round 1<br>- North Zone Netball Tournament ‘C’ division – Round 1<br>- Punggol Secondary School Netball Carnival Division 2 Champion<br><br>**2018**<br>- North Zone Netball Tournament ‘B’ division – Round 1<br>- North Zone Netball Tournament ‘C’ division – Round 1 |
