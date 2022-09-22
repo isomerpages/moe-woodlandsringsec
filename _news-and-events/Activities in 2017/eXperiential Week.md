@@ -80,19 +80,19 @@ Our Upper Secondary students also had a chance to participate in their own form 
 
 All in all, ‘Week X’ may have been a tiring week for all but it was certainly one filled with lessons learnt and memories that students will keep for a very long time.
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews1.jpg">
 <img style="width:25%" src="//images/ewb1.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews2.jpg">
 <img style="width:25%" src="//images/ewb2.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews3.jpg">
 <img style="width:25%" src="//images/ewb3.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews4.jpg">
 <img style="width:25%" src="//images/ewb4.jpg" align = left>
 </a></p>
 
@@ -203,13 +203,6 @@ All in all, ‘Week X’ may have been a tiring week for all but it was certainl
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
 <img style="width:25%" src="//images/ewb31.jpg" align = left>
 </a></p>
-
-
-![](/images/ews1.jpg)
-![](/images/ews2.jpg)
-![](/images/ews3.jpg)
-![](/images/ews4.jpg)
-
 
 ![](/images/ews5.jpg)
 ![](/images/ews6.jpg)
