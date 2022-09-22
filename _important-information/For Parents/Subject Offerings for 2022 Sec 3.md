@@ -78,7 +78,7 @@ third_nav_title: For Parents
 <img style="width:25%" src="/images/so16.jpg" align = left>
 </a></p>
 
-<br><br><br>
+<br><br>
 <br><br>
 <br><br>
 
@@ -171,7 +171,7 @@ third_nav_title: For Parents
 
 <br><br>
 <br><br>
-<br><br>
+<br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering37.jpg">
 <img style="width:25%" src="/images/so37.jpg" align = left>
