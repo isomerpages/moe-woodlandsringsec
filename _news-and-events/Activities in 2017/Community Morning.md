@@ -24,22 +24,14 @@ Then, students and teachers got to work, packing over 10,000 oranges to be given
 <img src="/images/community%20morning%203.jpg"
      style="width:49%" align=right>
 
-<br><br><br>
-<br><br><br><br>
-
-| Students packing oranges into bags before heading out to the neighbouring estates. | Students of Class 3E3 working hand in hand with juniors from Red House Kindergarten.
-|---|---|
+![](/images/cm%20caption%201.jpg)
 
 <img src="/images/community%20morning%204.jpg"
      style="width:49%" align=left>
 <img src="/images/community%20morning%205.jpg"
      style="width:49%" align=right>
 		 
-<br><br><br>
-<br><br><br><br>		 
-		 
-| Students of Class 3N5 just before they pay a visit to fellow neighbour, Spectra Secondary School. | Students of Class 4E1 spreading the festive cheer at MINDS. 
-|---|---|
+![](/images/cm%20caption%202.jpg)
 
 Our students fanned out across the area to distribute oranges to more than 5,000 units, including MINDS and neighbouring schools. They were joined by special guests such as Parents from the Parent Support Group (PSG) and staff and students from the Red House Kindergarten.
 
