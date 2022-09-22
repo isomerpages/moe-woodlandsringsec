@@ -25,9 +25,9 @@ Then, students and teachers got to work, packing over 10,000 oranges to be given
      style="width:49%" align=right>
 
 <br><br><br>
-<br><br><br>
+<br><br><br><br>
 
-| Students packing oranges into bags before heading out to the neighbouring estates. | Students of Class 3E3 working hand in hand with juniors from Red House Kindergarten. |
+| Students packing oranges into bags before heading out to the neighbouring estates. | Students of Class 3E3 working hand in hand with juniors from Red House Kindergarten.
 |---|---|
 
 <img src="/images/community%20morning%204.jpg"
@@ -36,10 +36,9 @@ Then, students and teachers got to work, packing over 10,000 oranges to be given
      style="width:49%" align=right>
 		 
 <br><br><br>
-<br><br><br>		 
+<br><br><br><br>		 
 		 
-|  |  |
-| Students of Class 3N5 just before they pay a visit to fellow neighbour, Spectra Secondary School. | Students of Class 4E1 spreading the festive cheer at MINDS. |		 
+| Students of Class 3N5 just before they pay a visit to fellow neighbour, Spectra Secondary School. | Students of Class 4E1 spreading the festive cheer at MINDS. 
 |---|---|
 
 Our students fanned out across the area to distribute oranges to more than 5,000 units, including MINDS and neighbouring schools. They were joined by special guests such as Parents from the Parent Support Group (PSG) and staff and students from the Red House Kindergarten.
@@ -101,4 +100,3 @@ Community Morning is an important activity for the students as it not only teach
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms14.jpg">
 <img style="width:25%" src="/images/cmb14.jpg" align = left>
 </a></p>
-
