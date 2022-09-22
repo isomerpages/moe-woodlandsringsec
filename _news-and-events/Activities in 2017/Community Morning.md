@@ -40,3 +40,37 @@ Our students fanned out across the area to distribute oranges to more than 5,000
 
 Community Morning is an important activity for the students as it not only teaches them gratitude, it also allows them to exercise good interpersonal skills with residents. This will definitely develop them into becoming more confident individuals and active contributors of society.
 
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<img style="width:25%" src="/images/llp1.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<img style="width:25%" src="/images/llp2.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<img style="width:25%" src="/images/llp3.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<img style="width:25%" src="/images/llp4.jpg" align = left>
+</a></p>
+
+![](/images/cms1.jpg)
+![](/images/cms2.jpg)
+![](/images/cms3.jpg)
+![](/images/cms4.jpg)
+
+![](/images/cms5.jpg)
+![](/images/cms6.jpg)
+![](/images/cms7.jpg)
+![](/images/cms8.jpg)
+
+![](/images/cms9.jpg)
+![](/images/cms10.jpg)
+![](/images/cms11.jpg)
+![](/images/cms12.jpg)
+
+![](/images/cms13.jpg)
+![](/images/cms14.jpg)
+
