@@ -6,19 +6,20 @@ third_nav_title: CCA
 ---
 ### **Concert Band**
 
-| 2015 | 2017 | 2019 | 2021 |
-|---|---|---|---|
-| COA* | COA* | COA* | COA* for Evaluation Band<br>**COP for Development Band |
-|
-
-| 2016 | 2018 |
+| Name of CCA: | Concert Band |
 |---|---|
-| Bronze | Bronze |
+| **Name of Teachers:** | Mrs. Patricia Lau (I/C)<br>Mr. Ong Chee Lim<br>Miss Gwendolyn Koh<br>Miss Li Zhiping |
+| **About the CCA:** | The Woodlands Ring Secondary School Concert Band (WRS Concert Band) is a dynamic CCA which promises an activity-filled and musically engaging experience for our students.Led by our band directors Mr Kenneth Lun and Mr Fabian Lim, students are exposed to a variety of music from different genres – ranging from band classics, marches, oldies to K-pop and modern-day popular music.WRS Concert Band contributes to the aesthetically vibrant culture of the school by regularly performing at various school functions. We are also an active contributor to the community by performing at National Day Events organized by Woodlands CC and at charity events organized by the Lion’s Club of Singapore. The Band also participates in the Singapore Youth Festival (SYF) Central Judging for Concert Bands and the Singapore International Band Festival (SIBF).<br><br>To help further the playing competencies of our students, we regularly participate in exchange programmes with other secondary schools and attend master classes by professional tutors and conductors. Students with prior music experience or with music talent may also be invited to be part of the Talent Development Programme where they are given additional opportunities to perform and explore different forms of music making. Students are also given the opportunity to perform virtually through e-performances and recordings<br>In line with our school mission to nurture responsible, caring and independent individuals, WRS Concert Band also organizes our own series of band concerts entitled BRAVISSIMO! We frequently collaborate with other CCAs to perform, working with the choir during Bravissimo! VII in 2017, the Guzheng Ensemble during Bravissimo! VIII in 2018 and WRSS Shared Memories Production in 2019. Our students in the Talent Development Programme had the opportunity to collaborate with Music Elements Pte. Ltd on 2020 NDP production on the song ‘Home’. Our senior band had also dedicated a 2021 TASAD video to all WRSS teachers and staff with the song, ‘Spirited Away’.<br>WRS Concert Band strives to give students a rewarding learning experience where they can grow as individuals and as musicians throughout their journey with us. |
+| **Achievement(s):** | SYF Arts Presentation for Concert Bands <br><br> **IMAGE** <br><br>\*Certificate of Accomplishment <br>\*\*Certificate of Participation<br><br> **IMAGE** <br><br>\*Certificate of Participation<br><br>On 19 Jan 2020, the Band put up the ninth of its Bravissimo! series of concerts, Bravissimo! IX. The Band has also performed at the school’s Public Performance in 2008, 2010, 2012, 2016 and 2020. |
+| **Frequency of CCA:** | **IMAGE** |
+| **School Holiday:** | March holidays : 1 – 2 sessions*<br>June holidays : 3 sessions* a week for first and last week<br>November/December holidays : 3 sessions* a week for at least 4 weeks<br><br>* each session will stretch from 9 am to 5 pm, separated by 1-hour lunch breaks|
+| **Others:** | Camps will be organised during the June / November holidays.<br>Students may be expected to stay overnight for residential camps.<br>Public performances or additional practices can take place on weekends.<br>Exchange programmes with other local bands or concerts are normally planned on Saturdays or during holidays.<br>Sectional Practices initiated by students|
+| **Expenses to be borne by students:** | Band T-shirt (est. $16, to be used for 4 years)<br>Music File ($12)<br>Tuner ($35)<br>Concert attire<br>Band Camp (est $10/camp)<br>Music Theory Book (Grade 1 & 2) – Edusave deduction available<br><br>Note: FAS students will make partial payments.|
+| **Targeted Student Profile:** | Students who are fond of music, possess a teachable attitude and are willing to commit to the CCA for the whole of his/her Secondary school life. Students with prior music experience are preferred, but not a requirement.The band expects a high level of commitment, discipline, resilience and accountability from its members. Members must pass stipulated assessments to qualify for participation in performances (e.g. SYF) |
+| **CCA Trial Procedure:** | Students will go through up to five training stations and an interview. The first four training stations will involve students attempting to a produce sound on the different instrument groups (flute / single reed / lower brass / higher brass). The fifth station assesses students’ rhythm and tone.The assessment will either be done by the music director, teachers, or recorded with the help of senior band members. The whole selection process may take up to 1.5 hours to complete. |
+| **Target number of students:** | 20 |
+| **Photos:**|<img style="width:85%" src="/images/concert%20band%204.jpg">|
 |
 
-|  |  |  |
-|---|---|---|
-| Mondays: 2:30pm – 5:30pm<br>and<br> Fridays 1:30pm – 5:30pm	| Frequency will increase to 3 times per week close to major performances including<br>* School/Public Performances/Concerts<br>* Band Investiture<br>* Singapore International Band Festival<br>* School’s National Day Parade<br>* SYF Central Judging for Concert Bands
-|
 
 
