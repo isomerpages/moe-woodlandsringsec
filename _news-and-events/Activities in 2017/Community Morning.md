@@ -24,6 +24,9 @@ Then, students and teachers got to work, packing over 10,000 oranges to be given
 <img src="/images/community%20morning%203.jpg"
      style="width:49%" align=right>
 
+<br><br><br>
+<br><br><br>
+
 | Students packing oranges into bags before heading out to the neighbouring estates. | Students of Class 3E3 working hand in hand with juniors from Red House Kindergarten. |
 |---|---|
 
@@ -31,6 +34,9 @@ Then, students and teachers got to work, packing over 10,000 oranges to be given
      style="width:49%" align=left>
 <img src="/images/community%20morning%205.jpg"
      style="width:49%" align=right>
+		 
+<br><br><br>
+<br><br><br>		 
 		 
 |  |  |
 | Students of Class 3N5 just before they pay a visit to fellow neighbour, Spectra Secondary School. | Students of Class 4E1 spreading the festive cheer at MINDS. |		 
@@ -40,37 +46,59 @@ Our students fanned out across the area to distribute oranges to more than 5,000
 
 Community Morning is an important activity for the students as it not only teaches them gratitude, it also allows them to exercise good interpersonal skills with residents. This will definitely develop them into becoming more confident individuals and active contributors of society.
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
-<img style="width:25%" src="/images/llp1.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms1.jpg">
+<img style="width:24.8%" src="/images/cmb1.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
-<img style="width:25%" src="/images/llp2.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms2.jpg">
+<img style="width:24.8%" src="/images/cmb2.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
-<img style="width:25%" src="/images/llp3.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms3.jpg">
+<img style="width:24.8%" src="/images/cmb3.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
-<img style="width:25%" src="/images/llp4.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms4.jpg">
+<img style="width:25%" src="/images/cmb4.jpg" align = left>
 </a></p>
 
-![](/images/cms1.jpg)
-![](/images/cms2.jpg)
-![](/images/cms3.jpg)
-![](/images/cms4.jpg)
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms5.jpg">
+<img style="width:24.6%" src="/images/cmb5.jpg" align = left>
+</a></p>
 
-![](/images/cms5.jpg)
-![](/images/cms6.jpg)
-![](/images/cms7.jpg)
-![](/images/cms8.jpg)
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms6.jpg">
+<img style="width:25%" src="/images/cmb6.jpg" align = left>
+</a></p>
 
-![](/images/cms9.jpg)
-![](/images/cms10.jpg)
-![](/images/cms11.jpg)
-![](/images/cms12.jpg)
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms7.jpg">
+<img style="width:25%" src="/images/cmb7.jpg" align = left>
+</a></p>
 
-![](/images/cms13.jpg)
-![](/images/cms14.jpg)
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms8.jpg">
+<img style="width:25%" src="/images/cmb8.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms9.jpg">
+<img style="width:25%" src="/images/cmb9.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms10.jpg">
+<img style="width:25%" src="/images/cmb10.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms11.jpg">
+<img style="width:24.8%" src="/images/cmb11.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="/images/cmb12.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms13.jpg">
+<img style="width:25%" src="/images/cmb13.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms14.jpg">
+<img style="width:25%" src="/images/cmb14.jpg" align = left>
+</a></p>
 
