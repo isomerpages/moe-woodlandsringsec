@@ -12,7 +12,7 @@ third_nav_title: Activities in 2017
 The WRS Student Experience is truly an enriching one as the year is jam packed with exciting, student-centric activities that aim to develop students into all-rounded individuals who will be fully prepared for the increasingly vibrant yet volatile future.
 
 <img src="/images/activities%202017%202.jpg" 
-     style="width:45%" align=left>
+     style="width:40%" align=left>
 The school firmly believes that character education is the cornerstone of an all-embracing education. Key school programmes with clear learning outcomes enable students to become engaged learners, persons of good character and responsible citizens. We aim to engage the minds and encourage the hearts of students through hands-on meaningful learning tasks in and beyond school.
 
 Students engage in meaningfully designed activities that are guided by the Ministry of Education’s (MOE) framework of 21st Century Competencies, where every WRS student is an ACTIVE CITIZEN and VIBRANT LEADER.
