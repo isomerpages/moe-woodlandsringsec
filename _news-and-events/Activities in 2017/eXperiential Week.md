@@ -53,4 +53,29 @@ Our Secondary Twos were also given the opportunity to Rediscover Singapore by go
      style="width:49%" align=left>
 <img src="/images/experimental%20week%208.jpg"
      style="width:49%" align=right>		
-![](/images/experimental%20week%207%20and%208%20caption.jpg)		 
+![](/images/experimental%20week%207%20and%208%20caption.jpg)
+
+Without a doubt, the most highly-anticipated item was campfire night. Every year, the performance by each class improves in quality. This year was no different. Each of the seven classes put up energetic and creative dance items to entertain the audience and wow the judges. It was a fitting end to the camp as everyone took part in a mass dance to celebrate the time they have spent together as a cohort.
+
+<img src="/images/experimental%20week%209.jpg"
+     style="width:49%" align=left>
+<img src="/images/experimental%20week%2010.jpg"
+     style="width:49%" align=right>	
+![](/images/experimental%20week%209%20and%2010%20caption.jpg)		 
+
+Our Upper Secondary students also had a chance to participate in their own form of experiential learning. Apart from class bonding activities, the Secondary Fours and Fives gained a better insight on the pathways for their future education choices and careers through visits to Nanyang Polytechnic and the Lifelong Learning Institute. They also went through a Strengths-Based Personal Branding Workshop to learn more about themselves.
+
+<img src="/images/experimental%20week%2011.jpg"
+     style="width:49%" align=left>
+<img src="/images/experimental%20week%2012.jpg"
+     style="width:49%" align=right>	
+![](/images/experimental%20week%2011%20and%2012%20caption.jpg)		 
+
+<figure>
+<img src="/images/experimental%20week%2013.jpg" 
+     style="width:75%">
+<figcaption>  A creative manner to have a Barbeque feast for this Secondary Four class.
+ </figcaption>
+</figure>
+
+All in all, ‘Week X’ may have been a tiring week for all but it was certainly one filled with lessons learnt and memories that students will keep for a very long time.
