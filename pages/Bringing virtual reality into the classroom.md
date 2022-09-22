@@ -20,3 +20,11 @@ Miss Ong’s project was one of the exhibitors for the  International Conferen
 ![](/images/wrs%20vr%201.jpg)
 ![](/images/wrs%20vr%202.jpg)
 ![](/images/wrs%20vr%203.jpg)
+
+**video not on youtube**
+
+Please click the link below to find out more:<br>
+[TNP: Bring Virtual Reality into the Classroom](https://www.tnp.sg/news/singapore/bringing-virtual-reality-classroom)
+
+Check out this link to see our students exploring VR for their art lesson.<br>
+[Channel News Asia: Efforts to Tackle Widening Class Divide Must Continue](https://www.channelnewsasia.com/news/singapore/efforts-to-tackle-widening-class-divide-must-continue-says-ong-10301000)
