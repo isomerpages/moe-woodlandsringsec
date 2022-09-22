@@ -80,6 +80,131 @@ Our Upper Secondary students also had a chance to participate in their own form 
 
 All in all, ‘Week X’ may have been a tiring week for all but it was certainly one filled with lessons learnt and memories that students will keep for a very long time.
 
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb1.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb2.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb3.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb4.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb5.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb6.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb7.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb8.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb9.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb10.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb11.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb12.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb13.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb14.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb15.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb16.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb17.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb18.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb19.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb20.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb21.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb22.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb23.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb24.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb25.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb26.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb27.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb28.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ew29.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb30.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
+<img style="width:25%" src="//images/ewb31.jpg" align = left>
+</a></p>
+
+
 ![](/images/ews1.jpg)
 ![](/images/ews2.jpg)
 ![](/images/ews3.jpg)
@@ -125,5 +250,3 @@ All in all, ‘Week X’ may have been a tiring week for all but it was certainl
 ![](/images/ews29.jpg)
 ![](/images/ews30.jpg)
 ![](/images/ews31.jpg)
-
-![](/images/ewb31.jpg)
