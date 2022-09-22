@@ -154,7 +154,7 @@ third_nav_title: For Parents
 <br><br><br><br>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering33.jpg">
-<img style="width:24.6%" src="/images/so33.jpg" align = left>
+<img style="width:24.5%" src="/images/so33.jpg" align = left>
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/subjectoffering34.jpg">
