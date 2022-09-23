@@ -10,6 +10,8 @@ third_nav_title: Activities in 2019
 <img src="/images/19july1.jpg" style="width:45%;margin-right:15px;" align = "left">
 As part of the school’s efforts to enhance students’ learning experiences in Character and Citizenship Education (CCE), all Secondary 1 students were given the opportunity to be a part of the Bicentennial Experience on Friday 5 July 2019. The Singapore Bicentennial is a commemoration of the arrival of Stamford Raffles in Singapore. It is a prequel to SG50, and an opportunity for us to look at our longer history.
 
+<br><br>
+
 The Bicentennial Experience comprises two parts:
 * Time Traveller – a timed and guided immersive guided audio-visual show within the Fort Canning Centre that presents a unique and powerful experience of Singapore’s 700-year history.
 * Pathfinder – an interactive, thought-provoking set of pavilions situated within the greenery of Fort Gate that allows for free and easy explorations.
@@ -40,10 +42,14 @@ Here are some students’ sharings.
 <img src="/images/19july4.jpg"
      style="width:49%" align=right>
 		 
+![](/images/19julycaption1.jpg)		 
+		 
 <img src="/images/19july5.jpg"
      style="width:49%" align=left>
 <img src="/images/19july6.jpg"
-     style="width:49%" align=right>		 
+     style="width:49%" align=right>
+		 
+![](/images/19julycaption2.jpg)		 
 		 
 ##### **Secondary 3 MOE-OBS Challenge Programme 2019**		 
 		 
@@ -56,6 +62,8 @@ Together with Paya Lebar Methodist Girls’ School and Tampines Secondary School
      style="width:49%" align=left>
 <img src="/images/19july9.jpg"
      style="width:49%" align=right>		
+
+![](/images/19julycaption3.jpg)
 
 <figure>
 <img src="/images/19july10.jpg" 
@@ -71,10 +79,14 @@ Our non-OBS campers also had a meaningful week of learning. They visited the Bic
 <img src="/images/19july12.jpg"
      style="width:49%" align=right>
 		 
+![](/images/19julycaption6.jpg)		 
+		 
 <img src="/images/19july13.jpg"
      style="width:49%" align=left>
 <img src="/images/19july14.jpg"
      style="width:49%" align=right>		 
+		 
+![](/images/19julycaption7.jpg)		 
 		 
 ##### **Marine and Offshore Challenge**
 
