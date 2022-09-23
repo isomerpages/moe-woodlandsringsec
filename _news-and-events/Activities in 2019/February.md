@@ -120,7 +120,24 @@ We also celebrated Chinese New Year with a mini-concert where students enjoyed p
 <img style="width:25%" src="/images/19febsmall15.jpg" align = left>
 </a></p>
 
+![](/images/19febbig1.jpg)
+![](/images/19febbig2.jpg)
+![](/images/19febbig3.jpg)
+![](/images/19febbig4.jpg)
 
+![](/images/19febbig5.jpg)
+![](/images/19febbig6.jpg)
+![](/images/19febbig7.jpg)
+![](/images/19febbig8.jpg)
+
+![](/images/19febbig9.jpg)
+![](/images/19febbig10.jpg)
+![](/images/19febbig11.jpg)
+![](/images/19febbig12.jpg)
+
+![](/images/19febbig13.jpg)
+![](/images/19febbig14.jpg)
+![](/images/19febbig15.jpg)
 
 ##### **Word Snatch Competition**
 
