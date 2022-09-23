@@ -14,10 +14,14 @@ Our Uniformed Groups and Symphonic Band were involved in the Woodlands National 
 <img src="/images/2018%20august%202.jpg"
      style="width:49%" align=right>
 		 
+![](/images/2018%20august%20caption%201.jpg)		 
+		 
 <img src="/images/2018%20august%203.jpg"
      style="width:49%" align=left>
 <img src="/images/2018%20august%204.jpg"
      style="width:49%" align=right>
+		 
+![](/images/2018%20august%20caption%202.jpg)		 
 		 
 <figure>
 <img src="/images/2018%20august%205.jpg" 
@@ -72,5 +76,3 @@ Our Uniformed Groups and Symphonic Band were involved in the Woodlands National 
 </figure>
 <img src="/images/2018%20august%2011.jpg" 
      style="width:75%">
-
-
