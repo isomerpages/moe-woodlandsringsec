@@ -83,8 +83,8 @@ Book Trailer: 2nd<br>
 <img src="/images/2018%20july%2010.jpg"
      style="width:49%" align=right>
 
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
 
 ##### **Elementz Science Research Conference 2018**
 
