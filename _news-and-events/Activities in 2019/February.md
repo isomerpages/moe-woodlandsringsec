@@ -92,5 +92,5 @@ This year, we commemorated Total Defence Week with a range of activities. Studen
 		 
 <img src="/images/2019%20feb%2018.jpg"
      style="width:49%" align=left>
-<img src="/images/2019%20feb%2018.jpg"
+<img src="/images/2019%20feb%2019.jpg"
      style="width:49%" align=right>
