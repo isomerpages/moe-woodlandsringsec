@@ -39,6 +39,8 @@ Our 2019 edition of the annual Cycling Trail took us on a journey from Pasir Ris
      style="width:49%" align=left>
 <img src="/images/19sept6.jpg"
      style="width:49%" align=right>
+		 
+![](/images/19septcaption1.png)		 
 
 ##### **Kampung Riang Ria @ Pulau Ubin**
 
@@ -60,10 +62,14 @@ The day ended with a trip to the Chek Jawa Wetlands where students learnt more a
 <img src="/images/19sept9.jpg"
      style="width:49%" align=right>
 		 
+![](/images/19septcaption2.png)		 
+		 
 <img src="/images/19sept10.jpg"
      style="width:49%" align=left>
 <img src="/images/19sept11.jpg"
      style="width:49%" align=right>		 
+		 
+![](/images/19septcaption3.png)			 
 		 
 ##### **Lower Secondary Dance Fiesta**
 
@@ -92,6 +98,8 @@ The day ended with a sumptuous lunch prepared by the Staff Well Being Committee 
 <img src="/images/19sept15.jpg"
      style="width:49%" align=right>
 		 
+![](/images/19septcaption4.png)			 
+		 
 ##### **Lion’s Club of Singapore Mid-Autumn Festival**
 
 <figure>
@@ -108,9 +116,11 @@ The Symphonic Band performed at the annual Lions Club of Singapore Mid-Autumn Fe
 <img src="/images/19sept18.jpg"
      style="width:49%" align=right>	
 		 
+![](/images/19septcaption5.png)			 
+		 
 <img src="/images/19sept19.jpg"
      style="width:49%" align=left>
 <img src="/images/19sept20.jpg"
-     style="width:49%" align=right>		 
+     style="width:49%" align=right>
 		 
-		 
+![](/images/19septcaption6.png)			 
