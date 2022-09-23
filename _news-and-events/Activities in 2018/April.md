@@ -38,4 +38,13 @@ Our Secondary 4 Boys starting off their run.
      style="width:75%">
 <figcaption>  Running through the park connector as part of their 2.4km route
  </figcaption>
-</figure>		 
+</figure>
+
+##### **Sports for Life! Fitness Assessment**
+
+<figure>
+<img src="/images/2018%20april%207.jpg" 
+     style="width:75%">
+<figcaption>  Our teachers and staff taking part in the Sports For Life! Fitness Assessment.
+ </figcaption>
+</figure>
