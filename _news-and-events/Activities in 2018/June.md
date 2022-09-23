@@ -61,7 +61,8 @@ For more details, click [here](https://staging.d1zt0oshmgcgjg.amplifyapp.com/ne
 
 Our Design & Technology students achieved commendable results at Republic Polytechnic’s 3D Printing Challenge.
 
-<br><br>
+<br><br><br><br>
+
 Our students with their artefacts
 
 **Second Prize**<br>
@@ -114,4 +115,4 @@ Students from our Symphonic Band performed at the National Museum as part of the
      style="width:75%">
 <figcaption>  Our band students.
  </figcaption>
-</figure>		 
+</figure>
