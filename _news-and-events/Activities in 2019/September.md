@@ -86,6 +86,9 @@ Dance Fiesta is an annual event where Secondary One students learn and perform t
 
 <img src="/images/19sept13.jpg" style="width:45%;margin-right:15px;" align = "left">
 In WRSS, Teachers and Staff Appreciation Day (TASAD) has always been an event where students and parents recognize and acknowledge the efforts and work done by the staff of the school. This year, we celebrated our TASAD 2019 in style! The theme conceptualised by the Student Leaders was First Class – where all staff were treated as V.I.Ps on board a plane while travelling to destinations of their choice.
+<img src="/images/19septcaptionleft.jpg" style="width:45%;margin-right:15px;" align = "left">
+
+<br><br>
 
 All staff was invited to board our special flight with their passports and air tickets at the start of the day. They were then led by the Student Stewards to their seats, and were served with treats as they enjoyed the in-flight entertainment programme put up by the students.
 
@@ -123,4 +126,4 @@ The Symphonic Band performed at the annual Lions Club of Singapore Mid-Autumn Fe
 <img src="/images/19sept20.jpg"
      style="width:49%" align=right>
 		 
-![](/images/19septcaption6.png)			 
+![](/images/19septcaption6.png)
