@@ -24,4 +24,3 @@ The Maritime Port Authorities (MPA) was also invited to send their MPA Maritime 
 The students were also taught some financial literacy through a guided game conducted by the Central Provident Fund (CPF) Board over the week. Appropriately named ‘Game On!’, it is the CPF’s outreach programme designed for secondary school students.
 
 2020 is an important year for our Secondary 2 students. Before they start the new year, decisions are to be made in terms of subject combination. To help them make informed choices, teachers conducted Taster Modules which included talks and demonstrations, to introduce the students to subjects they will be taking at the national examinations.
-
