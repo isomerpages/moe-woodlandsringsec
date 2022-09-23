@@ -20,6 +20,8 @@ Our students celebrated Racial Harmony Day by engaging in various activities suc
 <img src="/images/2018%20july%203.jpg"
      style="width:49%" align=right>
 		 
+![](/images/2018%20july%20caption.jpg)		 
+		 
 ##### **Singapore International Band Festival**
 
 <figure>
