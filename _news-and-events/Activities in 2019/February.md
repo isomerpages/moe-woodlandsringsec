@@ -139,6 +139,9 @@ We also celebrated Chinese New Year with a mini-concert where students enjoyed p
 ![](/images/19febbig14.jpg)
 ![](/images/19febbig15.jpg)
 
+<br><br><br><br><br>
+<br><br><br><br><br>
+
 ##### **Word Snatch Competition**
 
 <figure>
