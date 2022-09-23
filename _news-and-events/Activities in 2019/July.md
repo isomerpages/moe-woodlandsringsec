@@ -79,14 +79,14 @@ Our non-OBS campers also had a meaningful week of learning. They visited the Bic
 <img src="/images/19july12.jpg"
      style="width:49%" align=right>
 		 
-![](/images/19julycaption6.jpg)		 
+![](/images/19julycaption4.jpg)		 
 		 
 <img src="/images/19july13.jpg"
      style="width:49%" align=left>
 <img src="/images/19july14.jpg"
      style="width:49%" align=right>		 
 		 
-![](/images/19julycaption7.jpg)		 
+![](/images/19julycaption5.jpg)		 
 		 
 ##### **Marine and Offshore Challenge**
 
@@ -102,10 +102,14 @@ This year, MOC2019 was held on 10 July and required the teams to design and buil
 <img src="/images/19july17.jpg"
      style="width:49%" align=right>	
 		 
+![](/images/19julycaption6.jpg)		 
+		 
 <img src="/images/19july18.jpg"
      style="width:49%" align=left>
 <img src="/images/19july19.jpg"
      style="width:49%" align=right>		
+		 
+![](/images/19julycaption7.jpg)		 
 		 
 ##### **Experience ITE Programme (EIP) 2019**
 
@@ -123,10 +127,14 @@ Our Secondary 2 Normal Technical students took part in a two-day Experience ITE 
 <img src="/images/19july22.jpeg"
      style="width:49%" align=right>
 		 
+![](/images/19julycaption8.jpg)		 
+		 		 		 
 <img src="/images/19july23.jpeg"
      style="width:49%" align=left>
 <img src="/images/19july24.jpeg"
-     style="width:49%" align=right>		 
+     style="width:49%" align=right>
+		 		 
+![](/images/19julycaption9.jpg)		 
 		 
 ##### **PAssion Arts Festival: Hues in Tunes 2**
 
@@ -154,3 +162,7 @@ The experience was an enriching and memorable one for the acapella group. From b
      style="width:49%" align=left>
 <img src="/images/19july29.jpg"
      style="width:49%" align=right>
+		 
+![](/images/19julycaption10.jpg)		 
+		 
+		 
