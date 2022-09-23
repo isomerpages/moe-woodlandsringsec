@@ -61,19 +61,19 @@ We also celebrated Chinese New Year with a mini-concert where students enjoyed p
 </figure>			 
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
-<img style="width:25%" src="/images/19febsmall1.jpg" align = left>
+<img style="width:24.6%" src="/images/19febsmall1.jpg" align = left>
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
-<img style="width:25%" src="/images/19febsmall2.jpg" align = left>
+<img style="width:24.7%" src="/images/19febsmall2.jpg" align = left>
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
-<img style="width:25%" src="/images/19febsmall3.jpg" align = left>
+<img style="width:24.9%" src="/images/19febsmall3.jpg" align = left>
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
-<img style="width:25%" src="/images/19febsmall4.jpg" align = left>
+<img style="width:25.4%" src="/images/19febsmall4.jpg" align = left>
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
