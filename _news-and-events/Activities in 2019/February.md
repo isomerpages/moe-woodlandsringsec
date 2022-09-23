@@ -23,10 +23,14 @@ We also celebrated Chinese New Year with a mini-concert where students enjoyed p
 <img src="/images/2019%20feb%203.jpg"
      style="width:49%" align=right>
 		 
+![](/images/2019%20feb%20caption%201.jpg)		 
+		 
 <img src="/images/2019%20feb%204.jpg"
      style="width:49%" align=left>
 <img src="/images/2019%20feb%205.jpg"
      style="width:49%" align=right>		 
+		 
+![](/images/2019%20feb%20caption%202.jpg)		 		 
 		 
 <figure>
 <img src="/images/2019%20feb%206.jpg" 
@@ -40,10 +44,14 @@ We also celebrated Chinese New Year with a mini-concert where students enjoyed p
 <img src="/images/2019%20feb%208.jpg"
      style="width:49%" align=right>		 
 		 
+![](/images/2019%20feb%20caption%203.jpg)		 		 
+		 
 <img src="/images/2019%20feb%209.jpg"
      style="width:49%" align=left>
 <img src="/images/2019%20feb%2010.jpg"
      style="width:49%" align=right>				 
+		 
+![](/images/2019%20feb%20caption%204.jpg)		 		 
 		 
 <figure>
 <img src="/images/2019%20feb%2011.jpg" 
@@ -85,12 +93,18 @@ This year, we commemorated Total Defence Week with a range of activities. Studen
 <img src="/images/2019%20feb%2015.jpg"
      style="width:49%" align=right>		 
 		 
+![](/images/2019%20feb%20caption%205.jpg)		 		 		 
+		 
 <img src="/images/2019%20feb%2016.jpg"
      style="width:49%" align=left>
 <img src="/images/2019%20feb%2017.jpg"
      style="width:49%" align=right>			 
+
+![](/images/2019%20feb%20caption%206.jpg)
 		 
 <img src="/images/2019%20feb%2018.jpg"
      style="width:49%" align=left>
 <img src="/images/2019%20feb%2019.jpg"
      style="width:49%" align=right>
+		 
+![](/images/2019%20feb%20caption%207.jpg)		 
