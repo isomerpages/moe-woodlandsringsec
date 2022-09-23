@@ -142,5 +142,3 @@ The experience was an enriching and memorable one for the acapella group. From b
      style="width:49%" align=left>
 <img src="/images/19july29.jpg"
      style="width:49%" align=right>
-		 
-		 
