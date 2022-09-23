@@ -38,10 +38,14 @@ The students were also taught some financial literacy through a guided game cond
 <img src="/images/19oct5.jpg"
      style="width:49%" align=right>
 		 
+![](/images/19octcaption1.jpg)
+		 
 <img src="/images/19oct6.jpg"
      style="width:49%" align=left>
 <img src="/images/19oct7.jpg"
-     style="width:49%" align=right>		 
+     style="width:49%" align=right>		
+		 
+![](/images/19octcaption2.jpg)		 
 		 
 <figure>
 <img src="/images/19oct8.jpg" 
@@ -54,6 +58,8 @@ The students were also taught some financial literacy through a guided game cond
      style="width:49%" align=left>
 <img src="/images/19oct10.jpg"
      style="width:49%" align=right>
+		 
+![](/images/19octcaption3.jpg)		 
 		 
 <figure>
 <img src="/images/19oct11.jpg" 
@@ -82,6 +88,8 @@ At the seminar, participants learned how to use programmable devices to design s
      style="width:49%" align=left>
 <img src="/images/19oct14.jpg"
      style="width:49%" align=right>
+		 
+![](/images/19octcaption4.jpg)		 
 		 
 ##### **Technically Normal Day 2019**
 
@@ -126,6 +134,8 @@ All in, it was a laboriously fun afternoon for the various student groups from W
      style="width:49%" align=left>
 <img src="images/19oct20.jpg"
      style="width:49%" align=right>
+		 
+![](/images/19octcaption5.jpg)		 
 		 
 ##### **APS Fusion Fiesta**
 
