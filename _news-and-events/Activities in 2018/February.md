@@ -21,20 +21,28 @@ February is a time of celebration as the school celebrates the Lunar New Year. A
 <img src="/images/2018%20feb%203.jpg"
      style="width:49%" align=right>
 		 
+![](/images/2018%20feb%20caption%201.jpg)
+
 <img src="/images/2018%20feb%204.jpg"
      style="width:49%" align=left>
 <img src="/images/2018%20feb%205.jpg"
      style="width:49%" align=right>
+		 
+![](/images/2018%20feb%20caption%202.jpg)		 
 		 
 <img src="/images/2018%20feb%206.jpg"
      style="width:49%" align=left>
 <img src="/images/2018%20feb%207.jpg"
      style="width:49%" align=right>		 
 		 
+![](/images/2018%20feb%20caption%202a.png)		 
+		 
 <img src="/images/2018%20feb%208.jpg"
      style="width:49%" align=left>
 <img src="/images/2018%20feb%209.jpg"
      style="width:49%" align=right>		 
+		 
+![](/images/2018%20feb%20caption%203.jpg)		 
 		 
 ##### **NCC Champions in PDS Preliminaries 2018!**
 
@@ -52,11 +60,15 @@ As part of our Global Classroom Experience, we hosted visitors from our twinning
      style="width:49%" align=left>
 <img src="/images/2018%20feb%2012.jpg"
      style="width:49%" align=right>		
+		 
+![](/images/2018%20feb%20caption%204.jpg)		 
 		 		 
 <img src="/images/2018%20feb%2013.jpg"
      style="width:49%" align=left>
 <img src="/images/2018%20feb%2014.jpg"
      style="width:49%" align=right>					 
+		 
+![](/images/2018%20feb%20caption%205.jpg)		 
 		 
 ##### **Visit by Mentor Teachers under the State Council Educational Research and Training (SCERT), Delhi State Government, India**
 
@@ -72,6 +84,8 @@ As part of our Global Classroom Experience, we hosted visitors from our twinning
 <img src="/images/2018%20feb%2017.jpg"
      style="width:49%" align=right>		
 		 
+![](/images/2018%20feb%20caption%205a.jpg)		 
+		 
 ##### **Learning Journey to Pulau Semakau Landfill**
 
 <figure>
@@ -84,4 +98,7 @@ As part of our Global Classroom Experience, we hosted visitors from our twinning
 <img src="/images/2018%20feb%2019.jpg"
      style="width:49%" align=left>
 <img src="/images/2018%20feb%2020.jpg"
-     style="width:49%" align=right>				 
+     style="width:49%" align=right>
+		 
+![](/images/2018%20feb%20caption%206.png)		 
+		 
