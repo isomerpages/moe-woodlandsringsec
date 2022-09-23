@@ -10,7 +10,7 @@ third_nav_title: Activities in 2019
 <img src="/images/19july1.jpg" style="width:45%;margin-right:15px;" align = "left">
 As part of the school’s efforts to enhance students’ learning experiences in Character and Citizenship Education (CCE), all Secondary 1 students were given the opportunity to be a part of the Bicentennial Experience on Friday 5 July 2019. The Singapore Bicentennial is a commemoration of the arrival of Stamford Raffles in Singapore. It is a prequel to SG50, and an opportunity for us to look at our longer history.
 
-<br><br>
+<br><br><br>
 
 The Bicentennial Experience comprises two parts:
 * Time Traveller – a timed and guided immersive guided audio-visual show within the Fort Canning Centre that presents a unique and powerful experience of Singapore’s 700-year history.
@@ -163,6 +163,4 @@ The experience was an enriching and memorable one for the acapella group. From b
 <img src="/images/19july29.jpg"
      style="width:49%" align=right>
 		 
-![](/images/19julycaption10.jpg)		 
-		 
-		 
+![](/images/19julycaption10.jpg)
