@@ -104,15 +104,47 @@ Last but not least, we had the most anticipated segment of the concert – Commu
 The Choir, with a strength of 40 members, took part in the B-Dazzled Show Choir Festival 2019. Based on the theme of zombie apocalypse, coming out from the rubbles, the Choir coloured the stage with cartwheels, fanciful dance moves and sang a mashup of Rise Up and People Like Us. Soloists, Uy Alexa Denise Mejia (3E1) and Natalie Tan Meng Shuen (3E4), dazzled the crowd with their amazing voices. The Choir clinched the Platinum award at the festival. The experience had its challenges but it also allowed us to bond a lot more as a team. As Cheryl Ng (3N6) shared, “We learnt a lot and stepped out of our comfort zone. We stepped up our practices and improved a lot. The experience also allowed us to gain a lot more confidence from when we first began. More importantly, we gave our best and left the stage with no regrets.” It was a worthwhile experience for the Choir.
 
 <figure>
-<img src="/images/19aug11.jpg" 
+<img src="/images/19aug13.jpeg" 
      style="width:75%">
 <figcaption> The performance team in their DIY costumes
  </figcaption>
 </figure>
 
-<img src="/images/19aug13.jpeg"
-     style="width:49%" align=left>
 <img src="/images/19aug14.jpeg"
+     style="width:49%" align=left>
+<img src="/images/19aug15.jpeg"
      style="width:49%" align=right>
 		 
+<br><br><br>
+		 
+<figure>
+<img src="/images/19aug16.jpg" 
+     style="width:75%">
+<figcaption> Rehearsing before the show
+ </figcaption>
+</figure>		 
 
+##### **International World Robot Games 2019**
+
+<figure>
+<img src="/images/19aug17.jpg" 
+     style="width:75%">
+<figcaption> The team ready with their robot for a showdown at the competition
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/19aug18.jpg" 
+     style="width:75%">
+<figcaption> Our students all ready to compete at the competition
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/19aug19.jpg" 
+     style="width:75%">
+<figcaption> Students repairing the robot to make sure it is ready for the competition
+ </figcaption>
+</figure>
+
+Student members from Robotics Club participated in the International World Robot Games held in Bangkok, Thailand from 30 to 31 August 2019. This international competition promotes a great opportunity for technological creativity among students by stimulating their imagination and embrace innovative technology to complete the given task. Our students participated in the Rugby, Search & Rescue and Sumo events. Through the experience, our students learnt to collaborate with one another in co-constructing knowledge and problem solving by integrating their learning to develop the abilities to design, make and code their robots to solve real-life problems. Our students also had the opportunities to think critically and work autonomously in some instances and to work together with teams from other countries, strengthening their collaborative and social skills. Despite the intense and challenging competition environment, our students had fun competing with their peers from other countries and make as many friends as they could in return. Through their interactions with counterparts, they espoused the three school core values of responsibility, respect and resilience.
