@@ -60,87 +60,69 @@ We also celebrated Chinese New Year with a mini-concert where students enjoyed p
  </figcaption>
 </figure>			 
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig1.jpg">
 <img style="width:24.6%" src="/images/19febsmall1.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig2.jpg">
 <img style="width:24.7%" src="/images/19febsmall2.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig3.jpg">
 <img style="width:24.9%" src="/images/19febsmall3.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig4.jpg">
 <img style="width:25.4%" src="/images/19febsmall4.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig5.jpg">
 <img style="width:25%" src="/images/19febsmall5.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig6.jpg">
 <img style="width:25%" src="/images/19febsmall6.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig7.jpg">
 <img style="width:25%" src="/images/19febsmall7.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig8.jpg">
 <img style="width:25%" src="/images/19febsmall8.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig9.jpg">
 <img style="width:25%" src="/images/19febsmall9.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig10.jpg">
 <img style="width:25%" src="/images/19febsmall10.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig11.jpg">
 <img style="width:25%" src="/images/19febsmall11.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig12.jpg">
 <img style="width:25%" src="/images/19febsmall12.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig13.jpg">
 <img style="width:25%" src="/images/19febsmall13.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig14.jpg">
 <img style="width:25%" src="/images/19febsmall14.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/19febbig15.jpg">
 <img style="width:25%" src="/images/19febsmall15.jpg" align = left>
 </a></p>
 
-![](/images/19febbig1.jpg)
-![](/images/19febbig2.jpg)
-![](/images/19febbig3.jpg)
-![](/images/19febbig4.jpg)
-
-![](/images/19febbig5.jpg)
-![](/images/19febbig6.jpg)
-![](/images/19febbig7.jpg)
-![](/images/19febbig8.jpg)
-
-![](/images/19febbig9.jpg)
-![](/images/19febbig10.jpg)
-![](/images/19febbig11.jpg)
-![](/images/19febbig12.jpg)
-
-![](/images/19febbig13.jpg)
-![](/images/19febbig14.jpg)
-![](/images/19febbig15.jpg)
-
 <br><br><br><br><br>
 <br><br><br><br><br>
+<br><br><br><br>
 
 ##### **Word Snatch Competition**
 
