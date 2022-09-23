@@ -60,7 +60,67 @@ We also celebrated Chinese New Year with a mini-concert where students enjoyed p
  </figcaption>
 </figure>			 
 
-**COME BACK LATER**
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<img style="width:25%" src="/images/19febsmall1.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<img style="width:25%" src="/images/19febsmall2.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<img style="width:25%" src="/images/19febsmall3.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<img style="width:25%" src="/images/19febsmall4.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<img style="width:25%" src="/images/19febsmall5.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<img style="width:25%" src="/images/19febsmall6.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<img style="width:25%" src="/images/19febsmall7.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<img style="width:25%" src="/images/19febsmall8.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<img style="width:25%" src="/images/19febsmall9.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<img style="width:25%" src="/images/19febsmall10.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<img style="width:25%" src="/images/19febsmall11.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
+<img style="width:25%" src="/images/19febsmall12.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
+<img style="width:25%" src="/images/19febsmall13.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
+<img style="width:25%" src="/images/19febsmall14.jpg" align = left>
+</a></p>
+
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
+<img style="width:25%" src="/images/19febsmall15.jpg" align = left>
+</a></p>
+
+
 
 ##### **Word Snatch Competition**
 
@@ -107,4 +167,4 @@ This year, we commemorated Total Defence Week with a range of activities. Studen
 <img src="/images/2019%20feb%2019.jpg"
      style="width:49%" align=right>
 		 
-![](/images/2019%20feb%20caption%207.jpg)		 
+![](/images/2019%20feb%20caption%207.jpg)
