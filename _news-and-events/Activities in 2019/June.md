@@ -82,3 +82,4 @@ As part of the school’s WRS20! Celebrations, an updated version of the school 
      style="width:49%" align=left>
 <img src="/images/19june10.jpg"
      style="width:49%" align=right>
+![](/images/19june%20caption.jpg)		 
