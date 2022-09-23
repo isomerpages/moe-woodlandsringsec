@@ -137,4 +137,4 @@ On 30th October 2019, our students, Chiw Wen Zhe Darius (Class 2-1), Fariha Iysh
      style="width:75%">
 <figcaption> One of our students’ creation – Milo Dinosaur Cookie Shot
  </figcaption>
-</figure>		 
+</figure>
