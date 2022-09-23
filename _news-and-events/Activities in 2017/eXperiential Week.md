@@ -81,165 +81,126 @@ Our Upper Secondary students also had a chance to participate in their own form 
 All in all, ‘Week X’ may have been a tiring week for all but it was certainly one filled with lessons learnt and memories that students will keep for a very long time.
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews1.jpg">
-<img style="width:25%" src="//images/ewb1.jpg" align = left>
+<img style="width:25%" src="/images/ewb1.jpg" align = left>
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews2.jpg">
-<img style="width:25%" src="//images/ewb2.jpg" align = left>
+<img style="width:25%" src="/images/ewb2.jpg" align = left>
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews3.jpg">
-<img style="width:25%" src="//images/ewb3.jpg" align = left>
+<img style="width:25%" src="/images/ewb3.jpg" align = left>
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews4.jpg">
-<img style="width:25%" src="//images/ewb4.jpg" align = left>
+<img style="width:25%" src="/images/ewb4.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb5.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews5.jpg">
+<img style="width:24.6%" src="/images/ewb5.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb6.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews6.jpg">
+<img style="width:24.8%" src="/images/ewb6.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb7.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews7.jpg">
+<img style="width:25%" src="/images/ewb7.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb8.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews8.jpg">
+<img style="width:25%" src="/images/ewb8.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb9.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews9.jpg">
+<img style="width:24.9%" src="/images/ewb9.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb10.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews10.jpg">
+<img style="width:24.9%" src="/images/ewb10.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb11.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews11.jpg">
+<img style="width:24.5%" src="/images/ewb11.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb12.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews12.jpg">
+<img style="width:25.3%" src="/images/ewb12.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb13.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews13.jpg">
+<img style="width:24.7%" src="/images/ewb13.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb14.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews14.jpg">
+<img style="width:25%" src="/images/ewb14.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb15.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews15.jpg">
+<img style="width:25%" src="/images/ewb15.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb16.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews16.jpg">
+<img style="width:25%" src="/images/ewb16.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb17.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews17.jpg">
+<img style="width:25%" src="/images/ewb17.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb18.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews18.jpg">
+<img style="width:25%" src="/images/ewb18.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb19.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews19.jpg">
+<img style="width:25%" src="/images/ewb19.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb20.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews20.jpg">
+<img style="width:25%" src="/images/ewb20.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb21.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews21.jpg">
+<img style="width:25%" src="/images/ewb21.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb22.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews22.jpg">
+<img style="width:25%" src="/images/ewb22.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb23.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews23.jpg">
+<img style="width:25%" src="/images/ewb23.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb24.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews24.jpg">
+<img style="width:25%" src="/images/ewb24.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb25.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews25.jpg">
+<img style="width:24.7%" src="/images/ewb25.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb26.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews26.jpg">
+<img style="width:25%" src="/images/ewb26.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb27.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews27.jpg">
+<img style="width:25%" src="/images/ewb27.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb28.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews28.jpg">
+<img style="width:25%" src="/images/ewb28.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ew29.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews29.jpg">
+<img style="width:25%" src="/images/ewb29.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb30.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews30.jpg">
+<img style="width:25%" src="/images/ewb30.jpg" align = left>
 </a></p>
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="//images/ewb31.jpg" align = left>
+<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ews31.jpg">
+<img style="width:25%" src="/images/ewb31.jpg" align = left>
 </a></p>
 
-![](/images/ews5.jpg)
-![](/images/ews6.jpg)
-![](/images/ews7.jpg)
-![](/images/ews8.jpg)
-
-
-![](/images/ews9.jpg)
-![](/images/ews10.jpg)
-![](/images/ews11.jpg)
-![](/images/ews12.jpg)
-
-
-![](/images/ews13.jpg)
-![](/images/ews14.jpg)
-![](/images/ews15.jpg)
-![](/images/ews16.jpg)
-
-
-![](/images/ews17.jpg)
-![](/images/ews18.jpg)
-![](/images/ews19.jpg)
-![](/images/ews20.jpg)
-
-
-![](/images/ews21.jpg)
-![](/images/ews22.jpg)
-![](/images/ews23.jpg)
-![](/images/ews24.jpg)
-
-
-![](/images/ews25.jpg)
-![](/images/ews26.jpg)
-![](/images/ews27.jpg)
-![](/images/ews28.jpg)
-
-
-![](/images/ews29.jpg)
-![](/images/ews30.jpg)
-![](/images/ews31.jpg)
