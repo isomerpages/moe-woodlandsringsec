@@ -21,9 +21,11 @@ Dragon boating was conducted for our Secondary 1 students at Kallang Basin on Mo
 <img src="/images/19oct2.jpg" style="width:45%;margin-right:15px;" align = "left">
 The Maritime Port Authorities (MPA) was also invited to send their MPA Maritime Bus to our school to be exhibited throughout the week, and present a show during assembly. This special exhibition showcases the history of Singapore’s maritime trade and its importance to Singapore today.
 
-The students were also taught some financial literacy through a guided game conducted by the Central Provident Fund (CPF) Board over the week. Appropriately named ‘Game On!’, it is the CPF’s outreach programme designed for secondary school students.<br><br><img src="/images/19octcaptionleft.jpg" style="width:45%;margin-right:15px;" align = "left">
+The students were also taught some financial literacy through a guided game conducted by the Central Provident Fund (CPF) Board over the week. Appropriately named ‘Game On!’, it is the CPF’s outreach programme designed for secondary school students.<br><br><img src="/images/19octcaptionleft.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 <br><br>
+<br><br>
+
 2020 is an important year for our Secondary 2 students. Before they start the new year, decisions are to be made in terms of subject combination. To help them make informed choices, teachers conducted Taster Modules which included talks and demonstrations, to introduce the students to subjects they will be taking at the national examinations.
 
 <figure>
