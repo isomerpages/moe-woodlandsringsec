@@ -19,16 +19,22 @@ The Symphonic Band performed at Kampung Admiralty on Sunday, 19 January as part 
      style="width:49%" align=left>
 <img src="/images/2020%20jan%203.jpg"
      style="width:49%" align=right>
-		 
+
+![](/images/2020%20jan%20caption%201.jpg)
+
 <img src="/images/2020%20jan%204.jpg"
      style="width:49%" align=left>
 <img src="/images/2020%20jan%205.jpg"
      style="width:49%" align=right>
+
+![](/images/2020%20jan%20caption%202.jpg)
 		 
 <img src="/images/2020%20jan%206.jpg"
      style="width:49%" align=left>
 <img src="/images/2020%20jan%207.jpg"
      style="width:49%" align=right>		 
+		 
+![](/images/2020%20jan%20caption%203.jpg)		 
 		 
 ##### **Teach the Child Programme(TTCP)2020**
 
@@ -47,6 +53,8 @@ The Secondary 1 students went through an orientation programme and the inaugural
      style="width:50.5%" align=left>
 <img src="/images/2020%20jan%2010.jpg"
      style="width:47%" align=right>		 
+		 
+![](/images/2020%20jan%20caption%204.jpg)		 
 
 The Secondary 3 students started the year by learning and experiencing the last two practices in the Leadership Challenge – Inspire a Shared Vision and Challenge the Process. Being new to their classes, many of the activities provided them with an opportunity to get to know their new classmates better and build an identity as a class.
 
@@ -145,6 +153,6 @@ A welcome session was conducted for our friends on the Monday morning after flag
 <img src="/images/2020%20jan%2022.jpg"
      style="width:48%" align=left>
 <img src="/images/2020%20jan%2023.jpg"
-     style="width:49.5%" align=right>	
+     style="width:49.5%" align=right>
 		 
-		 
+![](/images/2020%20jan%20caption%205.jpg)		 
