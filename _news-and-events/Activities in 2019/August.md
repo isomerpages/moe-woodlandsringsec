@@ -113,7 +113,7 @@ The Choir, with a strength of 40 members, took part in the B-Dazzled Show Choir 
 <img src="/images/19aug14.jpeg"
      style="width:49%" align=left>
 <img src="/images/19aug15.jpeg"
-     style="width:49%" align=right>
+     style="width:49%" align=right>	 
 		 
 <br><br><br>
 <br><br><br>	
