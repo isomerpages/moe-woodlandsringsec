@@ -16,3 +16,62 @@ Even as new waves of uncertainty arose during the Phase 2 heightened alert perio
 
 So who is the newly elected President of the 15th Student Leaders Council? Stay tune to our Student Leaders Investiture in Term 3 Week 5!
 
+<figure>
+<img src="/images/2021%20july%201.jpg" 
+     style="width:75%">
+<figcaption> Election Poster (Team)
+ </figcaption>
+</figure>
+
+##### **Student Leaders Investiture 2021**
+This year, in view of the sudden implementation of phase 2 heightened alert, the Student Leader Investiture was recorded and screened into the classrooms on Friday 30 July 2021. Though it was a relatively compact proceeding, the objective and essence of the investiture were met and conveyed to all. This year’s theme was “Embrace and Thrive” and the proceedings comprised of pre-recorded speeches, Student Leaders videos (SC, CCA and PSLs) and the Handing over Ceremony. The investiture culminated with the taking of the Student Leaders pledge by over 400 various student leaders which was led by the President of the 15th Student council and accompanied by both the 14th and 15th Exco members live which echoed through their respective classrooms.
+
+<figure>
+<img src="/images/2021%20july%202.jpg" 
+     style="width:75%">
+<figcaption> President of the 15th Student council leading the taking of the Student Leaders Pledge
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2021%20july%203.jpg" 
+     style="width:75%">
+<figcaption> CCA Leader receiving his certificate of appointment
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2021%20july%204.jpg" 
+     style="width:75%">
+<figcaption> Student Councilor receiving her certificate of appointment
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2021%20july%205.jpg" 
+     style="width:75%">
+<figcaption> Exco member receiving her certificate of appointment
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2021%20july%206.jpg" 
+     style="width:75%">
+<figcaption> 14th & 15th Excos Faceoff
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2021%20july%207.jpg" 
+     style="width:75%">
+<figcaption> Class 3-3 Student councilors
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/2021%20july%208.jpg" 
+     style="width:75%">
+<figcaption> President of the 15th Student council
+ </figcaption>
+</figure>
+
