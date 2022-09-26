@@ -66,4 +66,4 @@ Despite the restrictions and numerous changes, the organizing committee ensured 
 <img src="/images/2020%20feb%209.jpg"
      style="width:49%" align=right>		 
 		 
-![](/images/2020%20feb%20caption%203.jpg)		 
+![](/images/2020%20feb%20caption%203.jpg)
