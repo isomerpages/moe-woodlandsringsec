@@ -91,7 +91,7 @@ All staff was invited to board our special flight with their passports and air t
 
 <img src="/images/19septcaptionleft.jpg" style="width:45%;margin-right:15px;" align = "left">
 
-<br><br>
+<br><br><br><br>
 
 After the plane landed, all staff was invited to enjoy a tasty reception at the Star Lounge before being brought to their “holiday destinations” by the Class Leaders. Students decorated their classrooms to fit the theme and entertained the teachers with games, performances, videos and many more activities. Certainly, many wonderful and fond memories were created!
 
