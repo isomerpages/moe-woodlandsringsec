@@ -34,12 +34,12 @@ Throughout the week beginning 13 July, students listened in to presentations dur
 <img src="/images/2020%20july%20caption%205.jpg"
      style="width:51%" align=right>
 
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <img src="/images/2020%20july%20caption%204.jpg"
      style="width:51%" align=left>		 
