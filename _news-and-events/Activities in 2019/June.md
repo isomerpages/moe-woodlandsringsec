@@ -28,8 +28,9 @@ As part of the Physical Education Department’s Vitality.In.Me (VIM) Programme 
 <img src="/images/19june5.jpg"
      style="width:49%" align=right>		 
 		 
-<br><br><br><br><br>
-<br><br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 		 
 ##### **Do You M.I.N.D.? Workshop 2019**
 
