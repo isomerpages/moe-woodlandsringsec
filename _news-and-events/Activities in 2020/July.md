@@ -40,7 +40,7 @@ Throughout the week beginning 13 July, students listened in to presentations dur
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
-<br><br><br>
+<br><br>
 
 <img src="/images/2020%20july%20caption%204.jpg"
      style="width:51%" align=left>		 
@@ -48,7 +48,7 @@ Throughout the week beginning 13 July, students listened in to presentations dur
      style="width:49%" align=right>		 
 		 
 <br><br><br><br><br>
-<br><br><br><br>
+<br><br><br>
 
 <img src="/images/2020%20july%20caption%206.jpg"
      style="width:51%" align=right>
