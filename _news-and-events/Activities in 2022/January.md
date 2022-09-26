@@ -17,8 +17,8 @@ Different level activities were planned to enable students to build a sense of i
 <img src="/images/2022%20jan%203.jpg"
      style="width:30%" align=left>
 		 
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
 		 
 ##### **O-Level Results Day**
 Our Class of 2021 collected their GCE O level results and we are happy to share that there is a high percentage of students with four or more subject passes. Congratulations to our Seniors!
