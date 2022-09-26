@@ -30,5 +30,3 @@ At Woodlands Ring Secondary School, with the focus on developing the strength of
 This is an important milestone in your education, but your pursuit of knowledge continues. In whichever path you take, we believe you will carry on to learn for life. Wishing them all the best for their future endeavours!
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/md7T7r4xgcY" title="O-Level Results Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-		 
