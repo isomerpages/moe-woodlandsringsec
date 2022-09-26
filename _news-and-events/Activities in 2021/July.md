@@ -74,4 +74,3 @@ This year, in view of the sudden implementation of phase 2 heightened alert, the
 <figcaption> President of the 15th Student council
  </figcaption>
 </figure>
-
