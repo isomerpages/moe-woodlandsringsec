@@ -77,7 +77,7 @@ third_nav_title: Staff
 | 3R5 | Mr Choy Cheng Zhen | [choy_chenzhen@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
 |  | Ms Siti Hafizah d/o Subramaniam | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
 | 3R6 | Mr Faizal Bin Farouk | [faizal_farouk@moe.edu.sg](mailto:faizal_farouk@moe.edu.sg) |
-|  | Miss Nurharizah Bte Mohamad Hamzah | [nurharizah_mohamad_hamzah@moe.edu.sg](mailto:nurharizah_mohamad_hamzah@moe.edu.sg) (T2) |
+|  | Miss Tan Gek Eng (LH/Math) | [tan_gek_eng@moe.edu.sg](mailto:tan_gek_eng@moe.edu.sg) |
 | 3N6 | Mr Yeoh Sin Hui (Fexil) | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
 |  | Mdm Nor Lizawati Bte Mohd Tahir | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) (wef S2) |
 | 3T7 | Mr Adnan Bin Mahmud | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
