@@ -47,8 +47,8 @@ third_nav_title: Staff
 |  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
 | 2R4 | Mr Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 |  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
-| 2T7 | Mr Karamjit Singh | [karamjit_singh_s_singh@moe.edu.sg](mailto:karamjit_singh_s_singh@moe.edu.sg) |
-|  | Mdm Suzana Bte Sarikon   | [suzana_sarikon@moe.edu.sg](mailto:suzana_sarikon@moe.edu.sg) |
+| 2R5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
+|  | Mdm Anita Bte Mansor   | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
 |  | Mr Conrad Oh Eu Jin | [oh_eu_jin_conrad@moe.edu.sg](mailto:oh_eu_jin_conrad@moe.edu.sg) |
 | 
 
