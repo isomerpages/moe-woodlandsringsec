@@ -28,7 +28,7 @@ third_nav_title: Staff
 |  | Mr Lim Ding Xun | [lim_ding_xun@moe.edu.sg]
 (mailto:lim_ding_xun@moe.edu.sg) |
 | 1R5 | Mr Sheikh Faraz B Sheikh A Rashid | [sheikh_faraz_sheikh_rashid@moe.edu.sg](mailto:sheikh_faraz_sheikh_rashid@moe.edu.sg) |
-|  | Miss Chua Kah Hsing | [chua_kah_hsing@moe.edu.sg](mailto:chua_kah_hsing@moe.edu.sg) |
+|  | Ms Li Kaiyuan | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
 | 1N6 | Mr Tan Gim Yong (Justin) | [tan_gim_yong@moe.edu.sg](mailto:tan_gim_yong@moe.edu.sg) |
 |  | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
 | 1T7 | Mr Zulhufiz Bin Zainal | [zulhafiz_zainal@moe.edu.sg](mailto:zulhafiz_zainal@moe.edu.sg) |
