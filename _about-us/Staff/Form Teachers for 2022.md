@@ -67,8 +67,8 @@ third_nav_title: Staff
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 3E1 | Mr Low Chun Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
-|  | Miss Raidah Binte Moktar | [raidah_moktar@moe.edu.sg](mailto:raidah_moktar@moe.edu.sg) |
+| 3R1 | Mr Chan Han Yen | [chan_han_yen@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
+|  | Ms Cheong Mun Mun Michelle (SH/ICT) | [cheong_mun_mun_michelle@moe.edu.sg](mailto:cheong_mun_mun_michelle@moe.edu.sg) |
 | 3E2A | Miss Ong Wan Ying | [ong_wan_ying@moe.edu.sg](mailto:ong_wan_ying@moe.edu.sg) |
 |  | Mdm Nurul Ayn Binte abdul Razak | [nurul_ayn_abdul_razak@moe.edu.sg](mailto:nurul_ayn_abdul_razak@moe.edu.sg) |
 | 3E2B | Mrs Chuah-Ng Lih Yng | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
