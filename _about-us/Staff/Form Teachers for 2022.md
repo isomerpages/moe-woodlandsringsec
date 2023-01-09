@@ -18,7 +18,7 @@ third_nav_title: Staff
 | Class | Form Teachers | Email |
 |---|---|---|
 | 1R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg]
-| 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
+| 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min@moe.edu.sg]
 | 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg](mailto:chung_xiao_xuan_gloria@moe.edu.sg) |
 |  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
 | 1N4 | Miss Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
