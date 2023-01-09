@@ -91,11 +91,10 @@ third_nav_title: Staff
 | 4R2B | Mdm Farhanah Bte Samat | [farhanah_samat@moe.edu.sg](mailto:farhanah_samat@moe.edu.sg) |
 | 4R3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
 |  | Mdm Chong Nyok Fang | [chong_nyok_fang@moe.edu.sg](mailto:chong_nyok_fang@moe.edu.sg) |
-| 4N5 | Mr Ariff Bin Abdul Aziz | [ariff_abdul_aziz@moe.edu.sg](mailto:ariff_abdul_aziz@moe.edu.sg) |
-|  | Miss Low Xue Zhen (Sheryl) | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
-| 4N6 | Mdm Dina Lee Ying Ying | [lee_ying_ying_dina@moe.edu.sg](mailto:lee_ying_ying_dina@moe.edu.sg) |
-|  | Miss Lim Si Xian Rachel | [lim_si_xian_rachel@moe.edu.sg](mailto:lim_si_xian_rachel@moe.edu.sg) |
-| 4T7 | Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg](mailto:lee_shih_min_patricia@moe.edu.sg) |
+| 4R4 | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
+| 4R5 | Mr Toh Hong Da | [toh_hong_da@moe.edu.sg](mailto:toh_hong_da@moe.edu.sg) |
+|  | Mr Ariff Bin Abdul Aziz | [ariff_abdul_aziz@moe.edu.sg](mailto:ariff_abdul_aziz@moe.edu.sg) |
+| 4R6 | Mdm Nor Lizawati Bte Mohd Tahir (LH/EL | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
 |  | Mr Fan Ruizhong | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
 | S5-1 | Mdm Siti Aisah Bte Mohamed Yusop | [siti_aisah_mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg)     |
 |  | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
