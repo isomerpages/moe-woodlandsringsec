@@ -72,7 +72,7 @@ third_nav_title: Staff
 | 3R2 | Mr Neo Kai Sheng | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
 |  | Miss Liyana Bte Juma'eh | [liyana_jumaeh@moe.edu.sg](mailto:liyana_jumaeh@moe.edu.sg) |
 | 3R3 | Mr Toh Yeow Chong (John) |[toh_yeow_chong@moe.edu.sg](mailto:toh_yew_chong@moe.edu.sg) |
-| 3R4 | Mr Malcom Tah Shih Lung | [malcolm_tan_shih_lung@moe.edu.sg](mailto:malcolm_tan_shih_lung@moe.edu.sg) |
+| 3R4 | Mr Malcolm Tan Shih Lung | [malcolm_tan_shih_lung@moe.edu.sg](mailto:malcolm_tan_shih_lung@moe.edu.sg) |
 |  | Mdm Dina Lee Ying Ying | [lee_ying_ying_dina@moe.edu.sg](mailto:lee_ying_ying_dina@moe.edu.sg) |
 | 3E4 | Mr Andrew Yap Ming Hwee | [andrew_yap_ming_hwee@moe.edu.sg](mailto:andrew_yap_ming_hwee@moe.edu.sg) |
 |  | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
