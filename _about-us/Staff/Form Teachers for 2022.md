@@ -17,11 +17,9 @@ third_nav_title: Staff
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 1R1 | Mr Ong Chee Lim | [one_chee_lim@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
-|  | Miss Aruna Govind | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
+| 1R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg]
 | 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
-|  | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
-| 1E3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:chung_xiao_xuan_gloria@moe.edu.sg) |
+| 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg](mailto:chung_xiao_xuan_gloria@moe.edu.sg) |
 |  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
 | 1N4 | Miss Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 |  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
