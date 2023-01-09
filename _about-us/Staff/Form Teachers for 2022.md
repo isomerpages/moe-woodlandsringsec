@@ -88,10 +88,9 @@ third_nav_title: Staff
 | 4R1 | Mr Low Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
 |  | Miss Raidah Binte Moktar | [raidah_moktar@moe.edu.sg](mailto:raidah+moktar@moe.edu.sg) |
 | 4R2A | Miss Ong Wan Ying | [ong_wan_ying@moe.edu.sg](mailto:ong_wan_ying@moe.edu.sg) |
-| 4E3 | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
-|  | Ms Li Kai Yuan | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
-| 4E4 | Mr Tok Wei Xian Eugene | [tok_wei_xian_eugene@moe.edu.sg](mailto:tok_wei_xian_eugene@moe.edu.sg) |
-|  | Miss Elaine Lim Ee Teng | [lim_ee_teng_elaine@moe.edu.sg](mailto:lim_ee_teng_elaine@moe.edu.sg) |
+| 4R2B | Mdm Farhanah Bte Samat | [farhanah_samat@moe.edu.sg](mailto:farhanah_samat@moe.edu.sg) |
+| 4R3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
+|  | Mdm Chong Nyok Fang | [chong_nyok_fang@moe.edu.sg](mailto:chong_nyok_fang@moe.edu.sg) |
 | 4N5 | Mr Ariff Bin Abdul Aziz | [ariff_abdul_aziz@moe.edu.sg](mailto:ariff_abdul_aziz@moe.edu.sg) |
 |  | Miss Low Xue Zhen (Sheryl) | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
 | 4N6 | Mdm Dina Lee Ying Ying | [lee_ying_ying_dina@moe.edu.sg](mailto:lee_ying_ying_dina@moe.edu.sg) |
