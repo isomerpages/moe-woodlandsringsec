@@ -69,8 +69,8 @@ third_nav_title: Staff
 |---|---|---|
 | 3R1 | Mr Chan Han Yen | [chan_han_yen@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
 |  | Ms Cheong Mun Mun Michelle (SH/ICT) | [cheong_mun_mun_michelle@moe.edu.sg](mailto:cheong_mun_mun_michelle@moe.edu.sg) |
-| 3E2A | Miss Ong Wan Ying | [ong_wan_ying@moe.edu.sg](mailto:ong_wan_ying@moe.edu.sg) |
-|  | Mdm Nurul Ayn Binte abdul Razak | [nurul_ayn_abdul_razak@moe.edu.sg](mailto:nurul_ayn_abdul_razak@moe.edu.sg) |
+| 3R2 | Mr Neo Kai Sheng | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
+|  | Miss Liyana Bte Juma'eh | [liyana_jumaeh@moe.edu.sg](mailto:liyana_jumaeh@moe.edu.sg) |
 | 3E2B | Mrs Chuah-Ng Lih Yng | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
 |  | Miss Lu Huiping | [lu_huiping@moe.edu.sg](mailto:lu_huiping@moe.edu.sg) |
 | 3E3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
