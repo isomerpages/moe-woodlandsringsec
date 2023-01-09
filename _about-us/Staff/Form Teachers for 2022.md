@@ -85,10 +85,9 @@ third_nav_title: Staff
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 4E1 | Mdm Memymiswati Bte Chokri | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
-|  | Mr Loy Liang Teck | [loy_liang_teck@moe.edu.sg](mailto:loy_liang_teck@moe.edu.sg) |
-| 4E2 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg](mailto:ong_chee_lim@moe.edu.sg) |
-|  | Mdm Saratha d/o Arumugam | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg)) |
+| 4R1 | Mr Low Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
+|  | Miss Raidah Binte Moktar | [raidah_moktar@moe.edu.sg](mailto:raidah+moktar@moe.edu.sg) |
+| 4R2A | Miss Ong Wan Ying | [ong_wan_ying@moe.edu.sg](mailto:ong_wan_ying@moe.edu.sg) |
 | 4E3 | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
 |  | Ms Li Kai Yuan | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
 | 4E4 | Mr Tok Wei Xian Eugene | [tok_wei_xian_eugene@moe.edu.sg](mailto:tok_wei_xian_eugene@moe.edu.sg) |
