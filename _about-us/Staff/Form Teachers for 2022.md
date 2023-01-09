@@ -31,9 +31,6 @@ third_nav_title: Staff
 |  | Ms Li Kaiyuan | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
 | 1R6 | Miss Lim Si Xuan, Rachel | [lim_si_xian_rachel@moe.edu.sg](mailto:lim_si_xian_rachel@moe.edu.sg) |
 |  | Mdm Norhani Bte Samsuri (AED-Maths) | [norhani_samsuri@moe.edu.sg](mailto:northani_samsuri@moe.edu.sg) |
-| 1T7 | Mr Zulhufiz Bin Zainal | [zulhafiz_zainal@moe.edu.sg](mailto:zulhafiz_zainal@moe.edu.sg) |
-|  | Miss Gwendolyn Koh Jianing | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
-|  | Mdm Norhani Bte Sasuri | [norhani_sumsuri@moe.edu.sg](mailto:norhani_sumsuri@moe.edu.sg) |
 |
 
 ##### **Form Teachers for Secondary 2**
