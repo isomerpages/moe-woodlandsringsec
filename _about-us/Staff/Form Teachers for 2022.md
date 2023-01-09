@@ -37,10 +37,8 @@ third_nav_title: Staff
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 2E1 | Mr Chan Han Yen | [chan_han_yen@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
-|  | Ms Cheong Mum Mum Michelle | [cheong_mum_mum_michelle@moe.edu.sg](mailto:cheong_mum_mum_michelle@moe.edu.sg) |
-| 2E2 | Mr Neo Kai Sheng | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
-|  | Miss Teo Si Ni | [teo_si_ni@moe.edu.sg](mailto:teo_si_ni@moe.edu.sg) |
+| 2R1 | Mr Jimmy Siow Long Kong Yong Kong@moe.edu.sg]
+[jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
 | 2E3 | Mr Toh Yeow Chong (John) | [toh_yeow_chong@moe.edu.sg](mailto:toh_yeow_chong@moe.edu.sg) |
 |  | Miss Tan Fang Yu Sharon | [tan_fang_yu_sharon@moe.edu.sg](mailto:tan_fang_yu_sharon@moe.edu.sg) |
 | 2N5 | Mr Choy Cheng Zhen | [choy_chengzhen@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
