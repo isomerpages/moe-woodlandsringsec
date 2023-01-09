@@ -10,23 +10,18 @@ third_nav_title: Staff
 |  |  |
 |---|---|
 | Mr Kheng Kok Seong (YH) | [kheng_kok_seong@moe.edu.sg](mailto:kheng_kok_seong@moe.edu.sg) |
-| Mrs Chuah-Ng Lih Yng (AYH) | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
+| Mr Chung Yong Kai (AYH) | [chung_yong_kai@moe.edu.sg](mailto:chung_yong_kai@moe.edu.sg) |
 |
 
 ##### **Form Teachers for Secondary 1**
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 1R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg]
-(mailto:ong_chee_lim@moe.edu.sg) |
-| 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg]
-(mailto:lee_shih_min_patricia@moe.edu.sg) |
-| 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg]
-(mailto:toh_wei_xian_eugene@moe.edu.sg) |
-| 1R4 | Miss Elaine Lim Ee Teng | [lim_ee_teng_elaine@moe.edu.sg]
-(mailto:lim_ee_teng_elaine@moe.edu.sg) |
-|  | Mr Lim Ding Xun | [lim_ding_xun@moe.edu.sg]
-(mailto:lim_ding_xun@moe.edu.sg) |
+| 1R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg](mailto:ong_chee_lim@moe.edu.sg) |
+| 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg](mailto:lee_shih_min_patricia@moe.edu.sg) |
+| 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg](mailto:toh_wei_xian_eugene@moe.edu.sg) |
+| 1R4 | Miss Elaine Lim Ee Teng | [lim_ee_teng_elaine@moe.edu.sg](mailto:lim_ee_teng_elaine@moe.edu.sg) |
+|  | Mr Lim Ding Xun | [lim_ding_xun@moe.edu.sg](mailto:lim_ding_xun@moe.edu.sg) |
 | 1R5 | Mr Sheikh Faraz B Sheikh A Rashid | [sheikh_faraz_sheikh_rashid@moe.edu.sg](mailto:sheikh_faraz_sheikh_rashid@moe.edu.sg) |
 |  | Ms Li Kaiyuan | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
 | 1R6 | Miss Lim Si Xuan, Rachel | [lim_si_xian_rachel@moe.edu.sg](mailto:lim_si_xian_rachel@moe.edu.sg) |
@@ -37,11 +32,9 @@ third_nav_title: Staff
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 2R1 | Mr Jimmy Siow Long Kong Yong Kong@moe.edu.sg]
-[jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) 
+| 2R1 | Mr Jimmy Siow Long Kong Yong Kong [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) 
 |  | Miss Aruna Govind | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
-| 2R2 | Mr Tan Hong Tee | 
-[tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
+| 2R2 | Mr Tan Hong Tee | [tan_hong_tee@moe.edu.sg(mailto:tan_hong_tee@moe.edu.sg) |
 |  | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
 | 2R3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:chung_xiao_xuan_gloria@moe.edu.sg) |
 |  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
