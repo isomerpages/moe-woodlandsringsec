@@ -23,7 +23,8 @@ third_nav_title: Staff
 (mailto:lee_shih_min_patricia@moe.edu.sg) |
 | 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg]
 (mailto:toh_wei_xian_eugene@moe.edu.sg) |
-| 1R4 | Miss Lim Ee Teng | [lim_ee_teng@moe.edu.sg]
+| 1R4 | Miss Elaine Lim Ee Teng | [lim_ee_teng_elaine@moe.edu.sg]
+(mailto:lim_ee_teng_elaine@moe.edu.sg) |
 |  | Mr Lim Ding Xun | [lim_ding_xun@moe.edu.sg]
 | 1N5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
 |  | Miss Chua Kah Hsing | [chua_kah_hsing@moe.edu.sg](mailto:chua_kah_hsing@moe.edu.sg) |
