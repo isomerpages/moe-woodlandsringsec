@@ -94,8 +94,7 @@ third_nav_title: Staff
 | 4R4 | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
 | 4R5 | Mr Toh Hong Da | [toh_hong_da@moe.edu.sg](mailto:toh_hong_da@moe.edu.sg) |
 |  | Mr Ariff Bin Abdul Aziz | [ariff_abdul_aziz@moe.edu.sg](mailto:ariff_abdul_aziz@moe.edu.sg) |
-| 4R6 | Mdm Nor Lizawati Bte Mohd Tahir (LH/EL | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
-|  | Mr Fan Ruizhong | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
-| S5-1 | Mdm Siti Aisah Bte Mohamed Yusop | [siti_aisah_mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg)     |
-|  | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
-|
+| 4R6 | Mdm Nor Lizawati Bte Mohd Tahir (LH/EL) | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
+| 4R7 | Mr Adnan Bin Mahmud | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
+|  | Ms Li Zhiping | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
+| 5R1 | Miss Low Xue Zhen (Sheryl | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
