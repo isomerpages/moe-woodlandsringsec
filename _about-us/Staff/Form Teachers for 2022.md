@@ -18,8 +18,11 @@ third_nav_title: Staff
 | Class | Form Teachers | Email |
 |---|---|---|
 | 1R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg]
-| 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min@moe.edu.sg]
+(mailto:ong_chee_lim@moe.edu.sg) |
+| 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg]
+(mailto:lee_shih_min_patricia@moe.edu.sg) |
 | 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg]
+(mailto:toh_wei_xian_eugene@moe.edu.sg) |
 | 1R4 | Miss Lim Ee Teng | [lim_ee_teng@moe.edu.sg]
 |  | Mr Lim Ding Xun | [lim_ding_xun@moe.edu.sg]
 | 1N5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
