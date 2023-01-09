@@ -49,7 +49,9 @@ third_nav_title: Staff
 |  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
 | 2R5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
 |  | Mdm Anita Bte Mansor   | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
-|  | Mr Conrad Oh Eu Jin | [oh_eu_jin_conrad@moe.edu.sg](mailto:oh_eu_jin_conrad@moe.edu.sg) |
+| 2R6 | Mr Tan Gim Yong (Justin) | [tan_gim_yong@moe.edu.sg](mailto:tan_gim_yong@moe.edu.sg) |
+|  | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
+| 2R7 | Mr Zulhafiz Bin Zainal (SH/ML covering) | [zulhafiz_zainal@moe.edu.sg](mailto:zhlhafiz_zainal@moe.edu.sg) |
 | 
 
 #### **Year Heads for Upper Secondary**
