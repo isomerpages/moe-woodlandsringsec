@@ -43,10 +43,10 @@ third_nav_title: Staff
 | 2R2 | Mr Tan Hong Tee | 
 [tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
 |  | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
-| 2R3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
-|  | Ms Siti Hafizah d/o Subramaniam | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
-| 2N6 | Mr Faizal Bin Farouk | [faizal_b_farouk@moe.edu.sg](mailto:faizal_b_farouk@moe.edu.sg) |
-|  | Miss Jolene Khoo Li Wen | [jolene_khoo_li_wen@moe.edu.sg](mailto:jolene_khoo_li_wen@moe.edu.sg) |
+| 2R3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:chung_xiao_xuan_gloria@moe.edu.sg) |
+|  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
+| 2R4 | Mr Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
+|  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
 | 2T7 | Mr Karamjit Singh | [karamjit_singh_s_singh@moe.edu.sg](mailto:karamjit_singh_s_singh@moe.edu.sg) |
 |  | Mdm Suzana Bte Sarikon   | [suzana_sarikon@moe.edu.sg](mailto:suzana_sarikon@moe.edu.sg) |
 |  | Mr Conrad Oh Eu Jin | [oh_eu_jin_conrad@moe.edu.sg](mailto:oh_eu_jin_conrad@moe.edu.sg) |
