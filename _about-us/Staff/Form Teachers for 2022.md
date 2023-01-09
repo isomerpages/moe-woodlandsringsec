@@ -40,10 +40,10 @@ third_nav_title: Staff
 | 2R1 | Mr Jimmy Siow Long Kong Yong Kong@moe.edu.sg]
 [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) 
 |  | Miss Aruna Govind | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
-| 2E3 | Mr Toh Yeow Chong (John) | 
-[toh_yeow_chong@moe.edu.sg](mailto:toh_yeow_chong@moe.edu.sg) |
-|  | Miss Tan Fang Yu Sharon | [tan_fang_yu_sharon@moe.edu.sg](mailto:tan_fang_yu_sharon@moe.edu.sg) |
-| 2N5 | Mr Choy Cheng Zhen | [choy_chengzhen@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
+| 2R2 | Mr Tan Hong Tee | 
+[tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
+|  | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
+| 2R3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
 |  | Ms Siti Hafizah d/o Subramaniam | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
 | 2N6 | Mr Faizal Bin Farouk | [faizal_b_farouk@moe.edu.sg](mailto:faizal_b_farouk@moe.edu.sg) |
 |  | Miss Jolene Khoo Li Wen | [jolene_khoo_li_wen@moe.edu.sg](mailto:jolene_khoo_li_wen@moe.edu.sg) |
