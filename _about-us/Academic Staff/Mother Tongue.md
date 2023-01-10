@@ -8,7 +8,6 @@ third_nav_title: Academic Staff
 
 | Name | Appointment |  Email Address |
 |---|---|---|
-| Mdm Chong Ning Shuang | HOD / MTL |   [chong_ning_shuang@moe.edu.sg](mailto:chong_ning_shuang@moe.edu.sg) |
 | Mr Fan Ruizhong | Senior Teacher / CL | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
 | Mdm Liu Xinqi | Teacher | [liu_xin_qi@moe.edu.sg](mailto:liu_xin_qi@moe.edu.sg) |
 | Ms Li Kaiyuan | Teacher | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
@@ -21,4 +20,4 @@ third_nav_title: Academic Staff
 | Mr Zulhafiz Bin Zainal | Teacher | [zulhafiz_zainal@moe.edu.sg](mailto:zulhafiz_zainal@moe.edu.sg) |
 | Mdm Zhuo Ling Xiang | FAJT | [zhou_ling_xiang@moe.edu.sg](mailto:zhou_ling_xiang@moe.edu.sg) |
 | Mdm Sun Lingling | FAJT | [sun_lingling@moe.edu.sg](mailto:sun_lingling@moe.edu.sg) |
-| 
+|
