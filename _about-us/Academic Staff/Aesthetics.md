@@ -10,6 +10,5 @@ third_nav_title: Academic Staff
 |---|---|---|
 | Miss Low Mun Fei | SH / Aesthetics | [low_mun_fei@moe.edu.sg](mailto:low_mun_fei@moe.edu.sg) |
 | Ms Michelle Han Shui Qing | Teacher | [han_shui_qing_michelle@moe.edu.sg](mailto:han_shui_qing_michelle@moe.edu.sg) |
-| Ms Khoo Li Wen Jolene | Teacher | [jolene_khoo_li_wen@moe.edu.sg](mailto:jolene_khoo_li_wen@moe.edu.sg) |
 | Miss Gwendolyn Koh Jianing | Teacher | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
 |
