@@ -27,7 +27,7 @@ third_nav_title: Academic Staff
 | Mdm Siti Hafizah d/o Subramaniam | Teacher | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
 | Miss Azyan Azami | Teacher | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 | Miss Gwendolyn Koh Jianing | Teacher | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
-|Miss Low Xue Zhen (Sheryl) | Teacher | low_xue-zhen@moe.edu.sg |
+|Miss Low Xue Zhen (Sheryl) | Teacher | low_xue_zhen@moe.edu.sg |
 | Miss Christina Pillai | FAJT | [pillai_christina@moe.edu.sg](mailto:pillai_christina@moe.edu.sg) |
 | Mr Adnan Abdul Rahman | FAJT | [adnan_abdul_rahman@moe.edu.sg](mailto:adnan_abdul_rahman@moe.edu.sg) |
 |
