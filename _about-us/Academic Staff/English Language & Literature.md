@@ -15,7 +15,7 @@ third_nav_title: Academic Staff
 | Miss Low Mun Fei | SH / Aesthetics | [low_mun_fei@moe.edu.sg](mailto:low_mun_fei@moe.edu.sg) |
 | Mrs Rebekah Lim | SH/Citizenship Education | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
 |  Mr Tan Yu Wei Joshua |  SH/ Student Behaviour Management | [tan_yu_wei_joshua@moe.edu.sg](mailto:tan_yu_wei_joshua@moe.edu.sg) |
-| Mrs Chuah Ng Lih Yng | AYH (LS) | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
+| Mrs Chuah Ng Lih Yng | Teacher | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
 | Mdm Lim Guat Yen Angelia | Teacher | [lim_guat_yen_angelia@moe.edu.sg](mailto:lim_guat_yen_angelia@moe.edu.sg) |
 | Mdm Saratha D/O Arumugam | Teacher | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg) |
 | Mr Sheikh Faraz Bin Sheikh A Rashid | Teacher | [sheikh_faraz_sheikh_rashid@moe.edu.sg](mailto:sheikh_faraz_sheikh_rashid@moe.edu.sg) |
@@ -24,11 +24,9 @@ third_nav_title: Academic Staff
 | Mr Chung Yong Kai | Teacher | [chung_yong_kai@moe.edu.sg](mailto:chung_yong_kai@moe.edu.sg) |
 | Mdm Farhanah Binte Samat | Teacher | [farhanah_samat@moe.edu.sg](mailto:farhanah_samat@moe.edu.sg) |
 | Miss Lim Ee Teng Elaine | Teacher | [lim_ee_teng_elaine@moe.edu.sg](mailto:lim_ee_teng_elaine@moe.edu.sg) |
-| Mr Chin Jun Yong Joel | Teacher | [chin_jun_yong_joel@moe.edu.sg](mailto:chin_jun_yong_joel@moe.edu.sg) |
 | Mdm Siti Hafizah d/o Subramaniam | Teacher | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
 | Miss Azyan Azami | Teacher | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 | Miss Gwendolyn Koh Jianing | Teacher | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
-| Mr Oh Eu Jin Conrad | Allied Educator |  – |
 | Miss Christina Pillai | FAJT | [pillai_christina@moe.edu.sg](mailto:pillai_christina@moe.edu.sg) |
 | Mr Adnan Abdul Rahman | FAJT | [adnan_abdul_rahman@moe.edu.sg](mailto:adnan_abdul_rahman@moe.edu.sg) |
 |
