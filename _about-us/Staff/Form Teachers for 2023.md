@@ -38,11 +38,11 @@ third_nav_title: Staff
 |---|---|---|
 | 2R1 |  Mr Jimmy Siow Long Kong Yong Kong [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
 |  | Miss Aruna Govind | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
-| 2R2 | Mr Tan Hong Tee | [tan_hong_tee@moe.edu.sg] (mailto:tan_hong_tee@moe.edu.sg) |
+| 2R2 | Mr Tan Hong Tee | [tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
 |  | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
 | 2R3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:chung_xiao_gloria@moe.edu.sg) |
 |  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
-| 2R4 | Mr Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
+| 2R4 | Miss Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 |  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
 | 2R5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
 |  | Mdm Anita Bte Mansor   | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
