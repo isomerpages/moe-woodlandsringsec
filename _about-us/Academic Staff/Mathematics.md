@@ -19,7 +19,6 @@ third_nav_title: Academic Staff
 | Mdm Dina Lee Ying Ying | Teacher |   [lee_ying_ying_dina@moe.edu.sg](mailto:lee_ying_ying_dina@moe.edu.sg) |
 | Mr Ong Chee Lim | Teacher |   [ong_chee_lim@moe.edu.sg](mailto:ong_chee_lim@moe.edu.sg) |
 | Mdm Sri Ratinawati Bte Hussein | Teacher |   [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
-| Mr Chin Jun Yong Joel | Teacher | [chin_jun_yong_joel@moe.edu.sg](mailto:chin_jun_yong_joel@moe.edu.sg) |
 | Mr Tok Hong Da | Teacher |   [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
 | Miss Ong Wan Ying | Teacher |   [ong_wan_ying_a@moe.edu.sg](mailto:ong_wan_ying_a@moe.edu.sg) |
 | Mr Jimmy Kong | Teacher | [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
