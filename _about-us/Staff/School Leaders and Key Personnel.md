@@ -26,7 +26,7 @@ third_nav_title: Staff
 | AYH (Lower Sec) | Mr Chung Yong Kai | [chung_yong_kai@moe.edu.sg](mailto:chung_yong_kai@moe.edu.sg) |
 | SH / Aesthetics | Miss Low Mun Fei | [low_mun_fei@moe.edu.sg](mailto:low_mun_fei@moe.edu.sg) |
 | SH / Chemistry | Mdm Siti Aisah Bte Mohamed Yusop | [siti_aisah_mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg) |
-| Covering SSD / Curriculum | Mdm Chan May Peng | [chan_may_peng@moe.edu.sg](mailto:chan_may_peng@moe.edu.sg) |
+| SSD | Mdm Chan May Peng | [chan_may_peng@moe.edu.sg](mailto:chan_may_peng@moe.edu.sg) |
 | LH / English | Mdm Nor Lizawati Mohd Tahir | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
 | SH / Education Support |  Mr Felix Yeoh Sin Hui | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
 | SH/ ICT | Ms Michelle Cheong | [cheong_mun_mun_michelle@moe.edu.sg](mailto:cheong_mun_mun_michelle@moe.edu.sg) |
