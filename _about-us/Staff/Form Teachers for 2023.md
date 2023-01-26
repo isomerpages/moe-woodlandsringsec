@@ -76,7 +76,7 @@ third_nav_title: Staff
 | 3R6 | Mr Faizal Bin Farouk | [faizal_farouk@moe.edu.sg](mailto:faizal_farouk@moe.edu.sg) |
 |  | Miss Tan Gek Eng (LH/Math) | [tan_gek_eng@moe.edu.sg](mailto:tan_gek_eng@moe.edu.sg) |
 | 3R7 | Mr Karamjit Singh | [karamjit_singh_s_singh@moe.edu.sg](mailto:karamjit_singh_s_singh@moe.edu.sg) |
-|
+|  | Mdm Suzana Bte Sarikon | [suzana_sarikon@moe.edu.sg](mailto:suzana_sarikon@moe.edu.sg) |
 
 ##### **Form Teachers for Secondary 4 and 5**
 
