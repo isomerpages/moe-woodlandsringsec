@@ -19,5 +19,4 @@ sections:
         - title: Contact Us
           description: Click here for more details
           url: /contact-us/
-  - resources: {}
 ---
