@@ -13,6 +13,7 @@ third_nav_title: Academic Staff
 | Mr Felix Yeoh Sin Hui | SH / Edun Support |   [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
 | Miss Tan Gek Eng | LH/Math |   [tan_gek_eng@moe.edu.sg](mailto:tan_gek_eng@moe.edu.sg) |
 | Ms Michelle Cheong | SH / ICT | [cheong_mun_mun_michelle@moe.edu.sg](mailto:cheong_mun_mun_michelle@moe.edu.sg) |
+| Mr Ingham Jason Charles | LT / Math |   [jason_ingham@moe.edu.sg](mailto:jason_ingham@moe.edu.sg) |
 | Mr Soh Kian Hong | Teacher |   [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
 | Mdm Ng Mei Ting | Teacher |   [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
 | Mr John Toh Yeow Chong | Teacher | [toh_yeow_chong@moe.edu.sg](mailto:toh_yeow_chong@moe.edu.sg) |
