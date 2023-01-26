@@ -22,4 +22,6 @@ third_nav_title: Academic Staff
 | Miss Ong Wan Ying | Teacher | [ong_wan_ying_a@moe.edu.sg](mailto:ong_wan_ying_a@moe.edu.sg) |
 | Miss Aruna Govind | Teacher | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
 | Mdm Siti Hafizah d/o Subramaniam | Teacher | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
+| Mr Malcolm Tan Shih Lung | Teacher | [malcolm_tan_shih_lung@moe.edu.sg](mailto:malcolm_tan_shih_lung@moe.edu.sg) |
+|
 |
