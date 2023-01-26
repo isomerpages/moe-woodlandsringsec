@@ -19,4 +19,8 @@ sections:
         - title: Contact Us
           description: Click here for more details
           url: /contact-us/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
