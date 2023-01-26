@@ -23,7 +23,6 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Mdm Andal d/o Chidambaram | Corporate Support Officer |
 | Mdm Amravathi D/O Manickam | Operations Support Officer |
 | Mdm Sarasvathi D/O Narayanasamy | Operations Support Officer |
-| Mr Sunthiramohan S/O Veloo | Operation Support Officer |
 | Mr Leow Kean Chun | Operation Support Office |
 | Mr Abdul Wahab Bin Ashek | Technical Support Officer |
 | Mr Amirul Amri Bin Mohd Noor | Technical Support Officer |
@@ -33,6 +32,7 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Mr Soh Kee Seng | ICT Manager |
 | Miss Siti Nurbaiyah Binte Jaffar | ICT Manager |
 | Mr Logindran A/L Balachandran | DE (IT) |
+| Mr Muhammad Lufti Bin Zaidi | DE (IT) |
 |  Mdm Aspalela Binte Salim | Library Assistant |
 |  Mdm Gervry D/O Raguvaran | Teacher Assistant (Discipline) |
 | Ms Lindi Liau Mui Huah | Admin Assistant |
