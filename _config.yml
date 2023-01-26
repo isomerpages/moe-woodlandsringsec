@@ -3,7 +3,7 @@ url: https://woodlandsringsecondary.sg
 favicon: /images/logo.gif
 colors:
   primary-color: "#7ed321"
-  secondary-color: "#9e033c"
+  secondary-color: "#f90303"
   media-colors:
     - title: media-color-one
       color: "#49759a"
