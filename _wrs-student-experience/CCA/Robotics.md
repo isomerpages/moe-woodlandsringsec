@@ -22,8 +22,8 @@ third_nav_title: CCA
 <td style="width: 1.84397%;">
 <h3></h3>
 </td>
-<td style="width: 67.9433%;">Mr See Poo Leng Jeremy (I/C)
-Mr Chan Han Yen
+<td style="width: 67.9433%;">Mr See Poo Leng Jeremy (I/C)<br>
+Mr Chan Han Yen<br>
 Mr Low Chun Wei
 <span style="font-weight: 400;">Miss Lim Ee Teng, Elaine</span></td>
 </tr>
