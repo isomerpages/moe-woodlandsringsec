@@ -13,7 +13,7 @@ third_nav_title: Academic Staff
 | Mdm Rehana Binte Mohamed Akbar | HOD / CCE |   [rehana_mohamed_akbar@moe.edu.sg](mailto:rehana_mohamed_akbar@moe.edu.sg) |
 | Mdm Siti Aisah Bte Mohamed Yusop | SH / Chemistry |   [siti_aisah_mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg) |
 | Miss Lim Hwee Ee |  SH / Student Leadership | [lim_hwee_ee@moe.edu.sg](mailto:lim_hwee_ee@moe.edu.sg) |
-| Mr Oh Jin Sheng | ST/ Physics |   [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
+| Mr Oh Jin Sheng | LT/ Physics |   [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
 | Mdm Joyce Lee Swee Hoon |  HOD / Curriculum | [lee_swee_hoon_joyce@moe.edu.sg](mailto:lee_swee_hoon_joyce@moe.edu.sg) |
 | Ms Michelle Cheong | SH/ ICT | [cheong_mun_mun_michelle@moe.edu.sg](mailto:cheong_mun_mun_michelle@moe.edu.sg) |
 | Mdm Ng Mei Ting | Teacher |   [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
