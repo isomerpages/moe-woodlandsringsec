@@ -36,7 +36,7 @@ third_nav_title: Staff
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 2R1 |  Mr Jimmy Siow Long Kong Yong Kong [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
+| 2R1 | Mr Jimmy Siow Long Kong Yong Kong | [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
 |  | Miss Aruna Govind | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
 | 2R2 | Mr Tan Hong Tee | [tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
 |  | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
