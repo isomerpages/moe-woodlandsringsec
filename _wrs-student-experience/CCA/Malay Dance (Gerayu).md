@@ -4,20 +4,129 @@ permalink: /wrs-student-experience/cca/malay-dance/
 description: ""
 third_nav_title: CCA
 ---
-### **Malay Dance (Gerayu)**
-
-| **Name of CCA:** | Malay Dance (Gerayu) |
-|---|---|
-| **Name of Teachers:** | Mdm Siti Hafizah (IC)<br>Mdm Farhanah<br>Mdm Nurul Ayn |
-| **About the CCA:** | GERAYU prides itself in being a group of Graceful, Earnest, Resilient, Aesthetical, Youthful and United dancers who are passionate, disciplined and dedicated in our craft as ethnic dancers.<br><br>All members of Gerayu are given the opportunity to participate in external dance competitions and performances to build their confidence and to showcase their talents. Under the guidance of the dance instructor Mr Rizman Kassim, a renowned ethnic dancer and choreographer in Singapore, our dancers are exposed to different forms of Malay Dance – both Traditional, Fusion and Contemporary.<br><br>In 2020, our dancers put up a couple of extravagant performances for the School’s in-house production, Our Shared Memories, where they brought to live their hidden talents by showcasing a variety of genres! Our dancers also had the rare opportunity of being exposed to filming experience during this production!<br><br>In 2021, Gerayu’s members participated in SYF Arts Presentation, held at UCC in NUS. We put up a vibrant piece that showcased the essence of Zapin and we attained Certificate of Accomplishment!<br><br>Apart from developing our craft as dancers, Gerayu strives to develop our dancers holistically through an array of experiences such as promoting strength in character and creative thinking!<br><br>Members with leadership potential are given the opportunity to lead the CCA, where they take the lead in the planning and delegation of events such as Physical Conditioning sessions, Welcome and Farewell Parties and CCA Camps.<br><br>To ensure our dancers keep up with the dynamic landscape of e-cca sessions, we stretch our dancers by giving them the opportunity to lead CCA sessions via online platforms. They also get to display their creativity in terms of video recording and video editing for performances for school events. Dancers also have the opportunity to choreograph performances and even design their own costumes for school concerts.<br><br>Gerayu is fully dedicated to provide opportunities for our dancers to showcase their talents in the best way possible! Join us if you have a burning passion for Malay Dance and we will nurture GERAYU in you! |
-| **Achievement(s):** | **2021**<br>- SYF Arts Presentation : Certificate of Accomplishment<br><br>**2020**<br>- Our Shared Memories Production<br<br>>**2019**<br>- SYF Arts Presentation : Certificate of Accomplishment<br>- Muara Festival 2019<br><br>**2018**<br>- Dare to Dream Production<br><br>**2017**<br>- SYF Arts Presentation : Certificate of Accomplishment |
-| **Frequency of CCA:** |   |
-| **School Term:** | Every Monday, 2.30 – 5.30pm |
-| **School Holiday:** | March / September holidays: 3 times at 3 hours per session.<br>June school holidays: 3 times at 3 hours per session<br>November / December school holidays: 6 times at 3 hours per session |
-| **Others:** | Additional practice on Friday; to prepare for competitions (such as SYF) or any ad-hoc activities (such as school events or Values in Action Service Learning project) |
-| **Expenses to be borne by students:** | - CCA Attire: CCA T-shirt and Track pants<br>- Enrichment courses<br>- Essentials for performances (E.g.: Tights; hair pins; hair nets) |
-| **Targeted Student Profile:** | Students who<br><br>- like to perform on stage in front of a live audience;<br>- are committed to learning traditional and contemporary Malay dance;<br>- are disciplined individuals;<br>- can endure rigorous training |
-| **CCA Trial Procedures:** | To demonstrate the basic step or dance move that defines the character of a particular dance such as Asli, Masri, Zapin, Joget and Inang |
-| **Target number of students:** | 8 |
-| **Photos:** | <img style="width:85%" src="/images/malay%20dance.jpg"> |
-|
+<!-- wp:tadv/classic-paragraph -->
+<table style="border-collapse: collapse; width: 111.379%; height: 2509px;">
+<tbody>
+<tr style="height: 87px;">
+<td style="width: 33.3333%; height: 87px;">
+<h3>Name of CCA</h3>
+</td>
+<td style="width: 1.87884%; height: 87px;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; height: 87px;"><span style="font-weight: 400;">Cultural Dance (Chinese Dance &amp; Malay Dance)</span></td>
+</tr>
+<tr style="height: 122px;">
+<td style="width: 33.3333%; vertical-align: top; height: 122px;">
+<h3><strong>Name of Teachers</strong></h3>
+</td>
+<td style="width: 1.87884%; height: 122px;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; vertical-align: top; height: 122px;"><span style="font-weight: 400;">Mrs Oh Mei Ting (Co- IC)</span><br><span style="font-weight: 400;">Mdm Siti Hafizah (Co- IC)</span><br><span style="font-weight: 400;">Mdm Farhanah</span></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; vertical-align: top;">
+<h3>About the CCA</h3>
+<h3><strong>&nbsp;</strong></h3>
+</td>
+<td style="width: 1.87884%;">
+<h3>&nbsp;</h3>
+</td>
+<td style="width: 76.167%; vertical-align: top;">
+<p><span style="font-weight: 400;">The Cultural Dance CCA in WRSS </span><span style="font-weight: 400;">focusses </span><span style="font-weight: 400;">on providing students with a strong foundation in the cultural dance of their own ethnic group, while also exposing students to the cultural dance of other ethnic groups.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The CCA comprises of the Chinese Cultural Dance and Malay Cultural Dance groups. While the respective Cultural Dance groups have independent and targeted programmes for their CCA members, they actively seek opportunities to collaborate so as to provide dancers with exposure to inter-cultural dance skills, knowledge and techniques.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Do visit the links to Chinese Dance and Malay Dance CCA groups to find out more about the programmes we offer under the Cultural Dance CCA.</span></p>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 33.3333%; height: 23px; vertical-align: top;">
+<h3><strong>Achievement(s)</strong></h3>
+</td>
+<td style="width: 1.87884%; height: 23px; vertical-align: top;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; height: 23px;">&nbsp;</td>
+</tr>
+<tr style="height: 122px;">
+<td style="width: 33.3333%; height: 122px;">
+<h3><strong>Frequency of CCA</strong></h3>
+</td>
+<td style="width: 1.87884%; height: 122px;">&nbsp;</td>
+<td style="width: 76.167%; height: 122px;">&nbsp;</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 33.3333%; height: 23px;">
+<h3>School Term</h3>
+</td>
+<td style="width: 1.87884%; height: 23px;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; height: 23px;">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 33.3333%; height: 23px;">
+<h3>School Holiday</h3>
+</td>
+<td style="width: 1.87884%; height: 23px;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; height: 23px;">&nbsp;</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 33.3333%; height: 23px;">
+<h3>Others</h3>
+</td>
+<td style="width: 1.87884%; height: 23px;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; height: 23px;">&nbsp;</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 33.3333%; height: 23px;">
+<h3><strong>Expenses to be borne by students</strong></h3>
+</td>
+<td style="width: 1.87884%; height: 23px;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; height: 23px;">&nbsp;</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 33.3333%; height: 87px; vertical-align: top;">
+<h3><strong>Targeted Student Profile</strong></h3>
+</td>
+<td style="width: 1.87884%; height: 87px; vertical-align: top;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; height: 87px;">&nbsp;</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 33.3333%; height: 23px;">
+<h3><strong>CCA Trial Procedures</strong></h3>
+</td>
+<td style="width: 1.87884%; height: 23px;">&nbsp;</td>
+<td style="width: 76.167%; height: 23px;">&nbsp;</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 33.3333%; height: 87px;">
+<h3><strong>Target number of students</strong></h3>
+</td>
+<td style="width: 1.87884%; height: 87px;">&nbsp;</td>
+<td style="width: 76.167%; height: 87px;">&nbsp;</td>
+</tr>
+<tr style="height: 87px;">
+<td style="width: 33.3333%; height: 87px; vertical-align: top;">
+<h3><strong>Photos</strong></h3>
+</td>
+<td style="width: 1.87884%; height: 87px; vertical-align: top;">
+<h3>:</h3>
+</td>
+<td style="width: 76.167%; height: 87px;">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /wp:tadv/classic-paragraph -->
