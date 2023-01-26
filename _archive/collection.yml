@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Holiday Learning Tasks.md
       - Teach The Child Programme (TTCP).md
       - 2022 Secondary 3 Subject Combination and Class Allocation.md
