@@ -4,31 +4,32 @@ permalink: /important-information/for-parents/financial-assistance/
 description: ""
 third_nav_title: For Parents
 ---
-### **Financial Assistance**
-#### **Information & Instructions for Application**<br> **MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS)**
+<h3><span style="font-family: georgia, palatino, serif;"><strong>Information &amp; Instructions for Applica</strong><strong>tion</strong></span></h3>
+<h3><span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 14pt;">MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS)</span></h3>
+<span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 14pt;"><strong>Objective</strong></span>
 
-##### **Objective**
-The objective of the MOE FAS is to help financially **needy** Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
+<span style="font-family: 'trebuchet ms', geneva, sans-serif;">The objective of the MOE FAS is to help financially <span style="text-decoration: underline;"><strong>needy</strong></span> Singaporean students in Government and Government-aided schools to meet basic schooling expenses.</span>
 
-##### **Eligibility Criteria**
-Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:
+<span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 14pt;"><strong>Eligibility Criteria</strong></span>
 
-a. His or her family’s gross household income (GHI) as at the time of application does not exceed $2,750 per month; or
+<span style="font-family: 'trebuchet ms', geneva, sans-serif;">Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:</span>
 
-b. His or her family’s per capita income (PCI) as at the time of application does not exceed $690 per month.
+<span style="font-family: 'trebuchet ms', geneva, sans-serif;">a. His or her family’s gross household income (GHI) as at the time of application does not exceed $3,000 per month; or</span>
 
-PCI = Monthly GHI / No. of members in the household
+<span style="font-family: 'trebuchet ms', geneva, sans-serif;">b. His or her family’s per capita income (PCI) as at the time of application does not exceed $750 per month.</span>
 
-##### **Benefits**
-**School Fees:** Full waiver of $5 per month
+<span style="font-family: 'trebuchet ms', geneva, sans-serif;">PCI = Monthly GHI / No. of members in the household</span>
 
-**Standard Miscellaneous Fees:** Full waiver of $10 per month
+<span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 14pt;"><strong>Benefits</strong></span>
 
-**Textbooks:** Free textbooks
+<strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">School Fees: </span></strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Full subsidy of $5 per month</span>
 
-**School Attire:** Free school attire (1 pair of shoes, 2 pairs of socks, 2 sets of uniform and 2 sets of PE attire)
+<strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Standard Miscellaneous Fees: </span></strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Full subsidy of $10 per month</span>
 
-**Transport subsidy:** $10 transport credit per month from the month of approval, up to a total of $120 transport credits annum for students taking public transport.
+<strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Free Textbooks</span></strong>
 
+<strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">School Attire</span></strong>
 
+<strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">School Meal Subsidy</span></strong>
 
+<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Transport subsidy:</strong> $17 transport subsidy per month.</span>
