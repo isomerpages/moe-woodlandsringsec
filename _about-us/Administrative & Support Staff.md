@@ -35,5 +35,6 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Mr Muhammad Lufti Bin Zaidi | DE (IT) |
 |  Mdm Aspalela Binte Salim | Library Assistant |
 |  Mdm Gervry D/O Raguvaran | Teacher Assistant (Discipline) |
+|  Miss Azhra Begum D/O Peer Mohamed | Teacher Assistant (Discipline) |
 | Ms Lindi Liau Mui Huah | Admin Assistant |
 |
