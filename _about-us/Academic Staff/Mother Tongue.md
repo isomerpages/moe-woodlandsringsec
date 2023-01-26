@@ -9,7 +9,6 @@ third_nav_title: Academic Staff
 | Name | Appointment |  Email Address |
 |---|---|---|
 | Mr Fan Ruizhong | Senior Teacher / CL          | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
-| Mdm Liu Xinqi | Teacher | [liu_xin_qi@moe.edu.sg](mailto:liu_xin_qi@moe.edu.sg) |
 | Ms Li Kaiyuan | Teacher | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
 | Ms Chua Kah Hsing | Teacher | [chua_kah_hsing@moe.edu.sg](mailto:chua_kah_hsing@moe.edu.sg) |
 | Miss Li Zhiping | Teacher | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
