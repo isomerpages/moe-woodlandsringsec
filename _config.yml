@@ -3,7 +3,7 @@ url: https://woodlandsringsecondary.sg
 favicon: /images/logo.gif
 colors:
   primary-color: "#7ed321"
-  secondary-color: "#f8e71c"
+  secondary-color: "#9e033c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1zt0oshmgcgjg.amplifyapp.com
 prod: https://master.d1zt0oshmgcgjg.amplifyapp.com
 shareicon: /images/logo.gif
-is_government: true
+is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
