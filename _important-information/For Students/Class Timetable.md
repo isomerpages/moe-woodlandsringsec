@@ -9,7 +9,7 @@ Please refer to the semester 1 timetable schedule below:
 
 |  |
 |---|
-| [Secondary One](https://cms.isomer.gov.sg/sites/moe-woodlandsringsec/media/files/mediaDirectory/files%2FTimetable/editMediaSettings/2023_Sec-1-timetable.pdf)
+| [Secondary One](2023-Sem1_Class-Sec-2.pdf)
 | [[Secondary Two](/files/2023%20Sem1_Class%20-%20Sec%202.pdf)]([Secondary Two](/files/Sec%202%20%20timetable(n).pdf))|
 | [[Secondary Three](/files/2023%20Sem1_Class%20-%20Sec%203.pdf)]([Secondary Three](/files/Sec%203%20%20timetable(n).pdf)) |
 | [[Secondary Four / Five](/files/2023%20Sem1_Class%20-%20Sec%204n5.pdf)]([Secondary Four / Five](/files/Sec%204&5%20%20timetable(n).pdf)) |
