@@ -6,4 +6,4 @@ third_nav_title: For Students
 ---
 ### **Calendar**
 
-<iframe style="border: 0;" src="https://calendar.google.com/calendar/embed?src=moe.edu.sg_psiutvp8im89jmvu8kd795mhvc%40group.calendar.google.com&amp;ctz=Asia/Singapore" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=moe.edu.sg_ml0kh042ilmvksv39icnnqdnrk%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
