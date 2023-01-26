@@ -5,14 +5,14 @@ description: ""
 third_nav_title: For Students
 ---
 ### **Class Timetable**
-Please refer to the semester 1 timetable schedule below:
+Please refer to the 2023 Semester 1 timetable below:
 
 |  |
 |---|
 | [Secondary One](/files/Timetable/2023_Sec-1-timetable.pdf)
-| [[Secondary Two](/files/2023%20Sem1_Class%20-%20Sec%202.pdf)]([Secondary Two](/files/Sec%202%20%20timetable(n).pdf))|
-| [[Secondary Three](/files/2023%20Sem1_Class%20-%20Sec%203.pdf)]([Secondary Three](/files/Sec%203%20%20timetable(n).pdf)) |
-| [[Secondary Four / Five](/files/2023%20Sem1_Class%20-%20Sec%204n5.pdf)]([Secondary Four / Five](/files/Sec%204&5%20%20timetable(n).pdf)) |
+| [Secondary Two](/files/Timetable/2023-Sem1_Class-Sec-2.pdf)
+| [Secondary Three](/files/Timetable/2023-Sem1_Class-Sec-3.pdf)
+| [Secondary Four / Five](/files/Timetable/2023-Sem1_Class-Sec-4.pdf) 
 |
 
 Happy learning!
