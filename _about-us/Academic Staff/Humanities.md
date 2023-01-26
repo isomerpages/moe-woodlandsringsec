@@ -10,7 +10,7 @@ third_nav_title: Academic Staff
 |---|---|---|
 | Mr Chua Chong Guan Roy | HOD / Humanities | [chua_chong_guan_roy@moe.edu.sg](mailto:chua_chong_guan_roy@moe.edu.sg) |
 | Mr Kheng Kok Seong | Year Head ( Lower Sec) | [kheng_kok_seong@moe.edu.sg](mailto:kheng_kok_seong@moe.edu.sg) |
-| Mdm Chan May Peng | SH/ Curriculum | [chan_may_peng@moe.edu.sg](mailto:chan_may_peng@moe.edu.sg) |
+| Mdm Chan May Peng | SSD | [chan_may_peng@moe.edu.sg](mailto:chan_may_peng@moe.edu.sg) |
 | Mrs Rebekah Lim | SH/ Social Studies | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
 | Miss Tan Gek Eng | LH/ Math | [tan_gek_eng@moe.edu.sg](mailto:tan_gek_eng@moe.edu.sg) |
 | Mdm Lim Guat Yen Angelia | Teacher | [lim_guat_yen_angelia@moe.edu.sg](mailto:lim_guat_yen_angelia@moe.edu.sg) |
@@ -21,6 +21,5 @@ third_nav_title: Academic Staff
 | Miss Azyan Binte Azami | Teacher | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 | Miss Ong Wan Ying | Teacher | [ong_wan_ying_a@moe.edu.sg](mailto:ong_wan_ying_a@moe.edu.sg) |
 | Miss Aruna Govind | Teacher | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
-| Mr Andrew Yap Ming Hwee | Teacher | [andrew_yap_ming_hwee@moe.edu.sg](mailto:andrew_yap_ming_hwee@moe.edu.sg) |
 | Mdm Siti Hafizah d/o Subramaniam | Teacher | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
-| 
+|
