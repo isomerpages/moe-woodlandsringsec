@@ -1,5 +1,4 @@
 collections:
   featured-post:
     output: true
-    order:
-      - UPDATE ON UPGRADING PLAN FOR WOODLANDS RING SECONDARY SCHOOL.md
+    order: []
