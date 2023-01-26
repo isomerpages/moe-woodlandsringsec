@@ -22,7 +22,6 @@ third_nav_title: Academic Staff
 | Mr Ariff Bin Abdul Aziz | Teacher |   [ariff_abdul_aziz@moe.edu.sg](mailto:ariff_abdul_aziz@moe.edu.sg) |
 | Ms Chan Cee Teing | Teacher |   [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
 | Miss Lim Ee Teng Elaine | Teacher |   [lim_ee_teng_elaine@moe.edu.sg](mailto:lim_ee_teng_elaine@moe.edu.sg) |
-| Mdm Nurharizah Binte Mohamad Hamzah | Teacher |   [nurharizah_mohamad_hamzah@moe.edu.sg](mailto:nurharizah_mohamad_hamzah@moe.edu.sg) |
 | Miss Aruna Govind | Teacher | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
 | Mr Neo Kai Sheng | Teacher | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
 | Ms Sharon Tan | Teacher | [tan_fang_yu_sharon@moe.edu.sg](mailto:tan_fang_yu_sharon@moe.edu.sg) |
