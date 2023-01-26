@@ -1,0 +1,4 @@
+collections:
+  featured-post:
+    output: true
+    order: []
