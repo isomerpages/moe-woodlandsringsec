@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Featured Posts
           description: Click here for more info
-          url: /featured-posts/
+          url: /folders/featured-post
         - title: Events
           description: No Upcoming Events
           url: /events/
@@ -20,4 +20,3 @@ sections:
           description: Click here for more details
           url: /contact-us/
 ---
-
