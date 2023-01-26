@@ -20,11 +20,10 @@ third_nav_title: Staff
 |  HOD / Mathematics | Miss Tan Wei Yea Angelina | [tan_wei_yea@moe.edu.sg](mailto:tan_wei_yea@moe.edu.sg) |
 | HOD / Humanities | Mr Chua Chong Guan Roy | [chua_chong_guan_roy@moe.edu.sg](mailto:chua_chong_guan_roy@moe.edu.sg) |
 | HOD / ICT | Miss Oei Hun Ling | [oei_hun_ling@moe.edu.sg](mailto:oei_hun_ling@moe.edu.sg) |
-| HOD / Mother Tongue | Mdm Chong Ning Shuang | [chong_ning_shuang@moe.edu.sg](mailto:chong_ning_shuang@moe.edu.sg) |
 | HOD / PE & CCA | Mr Ganesan Nadarajan | [ganesan_nadarajan@moe.edu.sg](mailto:ganesan_nadarajan@moe.edu.sg) |
 | HOD / Science | Mrs Teo – Ong Huei Huey | [ong_huei_huey@moe.edu.sg](mailto:ong_huei_huey@moe.edu.sg) |
 | AYH (Upper Sec) | Mdm Elena Chong Siew Foong | [chong_siew_foong@moe.edu.sg](mailto:chong_siew_foong@moe.edu.sg) |
-| AYH (Lower Sec) | Mrs Chuah Ng Lih Yng | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
+| AYH (Lower Sec) | Mr Chung Yong Kai | [chung_yong_kai@moe.edu.sg](mailto:chung_yong_kai@moe.edu.sg) |
 | SH / Aesthetics | Miss Low Mun Fei | [low_mun_fei@moe.edu.sg](mailto:low_mun_fei@moe.edu.sg) |
 | SH / Chemistry | Mdm Siti Aisah Bte Mohamed Yusop | [siti_aisah_mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg) |
 | Covering SSD / Curriculum | Mdm Chan May Peng | [chan_may_peng@moe.edu.sg](mailto:chan_may_peng@moe.edu.sg) |
