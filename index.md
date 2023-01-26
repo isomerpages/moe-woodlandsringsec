@@ -14,8 +14,8 @@ sections:
           description: Click here for more info
           url: /featured-posts
         - title: Events
-          description: No Upcoming Events
-          url: /events/
+          description: Click here for more info
+          url: /events
         - title: Contact Us
           description: Click here for more details
           url: /contact-us/
