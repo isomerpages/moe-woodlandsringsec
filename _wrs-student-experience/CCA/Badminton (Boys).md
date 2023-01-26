@@ -22,7 +22,7 @@ third_nav_title: CCA
 <td style="width: 21.7778px;" valign="top">
 <h3>:</h3>
 </td>
-<td style="width: 482.222px;" valign="top">Mr Soh Kian Hong (I/C)
+<td style="width: 482.222px;" valign="top">Mr Soh Kian Hong (I/C),<br>
 Mr Fan Ruizhong</td>
 </tr>
 <tr>
