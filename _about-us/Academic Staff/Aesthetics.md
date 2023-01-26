@@ -12,4 +12,5 @@ third_nav_title: Academic Staff
 | Ms Michelle Han Shui Qing | Teacher | [han_shui_qing_michelle@moe.edu.sg](mailto:han_shui_qing_michelle@moe.edu.sg) |
 | Miss Gwendolyn Koh Jianing | Teacher | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
 | Miss Low Xue Zhen (Sheryl) | Teacher | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
-| Mdm Anita Mansor-Long | Teacher | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) ||)|low_xue_zhen@moe.edu.sg |
+| Mdm Anita Mansor-Long | Teacher | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
+|helle@moe.edu.sg)|u.s|
