@@ -95,4 +95,4 @@ third_nav_title: Staff
 |  | Mdm Nor Lizawati Bte Mohd Tahir (LH/EL) | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
 | 4R7 | Mr Adnan Bin Mahmud | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
 |  | Ms Li Zhiping | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
-| 5R1 | Miss Low Xue Zhen (Sheryl | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
+| 5R1 | Miss Low Xue Zhen (Sheryl) | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
