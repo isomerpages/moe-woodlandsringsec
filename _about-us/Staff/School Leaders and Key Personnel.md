@@ -40,5 +40,5 @@ third_nav_title: Staff
 | ST / English Language | Miss Selina Marie Gomez | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | ST / Malay Language | Mdm Memymiswati Bte Chokri | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
 | ST / Physical Education | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
-| ST / Physics | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
+| LT / Physics | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
 |
