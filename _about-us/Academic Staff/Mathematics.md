@@ -23,8 +23,6 @@ third_nav_title: Academic Staff
 | Mr Tok Hong Da | Teacher |   [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
 | Miss Ong Wan Ying | Teacher |   [ong_wan_ying_a@moe.edu.sg](mailto:ong_wan_ying_a@moe.edu.sg) |
 | Mr Jimmy Kong | Teacher | [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
-| Mr Vijayakamalan s/o Kumarsamy | Teacher | [vijayakamalan_kumarsamy@moe.edu.sg](mailto:vijayakamalan_kumarsamy@moe.edu.sg) |
 | Mdm Norhani Binte Samsuri | AED |  – |
 | Mdm Elizabeth Tung Wai Ling | FAJT |   [tung_wai_ling_elizabeth@moe.edu.sg](mailto:tung_wai_ling_elizabeth@moe.edu.sg) |
-| Mdm Sidtharshini d/o Manunethi | FAJT | [sidtharshini_manunethi@moe.edu.sg](mailto:sidtharshini_manunethi@moe.edu.sg) |
-| 
+|
