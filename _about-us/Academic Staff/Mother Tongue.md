@@ -8,9 +8,9 @@ third_nav_title: Academic Staff
 
 | Name | Appointment |  Email Address |
 |---|---|---|
-| Mr Fan Ruizhong | Senior Teacher / CL          | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
+| Ms Chua Kah Hsing | SH/CL | [chua_kah_hsing@moe.edu.sg](mailto:chua_kah_hsing@moe.edu.sg) |
+| Mr Fan Ruizhong | Senior Teacher/CL          | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
 | Ms Li Kaiyuan | Teacher | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
-| Ms Chua Kah Hsing | Teacher | [chua_kah_hsing@moe.edu.sg](mailto:chua_kah_hsing@moe.edu.sg) |
 | Miss Li Zhiping | Teacher | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
 | Mdm Chong Nyok Fang | Teacher | [chong_nyok_fang@moe.edu.sg](mailto:chong_nyok_fang@moe.edu.sg) |
 | Mdm Memymiswati Bte Chokri | Senior Teacher / ML | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
