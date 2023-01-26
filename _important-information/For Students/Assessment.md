@@ -4,22 +4,41 @@ permalink: /important-information/for-students/assesment/
 description: ""
 third_nav_title: For Students
 ---
-### **Assessment Schedule**
-##### **End of Year Examination**
+<!-- wp:tadv/classic-paragraph -->
+<h3 class="wp-block-table is-style-stripes">Weighted Assessment 1 (WA1)</h3>
+<!-- /wp:tadv/classic-paragraph -->
 
-| Schedule of Assessment | Topics/Skills Assessed |
-|---|---|
-| [Sec 1 Exp Schedule](/files/sec1%20exp.pdf)<br>[Sec 1 NA Schedule](/files/sec%201%20na.pdf)<br>[Sec 1 NT Schedule](/files/sec%201%20nt.pdf) | [Sec 1 Exp TOS](/files/sec%201%20exp%20to.pdf)<br>[Sec 1 NA TOS](/files/sec%201%20na%20to.pdf)<br>[Sec 1 NT TOS](/files/sec%201%20nt%20to.pdf) |
-| [Sec 2 Exp Schedule](/files/sec%202%20exp.pdf)<br>[Sec 2 NA Schedule](/files/sec%202%20na.pdf)<br>[Sec 2 NT Schedule](/files/sec%202%20nt.pdf) | [Sec 2 Exp TOS](/files/sec%202%20exp%20to.pdf)<br>[Sec 2 NA TOS](/files/sec%202%20na%20to.pdf)<br>[Sec 2 NT TOS](/files/sec%202%20nt%20to.pdf) |
-| [Sec 3 Exp Schedule](/files/sec%203%20exp.pdf)<br>[Sec 3 NA Schedule](/files/sec%203%20na.pdf)<br>[Sec 3 NT Schedule](/files/sec%203%20nt.pdf) | [Sec 3 Exp TOS](/files/sec%203%20%20exp%20to.pdf)<br>[Sec 3 NA TOS](/files/sec%203%20na%20to.pdf)<br>[Sec 3 NT TOS](/files/sec%203%20%20nt%20to.pdf) |
-| [Sec 3 EL & MTL Oral Schedule](/files/Sec-3-ELMTL-Oral-Exam-Schedule.pdf) |   |
-|
-
-| Schedule of Preliminary Exam (‘N’ Level) |
-|:---:|
-| [Sec 4 NA](/files/sec%204%20na.pdf) |
-| [Sec 4 NT](/files/sec%204%20nt.pdf) |
-| **Schedule of Preliminary Exam (‘O’ Level)** |
-| [Sec 4NA (Student offering ‘O’ Level Subject/s)](/files/Sec-4NA-SBB-Prelim-Schedule-26-July.pdf) |
-| [Sec 4Exp & 5NA](/files/Sec-4E5NA-Prelim-Schedule-22-Aug.pdf) |
-|
+<!-- wp:tadv/classic-paragraph -->
+<figure class="wp-block-table is-style-stripes">
+<table style="width: 100%; height: 288px;">
+<tbody>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 51.5517%;"><strong>Schedule of Assessment</strong></td>
+<td style="height: 36px; width: 48.2759%;"><strong>Topics/Skills Assessed</strong></td>
+</tr>
+<tr style="height: 101px;">
+<td style="width: 51.5517%; height: 94px;">
+<p><a href="https://drive.google.com/file/d/1UkNlD23-MlaapuVEPdzUOZgFAc6UUDf4/view?usp=share_link">Secondary 2</a></p>
+</td>
+<td style="width: 48.2759%; height: 94px;">
+<p><a href="https://drive.google.com/file/d/1s1QVEvGqlPA39B7RXeG1eyu93jT1XJp7/view?usp=share_link">Sec 2 Exp TOS</a></p>
+<p><a href="https://drive.google.com/file/d/1KFsT-QgysVNxeG_KiAGutZ7sHidoRZzh/view?usp=share_link">Sec 2 NA TOS</a></p>
+<p><a href="https://drive.google.com/file/d/1Zpd1RIQTaAe_s4f6WpRgd4omF65GfCbk/view?usp=share_link">Sec 2 NT TOS</a></p>
+</td>
+</tr>
+<tr style="height: 158px;">
+<td style="width: 51.5517%; height: 158px;">
+<p><a href="https://drive.google.com/file/d/1MREp5ZoUyEV6FMYczMpMcZRzKdocLUVF/view?usp=share_link">Secondary 3</a></p>
+</td>
+<td style="width: 48.2759%; height: 158px;">
+<p><a href="https://drive.google.com/file/d/1qBjIFG6_h1ir9cM9lbGQ6wbpch3u8n7-/view?usp=share_link">Sec 3 Exp TOS</a></p>
+<p><a href="https://drive.google.com/file/d/1T2NFWJG4M01wt8TCZQAVeLhCfCWcKhnF/view?usp=share_link">Sec 3 NA TOS</a></p>
+<p><a href="https://drive.google.com/file/d/1m1hrfsLuEyEHTVz6RmwA58rQAwr9XMKY/view?usp=share_link">Sec 3 NT TOS</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h3> </h3>
+<figure class="wp-block-table is-style-stripes"></figure>
+<!-- /wp:tadv/classic-paragraph -->
