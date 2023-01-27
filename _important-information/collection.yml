@@ -2,7 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - For Students/Class Timetable 2.md
       - For Students/School Uniform.md
       - For Students/Calendar.md
       - For Students/An Evening with Parents.md
