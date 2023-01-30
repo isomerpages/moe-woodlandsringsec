@@ -19,4 +19,4 @@ third_nav_title: For Students
 
 <img src="/images/Important Links/WRSS NLB.jpg" style="width:85%">
 
-[**NLB eresources**](https://schoolibrary.moe.edu.sg/woodlandsringsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+[**NLB eRead**](https://eresources.nlb.gov.sg/ereads/)
