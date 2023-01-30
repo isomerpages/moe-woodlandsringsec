@@ -18,7 +18,3 @@ MRT Services:
 -------------
 Nearest MRT Station: Admiralty MRT
 {google_map}1.4364201,103.7985401{/google_map}
-
-
-    
-				
