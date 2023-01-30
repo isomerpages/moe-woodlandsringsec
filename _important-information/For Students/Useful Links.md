@@ -9,9 +9,9 @@ third_nav_title: For Students
 
 
 
-<img src="/images/Important Links/WRSS SLS1.jpg" style="width:85%">[**Student Learning Space**](https://vle.learning.moe.edu.sg/login)
+<img src="/images/Important Links/WRSS SLS1.jpg" style="width:74%">[**Student Learning Space**](https://vle.learning.moe.edu.sg/login)
 
-<img src="/images/Important Links/WRSS ICON.jpg" style="width:80%">[**Student ICON**](https://workspace.google.com/)
+<img src="/images/Important Links/WRSS ICON.jpg" style="width:77%">[**Student ICON**](https://workspace.google.com/)
 
 <img src="/images/Important Links/WRSS Skills.jpg" style="width:85%">[**Myskillsfuture Portal**](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
