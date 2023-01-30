@@ -4,7 +4,7 @@ title: Woodlands Ring Secondary School
 description: Brief site description here
 image: /images/logo.gif
 permalink: /
-notification: ""
+notification: Welcome to Woodlands Ring Secondary School
 sections:
   - hero:
       title: Woodlands Ring Secondary School
