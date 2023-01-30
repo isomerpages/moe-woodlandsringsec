@@ -25,7 +25,7 @@ description: ""
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 #### **Overview of Woodlands Ring Secondary School’s Sexuality Education Programme for 2023**
-4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click[here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include:
 
@@ -45,7 +45,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 ##### **eTeens Programme:**
 8._eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions. Please click [here](https://drive.google.com/file/d/1-6TLG0265kMzZ5Xhv3FKB8q_ov3LDYlj/view?usp=share_link)for more details on the eTeens programme.
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions. Please click [here] (https://drive.google.com/file/d/1-6TLG0265kMzZ5Xhv3FKB8q_ov3LDYlj/view?usp=share_link)for more details on the eTeens programme.
 
 ##### **Information for Parents**
 10\. Parents may opt their children out of the Sexuality Education lessons and/or _eTeens_ programmes.
