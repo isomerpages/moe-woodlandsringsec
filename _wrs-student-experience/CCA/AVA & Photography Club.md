@@ -33,7 +33,7 @@ third_nav_title: CCA
 <h3>:</h3>
 </td>
 <td style="width: 65.285%;">
-<p>Our club consists of close to 40 passionate members who have worked towards embracing the spirit of professionalism that the club espouses. It operates primarily as a support platform, assisting the school in terms of providing professional AV and photography support during events (click [here](https://drive.google.com/file/d/1QGU7LWLYejPQdUIuPdeRcg36SL9MCy51/view?usp=share_link) to download event support request form) . In addition to this, the club also performs collaborative work with the different CCAs.</p>
+<p>Our club consists of close to 40 passionate members who have worked towards embracing the spirit of professionalism that the club espouses. It operates primarily as a support platform, assisting the school in terms of providing professional AV and photography support during events (click [here](https://drive.google.com/file/d/1QGU7LWLYejPQdUIuPdeRcg36SL9MCy51/view?usp=share_link) to download event support request form). In addition to this, the club also performs collaborative work with the different CCAs.</p>
 <p>There are two broad areas which we focus on:</p>
 <ol>
 <li>Audio-Visual Support</li>
