@@ -49,7 +49,7 @@ third_nav_title: Staff
 | 2R6 | Mr Tan Gim Yong (Justin) | [tan_gim_yong@moe.edu.sg](mailto:tan_gim_yong@moe.edu.sg) |
 |  | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
 | 2R7 | Mr Zulhafiz Bin Zainal (SH/ML covering) | [zulhafiz_zainal@moe.edu.sg](mailto:zhlhafiz_zainal@moe.edu.sg) |
-|  | Ms Gwendolyn Koh Jianing | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
+|  | Miss Gwendolyn Koh Jianing | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
 | 
 
 #### **Year Heads for Upper Secondary**
