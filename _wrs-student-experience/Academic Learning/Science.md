@@ -13,32 +13,66 @@ WRS seeks to provide opportunities for students to acquire 21st Century Competen
 
 The following are some platforms designed to engage students in scientific inquiry.
 
-**(1) School-wide programme**<br>
+**(1) School-wide programmes**<br>
 All students are engaged in the assembly programmes that showcase science demonstrations and provides opportunities for students to apply their scientific concepts to explain daily phenomena.
 
-**(2) Level-wide programme**<br>
+**(2) Level-wide programmes**<br>
 All Secondary 1 to 3 students are engaged in scientific investigation and /or research projects which aims to develop critical and inventive thinking, collaboration and communication skills. Students are engaged in collaborative projects to investigate phenomena, analyse data and present their findings.
 
 **(3) Talent Development programme**<br>
-In 2022 (Term 1), Sec 1 Science TDP students participated in the Cardboard 
+The department also believes in providing opportunities for students with an aptitude for the subject to immerse themselves in scientific research and real-world applications of Science to foster their love for the subject. Through our Talent Development programme (TDP), students develop 21st century competencies such as critical and inventive thinking, and communication, collaboration and information skills.
 
-Challenge activity. Each group of students was required to create a chair using only carboard without any types of adhesive material (e.g., glue, tape
+In 2022 (Term 1), Sec 1 Science TDP students participated in the Cardboard Challenge activity. Each group of students was required to create a chair using only carboard without any types of adhesive material (e.g., glue, tape). 
 
 <img src="/images/sci1.jpg" style="width:85%">
 
-On 28 April 2022, Secondary 1 Science TDP students celebrated World DNA Day through learning to extract DNA from strawberry
+On 28 April 2022, Secondary 1 Science TDP students celebrated World DNA Day through learning to extract DNA from strawberry.
 
 <img src="/images/sci2.jpg" style="width:85%">
+<img src="/images/sci3.jpg" style="width:85%">
 
 The DNA extraction kits used in the workshop were generously provided by Illumina Singapore.
 
-<img src="/images/sci3.jpg" style="width:85%">
+In 2022, the Science TDP students also participated in the following competitions and the results are as shown below:
 
-2021 TDP students participated in the following competitions and the results are as shown:
+![](/images/Capture.png)
 
-<img src="/images/sci4.jpg" style="width:85%">
+**20th Elementz Science Project Competition**
+![](/images/Picture1.jpg)
 
-**need help with these hyperlink** @jackson
+**Science Buskers Festival**
+![](/images/Pic%203.png)
+
+**Swift Explorer Singapore**
+![](/images/Pic%204.png)
+
+![](/images/Pic%205.png)
+
+#### Electronics ####
+
+Electronics is offered as an O-Level subject in our school. This subject aims to provide students with an understanding of the fundamental working of electronic components and systems, as well as engineering design process. It provides a broad-based foundation for further studies in electronics, engineering and related fields.
+
+Students will have hands-on practical to understand circuits and their functionality. Students not only build prototype circuits but also use computer simulation software to investigate and verify their designs.  
+
+Through coursework projects, students are exposed to engineering design that requires troubleshooting and problem-solving skills. Such exposure enables students to apply the acquired knowledge in an authentic context that allows students to integrate and link what they have learnt across different topics. 
+
+![](/images/Pic11.png)
+
+#### Mobile Robotics ####
+
+Mobile Robotics is offered to Upper Secondary School Normal Technical students in our school.  It focuses on the design, construction, and control of mobile robots. The subject provides students with hands-on experience in building their own robots and lays the foundation for further studies in the field of mechatronics engineering or related fields.
+
+![](/images/Pic%206.png)
+
+Students will learn the basics of electronics and robot design, as well as develop problem-solving and critical thinking skills through hands-on projects and activities. The subject also covers the impact of automated technology on society and its changing nature. It provides students with the essential knowledge and skills that can be useful in pursuing further studies in the field of Robotics.
+
+In 2022, selected Mobile Robotics students from the inaugural Mobile Robotics Talent Programme participated in two competitions, namely the ITE Ignite Challenge and the National Robotics Competition. Students built and coded mobile robots with sensors and actuators to solve problems for authentic tasks such as rescue missions. They had also demonstrated and communicated their ideas and learnings to external judges. As a result of their efforts, they clinched the following awards:
+- 3rd Prize for the Sense Time Autonomous Challenge (ITE Ignite)
+- Judges Award (Most Futuristic Robot) (National Robotics Competition)
+
+![](/images/Pic%202.png)
+
+#### S.C.I.E.N.C.E. ####
 
 [**S**TIMULATES](https://woodlandsringsec.moe.edu.sg/science/#stimulates) passion for learning
 
