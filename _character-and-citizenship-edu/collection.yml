@@ -1,0 +1,11 @@
+collections:
+  character-and-citizenship-edu:
+    output: true
+    order:
+      - Education and Career Guidance.md
+      - Sexuality Education.md
+      - The Edusave Character Award (ECHA).md
+      - Student Leadership Development/Student Leadership Programme.md
+      - Student Leadership Development/Student Leadership Challenge Workshop
+        2019.md
+      - Student Leadership Development/.keep

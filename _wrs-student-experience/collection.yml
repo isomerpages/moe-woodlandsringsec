@@ -1,0 +1,41 @@
+collections:
+  wrs-student-experience:
+    output: true
+    order:
+      - Academic Learning/Teaching and Learning Framework.md
+      - Academic Learning/English Language & Literature.md
+      - Academic Learning/Chinese Language.md
+      - Academic Learning/Malay Language.md
+      - Academic Learning/Mathematics.md
+      - Academic Learning/Humanities.md
+      - Academic Learning/Science.md
+      - Academic Learning/Craft & Technology.md
+      - Academic Learning/Physical Education.md
+      - Academic Learning/.keep
+      - Character and Citizenship Edu/.keep
+      - Global Classroom Experience/China.md
+      - Global Classroom Experience/Central Java.md
+      - Global Classroom Experience/Thailand.md
+      - Global Classroom Experience/.keep
+      - Applied Learning Programme.md
+      - CCA/.keep
+      - CCA/Media Resource Library Club.md
+      - CCA/AVA & Photography Club.md
+      - CCA/English Drama Club.md
+      - CCA/Robotics.md
+      - CCA/Basketball (Boys).md
+      - CCA/Badminton (Boys).md
+      - CCA/Hockey (Boys).md
+      - CCA/Softball (Boys).md
+      - CCA/Netball (Girls).md
+      - CCA/Volleyball (Girls).md
+      - CCA/Modern Dance.md
+      - CCA/Cultural Dance (Chinese & Malay Dance).md
+      - CCA/Choir.md
+      - CCA/Guzheng Ensemble.md
+      - CCA/Concert Band.md
+      - CCA/National Cadet Corps (NCC).md
+      - CCA/National Police Cadet Corps (NPCC).md
+      - CCA/National Civil Defence Cadet Corps (NCDCC).md
+      - Learning for Life Programme.md
+      - Aesthetics Education Programme.md

@@ -1,0 +1,9 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Subject Offerings for 2022 Sec 3.md
+      - Letters to Parents.md
+      - Holiday Learning Tasks.md
+      - Teach The Child Programme (TTCP).md
+      - 2022 Secondary 3 Subject Combination and Class Allocation.md

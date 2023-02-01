@@ -1,0 +1,191 @@
+---
+title: National Cadet Corps (NCC)
+permalink: /wrs-student-experience/cca/ncc/
+description: ""
+third_nav_title: CCA
+---
+<table style="width: 82.3343%; height: 3516px;">
+<tbody>
+<tr style="height: 88px;">
+<td style="width: 29.6081%; height: 88px;">
+<h3>Name of CCA</h3>
+</td>
+<td style="width: 2.90276%; height: 88px;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 88px;">National Cadet Corps (NCC)</td>
+</tr>
+<tr style="height: 123px;">
+<td style="width: 29.6081%; height: 123px;">
+<h3>Name of Teachers</h3>
+</td>
+<td style="width: 2.90276%; height: 123px;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 123px;"><span style="font-weight: 400;">Mr Malcom Tan Shih Lung</span> (Commanding Officer)<br>
+Mr Neo Kai Sheng (Training Officer)<br>
+Mdm Sri Ratinawati Bte Hussein (Training Officer)<br>
+Mdm Low Xue Zhen Sheryl (Training Officer)<br>
+Mr Tok Wei Xian Eugene (Training Officer)</td>
+</tr>
+<tr style="height: 529px;">
+<td style="width: 29.6081%; height: 394px;" valign="top">
+<h3>About the CCA</h3>
+</td>
+<td style="width: 2.90276%; height: 394px;" valign="top">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 394px;" valign="top">The NCC Syllabus is gradual and progressive. It aims to provide a diverse range of challenging and enriching activities. The five broad objectives of our activities are <strong>Character Building, National Education, Adventurous Spirit, Leadership and Military Awareness. </strong>
+
+NCC is guided by <strong>3 thrusts</strong> – Leadership, Fitness and Commitment to Singapore and is driven by <strong>8 core values</strong> – Loyalty to Country, Uprightness, Leadership, Discipline, Commitment &amp; Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.
+
+NCC has a Leadership Competency Model (LCM) that ensures cadets are equipped with sound leadership skills at the end of 4 to 5 years.
+
+During their 1<sup>st</sup> year, cadets learn basic military knowledge and skills such as the history and role of SAF and NCC, as well as skills such as SAR 21 weapon handling and individual field crafts. NCC HQ also organises Camp FORGE to build confidence in the cadets through adventure elements.
+
+During their 2<sup>nd</sup> year, cadets will attend another adventure camp called Camp STEEL which focuses on the value of teamwork. Cadets will also learn life skills and build up their ruggedness through other adventure activities such as Basic Orienteering Course and 1-Star Kayaking Course.
+
+During their 3<sup>rd</sup> and 4<sup>th</sup> / 5<sup>th</sup> year, cadets will be given the opportunity to plan and execute training programmes. The aim is to allow the cadets to pick up leadership skills under the guidance of teacher officers. To ensure that the cadets can impart the necessary military knowledge on SAR 21 rifle and individual field crafts confidently, NCC conducts Specialist Assessment in which they earn the rank of third sergeant and the Army-NCC badge. Outstanding cadets will attend the Senior Specialist Leaders Course and they can look forward to becoming key appointment holders in the school’s NCC unit.
+
+All cadets are encouraged to learn freestyle drill and precision drill movements which build teamwork and resilience. Besides having a chance to participate in Freestyle Drill Competition and Precision Drill Squad Competition, cadets also perform at school-based events such as Total Defence Day Commemoration and National Day Celebration.
+
+In line with the school’s strategic thrust of Character Excellence, the NCC unit also embarks on meaningful service-learning project each year to inculcate in cadets, a sense of responsibility to their immediate community, and to enable them to understand that they too can become active contributors to their society</td>
+</tr>
+<tr style="height: 529px;">
+<td style="width: 29.6081%; height: 481px;" valign="top">
+<h3>Achievement(s)</h3>
+</td>
+<td style="width: 2.90276%; height: 481px;" valign="top">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 481px;" valign="top"><b>2022</b>
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved </span><b>DISTINCTION</b><span style="font-weight: 400;"> in Unit Recognition&nbsp;</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved National Champion in Freestyle Exhibition Drill (FSD) Competition&nbsp;</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved National Champion in Precision Drill Squad (PDS) Competition</span></li>
+</ul>
+<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><b>2021</b></span></span>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>Achieved <strong>DISTINCTION</strong> in Unit Recognition</li>
+ 	<li>Achieved 2<sup>nd</sup> Runner Up in the NCC120 TikTok Challenge</li>
+</ul>
+</li>
+</ul>
+<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><b>2005 - 2019</b></span>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved </span><b>GOLD</b><span style="font-weight: 400;"> award in the annual Best Unit Competition from 2005 to 2017</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Conferred the </span><b>CM Philips Award </b><span style="font-weight: 400;">by NCC HQ for obtaining 10 consecutive GOLD awards in the Best Unit Competition from 2005 to 2014&nbsp;</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved </span><b>DISTINCTION</b><span style="font-weight: 400;"> in Unit Recognition </span><span style="font-weight: 400;">since </span><span style="font-weight: 400;">2018 (replaced Best Unit Competition from 2018)&nbsp;</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved National Champion in the Precision Drill Squad Competition in 2016 and 2018</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved National 2nd Runner-up in the Precision Drill Squad Competition in 2017 and 2019</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved 3</span><span style="font-weight: 400;">rd</span><span style="font-weight: 400;"> position in the Orienteering Competition in 2018 and 2019</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieved 3rd position in Sports Championship (Frisbee) in 2019</span></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 65px;">
+<td style="width: 29.6081%; height: 65px;">
+<h3>Frequency of CCA</h3>
+</td>
+<td style="width: 2.90276%; height: 65px;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 65px;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><b>&nbsp;</b></span></td>
+</tr>
+<tr style="height: 65px;">
+<td style="width: 29.6081%; height: 65px;">
+<h3><b>School Term</b><b></b></h3>
+</td>
+<td style="width: 2.90276%; height: 65px;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 65px;">Every Friday from 2.30 to 5.30 pm</td>
+</tr>
+<tr style="height: 200px;">
+<td style="width: 29.6081%; height: 200px; vertical-align: top;">
+<h3>School Holiday</h3>
+</td>
+<td style="width: 2.90276%; height: 200px; vertical-align: top;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 200px;">
+<ul>
+ 	<li>March holiday: Camp VALUES (for all Sec 1 cadets)</li>
+ 	<li>March holiday: 1-Star Kayaking Course (for all Sec 2 cadets)</li>
+ 	<li>June holiday Week 4: Senior Specialist Leaders Course (for selected Sec 3 cadets)</li>
+ 	<li>September Holiday: Senior Specialist Leaders Course (for selected Sec 3 cadets)</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 176px;">
+<td style="width: 29.6081%; height: 165px; vertical-align: top;">
+<h3>Others</h3>
+</td>
+<td style="width: 2.90276%; height: 165px; vertical-align: top;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 165px;">
+<ul>
+ 	<li>SAR 21 Weapon Handling &amp; Shooting Classification</li>
+ 	<li>1-Star Kayaking Course</li>
+ 	<li>Basic Orienteering Course</li>
+ 	<li>Freestyle Drill &amp; Precision Drill Practice for competitions</li>
+</ul>
+Parents / Guardians will be informed through Parents Gateway or the issue of information sheets</td>
+</tr>
+<tr style="height: 255px;">
+<td style="width: 29.6081%; height: 255px; vertical-align: top;">
+<h3>Expenses to be borne by students</h3>
+</td>
+<td style="width: 2.90276%; height: 255px; vertical-align: top;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 255px;">All cadets are provided with two sets of NCC uniforms (free of charge). They are allowed to do kit-exchange at the beginning of each year for misfit sizes or worn-off items. However, they have to bear the full cost for any lost item. Courses such as 1-Star Kayaking and Basic Orienteering will be co-paid between school and students through Edusave account or by cash (for PR/non-Singaporean). FAS students will be subsidised.</td>
+</tr>
+<tr style="height: 377px;">
+<td style="width: 29.6081%; height: 377px; vertical-align: top;">
+<h3>Targeted Student Profile</h3>
+</td>
+<td style="width: 2.90276%; height: 377px; vertical-align: top;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 377px;">While some activities can be strenuous, they are gradual and progressive. All teacher officers take a serious view on the well-being and safety of every cadet. Cadets will be challenged by choice to carry out any activity, and teacher officers will provide the necessary guidance and support.
+
+Cadets with a positive mindset will gain meaningful and enjoyable learning experiences.
+All teacher officers are committed to monitoring the well-being and holistic development of every cadet to ensure a good balance between studies and NCC activities</td>
+</tr>
+<tr style="height: 123px;">
+<td style="width: 29.6081%; height: 123px;">
+<h3>CCA Trial Procedures</h3>
+</td>
+<td style="width: 2.90276%; height: 123px;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 123px;">The selection process will include an interview.</td>
+</tr>
+<tr style="height: 123px;">
+<td style="width: 29.6081%; height: 123px;">
+<h3>Target number of students</h3>
+</td>
+<td style="width: 2.90276%; height: 123px;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 123px;"><span style="font-weight: 400;">14 cadets</span></td>
+</tr>
+<tr style="height: 1057px;">
+<td style="width: 29.6081%; height: 1057px; vertical-align: top;">
+<h3>Photos</h3>
+</td>
+<td style="width: 2.90276%; height: 1057px; vertical-align: top;">
+<h3>:</h3>
+</td>
+<td style="width: 66.0377%; height: 1057px;"><img class="alignnone wp-image-6891 size-full" src="https://woodlandsringsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2021/01/NCC-scaled.jpg" alt="Ncc" width="1097" height="2560"></td>
+</tr>
+</tbody>
+</table>

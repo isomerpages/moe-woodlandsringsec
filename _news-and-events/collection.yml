@@ -1,0 +1,50 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - WRS In the News.md
+      - Activities in 2017/.keep
+      - Activities in 2017/Activities in 2017.md
+      - Activities in 2017/Community Morning.md
+      - Activities in 2017/eXperiential Week.md
+      - Activities in 2018/.keep
+      - Activities in 2018/January.md
+      - Activities in 2018/February.md
+      - Activities in 2018/March.md
+      - Activities in 2018/April.md
+      - Activities in 2018/June.md
+      - Activities in 2018/July.md
+      - Activities in 2018/August.md
+      - Activities in 2018/September.md
+      - Activities in 2019/.keep
+      - Activities in 2019/January.md
+      - Activities in 2019/February.md
+      - Activities in 2019/June.md
+      - Activities in 2019/July.md
+      - Activities in 2019/August.md
+      - Activities in 2019/September.md
+      - Activities in 2019/October.md
+      - Activities in 2020/.keep
+      - Activities in 2020/January.md
+      - Activities in 2020/February.md
+      - Activities in 2020/April.md
+      - Activities in 2020/July.md
+      - Activities in 2020/August.md
+      - Activities in 2020/September.md
+      - Activities in 2020/October.md
+      - Activities in 2021/.keep
+      - Activities in 2021/January.md
+      - Activities in 2021/February.md
+      - Activities in 2021/March.md
+      - Activities in 2021/May.md
+      - Activities in 2021/July.md
+      - Activities in 2021/August.md
+      - Activities in 2021/September.md
+      - Activities in 2021/October.md
+      - Activities in 2022/.keep
+      - Activities in 2022/January.md
+      - Activities in 2022/February.md
+      - Activities in 2022/March.md
+      - Activities in 2022/July.md
+      - Activities in 2023/January.md
+      - Activities in 2023/.keep
