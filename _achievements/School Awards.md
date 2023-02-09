@@ -14,7 +14,9 @@ description: ""
 | 2013 | Total Defence Award (Distingushed) |<img src="/images/sch%20award%205.png" style="width:75%">  |
 | 2017 | BCA Green Mark GoldPLUS Award | <img src="/images/sch%20award%206.png" style="width:85%">|
 | 2018 | North West Outstanding School Partner Award (Bronze) |<img src="/images/sch%20award%207.png" style="width:85%"> |
-|  | School’s Green Audit Award – Yellow Flame Award | ![](/images/sch%20award%208.png) |
-| 2019 | School’s Green Audit Award – Yellow Flame Award | ![](/images/sch%20award%209.png) |
-| 2021 | School’s Green Audit Award – Yellow Flame Award | ![](/images/sch%20award%2010.png) |
+|  | School’s Green Awards – Yellow Flame Award | ![](/images/sch%20award%208.png) |
+| 2019 | School’s Green Awards – Yellow Flame Award | ![](/images/sch%20award%209.png) |
+| 2021 | School’s Green Awards – Yellow Flame Award | ![](/images/sch%20award%2010.png) |
+| 2022 | Green Living Awards – Gold | [](/images/sch%20award%2010.png) |
+
 |
