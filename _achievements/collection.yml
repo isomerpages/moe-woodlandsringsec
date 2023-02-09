@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Science Talent Dev Programme/.keep
       - School Awards.md
       - Lee Kuan Yew Special Awards.md
       - Awards for Alumni/2022.md
