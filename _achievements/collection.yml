@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Science Talent Dev Programme/2017.md
       - Science Talent Dev Programme/2018.md
       - Science Talent Dev Programme/2019.md
       - Science Talent Dev Programme/2020.md
