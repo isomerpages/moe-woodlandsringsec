@@ -30,11 +30,11 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Ms Syahirah Binte Rosli | Technical Support Officer |
 | Mdm Zubaidah Saat | AED (Learning & Behaviour Support) |
 | Mr Soh Kee Seng | ICT Manager |
-| Miss Siti Nurbaiyah Binte Jaffar | ICT Manager |
+| Ms Siti Nurbaiyah Binte Jaffar | ICT Manager |
 | Mr Logindran A/L Balachandran | DE (IT) |
 | Mr Muhammad Lufti Bin Zaidi | DE (IT) |
 |  Mdm Aspalela Binte Salim | Library Assistant |
 |  Mdm Gervry D/O Raguvaran | Teacher Assistant (Discipline) |
-|  Miss Azhra Begum D/O Peer Mohamed | Teacher Assistant (Discipline) |
+|  Mdm Azhra Begum D/O Peer Mohamed | Teacher Assistant (Discipline) |
 | Ms Lindi Liau Mui Huah | Admin Assistant |
 |
