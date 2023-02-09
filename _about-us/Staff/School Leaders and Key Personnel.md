@@ -34,11 +34,11 @@ third_nav_title: Staff
 | SH / Social Studies | Mrs Rebekah Lim | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
 | SH / Student Behaviour Management | Mr Tan Yu Wei Joshua | [tan_yu_wei_joshua@moe.edu.sg](mailto:tan_yu_wei_joshua@moe.edu.sg) |
 | SH / Student Leadership | Miss Lim Hwee Ee | [lim_hwee_ee@moe.edu.sg](mailto:lim_hwee_ee@moe.edu.sg) |
-| Covering AYH / Geography | Mr Chung Yong Kai | [chung_yong_kai@moe.edu.sg](mailto:chung_yong_kai@moe.edu.sg) |
+| LT / Mathematics | Mr Jason Charles Ingham | [jason_ingham@moe.edu.sg](mailto:jason_ingham@moe.edu.sg) |
+| LT / Physics | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
 | ST / Chinese Language | Mr Fan Ruizhong | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
 | ST / Design & Technology | Mr Loy Liang Teck | [loy_liang_teck@moe.edu.sg](mailto:loy_liang_teck@moe.edu.sg) |
 | ST / English Language | Miss Selina Marie Gomez | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | ST / Malay Language | Mdm Memymiswati Bte Chokri | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
 | ST / Physical Education | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
-| LT / Physics | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
 |
