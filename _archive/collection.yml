@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Science Talent Development Programme.md
       - Subject Offerings for 2022 Sec 3.md
       - Letters to Parents.md
       - Holiday Learning Tasks.md
