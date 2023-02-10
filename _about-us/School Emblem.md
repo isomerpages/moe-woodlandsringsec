@@ -15,10 +15,10 @@ for a brighter future.
 
 **“W”** in the shape of a pair of hands signifies the firm and<br>
 warm support for growth and<br>
-develops the potential of every pupil.
+develops the potential of every student.
 
 **“R”** represented by the ring encompassing the 5 pointed stars<br>
-symbolizes a bright, balanced and wholesome person nurtured<br>
+symbolises a bright, balanced and wholesome person nurtured<br>
 in a continuous warm and caring environment.<br>
 Each point of the star represents a dimension of growth,<br>
 the cognitive, physical, social, moral and aesthetic domains.

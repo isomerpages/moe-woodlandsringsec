@@ -45,7 +45,7 @@ third_nav_title: Staff
 | 2R4 | Miss Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 |  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
 | 2R5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
-|  | Mdm Anita Bte Mansor   | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
+|  | Mrs Anita Long   | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
 | 2R6 | Mr Tan Gim Yong (Justin) | [tan_gim_yong@moe.edu.sg](mailto:tan_gim_yong@moe.edu.sg) |
 |  | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
 | 2R7 | Mr Zulhafiz Bin Zainal (SH/ML covering) | [zulhafiz_zainal@moe.edu.sg](mailto:zhlhafiz_zainal@moe.edu.sg) |
@@ -89,7 +89,7 @@ third_nav_title: Staff
 | 4R3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
 |  | Mdm Chong Nyok Fang | [chong_nyok_fang@moe.edu.sg](mailto:chong_nyok_fang@moe.edu.sg) |
 | 4R4 | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
-| 4R5 | Mr Toh Hong Da | [toh_hong_da@moe.edu.sg](mailto:toh_hong_da@moe.edu.sg) |
+| 4R5 | Mr Tok Hong Da | [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
 |  | Mr Ariff Bin Abdul Aziz | [ariff_abdul_aziz@moe.edu.sg](mailto:ariff_abdul_aziz@moe.edu.sg) |
 | 4R6 | Mr Yeoh Sin Hui (Felix) (SH/Education Support) | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
 |  | Mdm Nor Lizawati Bte Mohd Tahir (LH/EL) | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
