@@ -79,10 +79,6 @@ Through our programmes, we aim to equip our students with 21st Century Competenc
 
 <img src="/images/cnt3.jpg" style="width:85%">
 
-##### **APS FUSION FIESTA**
-
-On 30 October 2019, our students, Chiw Wen Zhe Darius (Class 2-1), Fariha Iyshah Binte Mohammed Fauzi (Class 2-2) and Abdul Hadi Bin Abdul Rasid (Class 2-4) participated in APS Fusion Fiesta ‘Local Flavours’ Baking Competition. The competition was hosted by Assumption Pathway School Baking Practices Department as part of their annual Income OrangeAid APS Challenge. Through this competition, our students gained exposure and out-of-classroom experience to hone their culinary skills in cookie and cake-making. They endeavoured in concocting unique recipes of cookies and cake to prepare a fusion of local flavours that was presented before the judges. Our students expressed their creativity confidently. It was a remarkable learning experience for them to have overcome considerable pressure from 29 other schools and Make their Mark through resilience to perform at their best in this competition. We are very proud of our students to be awarded the consolation prize for this competition which includes a trophy and food vouchers.
-
 <img src="/images/cnt4.jpg" style="width:85%">
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/7yLiDcYi8MU" title="C&T" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
