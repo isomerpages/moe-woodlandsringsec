@@ -68,7 +68,7 @@ Learning programmes:
 
 <img src="/images/cnt2.jpg" style="width:85%">
 
-##### **F&N Upper Secondary Curriculum**
+##### **NFS Upper Secondary Curriculum**
 
 Nutrition and Food Science (NFS) is an elective subject offered to students at the Upper Secondary levels. It is an extension of the Lower Secondary subject, Food and Consumer Education (FCE). NFS helps to develop students’ understanding of concepts related to nutrition and meal planning which is helpful to them as well as others whom they can advise. It also focusses on developing their understanding of principles of food science and ultimately understanding the link between diet and health.
 
