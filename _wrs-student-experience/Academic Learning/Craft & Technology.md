@@ -79,6 +79,5 @@ Through our programmes, we aim to equip our students with 21st Century Competenc
 
 <img src="/images/cnt3.jpg" style="width:85%">
 
-<img src="/images/cnt4.jpg" style="width:85%">
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/7yLiDcYi8MU" title="C&T" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
