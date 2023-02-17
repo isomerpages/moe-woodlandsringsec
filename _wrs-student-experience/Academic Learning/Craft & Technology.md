@@ -10,7 +10,7 @@ third_nav_title: Academic Learning
 Nurture Critical and Inventive Thinkers
 
 ##### **Mission:**  
-Cultivate critical literacy and an appreciation for Design and Technology (D&T), Food and Consumer Education (FCE) and Food and Nutrition (F&N).
+Cultivate critical literacy and an appreciation for Design and Technology (D&T), Food and Consumer Education (FCE) and Nutrition and Food Science (NFS).
 
 #### **Department Goals:**
 1\. Cultivate and acquire a range of cognitive skills and abilities to participate in solving a variety of real-world problems, and enriching learning experiences.
