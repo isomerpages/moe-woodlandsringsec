@@ -13,7 +13,13 @@ To learn more about Care Corner PSS, visit their website: [https://www.carecorne
 
 ##### **What is Triple P ?**
 
-The Positive Parenting Programme is a parenting and family support strategy designed to prevent behavioural and emotional problems in children.
+The Positive Parenting Programme is an evidence-based programme that aims to:
+
+* Prevent behavioural, emotional and developmental problems in children
+
+* Enhance the knowledge, skills and confidence of parents
+
+* Build strong and positive parent-child relationship
 
 ##### **What does it offer?**
 
