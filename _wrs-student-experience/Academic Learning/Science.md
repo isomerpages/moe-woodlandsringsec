@@ -33,9 +33,7 @@ On 28 April 2022, Secondary 1 Science TDP students celebrated World DNA Day thro
 
 The DNA extraction kits used in the workshop were generously provided by Illumina Singapore.
 
-In 2022, the Science TDP students also participated in the following competitions and the results are as shown below:
-
-![](/images/Capture.png)
+In 2022, the Science TDP students also participated in the following competitions:
 
 **20th Elementz Science Project Competition**
 ![](/images/Picture1.jpg)
