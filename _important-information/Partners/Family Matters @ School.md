@@ -4,20 +4,34 @@ permalink: /important-information/partners/family-matters-at-school/
 description: ""
 third_nav_title: Partners
 ---
-### **FamilyMatters@School**
-Woodlands Ring Secondary School embarked on the FamilyMatters@School programme since 2004 and conducted numerous interesting parenting talks and family bonding events with the support of the Parent Support Group.
+### **Parenting Support**         
+Woodlands Ring Secondary School has partnered the Care Corner Parenting Support Services (PSS) to conduct parenting programmes for parents of the school.
 
-The family life programmes equip parents with skills to nurture positive family relationships and help them to better connect with their children.
+PSS is the appointed parenting support provider of WRSS. The PSS supports parents through their anchor programme - Positive Parenting Programme (Triple P). PSS is funded by the Ministry of Social and Family Development (MSF).
 
-We also embarked on Triple P from year 2016.
+To learn more about Care Corner PSS, visit their website: [https://www.carecorner.org.sg/parenting-support](https://www.carecorner.org.sg/parenting-support)
 
 ##### **What is Triple P ?**
 
-The Positive Parenting Programme is a parenting and family support strategy designed to prevent behavioural and emotional problems in children.
+The Positive Parenting Programme is an evidence-based programme that aims to:
+
+* Prevent behavioural, emotional and developmental problems in children
+
+* Enhance the knowledge, skills and confidence of parents
+
+* Build strong and positive parent-child relationship
 
 ##### **What does it offer?**
 
-Simple and practical strategies to help parents confidently manage their children’s behaviour, prevent problems developing and build strong, healthy relationships.
+The programme offers the following:
+
+1.       Seminars
+
+2.       One-to-one consultations
+
+3.       Small group sessions
+
+4.       Triple P online parenting programme
 
 ##### **Why is it effective?**
 
@@ -60,4 +74,3 @@ Kite making and flying at Gardens by the Bay
 <img style="width:85%" src="/images/fam8.jpg">
 
 Dialogue in the Dark
-

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Learning
 ---
 ### **English Language and Literature**
-##### **Department Programmes / Highlights**
+#### **Department Programmes / Highlights**
 In line with the department’s vision of getting our students to be confident users of the English Language, we have several key programmes and strategies to support our vision.
 
 #### **Whole school approach to reading**
@@ -36,7 +36,7 @@ Our RAs are also given the opportunities to organise activities for EL Reading W
 <img src="/images/ra1.jpg" style="width:65%">
 
 #### **Communication Skills**
-*   Communication skill is the a much sought-after skill by employers in the 21st Century and at Woodlands Ring Secondary, we ensure that our students get sufficient exposure to this skill in an authentic setting. Among these platforms are :
+*   Communication skill is a much sought-after skill by employers in the 21st Century and at Woodlands Ring Secondary, we ensure that our students get sufficient exposure to this skill in an authentic setting. Among these platforms are :
     *   Public Speaking Workshop at Secondary 1
     *   Poetry Slam through Literature at Secondary 2
     *   Debates at Secondary 3

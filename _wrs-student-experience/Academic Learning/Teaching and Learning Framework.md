@@ -13,9 +13,9 @@ With the launch of Singapore Teaching Practice (STP) (MOE, Singapore, 2017a) in 
 ##### **Description of Framework**
 Central to the framework is the school’s philosophy − We believe that each student is unique and whose potential can be maximised so as to contribute selflessly to society. This aligns with the belief in the Singapore Curriculum Philosophy (SCP) − We believe that every child wants to and can learn.
 
-With this core philosophy in mind, we move to the second ring of curriculum development. Here, we have adopted a cyclical model (Print, 1993) that is adapted from Wheeler (1967). Taking reference from the STP, in WRSS we need to firstly Understand our subject matter and goals1, before understanding students and how they learn2. We, too, need to understand that many factors may affect our teaching3.
+With this core philosophy in mind, we move to the second ring of curriculum development. Here, we have adopted a cyclical model (Print, 1993) that is adapted from Wheeler (1967). Taking reference from the STP, in WRSS we need to firstly Understand our subject matter and Goals<sup>1</sup>,  before understanding students and how they learn<sup>2</sup>.  We, too, need to understand that many factors may affect our teaching<sup>3</sup>.
 
-With this understanding, we Design the curriculum and Facilitate4 the learning where the teaching pace, approaches and assessment practices are developmentally appropriate for our learners. After the enactment of the curriculum, it is important to Review if the experienced curriculum achieved its learning objectives by adopting the Reflective Practice Model5.
+With this understanding, we Design the curriculum and Facilitate<sup>4</sup> the learning where the teaching pace, approaches and assessment practices are developmentally appropriate for our learners. After the enactment of the curriculum, it is important to Review if the experienced curriculum achieved its learning objectives by adopting the Reflective Practice Model<var><sup>5</var>.
 
 The next ring is the four core teaching processes detailed in the STP. Embedded in these processes are the teaching areas and actions that aid in the T&L of students.
 
@@ -46,11 +46,11 @@ We believe that with us as caring educators, working alongside teachable student
 5 The Reflective Practice Model was referred to during the STP Workshops conducted for school teams in July/Aug 2017. In using the model, we reflect and review our teaching and learning processes by asking What, Why, So What and Now What.
 
 **References**<br>
-MOE, Singapore. (2017a, May 31). The Singapore Teaching Practice. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice](https://www.moe.gov.sg/about/singapore-teaching-practice) **website unavailable**
+MOE, Singapore. (2017a, May 31). The Singapore Teaching Practice.
 
-MOE, Singapore. (2017b, May 31). The Singapore Curriculum Philosophy. Retrieved from [https://www.moe.gov.sg/about/singapore-teaching-practice/singapore-curriculum-philosophy](https://www.moe.gov.sg/about/singapore-teaching-practice/singapore-curriculum-philosophy) **website unavailable**
+MOE, Singapore. (2017b, May 31). The Singapore Curriculum Philosophy.
 
-MOE, Singapore. (2017c, July 31). The Reflective Practice Model. Retrieved from [https://opal.moe.edu.sg/stp/others/stp-workshop-resources](https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fopal.moe.edu.sg%2Fstp%2Fothers%2Fstp-workshop-resources)  **website unavailable**
+* MOE, Singapore. (2017c, July 31). The Reflective Practice Model.
 
 MOE, Singapore. (2017d, Jan 6). The SLS Pedagogical Scaffold. Retrieved from SLS Design Toolkit.
 

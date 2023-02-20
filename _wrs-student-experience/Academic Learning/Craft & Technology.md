@@ -10,7 +10,7 @@ third_nav_title: Academic Learning
 Nurture Critical and Inventive Thinkers
 
 ##### **Mission:**  
-Cultivate critical literacy and an appreciation for Design and Technology (D&T), Food and Consumer Education (FCE) and Food and Nutrition (F&N).
+Cultivate critical literacy and an appreciation for Design and Technology (D&T), Food and Consumer Education (FCE) and Nutrition and Food Science (NFS).
 
 #### **Department Goals:**
 1\. Cultivate and acquire a range of cognitive skills and abilities to participate in solving a variety of real-world problems, and enriching learning experiences.
@@ -68,21 +68,16 @@ Learning programmes:
 
 <img src="/images/cnt2.jpg" style="width:85%">
 
-##### **F&N Upper Secondary Curriculum**
+##### **NFS Upper Secondary Curriculum**
 
-Nutrition and Food Science (NFS) is an elective subject offered to students at the Upper Secondary levels. It is an extension of the Lower Secondary subject, Food and Consumer Education (FCE). F&N helps to develop students’ understanding of concepts related to nutrition and meal planning which is helpful to them as well as others whom they can advise. It also focusses on developing their understanding of principles of food science and ultimately understanding the link between diet and health.
+Nutrition and Food Science (NFS) is an elective subject offered to students at the Upper Secondary levels. It is an extension of the Lower Secondary subject, Food and Consumer Education (FCE). NFS helps to develop students’ understanding of concepts related to nutrition and meal planning which is helpful to them as well as others whom they can advise. It also focusses on developing their understanding of principles of food science and ultimately understanding the link between diet and health.
 
-Through our programmes, we aim to equip our students with 21st Century Competencies like Decision Making, being a Self-directed Learner and an Active Contributor. In addition, F&N students’ learning experience is enhanced through the following which we organise for the year:
+Through our programmes, we aim to equip our students with 21st Century Competencies like Decision Making, being a Self-directed Learner and an Active Contributor. In addition, NFS students’ learning experience is enhanced through the following which we organise for the year:
 
 * APS Fusion Fiesta ‘Local Flavours’ Baking Competition.  
 * ITE Ignite Challenge
 
 <img src="/images/cnt3.jpg" style="width:85%">
 
-##### **APS FUSION FIESTA**
-
-On 30 October 2019, our students, Chiw Wen Zhe Darius (Class 2-1), Fariha Iyshah Binte Mohammed Fauzi (Class 2-2) and Abdul Hadi Bin Abdul Rasid (Class 2-4) participated in APS Fusion Fiesta ‘Local Flavours’ Baking Competition. The competition was hosted by Assumption Pathway School Baking Practices Department as part of their annual Income OrangeAid APS Challenge. Through this competition, our students gained exposure and out-of-classroom experience to hone their culinary skills in cookie and cake-making. They endeavoured in concocting unique recipes of cookies and cake to prepare a fusion of local flavours that was presented before the judges. Our students expressed their creativity confidently. It was a remarkable learning experience for them to have overcome considerable pressure from 29 other schools and Make their Mark through resilience to perform at their best in this competition. We are very proud of our students to be awarded the consolation prize for this competition which includes a trophy and food vouchers.
-
-<img src="/images/cnt4.jpg" style="width:85%">
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/7yLiDcYi8MU" title="C&T" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
