@@ -25,11 +25,11 @@ The Positive Parenting Programme is an evidence-based programme that aims to:
 
 The programme offers the following:
 
-1.       Seminars
+1\.       Seminars<br>
 
-2.       One-to-one consultations
+2\.       One-to-one consultations<br>
 
-3.       Small group sessions
+3\.       Small group sessions<br>
 
 4.       Triple P online parenting programme
 
