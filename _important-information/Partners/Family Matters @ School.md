@@ -23,7 +23,15 @@ The Positive Parenting Programme is an evidence-based programme that aims to:
 
 ##### **What does it offer?**
 
-Simple and practical strategies to help parents confidently manage their children’s behaviour, prevent problems developing and build strong, healthy relationships.
+The programme offers the following:
+
+1.       Seminars
+
+2.       One-to-one consultations
+
+3.       Small group sessions
+
+4.       Triple P online parenting programme
 
 ##### **Why is it effective?**
 
