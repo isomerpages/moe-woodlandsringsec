@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Learning
 ---
 ### **English Language and Literature**
-##### **Department Programmes / Highlights**
+#### **Department Programmes / Highlights**
 In line with the department’s vision of getting our students to be confident users of the English Language, we have several key programmes and strategies to support our vision.
 
 #### **Whole school approach to reading**
