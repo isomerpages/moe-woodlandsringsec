@@ -31,7 +31,7 @@ The programme offers the following:
 
 3\.       Small group sessions<br>
 
-4.       Triple P online parenting programme
+4\.       Triple P online parenting programme
 
 ##### **Why is it effective?**
 
