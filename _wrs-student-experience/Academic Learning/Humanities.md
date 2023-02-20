@@ -16,14 +16,13 @@ third_nav_title: Academic Learning
 2\. Social Studies (Normal Technical)<br>
 3\. Geography Elective<br>
 4\. History Elective<br>
-5.Full Geography<br>
-6\. Full History<br>
-7\. Lower Secondary Geography<br>
-8\. Lower Secondary History<br>
-9\. Elements of Business Studies
+5\. Literature Elective<br>
+6\. Lower Secondary Geography<br>
+7\. Lower Secondary History<br>
+8\. Elements of Business Studies
 
 ##### **Programmes**
-We believe in offering our students an experiential and authentic learning of Humanities. Besides organising learning journeys to complement the curriculum, the department also leverages on external platforms such as competitions and conferences. Through these experiences, the department hopes to help our students make meaning of what they have learned and nurture their love for the Humanities.
+We believe in offering our students an experiential and authentic learning of Humanities. Besides organising learning journeys to complement the curriculum, the department also leverages external platforms such as competitions and conferences. Through these experiences, the department hopes to help our students make meaning of what they have learned and nurture their love for the Humanities.
 
 To promote student engagement and make Humanities learning relevant, we bring students on learning journey to various locations; we embark on an open-top bus tour to discover historical sights of our city, we visit the Pulau Semakau Landfill to enhance their environmental awareness,  and we conduct ‘Behind the Scene’ educational tour of local retailers to expose students to authenthic business operations and marketing strategies.
 
