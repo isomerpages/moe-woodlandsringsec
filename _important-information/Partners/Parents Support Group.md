@@ -11,16 +11,10 @@ third_nav_title: Partners
 Every Parent, A Supportive Partner.
 
 Education to our children is a joint responsibility between school and parents. Effective collaboration between school and parents is essential to guide our children in fulfilling their fullest potential and acquiring of lifeskills to navigate confidently in their lives. PSG works towards developing an effective partnership between the parents and the school. We seek to promote greater understanding, parental involvement and effective communication as partners in education.
-
-**PSG 2021 Upcoming Events / Activities**
-
-<img src="/images/psg.jpg" 
-     style="width:75%">
 		 
 Click [here](https://go.gov.sg/wrspsg) to apply to be part of our PSG.
 
 ### **2022 PSG Activities**
-
 ![](/images/Slide1.jpg)
 ![](/images/Slide2.jpg)
 ![](/images/Slide3.jpg)
