@@ -292,9 +292,12 @@ third_nav_title: CCA
   mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:10.05pt" valign="top" width="447"><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG">6 Students</span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes;height:691.15pt"><td style="width:445.55pt;border:solid black 1.0pt;
+  Arial" lang="EN-SG">6 Students</span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes;height:16.85pt"><td style="width:445.55pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:2.85pt 5.4pt 2.85pt 5.4pt;height:691.15pt" valign="top" colspan="3" width="594"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">Photos: (taken before Covid-19 period)</span></b></p>
+  padding:2.85pt 5.4pt 2.85pt 5.4pt;height:16.85pt" valign="top" colspan="3" width="594"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Photos: (taken before Covid-19 period)</span></b></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
+	
 
 ![](/images/AVA.jpg)
