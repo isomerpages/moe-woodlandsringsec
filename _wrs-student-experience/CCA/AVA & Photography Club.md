@@ -296,5 +296,5 @@ third_nav_title: CCA
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:2.85pt 5.4pt 2.85pt 5.4pt;height:691.15pt" valign="top" colspan="3" width="594"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial" lang="EN-SG">Photos: (taken before Covid-19 period)</span></b></p>
-	
-![](/images/AVA.jpg)</td></tr></tbody></table>
+
+![](/images/AVA.jpg)
