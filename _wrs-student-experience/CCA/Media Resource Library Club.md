@@ -5,61 +5,23 @@ description: ""
 third_nav_title: CCA
 ---
 <table style="margin-left:-.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid black .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
- mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black" width="600" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:117.0pt;border:solid black 1.0pt;
-  border-right:none;mso-border-top-alt:solid black .5pt;mso-border-left-alt:
-  solid black .5pt;mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">Name of CCA</span></b></p></td><td style="width:18.65pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;border:solid black 1.0pt;
-  border-left:none;mso-border-top-alt:solid black .5pt;mso-border-bottom-alt:
-  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">MEDIA RESOURCE LIBRARY CLUB<span style="color:#0070C0"></span></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">Name of Teachers</span></b></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="600" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Name of CCA</span></b></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">MEDIA RESOURCE LIBRARY CLUB<span style="color:#0070C0"></span></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Name of Teachers</span></b></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">Miss Selina Gomez (I/C)</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">Miss </span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial" lang="EN-SG">Azyan Binte Azami</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">Mdm Aspalela Salim (Library Assistant)</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#0070C0" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">About the CCA</span></b></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:#0070C0" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">About the CCA</span></b></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">The Media Resource Library (MRL) Club is an active learning hub that supports students in their pursuit of learning with its rich resources. Student librarians receive opportunities to foster a love for reading and learning by creating publicity material, participating in book talks, organising book related activities and attending enrichment courses to develop the necessary skills needed as student librarians.</span></p><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG">Throughout the year, the MRL Club works with our partners, National Library Board (NLB), MOE MRL and Civica in organising book-related activities. Student librarians also organise interclass competitions related to events that promote social bonding among students and occasionally, teachers. When the opportunity arises, student librarians are also invited to participate in inter-school competitions.</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">Achievement(s) / Highlight</span></b></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u><span style="font-family:
+  Arial" lang="EN-SG">Throughout the year, the MRL Club works with our partners, National Library Board (NLB), MOE MRL and Civica in organising book-related activities. Student librarians also organise interclass competitions related to events that promote social bonding among students and occasionally, teachers. When the opportunity arises, student librarians are also invited to participate in inter-school competitions.</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Achievement(s) / Highlight</span></b></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">2022</span></u></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo3;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
@@ -153,67 +115,39 @@ third_nav_title: CCA
   margin-left:.5in;line-height:normal" class="MsoNormal"><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">(1 student’s work was featured in the final eBook compilation)<b style="mso-bidi-font-weight:normal"><u></u></b></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-<span style="color:#202124">Global&nbsp;English&nbsp;Olympiad</span></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#202124" lang="EN-SG"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(2 students obtained Certificate of Achievement)</span></p><p style="margin-left:.5in;text-indent:-.25in;mso-list:l2 level1 lfo3" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
+  Arial;color:#202124" lang="EN-SG"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(2 students obtained Certificate of Achievement)</span></p><p style="margin-left:.5in;text-indent:-.25in;mso-list:l2 level1 lfo3" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
   &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><i style="mso-bidi-font-style:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">Reading Begins with Me</span></i><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"> Project with MOE Kindergarten@Northoaks</span><span lang="EN-SG"> </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">Primary School</span><span lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"> Project with MOE Kindergarten@Northoaks</span><span lang="EN-SG"> </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">Primary School</span><span lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial" lang="EN-SG">Frequency of CCA</span></b></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">School Term</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG">&nbsp;</span></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  Arial" lang="EN-SG">&nbsp;</span></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG"></span></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"></span></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG"><span style="mso-spacerun:yes">&nbsp;</span>Once a week, 3 hours per session after school in the school<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>library unless there are ad-hoc* activities. Students may be required to <b style="mso-bidi-font-weight:normal"><u>attend additional sessions</u></b> during the week if needed.</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">Monday : 2.30 – 5.30pm</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><u><span style="font-size:
-  10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"><span style="text-decoration:none">&nbsp;</span></span></u></b></p></td></tr><tr style="mso-yfti-irow:5;height:29.0pt"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:29.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:justify;line-height:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"><span style="text-decoration:none">&nbsp;</span></span></u></b></p></td></tr><tr style="mso-yfti-irow:5;height:29.0pt"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:29.0pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG">School Holidays</span></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;
+  Arial" lang="EN-SG">School Holidays</span></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt;
   height:29.0pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:29.0pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt;
+  height:29.0pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG">Student librarians are expected to participate actively in MRL activities during the school holidays, if required.</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">Student librarians are expected to participate actively in MRL activities during the school holidays, if required.</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">Others</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG">&nbsp;</span></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  Arial" lang="EN-SG">&nbsp;</span></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><u><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">*Ad-hoc Activities</span></u><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial" lang="EN-SG"> – Student librarians are expected to:</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -233,39 +167,19 @@ third_nav_title: CCA
   mso-list:l0 level1 lfo2;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
   &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black" lang="EN-SG">participate in internal or external training competitions and enrichment courses</span><span style="font-size:12.0pt" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><a name="_30j0zll"></a><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">Expenses to be borne by students</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG"></span></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  mso-fareast-font-family:Arial;color:black" lang="EN-SG">participate in internal or external training competitions and enrichment courses</span><span style="font-size:12.0pt" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><a name="_30j0zll"></a><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">Expenses to be borne by students</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG"></span></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
+  mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">External Courses (Co-payment is required)</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG">Hoodie (Co-payment may be needed)<u></u></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  Arial" lang="EN-SG">Hoodie (Co-payment may be needed)<u></u></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial" lang="EN-SG">Targeted Student Profile</span></b></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">Students who are:</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.5in;text-align:justify;text-indent:-.25in;line-height:normal;
@@ -282,36 +196,15 @@ third_nav_title: CCA
   mso-list:l1 level1 lfo1" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
   mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN-SG"><span style="mso-list:
   Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">interested in knowing more about books</span><span lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">CCA Trial Procedures</span></b></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
+  mso-fareast-font-family:Arial" lang="EN-SG">interested in knowing more about books</span><span lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">CCA Trial Procedures</span></b></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-SG">An interview with MRL teachers to determine interest and suitability is required.<span style="color:#0070C0"></span></span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes"><td style="width:117.0pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial" lang="EN-SG">Target number of students</span></b></p></td><td style="width:18.65pt;border:none;border-bottom:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
-  mso-border-bottom-alt:solid black .5pt;mso-border-right-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
+  Arial" lang="EN-SG">An interview with MRL teachers to determine interest and suitability is required.<span style="color:#0070C0"></span></span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes"><td style="width:117.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="156"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Target number of students</span></b></p></td><td style="width:18.65pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="25"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:314.35pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="419"><p style="margin-bottom:0in;text-align:justify;line-height:
   normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-SG">6 students</span></p></td></tr></tbody></table>
-	
 	
 ![](/images/LIB%201.jpg)
 	
