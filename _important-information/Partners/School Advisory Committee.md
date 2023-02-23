@@ -8,10 +8,10 @@ third_nav_title: Partners
 
 | Name | Role |
 |:---:|:---:|
-| Dr Djoni Huang Sian Wei | Chairman |
-| Dr Ng Wai Mei | Member |
-| Mr Heah Kian Beng @Ridhwan Heah | Member |
-| Ms Irene Tang Lea Leow | Member |
-| Mr See Zheng Hong | Member |
+| **Dr Djoni Huang Sian Wei | Chairman** |
+| Mrs Ng-Ng Siew Bee | Honorary Secretary |
+| Mr Heah Kian Beng@Ridwan Heah | Member |
+| Dr Ng Wai May | Member |
 | Mr Rodney Adrian Nicholas | Member |
+| Mr Tan Yan Boon (Alex) | Member |
 |

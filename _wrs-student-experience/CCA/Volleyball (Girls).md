@@ -4,191 +4,215 @@ permalink: /wrs-student-experience/cca/volleyball-girls/
 description: ""
 third_nav_title: CCA
 ---
-<div>
-<table style="width: 130.541%; height: 2004px;">
-<tbody>
-<tr style="height: 62px;">
-<td style="width: 26.618%; height: 62px;" valign="top">
-<h3>Name of CCA</h3>
-</td>
-<td style="width: 1.732%; height: 62px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 62px;" valign="top">Volleyball (Girls)</td>
-</tr>
-<tr style="height: 90px;">
-<td style="width: 26.618%; height: 90px;" valign="top">
-<h3>Name of Teachers</h3>
-</td>
-<td style="width: 1.732%; height: 90px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 90px;" valign="top">Mr Tan Gim Yong (Justin) (I/C)<br>
-Miss Lim Hwee Ee (Janay)<br>
-Miss Ong Wan Ying</td>
-</tr>
-<tr>
-<td style="width: 26.618%;">
-<h3>About the CCA</h3>
-</td>
-<td style="width: 1.732%;">
-<h3></h3>
-</td>
-<td style="width: 70.6472%;">The Volleyball Girls’ team trains diligently three times a week during the competitive season and twice weekly during the non-competitive season. Team-building activities, on top of inter-school volleyball tournaments, are also organised for the holistic development of our players.Since 2000, the Team has done the school proud in North-Zone Inter-Schools Volleyball Competition and National Schools Championship. We maintained the top 4 position in the North Zone from 2001 to 2005, 2008 for ‘C’ Division and from 2003 to 2007 for ‘B’ Division. The ‘C’ Girls were National 2nd Runners-up and 1st Runners-up in 2001 and 2002 respectively. The team achieved her five-year-goal with two teams in National Top Eight in 2004.
-
-Our players not only acquire Volleyball playing skills in the sport, but will also become more resilient by overcoming challenges. With programmes and activities to develop perseverance and time-management skills, majority of our players do well in their academic studies too. In 2011 GCE ‘O’ Level Examination, our Volleyball team produces a top Secondary 4 Express student with 5 Distinctions. Players are also given ample opportunities to organise inter-class competitions so as to develop their leadership and organisational skills. A large number of our Volleyball players have been selected to serve as Class or Student Leaders.</td>
-</tr>
-<tr style="height: 27px;">
-<td style="width: 26.618%; height: 10px;" valign="top">
-<h3>Achievement(s)</h3>
-</td>
-<td style="width: 1.732%; height: 10px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 10px;" valign="top"><b>2021 - 2022</b>
-<ul>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">North-Zone Inter-school Volleyball Competition ‘B’ and ‘C’ Div – Participation</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Mintonette Cup U16 Volleyball Invitational Games</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ActiveSG U17 Games</span></li>
-</ul>
-<b></b><b>2020</b><span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-<ul style="list-style-type: circle;">
- 	<li>North-Zone Inter-school Volleyball Competition ‘B - Top 4 placing</li>
-</ul>
-<b>2012 - </b><b>2019</b><span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>
-<ul style="list-style-type: circle;">
- 	<li><span style="font-family: inherit; font-size: inherit;">North-Zone Inter-school Volleyball Competition ‘B’ and ‘C’ Div – Participation</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Presbyterian High School U16 Volleyball Invitational Games</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Shu Qun Secondary School Alumni Invitational Games</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hosted Primary School Senior Girls Volleyball Invitational Games&nbsp;</span></li>
-</ul>
-<b>2011</b>
-<ul style="list-style-type: circle;">
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">North-Zone Inter-school Volleyball Competition ‘B’ and ‘C’ Div – 2</span><span style="font-weight: 400;">nd</span><span style="font-weight: 400;"> round</span></li>
-</ul>
-<b>2010</b>
-<ul style="list-style-type: circle;">
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">North-Zone Inter-school Volleyball Competition ‘B’ Div – 2</span><span style="font-weight: 400;">rd</span><span style="font-weight: 400;"> runner up</span></li>
-</ul>
-<b>2009</b>
-<ul style="list-style-type: circle;">
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">North-Zone Inter-school Volleyball Competition ‘C’ Div – 3</span><span style="font-weight: 400;">rd</span><span style="font-weight: 400;"> runner up</span></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 90px;">
-<td style="width: 26.618%; height: 90px;" valign="top">
-<h3>Frequency of CCA</h3>
-</td>
-<td style="width: 1.732%; height: 90px;" valign="top"></td>
-<td style="width: 70.6472%; height: 90px;" valign="top"></td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 26.618%; height: 21px;">
-<h3>School Term</h3>
-</td>
-<td style="width: 1.732%; height: 21px;">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 21px;">
-<ul style="list-style-type: disc;">
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">2</span> <span style="font-weight: 400;">&nbsp;times/week; Monday, Friday</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">2.30pm – 5.30pm (Monday)</span></li>
- 	<li aria-level="1"><span style="font-weight: 400;">3.30pm – 5.30pm (Wednesday) </span><i><span style="font-weight: 400;">*During competitive season</span></i></li>
- 	<li><span style="font-weight: 400;">2.30pm – 5.30pm (Friday) &nbsp; &nbsp;</span></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 45px;">
-<td style="width: 26.618%; height: 45px;" valign="top"><b><b>
-</b></b>
-<h3>School Holiday</h3>
-</td>
-<td style="width: 1.732%; height: 45px;" valign="top"><b><b>
-</b></b>
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 45px;" valign="top">
-<ul>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">3 times/week</span><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">8.00am – 1.00pm / 1.00pm – 5.00pm </span></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 69px;">
-<td style="width: 26.618%; height: 69px;" valign="top"><b><b>
-</b></b>
-<h3>Other</h3>
-</td>
-<td style="width: 1.732%; height: 69px;" valign="top"><b><b>
-</b></b>
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 69px;" valign="top"><span style="font-weight: 400;">Players will be required to attend additional trainings or play in inter-school volleyball games on non-training days</span></td>
-</tr>
-<tr style="height: 211px;">
-<td style="width: 26.618%; height: 211px;" valign="top">
-<h3>Expenses to be borne by students</h3>
-</td>
-<td style="width: 1.732%; height: 211px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 211px;" valign="top">
-<ul>
- 	<li><span style="font-weight: 400;">Volleyball T-shirt (~$20)</span></li>
- 	<li><span style="font-weight: 400;">Competition Jersey (~$30</span><span style="font-weight: 400;"> &nbsp; &nbsp; </span><span style="font-weight: 400;">, partially subsidized by the school)</span></li>
- 	<li><span style="font-weight: 400;">Tights (~$10</span><span style="font-weight: 400;">&nbsp; &nbsp;</span><span style="font-weight: 400;">)</span></li>
- 	<li><span style="font-weight: 400;">Shorts (~$12)</span></li>
- 	<li><span style="font-weight: 400;">Knee Pads (~$18)</span></li>
- 	<li><span style="font-weight: 400;">Volleyball Shoes (~$80) - </span><span style="font-weight: 400;">Optional</span></li>
- 	<li><span style="font-weight: 400;">Estimated Total Cost Per Student = ~$170</span><span style="font-weight: 400;">&nbsp;</span></li>
-</ul>
-</td>
-</tr>
-<tr style="height: 93px;">
-<td style="width: 26.618%; height: 93px;" valign="top">
-<h3>Targeted Student Profile</h3>
-</td>
-<td style="width: 1.732%; height: 93px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 93px;" valign="top"><span style="font-weight: 400;">Hardworking, committed and responsible students who are willing to constantly challenge themselves mentally and physically to discover their talents and strengths. Team players who are willing to bring out the best in others. </span></td>
-</tr>
-<tr style="height: 116px;">
-<td style="width: 26.618%; height: 116px;" valign="top">
-<h3>CCA Trial Procedures</h3>
-</td>
-<td style="width: 1.732%; height: 116px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 116px;" valign="top">
-<ul>
- 	<li>Test items on agility, speed, coordination and confidence will be conducted to select suitable members.</li>
- 	<li>Sec 1 students will also be interviewed by our teachers and coach to learn more about their personalities and aspirations</li>
-</ul>
-</td>
-</tr>
-<tr style="height: 89px;">
-<td style="width: 26.618%; height: 89px;" valign="top">
-<h3>Targeted number of Student</h3>
-</td>
-<td style="width: 1.732%; height: 89px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 89px;" valign="top"><span style="font-weight: 400;">10 girls</span></td>
-</tr>
-<tr style="height: 555.875px;">
-<td style="width: 26.618%; height: 555px;" valign="top">
-<h3>Photos</h3>
-</td>
-<td style="width: 1.732%; height: 555px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 70.6472%; height: 555px;" valign="top">Photos were taken during pre-Covid period
-
-<img class="wp-image-9039 " src="https://woodlandsringsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/01/Volleyball-2022-381x1024.jpg" alt="Volleyball 2022" width="519" height="1327"></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div></div>
+<table style="margin-left:8.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="588" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Name of CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">VOLLEYBALL (GIRLS)</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Name of Teachers</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-bottom:0in;line-height:normal;tab-stops:
+  127.5pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">Mr Tan Gim Yong (Justin) (I/C)</span></p><p style="margin-bottom:0in;line-height:normal;tab-stops:
+  127.5pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">Miss Lim Hwee Ee (Janay)</span></p><p style="margin-bottom:0in;line-height:normal;tab-stops:
+  127.5pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">Miss Ong Wan Ying</span></p><p style="margin-bottom:0in;line-height:normal;tab-stops:
+  127.5pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">About the CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">The Volleyball Girls’ team trains diligently three times a week during the competitive season and twice weekly during the non-competitive season. Team-building activities, on top of inter-school volleyball tournaments, are also organised for the holistic development of our players.</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal;tab-stops:center .05in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"><span style="mso-tab-count:1"></span></span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal;tab-stops:center .05in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">Since 2000, the Team has done the school proud in North-Zone Inter-Schools Volleyball Competition and National Schools Championship. We maintained the top 4 position in the North Zone from 2001 to 2005, 2008 for ‘C’ Division and from 2003 to 2007 for ‘B’ Division. The ‘C’ Girls were National 2<sup>nd</sup> Runners-up and 1<sup>st</sup> Runners-up in 2001 and 2002 respectively. The team achieved her five-year-goal with two teams in the National Top Eight in 2004.</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal;tab-stops:center .05in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal;tab-stops:center .05in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">Our players not only acquire Volleyball playing skills in the sport, but will also become more resilient by overcoming challenges. With programmes and activities to develop perseverance and time-management skills, the majority of our players do well in their academic studies too. Players are also given ample opportunities to organise inter-class competitions so as to develop their leadership and organisational skills. A large number of our Volleyball players have been selected to serve as Class or Student Leaders, resulting in Excellent grades in CCA records.</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Achievement(s)</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">2021 - 2022</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">North-Zone Inter-school Volleyball Competition ‘B’ and ‘C’ Div – Participation</span><span lang="EN-SG"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Mintonette Cup U16 Volleyball Invitational Games</span><span lang="EN-SG"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">ActiveSG U17 Games</span><span lang="EN-SG"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">&nbsp;</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">2020</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">North-Zone Inter-school Volleyball Competition ‘B’ Div – Top 4</span><span lang="EN-SG"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">&nbsp;</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">2012 - 2019</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">North-Zone Inter-school Volleyball Competition ‘B’ and ‘C’ Div – Participation</span><span lang="EN-SG"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Presbyterian High School U16 Volleyball Invitational Games</span><span lang="EN-SG"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Shu Qun Secondary School Alumni Invitational Games</span><span lang="EN-SG"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">&nbsp;</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">2011</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">North-Zone Inter-school Volleyball Competition ‘B’ and ‘C’ Div – 2<sup>nd</sup> round</span><span lang="EN-SG"></span></p><p style="margin-bottom:0in;line-height:normal;mso-pagination:
+  none;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">2010</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">North-Zone Inter-school Volleyball Competition ‘B’ Div – 2<sup>rd</sup> runner up</span></p><p style="margin-bottom:0in;line-height:normal;mso-pagination:
+  none;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;line-height:normal;mso-pagination:
+  none;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">2009</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;text-indent:-7.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo4;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;" lang="EN-SG"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">North-Zone Inter-school Volleyball Competition ‘C’ Div – 3<sup>rd</sup> runner up</span><span lang="EN-SG"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;line-height:normal;mso-pagination:none;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:7.0pt;line-height:normal;mso-pagination:none;tab-stops:center 3.25in right 6.25in" class="MsoNormal"><span lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4;height:8.05pt"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:8.05pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Frequency of CCA</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"></span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:8.05pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:8.05pt" valign="top" width="444"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">School Term</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l4 level1 lfo5;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">2 times/week; Monday, </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">Friday<span style="color:black"></span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l4 level1 lfo5;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">2.30pm – 5.30pm (Monday)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l4 level1 lfo5;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">3.30pm – 5.30pm (Wednesday) <i style="mso-bidi-font-style:normal">*During competitive season</i></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l4 level1 lfo5;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">2<span style="color:black">.</span>3<span style="color:black">0</span>p<span style="color:black">m – </span>5<span style="color:black">.30pm (</span>Friday<span style="color:black">)</span></span><span lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">School Holiday</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l1 level1 lfo1;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">3 times/week</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l1 level1 lfo1;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">8.00 am – </span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">1<span style="color:black">.</span>0<span style="color:black">0 pm / </span>1<span style="color:black">.</span>00<span style="color:black">pm – </span>5<span style="color:black">.</span>00<span style="color:black">pm</span></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">Others</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">Players will be required to attend additional training or play in inter-school volleyball games on non-training days.<span style="color:red"></span></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Expenses to be borne by students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l2 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">Volleyball T-shirt (~$20)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l2 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">Competition Jersey (~$30, partially subsidized by the school)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l2 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">Tights (~$10)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l2 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">Shorts (~$12)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l2 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">Knee Pads (~$18)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l2 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">Volleyball Shoes (~$80)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-17.85pt;line-height:normal;mso-list:l2 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black" lang="EN-SG">Estimated Total Cost Per Student = ~$170</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Targeted Student Profile</span></b></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">Responsible, committed and thinking students who are willing to constantly challenge themselves mentally and physically to develop their strengths and understanding of the game. Team players who are willing to bring out the best in others.</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">CCA Trial Procedures</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-align:justify;text-indent:-17.85pt;line-height:normal;
+  mso-list:l3 level1 lfo3;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Noto Sans&quot;;
+  color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black" lang="EN-SG">Test items on jump ability, agility, speed, coordination and </span><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">ball awareness<span style="color:black"> will be conducted to select suitable members.</span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-align:justify;text-indent:-17.85pt;line-height:normal;
+  mso-list:l3 level1 lfo3;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Noto Sans&quot;;
+  color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black" lang="EN-SG">Sec 1 students will also be interviewed by our teachers and coach to learn more about their personalities and aspirations.</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Target number of students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="444"><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">10 girls</span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">Photos</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG">:</span></b></p></td><td style="width:333.0pt;padding:0in 5.4pt 0in 5.4pt" width="444"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-SG">&nbsp;</span></p></td></tr></tbody></table>
+	
+![](/images/VOL.jpg)

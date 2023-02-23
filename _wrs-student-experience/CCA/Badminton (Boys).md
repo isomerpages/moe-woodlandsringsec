@@ -4,218 +4,141 @@ permalink: /wrs-student-experience/cca/badminton-boys/
 description: ""
 third_nav_title: CCA
 ---
-<table style="width: 686px;">
-<tbody>
-<tr>
-<td style="width: 160.444px;" valign="top">
-<h3>Name of CCA</h3>
-</td>
-<td style="width: 21.7778px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 482.222px;" valign="top">Badminton (Boys)</td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top">
-<h3>Name of Teachers</h3>
-</td>
-<td style="width: 21.7778px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 482.222px;" valign="top">Mr Soh Kian Hong (I/C),<br>
-Mr Fan Ruizhong</td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top">
-<h3>About the CCA</h3>
-</td>
-<td style="width: 21.7778px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 482.222px;" valign="top">The WRSS Badminton Team aims to develop our students holistically to be student-athletes who model the school values of Responsibility, Respect and Resilience, and embodies commitment, dedication, and discipline consistently, in school or out of school.
-Our programme seeks to achieve that through the weekly training sessions where students hone their skills, physical endurance, and mental endurance in preparation for the annual North Zone Tournament. There are also many opportunities weaved into the programme for all-round development, such as leading and collaborating through peer coaching during the weekly sessions; leadership and organisational skills are also developed through planning and executing of school and CCA events such as the CCA Open House, 4-Schools Invitational Badminton Team Challenge, and Badminton Camp.
-It will be a rewarding journey for the students as they grow to become the student-athlete of robust character that we envision.</td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top">
-<h3>Achievement(s)</h3>
-</td>
-<td style="width: 21.7778px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 482.222px;" valign="top"><b>2022</b>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">North Zone Badminton Tournament: ‘C’ Boys – Round</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">North Zone Badminton Tournament: ‘B’ Boys – Round 1</span></li>
-</ul>
-</li>
-</ul>
-<ul>
- 	<li style="list-style-type: none;"></li>
-</ul>
-<b>&lt;NSG was not organised in 2021 due to Covid&gt;</b>
-
-<b>2020</b>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>North Zone Badminton Tournament: ‘B’ Boys – Round 1</li>
-</ul>
-</li>
-</ul>
-<b>2019</b>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>North Zone Badminton Tournament: ‘C’ Boys – Top 8</li>
- 	<li>North Zone Badminton Tournament: ‘B’ Boys – Round 1</li>
-</ul>
-</li>
-</ul>
-<b>2018</b>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>North Zone Badminton Tournament: ‘C’ Boys – Round 1</li>
- 	<li>North Zone Badminton Tournament: ‘B’ Boys – Round 1</li>
-</ul>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top">
-<h3>Frequency of CCA</h3>
-</td>
-<td style="width: 21.7778px;" valign="top"></td>
-<td style="width: 482.222px;" valign="top"></td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top"><b><b>
-</b></b>
-<h3>School Term</h3>
-</td>
-<td style="width: 21.7778px;" valign="top"><b>
-:
-</b></td>
-<td style="width: 482.222px;" valign="top">
-<ul style="list-style-type: disc;">
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">2 sessions per week, 3 - 4 hours per session</span></li>
-</ul>
-<table style="border-collapse: collapse; width: 90.6639%; height: 84px;" border="1">
-<tbody>
-<tr style="height: 23px;">
-<td style="width: 33.7738%; text-align: center; height: 23px;">Day</td>
-<td style="width: 32.8928%; text-align: center; height: 23px;">Time</td>
-<td style="width: 33.3333%; text-align: center; height: 23px;">Venue</td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 33.7738%; text-align: center; height: 23px;">Monday</td>
-<td style="width: 32.8928%; text-align: center; height: 23px;">2:30 - 5:30 pm</td>
-<td style="width: 33.3333%; text-align: center; height: 23px;">External Venue/or School Hall*</td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 33.7738%; text-align: center; height: 23px;">Friday</td>
-<td style="width: 32.8928%; text-align: center; height: 23px;">1:30 - 5:00 pm</td>
-<td style="width: 33.3333%; text-align: center; height: 23px;">External Venue/or School Hall*</td>
-</tr>
-</tbody>
-</table>
-<em>*ActiveSG sports hall are booked for trainings on Mondays and days when the School Hall is used for national examinations / school activities. One-way transport to the venue will be provided; students will be dismissed from the venue.</em></td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top"><b><b>
-</b></b>
-<h3>School Holiday</h3>
-</td>
-<td style="width: 21.7778px;" valign="top"><b>
-:
-</b></td>
-<td style="width: 482.222px;" valign="top">
-<ul style="list-style-type: disc;">
- 	<li>March &amp; September holidays: 1 – 2 session(s), 4 hours per session</li>
- 	<li>June/November/December holidays: 3 sessions a week, 4 hours per session</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top"></td>
-<td style="width: 21.7778px;" valign="top"></td>
-<td style="width: 482.222px;" valign="top">
-<table style="font-family: inherit; font-size: inherit; border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 45.9627%; text-align: center;">Day</td>
-<td style="width: 26.9151%; text-align: center;">Time</td>
-<td style="width: 27.1221%; text-align: center;">Venue</td>
-</tr>
-<tr>
-<td style="width: 45.9627%; text-align: center;">Monday /Wednesday /Friday</td>
-<td style="width: 26.9151%; text-align: center;">8;30 - 12:30 pm</td>
-<td style="width: 27.1221%; text-align: center;">School Hall</td>
-</tr>
-</tbody>
-</table>
-<ul style="list-style-type: disc;">
- 	<li>During North Zone tournament, players might be required to attend 3 to 5 sessions (including match days) per week.</li>
- 	<li>Participation in external tournaments and friendly matches may require players to play on some weekends.</li>
- 	<li>Players will assist and participate in the organization of the annual 4-Schools Invitational Badminton Team Challenge.</li>
- 	<li>Players are required to assist in ad-hoc activities (e.g. Sec 1 Orientation, Sports Day, VIA, etc.) on certain days.</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top">
-<h3>Expenses to be borne by students</h3>
-</td>
-<td style="width: 21.7778px;" valign="top"><b>
-:
-</b></td>
-<td style="width: 482.222px;" valign="top"><b>
-</b><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Players are required to purchase the following items on their won:</span>
-<ul style="list-style-type: disc;">
- 	<li>Personal badminton rackets with grips</li>
- 	<li>Badminton court shoes</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top">
-<h3>Targeted Student Profile</h3>
-</td>
-<td style="width: 21.7778px;" valign="top"><b>
-:
-</b></td>
-<td style="width: 482.222px;" valign="top"><b>
-</b><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Students who possess the following characteristics:</span>
-<ul style="list-style-type: disc;">
- 	<li>Willingness to learn<span style="font-weight: 400;">&nbsp;+ </span><span style="font-weight: 400;">self-learn</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Passion for Badminton</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reflective and diligent</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Team player </span></li>
-</ul>
-<em>*Background and experiences on playing badminton is not a </em>
-<em>pre-requisite.</em></td>
-</tr>
-<tr>
-<td style="width: 160.444px;">
-<h3>Targeted number of Students</h3>
-</td>
-<td style="width: 21.7778px;"><b>&nbsp;</b></td>
-<td style="width: 482.222px;"><b><span style="font-weight: 400;">10 students.</span></b></td>
-</tr>
-<tr>
-<td style="width: 160.444px;" valign="top">
-<h3>Photos</h3>
-</td>
-<td style="width: 21.7778px;" valign="top"><b>
-:
-</b></td>
-<td style="width: 482.222px;" valign="top">Photos were taken during pre-Covid period
-
-<img class="wp-image-9006 " src="https://woodlandsringsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/01/Badminton-399x1024.jpg" alt="Badminton" width="437" height="1092"></td>
-</tr>
-</tbody>
-</table>
+<table style="margin-left:4.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="594" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Name of CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">BADMINTON (BOYS)</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Name of Teacher(s)</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Mr Soh Kian Hong (I/C)</span></p><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Mr Fan Ruizhong</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">About the CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">The WRSS Badminton Team aims to develop our students holistically to be student-athletes who model the school values of Responsibility, Respect and Resilience, and embodies commitment, dedication, and discipline consistently, in school or out of school.</span></p><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Our programme seeks to achieve that through the weekly training sessions where students hone their skills, physical endurance, and mental endurance in preparation for the annual North Zone Tournament. There are also many opportunities weaved into the programme for all-round development, such as leading and collaborating through peer coaching during the weekly sessions; leadership and organisational skills are also developed through planning and executing of school and CCA events such as the CCA Open House, 4-Schools Invitational Badminton Team Challenge, and Badminton Camp.</span></p><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">&nbsp;</span></p><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">It will be a rewarding journey for the students as they grow to become the student-athlete of robust character that we envision.</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Achievement(s)</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2022</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo1" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Noto Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">North Zone Badminton Tournament: ‘C’ Boys – Round 2</span></p><p style="margin-left:.5in;text-indent:-.25in;mso-list:l2 level1 lfo1;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-size:9.0pt;line-height:115%;
+  font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Noto Sans&quot;;
+  color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">North Zone Badminton Tournament: ‘B’ Boys – Round 1<b style="mso-bidi-font-weight:normal"></b></span></p><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">&lt;NSG was not organised in 2021 due to Covid&gt;<i style="mso-bidi-font-style:normal"></i></span></b></p><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2020</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo1;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:black">North Zone Badminton Tournament: ‘B’ Boys – Round 1</span></p><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2019</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo1" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Noto Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">North Zone Badminton Tournament: ‘C’ Boys – Top 8</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo1;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:black">North Zone Badminton Tournament: ‘B’ Boys – Round 1</span></p><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p><p style="margin-left:.5in;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Frequency of CCA</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial"></span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:#0070C0">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">School Term</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:16.0pt;text-indent:-13.5pt;line-height:normal;mso-list:l5 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:black">2 sessions per week, 3 - 4 hours per session</span></p><p style="border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">&nbsp;</span></p><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Monday - 2.30 to 5.30 pm<b></b></span></p><p style="border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Friday: 1.30 to 5.00 pm</span></p><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Venue: External Venue/or School Hall*</span></p><p class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></i></p><p class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">*ActiveSG sports hall are booked for trainings on Mondays and days when the School Hall is used for national examinations / school activities. One-way transport to the venue will be provided; students will be dismissed from the venue.</span></i></p><p class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></i></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">School Holiday</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:16.0pt;text-indent:-13.5pt;line-height:normal;mso-list:l1 level1 lfo6;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:black">March &amp; September holidays: 1 – 2 session(s), 4 hours per session</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:16.0pt;text-indent:-13.5pt;line-height:normal;mso-list:l1 level1 lfo6;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:black">June/November/December holidays: 3 sessions a week, 4 hours per session</span></p><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">&nbsp;</span></p><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Day: Monday / Wednesday / Friday</span></p><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Time: 8.30 am – 12.30 pm</span></p><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Venue: School Hall</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Others</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-15.35pt;line-height:normal;mso-list:l4 level1 lfo4" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Noto Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">During the North Zone tournament, players might be required to attend 3 to 5 sessions (including match days) per week.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-15.35pt;line-height:normal;mso-list:l4 level1 lfo4" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Noto Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Participation in external tournaments and friendly matches may require players to play on some weekends.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-15.35pt;line-height:normal;mso-list:l4 level1 lfo4" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Noto Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Players will assist and participate in the organization of the annual 4-Schools Invitational Badminton Team Challenge.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:17.85pt;text-indent:-15.35pt;line-height:normal;mso-list:l4 level1 lfo4" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Noto Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Players are required to assist in ad-hoc activities (e.g. Sec 1 Orientation, Sports Day, VIA, etc.) on certain days.</span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Expenses to be borne by students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">&nbsp;</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Players are required to purchase the following items on their own:</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:20.5pt;text-indent:-17.85pt;line-height:normal;mso-list:l0 level1 lfo5;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:black">Personal badminton rackets with grips</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:20.5pt;text-indent:-17.85pt;line-height:normal;mso-list:l0 level1 lfo5;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:black">Badminton court shoes</span></p><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:#0070C0">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Targeted Student Profile</span></b></p><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">&nbsp;</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Students who possess the following characteristics:</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:20.5pt;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l3 level1 lfo3;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:9.0pt;
+  font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Noto Sans&quot;;
+  color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">Willingness to learn + self-learn</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:20.5pt;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l3 level1 lfo3;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:9.0pt;
+  font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Noto Sans&quot;;
+  color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">Passion for Badminton</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:20.5pt;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l3 level1 lfo3;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:9.0pt;
+  font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Noto Sans&quot;;
+  color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">Reflective and diligent</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:20.5pt;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l3 level1 lfo3;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:9.0pt;
+  font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Noto Sans&quot;;
+  color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">Team player</span></p><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">&nbsp;</span></p><p style="text-align:justify" class="MsoNormal"><i style="mso-bidi-font-style:
+  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">*Background and experiences on playing badminton is not a<br><span style="mso-spacerun:yes">&nbsp;</span>pre-requisite.<span style="color:#0070C0"></span></span></i></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Target number of students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">10 students.</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes;height:18.6pt"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:18.6pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Photos</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:18.6pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:18.6pt" valign="top" width="450"><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Photos were taken during Pre-Covid period</span></p><p style="text-align:justify" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black">&nbsp;</span></b></p></td></tr></tbody></table>
+	
+![](/images/BAD%201.jpg)
+![](/images/BAD%202.jpg)
+![](/images/BAD%203.jpg)

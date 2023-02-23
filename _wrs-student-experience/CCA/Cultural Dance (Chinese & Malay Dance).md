@@ -4,130 +4,29 @@ permalink: /wrs-student-experience/cca/cultural-dance/
 description: ""
 third_nav_title: CCA
 ---
-
-<!-- wp:tadv/classic-paragraph -->
-<table style="border-collapse: collapse; width: 111.379%; height: 2509px;">
-<tbody>
-<tr style="height: 87px;">
-<td style="width: 33.3333%; height: 87px;">
-<h3>Name of CCA</h3>
-</td>
-<td style="width: 1.87884%; height: 87px;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; height: 87px;"><span style="font-weight: 400;">Cultural Dance (Chinese Dance &amp; Malay Dance)</span></td>
-</tr>
-<tr style="height: 122px;">
-<td style="width: 33.3333%; vertical-align: top; height: 122px;">
-<h3><strong>Name of Teachers</strong></h3>
-</td>
-<td style="width: 1.87884%; height: 122px;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; vertical-align: top; height: 122px;"><span style="font-weight: 400;">Mrs Oh Mei Ting (Co- IC)</span><br><span style="font-weight: 400;">Mdm Siti Hafizah (Co- IC)</span><br><span style="font-weight: 400;">Mdm Farhanah</span></td>
-</tr>
-<tr>
-<td style="width: 33.3333%; vertical-align: top;">
-<h3>About the CCA</h3>
-<h3><strong>&nbsp;</strong></h3>
-</td>
-<td style="width: 1.87884%;">
-<h3>&nbsp;</h3>
-</td>
-<td style="width: 76.167%; vertical-align: top;">
-<p><span style="font-weight: 400;">The Cultural Dance CCA in WRSS </span><span style="font-weight: 400;">focusses </span><span style="font-weight: 400;">on providing students with a strong foundation in the cultural dance of their own ethnic group, while also exposing students to the cultural dance of other ethnic groups.&nbsp;</span></p>
-<p><span style="font-weight: 400;">The CCA comprises of the Chinese Cultural Dance and Malay Cultural Dance groups. While the respective Cultural Dance groups have independent and targeted programmes for their CCA members, they actively seek opportunities to collaborate so as to provide dancers with exposure to inter-cultural dance skills, knowledge and techniques.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Do visit the links to Chinese Dance and Malay Dance CCA groups to find out more about the programmes we offer under the Cultural Dance CCA.</span></p>
-</td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 33.3333%; height: 23px; vertical-align: top;">
-<h3><strong>Achievement(s)</strong></h3>
-</td>
-<td style="width: 1.87884%; height: 23px; vertical-align: top;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; height: 23px;">&nbsp;</td>
-</tr>
-<tr style="height: 122px;">
-<td style="width: 33.3333%; height: 122px;">
-<h3><strong>Frequency of CCA</strong></h3>
-</td>
-<td style="width: 1.87884%; height: 122px;">&nbsp;</td>
-<td style="width: 76.167%; height: 122px;">&nbsp;</td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 33.3333%; height: 23px;">
-<h3>School Term</h3>
-</td>
-<td style="width: 1.87884%; height: 23px;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; height: 23px;">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 33.3333%; height: 23px;">
-<h3>School Holiday</h3>
-</td>
-<td style="width: 1.87884%; height: 23px;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; height: 23px;">&nbsp;</td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 33.3333%; height: 23px;">
-<h3>Others</h3>
-</td>
-<td style="width: 1.87884%; height: 23px;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; height: 23px;">&nbsp;</td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 33.3333%; height: 23px;">
-<h3><strong>Expenses to be borne by students</strong></h3>
-</td>
-<td style="width: 1.87884%; height: 23px;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; height: 23px;">&nbsp;</td>
-</tr>
-<tr style="height: 87px;">
-<td style="width: 33.3333%; height: 87px; vertical-align: top;">
-<h3><strong>Targeted Student Profile</strong></h3>
-</td>
-<td style="width: 1.87884%; height: 87px; vertical-align: top;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; height: 87px;">&nbsp;</td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 33.3333%; height: 23px;">
-<h3><strong>CCA Trial Procedures</strong></h3>
-</td>
-<td style="width: 1.87884%; height: 23px;">&nbsp;</td>
-<td style="width: 76.167%; height: 23px;">&nbsp;</td>
-</tr>
-<tr style="height: 87px;">
-<td style="width: 33.3333%; height: 87px;">
-<h3><strong>Target number of students</strong></h3>
-</td>
-<td style="width: 1.87884%; height: 87px;">&nbsp;</td>
-<td style="width: 76.167%; height: 87px;">&nbsp;</td>
-</tr>
-<tr style="height: 87px;">
-<td style="width: 33.3333%; height: 87px; vertical-align: top;">
-<h3><strong>Photos</strong></h3>
-</td>
-<td style="width: 1.87884%; height: 87px; vertical-align: top;">
-<h3>:</h3>
-</td>
-<td style="width: 76.167%; height: 87px;">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<!-- /wp:tadv/classic-paragraph -->
+<table style="margin-left:4.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="594" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Name of CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt" lang="EN">Cultural Dance (Chinese Dance &amp; Malay Dance)</span><span lang="EN"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Name of Teacher(s)</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt" lang="EN">Mrs Oh Mei Ting (Co- IC)</span></p><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt" lang="EN">Mdm Siti Hafizah (Co- IC)</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-size:
+  12.0pt" lang="EN">Mdm Farhanah</span><span lang="EN"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">About the CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;background:white;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-color-alt:windowtext" lang="EN">The Cultural Dance CCA in WRSS <span style="background:white;mso-highlight:white">focusses </span>on providing students with a strong foundation in the cultural dance of their own ethnic group, while also exposing students to the cultural dance of other ethnic groups.</span><span style="font-size:12.0pt" lang="EN"></span></p><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt" lang="EN">&nbsp;</span></p><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-color-alt:windowtext" lang="EN">The CCA comprises of the Chinese Cultural Dance and Malay Cultural Dance groups. While the respective Cultural Dance groups have independent and targeted programmes for their CCA members, they actively seek opportunities to collaborate so as to provide dancers with exposure to inter-cultural dance skills, knowledge and techniques.</span><span style="font-size:12.0pt" lang="EN"></span></p><p style="line-height:normal;mso-pagination:none;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt" lang="EN">&nbsp;</span></p><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:black;mso-color-alt:windowtext" lang="EN">Do visit the links to Chinese Dance and Malay Dance CCA groups to find out more about the programmes we offer under the Cultural Dance CCA.</span><span lang="EN"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Achievement(s)</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal;border:none;mso-padding-alt:
+  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="color:black" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;line-height:normal;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="color:black" lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Frequency of CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">&nbsp;</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal" class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">School Term</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal" class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">School Holiday</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal" class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Others</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal" class="MsoNormal"><span style="color:
+  red" lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Expenses to be borne by students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">&nbsp;</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="line-height:normal" class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Targeted Student Profile</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">&nbsp;</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">&nbsp;</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">CCA Selection Procedures</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Target number of students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Photos</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr></tbody></table>

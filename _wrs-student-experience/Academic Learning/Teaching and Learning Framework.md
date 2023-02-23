@@ -15,7 +15,7 @@ Central to the framework is the school’s philosophy − We believe that each s
 
 With this core philosophy in mind, we move to the second ring of curriculum development. Here, we have adopted a cyclical model (Print, 1993) that is adapted from Wheeler (1967). Taking reference from the STP, in WRSS we need to firstly Understand our subject matter and Goals<sup>1</sup>,  before understanding students and how they learn<sup>2</sup>.  We, too, need to understand that many factors may affect our teaching<sup>3</sup>.
 
-With this understanding, we Design the curriculum and Facilitate<sup>4</sup> the learning where the teaching pace, approaches and assessment practices are developmentally appropriate for our learners. After the enactment of the curriculum, it is important to Review if the experienced curriculum achieved its learning objectives by adopting the Reflective Practice Model<var><sup>5</var>.
+With this understanding, we Design the curriculum and Facilitate<sup>4</sup> the learning where the teaching pace, approaches and assessment practices are developmentally appropriate for our learners. After the enactment of the curriculum, it is important to Review if the experienced curriculum achieved its learning objectives by adopting the Reflective Practice Model<sup>5</sup>.
 
 The next ring is the four core teaching processes detailed in the STP. Embedded in these processes are the teaching areas and actions that aid in the T&L of students.
 
