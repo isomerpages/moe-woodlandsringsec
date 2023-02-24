@@ -4,212 +4,436 @@ permalink: /wrs-student-experience/cca/english-drama-club/
 description: ""
 third_nav_title: CCA
 ---
-<div>
-<table style="width: 765.422px; height: 1326px;">
-<tbody>
-<tr style="height: 63px;">
-<td style="height: 63px; width: 202.25px;" valign="top">
-<h3>Name of CCA</h3>
-</td>
-<td style="height: 63px; width: 11.6px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="height: 63px; width: 1168px;" valign="top">English Drama Club</td>
-</tr>
-<tr style="height: 90px;">
-<td style="height: 90px; width: 202.25px;" valign="top">
-<h3>Name of Teachers</h3>
-</td>
-<td style="height: 90px; width: 11.6px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="height: 90px; width: 1168px;" valign="top">Mdm Suzana Bte Sarikon (I/C)
-	<br>Miss Low Mun Fei</br>
-Mr Choy Chengzhen</td>
-</tr>
-<tr style="height: 195.359px;">
-<td style="height: 195px; width: 202.25px;" valign="top">
-<h3>About the CCA</h3>
-</td>
-<td style="height: 195px; width: 11.6px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="height: 195px; width: 1168px;" valign="top">The English Drama Club, or EC in short, provide students with a platform for sharing of ideas and dreams that one might not otherwise have means to express. Students can explore new roles and experiments with different personas and gain new insights into other perspectives through fun and creative activities. Together, they improvise and make the script comes alive. Not limited to the area of acting, but opportunity are also provided to overcome challenges and prepares students to take up different roles and responsibilities such as stage manager, costume and prop designer, multimedia technician and etc. As such, we cultivate a group of drama enthusiasts who wish to share their love and passion for the art form with the school and the community.Within a safe environment, we work together and support one another and continue the unique spirit of the CCA through with our signature shout-out ‘All Hail EC!’</td>
-</tr>
-<tr style="height: 380px;">
-<td style="height: 358px; width: 202.25px;" valign="top">
-<h3>Achievement(s)</h3>
-</td>
-<td style="height: 358px; width: 11.6px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="height: 358px; width: 1168px;" valign="top"><b>2022</b>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Filmed a school Production, “Journey Together”.</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Performed a Shadow Play for the National Day Concert 2022</span></li>
-</ul>
-</li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><b>2021</b></span>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>Participated in International Science Drama Competition 2021</li>
- 	<li>Participated in Singapore Youth Festival 2021 Arts Presentation for Drama and attained a Certificate of Accomplishment</li>
-</ul>
-</li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><b>2020</b></span>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>Participated in the shooting of a film titled 《寻 The Search》, under Fresh Takes Season 2 by MediaCorp</li>
- 	<li>Filmed a School Production, “Our Shared Memories”</li>
-</ul>
-</li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><b>2019</b></span>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li><span style="font-family: inherit; font-size: inherit;">Participated in International Science Drama Competition 2019 and attained ‘Merit Awards’</span></li>
- 	<li><span style="font-family: inherit; font-size: inherit;">Participated in Singapore Youth Festival 2019 Arts Presentation for Drama and attained a Certificate of Accomplishment</span></li>
- 	<li><span style="font-family: inherit; font-size: inherit;">Showcase of SYF drama at TellStory 2019 at Woodlands Regional Library</span></li>
-</ul>
-</li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><b>2018</b></span>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>Participated in International Science Drama Competition 2018 and attained ‘Merit Awards’</li>
- 	<li>Participated in Human Values Drama Festival 2018</li>
- 	<li><span style="font-family: inherit; font-size: inherit;">Put up a Drama Production ‘Journey to the West’</span></li>
-</ul>
-</li>
-</ul>
-<div>
-<ul>
- 	<li style="list-style-type: none;"></li>
-</ul>
-</div></td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 202.25px;" valign="top">
-<h3>Frequency of CCA</h3>
-</td>
-<td style="height: 36px; width: 11.6px;" valign="top"></td>
-<td style="height: 36px; width: 1168px;" valign="top"></td>
-</tr>
-<tr style="height: 77px;">
-<td style="height: 77px; width: 202.25px;" valign="top">
-<h3><b>
-School Term
-</b></h3>
-</td>
-<td style="height: 77px; width: 11.6px;" valign="top">
-<h3><b>
-:
-</b></h3>
-</td>
-<td style="height: 77px; width: 1168px;" valign="top">
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Monday&nbsp; 2.30 pm - 5.30 pm</span></li>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Friday&nbsp; &nbsp; 2.00 pm - 5.00 pm</span></li>
-</ul>
-</li>
-</ul>
-</td>
-</tr>
-<tr style="height: 45px;">
-<td style="height: 45px; width: 202.25px;" valign="top">
-<h3><b>
-School Holiday
-</b></h3>
-</td>
-<td style="height: 45px; width: 11.6px;" valign="top">
-<h3><b>
-:
-</b></h3>
-</td>
-<td style="height: 45px; width: 1168px;" valign="top"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Training, camps and workshops may be held during school holidays</span></td>
-</tr>
-<tr style="height: 77px;">
-<td style="height: 77px; width: 202.25px;" valign="top">
-<h3><b>
-Others
-</b></h3>
-</td>
-<td style="height: 77px; width: 11.6px;" valign="top">
-<h3><b>
-:
-</b></h3>
-</td>
-<td style="height: 77px; width: 1168px;" valign="top">Students participating in competitions/performances will be expected to put in more hours for extra practices/rehearsals, when close to the actual event(s).
+<table style="margin-left:4.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="612" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Name of CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">ENGLISH DRAMA CLUB</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Name of Teachers</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Mdm Suzana Bte Sarikon (I/C)</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Miss Low Mun Fei</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Mr Choy Chengzhen</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">About the CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">The English Drama Club, or EC for short, provides students with a platform for sharing ideas and dreams that they might not otherwise have the means to express. Students can explore new roles and experiment with different personas, gaining new insights and perspectives through fun and creative activities. Together, they collaborate to improvise and make the script come alive. Opportunities, not only limited to acting, are also provided to prepare students to take up different roles and responsibilities such as stage manager, costume and prop designer, multimedia technician, etc. As such, we cultivate a group of drama enthusiasts who confidently share their love and passion for the art form with the school and the community.</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Within a safe environment, the EC family work together and support one another to continue the unique spirit of the CCA through our signature shout-out ‘All Hail EC!’<span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Achievement(s)</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2022</span></b></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l2 level1 lfo2" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Filmed a school Production, “Journey Together”.</span></p><p style="margin-left:.5in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l2 level1 lfo2" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Performed a Shadow Play for the National Day Concert 2022</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2021</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in<b style="mso-bidi-font-weight:normal"> </b>International Science Drama Competition 2021</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in Singapore Youth Festival 2021 Arts Presentation for Drama and attained a Certificate of Accomplishment</span></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2020</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in the shooting of a film titled </span><span style="font-family:SimSun;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:major-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:major-latin" lang="ZH-CN">《</span><span style="font-family:&quot;Microsoft YaHei&quot;,sans-serif;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:major-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  major-latin" lang="ZH-CN">寻</span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN"> The Search</span><span style="font-family:SimSun;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:major-latin" lang="ZH-CN">》</span><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">, under Fresh Takes Season 2 by MediaCorp</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Filmed a School Production, “Our Shared Memories”</span></p><p style="margin-left:.5in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2019</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in<b style="mso-bidi-font-weight:normal"> </b>International Science Drama Competition 2019 and attained a ‘Merit Award’</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in Singapore Youth Festival 2019 Arts Presentation for Drama and attained a Certificate of Accomplishment</span></p><p style="margin-left:.5in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Showcased SYF drama at TellStory 2019 at Woodlands Regional Library</span></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2018</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in International Science Drama Competition 2018 and attained a ‘Merit Award’</span></p><p style="margin-left:.5in" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in Human Values Drama Festival 2018</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Put up a Drama Production, ‘Journey to the West’</span></p><p style="margin-left:.5in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Frequency of CCA</span></b><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN"></span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin;color:#0070C0" lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">School Term</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Monday<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.30pm – 5.30pm</span><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN"></span></p><p style="margin-left:17.85pt;text-indent:-.5in;line-height:
+  normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Fri<span style="mso-spacerun:yes">&nbsp; </span>Friday<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.00pm – 5.00pm</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">School Holiday</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Training, camps and workshops may be held during school holidays.<span style="color:#0070C0"></span></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Others</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Students participating in competitions/performances will be expected to put in more hours for extra practices/rehearsals, close to the actual event(s).</span></p><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Students may also be involved in Values in Action (VIA) projects or serving the school in different capacities such as organising or hosting certain events.<span style="color:#0070C0"></span></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Expenses to be borne by students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Tickets to drama performances or Learning Journeys</span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-fareast-font-family:Calibri;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN"></span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">(assistance provided for FAS students for certain performances)</span><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-fareast-font-family:
+  Calibri;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN"></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Targeted Student Profile</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="margin-left:17.85pt;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Students who</span></p><p style="margin-left:17.85pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">have an interest in English Drama</span></p><p style="margin-left:17.85pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">are willing to speak up and perform in front of an audience</span></p><p style="margin-left:17.85pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">are able to commit to intensive sessions of training/rehearsals when required</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">CCA Trial Procedures</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="margin-left:14.2pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l0 level1 lfo3" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black" lang="EN"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Interview</span></p><p style="margin-left:14.2pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l0 level1 lfo3" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black" lang="EN"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Audition</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Target number of students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">8 student<span style="color:#0070C0"></span></span></p></td></tr></tbody></table>
 
-Students may also be involved in Values in Action (VIA) projects or serving the school in different capacities such as organising or being the emcees for certain events.</td>
-</tr>
-<tr style="height: 52px;">
-<td style="height: 41px; width: 202.25px;" valign="top">
-<h3>Expenses to be borne by students</h3>
-</td>
-<td style="height: 41px; width: 11.6px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="height: 41px; width: 1168px;" valign="top">Tickets to drama performances as Learning Journey
-(assistance provided for FAS students for certain performances)
-<div></div></td>
-</tr>
-<tr style="height: 139px;">
-<td style="height: 139px; width: 202.25px;" valign="top">
-<h3>Targeted Students Profile</h3>
-</td>
-<td style="height: 139px; width: 11.6px;" valign="top">
-<h3>:</h3>
-</td>
-<td style="height: 139px; width: 1168px;" valign="top"><b>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;">Students who</span></b>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>have an interest in English Drama</li>
- 	<li>are willing to speak up and perform in front of audience</li>
- 	<li>are able to commit to intensive sessions of training/rehearsals when required</li>
-</ul>
-</li>
-</ul>
-</td>
-</tr>
-<tr style="height: 95px;">
-<td style="height: 95px; width: 202.25px;">
-<h3>CCA Trial Procedures</h3>
-</td>
-<td style="height: 95px; width: 11.6px;">
-<h3>:</h3>
-</td>
-<td style="height: 95px; width: 1168px;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">1. Interview</span>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;">2. Selected students to go through an audition</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 202.25px;">
-<h3>Target number of students</h3>
-</td>
-<td style="height: 55px; width: 11.6px;"><strong>:</strong></td>
-<td style="height: 55px; width: 1168px;"><span style="font-weight: 400;">8 student</span></td>
-</tr>
-<tr style="height: 55px;">
-<td style="height: 55px; width: 202.25px; vertical-align: top;">
-<h3>Photos</h3>
-</td>
-<td style="height: 55px; width: 11.6px; vertical-align: top;">
-<h3><strong>:</strong></h3>
-</td>
-<td style="height: 55px; width: 1168px;"><img class="size-full wp-image-9290" src="https://woodlandsringsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/01/EC-Drama-2022-scaled.jpg" alt="Ec Drama 2022" width="1164" height="2560"></td>
-</tr>
-</tbody>
-</table>
-</div>
+<table style="margin-left:4.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="612" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Name of CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">ENGLISH DRAMA CLUB</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Name of Teachers</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Mdm Suzana Bte Sarikon (I/C)</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Miss Low Mun Fei</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Mr Choy Chengzhen</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">About the CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">The English Drama Club, or EC for short, provides students with a platform for sharing ideas and dreams that they might not otherwise have the means to express. Students can explore new roles and experiment with different personas, gaining new insights and perspectives through fun and creative activities. Together, they collaborate to improvise and make the script come alive. Opportunities, not only limited to acting, are also provided to prepare students to take up different roles and responsibilities such as stage manager, costume and prop designer, multimedia technician, etc. As such, we cultivate a group of drama enthusiasts who confidently share their love and passion for the art form with the school and the community.</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Within a safe environment, the EC family work together and support one another to continue the unique spirit of the CCA through our signature shout-out ‘All Hail EC!’<span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Achievement(s)</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2022</span></b></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l2 level1 lfo2" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Filmed a school Production, “Journey Together”.</span></p><p style="margin-left:.5in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l2 level1 lfo2" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Performed a Shadow Play for the National Day Concert 2022</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2021</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in<b style="mso-bidi-font-weight:normal"> </b>International Science Drama Competition 2021</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in Singapore Youth Festival 2021 Arts Presentation for Drama and attained a Certificate of Accomplishment</span></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2020</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in the shooting of a film titled </span><span style="font-family:SimSun;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:major-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:major-latin" lang="ZH-CN">《</span><span style="font-family:&quot;Microsoft YaHei&quot;,sans-serif;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:major-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  major-latin" lang="ZH-CN">寻</span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN"> The Search</span><span style="font-family:SimSun;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:major-latin" lang="ZH-CN">》</span><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">, under Fresh Takes Season 2 by MediaCorp</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Filmed a School Production, “Our Shared Memories”</span></p><p style="margin-left:.5in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2019</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
+  margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in<b style="mso-bidi-font-weight:normal"> </b>International Science Drama Competition 2019 and attained a ‘Merit Award’</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in Singapore Youth Festival 2019 Arts Presentation for Drama and attained a Certificate of Accomplishment</span></p><p style="margin-left:.5in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Showcased SYF drama at TellStory 2019 at Woodlands Regional Library</span></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">2018</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p><p style="margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in International Science Drama Competition 2018 and attained a ‘Merit Award’</span></p><p style="margin-left:.5in" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Participated in Human Values Drama Festival 2018</span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p><p style="margin-left:.5in;text-indent:-.25in;line-height:
+  normal;mso-list:l1 level1 lfo4" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Put up a Drama Production, ‘Journey to the West’</span></p><p style="margin-left:.5in;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Frequency of CCA</span></b><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN"></span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin;color:#0070C0" lang="EN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">School Term</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Monday<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.30pm – 5.30pm</span><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN"></span></p><p style="margin-left:17.85pt;text-indent:-.5in;line-height:
+  normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Fri<span style="mso-spacerun:yes">&nbsp; </span>Friday<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.00pm – 5.00pm</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">School Holiday</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Training, camps and workshops may be held during school holidays.<span style="color:#0070C0"></span></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Others</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Students participating in competitions/performances will be expected to put in more hours for extra practices/rehearsals, close to the actual event(s).</span></p><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Students may also be involved in Values in Action (VIA) projects or serving the school in different capacities such as organising or hosting certain events.<span style="color:#0070C0"></span></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Expenses to be borne by students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">Tickets to drama performances or Learning Journeys</span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-fareast-font-family:Calibri;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN"></span></p><p style="line-height:normal" class="MsoNormal"><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+  major-latin;mso-bidi-theme-font:major-latin" lang="EN">(assistance provided for FAS students for certain performances)</span><span style="font-family:
+  &quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-fareast-font-family:
+  Calibri;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN"></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Targeted Student Profile</span></b></p><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">&nbsp;</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">&nbsp;</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="margin-left:17.85pt;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Students who</span></p><p style="margin-left:17.85pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">have an interest in English Drama</span></p><p style="margin-left:17.85pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">are willing to speak up and perform in front of an audience</span></p><p style="margin-left:17.85pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
+  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">are able to commit to intensive sessions of training/rehearsals when required</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">CCA Trial Procedures</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="margin-left:14.2pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l0 level1 lfo3" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black" lang="EN"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Interview</span></p><p style="margin-left:14.2pt;text-align:justify;text-indent:
+  -.25in;line-height:normal;mso-list:l0 level1 lfo3" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black" lang="EN"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">Audition</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Target number of students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+  major-latin" lang="EN">:</span></b></p></td><td style="width:351.0pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="468"><p style="text-align:justify;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
+  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">8 student<span style="color:#0070C0"></span></span></p></td></tr></tbody></table>
+	
+![](/images/DRAMA%201.jpg)
+
+![](/images/DRAMA%202.jpg)

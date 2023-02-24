@@ -4,212 +4,417 @@ permalink: /wrs-student-experience/cca/modern-dance/
 description: ""
 third_nav_title: CCA
 ---
-<div>
-<table style="width: 80.1192%;">
-<tbody>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>Name of CCA</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top">Modern Dance</td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>Name of Teachers</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top"><span style="font-weight: 400;">Miss Lim Si Xuan Rachel (Co-I/C)<br></span>
-<span style="font-weight: 400;">Mdm Liyana binte Juma'eh</span> <span style="font-weight: 400;">(Co-I/C)<br>
-Mdm Chong Nyok Fang
-</span></td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>About the CCA</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top">
-<div><b><b>
-</b></b><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Vision</strong> – Dancers of Distinction, Growing as One</span>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Mission</strong> – Nurturing Confident, Passionate and Gracious Dancers</span>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Values</strong> – Tenacity, Love ♥, Commitment</span>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Motto</strong> – Dare to Dream. Dare to Inspire. Dare to Dance.</span></div>
-<div>
+<table style="margin-left:4.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="594" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Name of CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Modern Dance</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Name of Teachers</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">Miss </span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Lim Si Xuan Rachel (Co-I/C)</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Mdm Liyana binte Juma'eh</span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"> </span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">(Co-I/C)</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Mdm Chong Nyok Fang</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">About the CCA</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">Vision – Dancers of Distinction, Growing as One</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">Mission – Nurturing Confident, Passionate and Gracious Dancers</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">Values – Tenacity, Love </span><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif;
+  mso-fareast-font-family:Arial;mso-bidi-font-family:&quot;Segoe UI Symbol&quot;;
+  color:black">♥</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black">, Commitment</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">Motto – Dare to Dream. Dare to Inspire. Dare to Dance.</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">&nbsp;</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">All members of Modern Dance are given the opportunity to participate in external dance performances and competitions according to their levels of dedication and skill. Every year, they will also be able to go on at least one learning journey to learn about the different dance genres.</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">&nbsp;</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">Modern Dance focusses on both personal and team achievement through discipline and a common purpose. The members are expected to work hard, and gain fulfillment through improving their dance skills. They will also learn to work together as a team and experience what it is like to be part of a learning and growing community. Those who demonstrate leadership potential and a genuine concern for others will be groomed to assume positions of responsibility in the dance group.</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">&nbsp;</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">In line with our mission of nurturing confident, passionate and gracious dancers, Modern Dance CCA aims to challenge our dances to present their best self both on and off-stage. In our team, we have talented and dedicated instructors from Step Studios to guide the dancers in their growth: in both hard skills of the artform and soft skills like teamwork and leadership. Our program is suitable for both experienced and inexperienced youths who aspire to be dancers.</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Students who join our CCA, are to expect a range of different experiences from productions, competitions, spectating dances and public performances. Our CCA had collaborated with other CCAs and education institutions like Republic Polytechnic in producing successful performances such as a ticketed production “Dare to Dream 2” in 2018. More recently we had produced “Memories” &amp; “Journeying Together” in 2020 and 2022 respectively, where we worked with other CCAs to create a in-house showcase of the performing arts in our school</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">We had opportunities to bring the joy of dance to our heartlands through invitations to be in public performance. WRSS Modern Dance performed in the National Day Celebrations in Kampung Admiralty in 2022 and it was well received by the community. <span style="color:black">Modern dancers also go on learning journeys to learn about different forms of dance. Some examples include Singapore Dance Theatre’s Masterpiece in Motion featuring three ballets of international standards, Onegin: Stuttgart Ballet, Don Quixote @ Esplanade and many more.</span></span><span style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin"></span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">&nbsp;</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">With this pursuit of excellence and strong camaraderie, Modern Dance also attained a Distinction in the Singapore Youth Festival Arts Presentation</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin"> for three consecutive years in 2017,<span style="mso-spacerun:yes">&nbsp; </span>2019 and 2021 (Group A).</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><a name="_heading=h.gjdgxs"></a><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Achievement(s)</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">2022</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo7" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-spacerun:yes">&nbsp;</span></span></b><span style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">“Journeying Together” School Production/showcase<span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo9" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Lion City Dance Competition - Participation</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">2021</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l10 level1 lfo1" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Singapore Youth Festival Arts Presentation – Distinction <span style="color:#434343"><span style="mso-spacerun:yes">&nbsp;</span></span><b style="mso-bidi-font-weight:normal"></b></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#434343">Group A</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l10 level1 lfo1" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#434343"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Singapore Youth Festival Arts Presentation – Accomplishment<span style="color:#434343"></span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Group B<span style="color:#434343"></span></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">2020</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l4 level1 lfo10" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Noto Sans&quot;"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">“Memories” School Production</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">&nbsp;</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">2019</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l6 level1 lfo11;
+  tab-stops:53.65pt;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Singapore Youth Festival Arts Presentation – Distinction</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l6 level1 lfo11;
+  tab-stops:53.65pt;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Christmas @ Ngee Ann City 2019</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;line-height:normal;tab-stops:53.65pt;border:none;mso-padding-alt:
+  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black">&nbsp;</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">2018</span></b></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l6 level1 lfo11;
+  tab-stops:53.65pt;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">The Royal Dance-Off Competition – Trinity Award (Top 3)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l6 level1 lfo11;
+  tab-stops:53.65pt;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">‘Dare to Dream 2’ Dance Production at Republic Polytechnic</span></p><p style="margin-bottom:0in;line-height:normal;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><s><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><span style="text-decoration:none">&nbsp;</span></span></s></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Frequency of CCA</span></b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">School Term</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l3 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:red"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:red">Monday, 2.30 p.m. – 5:30 p.m.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l3 level1 lfo2;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:red"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:red">Friday, 1:30 p.m. – 5.30 p.m.</span></p><p style="margin-bottom:0in;line-height:normal;border:none;
+  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:red">Towards major performances, the frequency of CCA will be increased to 3 times a week.</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">School Holiday</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l8 level1 lfo3;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">*Holiday Dance Camp (</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">March/June)<span style="color:black"></span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l8 level1 lfo3;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">*November to December –<span style="mso-spacerun:yes">&nbsp; </span>8 to 10 sessions</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Others</span></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l9 level1 lfo4;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Performance, competition and learning journey(s) on weekends (3 to 5 weekends)</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l9 level1 lfo4;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">CCA-based VIA</span></p><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><i style="mso-bidi-font-style:normal"><span style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">*</span></i><i style="mso-bidi-font-style:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Parents/guardians are advised not to make holiday plans until the holiday training schedule is given to the students.<span style="color:black"></span></span></i></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Expenses to be borne by students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l7 level1 lfo8;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Dance attir</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">e:<span style="color:black"></span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.75in;text-indent:-.25in;line-height:normal;mso-list:l7 level2 lfo8;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black"><span style="mso-list:Ignore">a.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Black <span style="color:black">tights for girls</span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.75in;text-indent:-.25in;line-height:normal;mso-list:l7 level2 lfo8;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black"><span style="mso-list:Ignore">b.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Black training pants/short boys<span style="color:black"></span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l7 level1 lfo8;
+  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+  yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Learning journey(s) (can be c</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">o-<span style="color:black">paid via Edusave)</span><span style="color:black"></span></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Targeted Student Profile</span></b></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">&nbsp;</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l1 level1 lfo5;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Students of all races and backgrounds, both boys and girls, and of all skill levels with the eagerness to learn and a positive attitude towards trying something new.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l1 level1 lfo5;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Students who can endure long hours of physical training.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l1 level1 lfo5;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Students </span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">with a dance<span style="color:black"> background are most encouraged to join us.</span></span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">CCA Trial Procedures</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l5 level1 lfo6;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Simple warm-up and a simple dance routine</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-align:justify;text-indent:-.25in;line-height:normal;
+  mso-list:l5 level1 lfo6;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black">Reporting attire - P.E.</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"> <span style="color:black">shirt and shorts</span></span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Target number of students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">8 student<span style="color:black"></span></span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">Photos</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="18"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="450"><p style="margin-bottom:0in;text-align:justify;line-height:
+  normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span></p></td></tr></tbody></table>
+	
+![](/images/MODERN%201.jpg)
 
-All members of Modern Dance are given the opportunity to participate in external dance performances and competitions according to their levels of dedication and skill. Every year, they will also be able to go on at least one learning journey to learn about the different dance genres.
-
-Modern Dance focusses on both personal and team achievements through discipline and a common purpose. The members are expected to work hard, and gain fulfillment through improving their dance skills. They will also learn to work together as a team and experience what it is like to be part of a learning and growing community. Those who demonstrate leadership potential and a genuine concern for others will be groomed to assume positions of responsibility in the dance group.
-
-<span style="font-weight: 400;">In line with our mission of nurturing confident, passionate and gracious dancers, </span><span style="font-weight: 400;">Modern Dance CCA aims to challenge our dances to present their best self both on and off-stage. In our team, we have talented and dedicated instructors from Step Studios to guide the dancers in their growth: in both hard skills of the artform and soft skills like teamwork and leadership. Our program is suitable for both experienced and inexperienced youths who aspire to be dancers. </span>
-
-<span style="font-weight: 400;">Students who join our CCA, are to expect a range of different experiences from productions, competitions, spectating dances and public performances. Our CCA had collaborated with other CCAs and education institutions like Republic Polytechnic in producing successful performances such as a ticketed production “Dare to Dream 2” in 2018. More recently we had produced “Memories” &amp; “Journeying Together” in 2020 and 2022 respectively, where we worked with other CCAs to create a in-house showcase of the performing arts in our school.</span>
-
-<span style="font-weight: 400;">We had opportunities to bring the joy of dance to our heartlands through invitations to be in public performance. WRSS Modern Dance performed in the National Day Celebrations in Kampung Admiralty in 2022 and it was well received by the community. </span><span style="font-weight: 400;">Modern dancers also go on learning journeys to learn about different forms of dance. Some examples include Singapore Dance Theatre’s Masterpiece in Motion featuring three ballets of international standards, Onegin: Stuttgart Ballet, Don Quixote @ Esplanade and many more.&nbsp;</span>
-
-<span style="font-weight: 400;">With this pursuit of excellence and strong camaraderie, Modern Dance also attained a Distinction in the Singapore Youth Festival Arts Presentation</span><span style="font-weight: 400;"> for three consecutive years in 2017,&nbsp; 2019 and 2021 (Group A). </span>
-
-</div></td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>Achievement(s)</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top"><b>2022</b>
-<ul>
- 	<li style="font-weight: 400;" aria-level="1"><b>&nbsp;</b><span style="font-weight: 400;">“Journeying Together” School Production/showcase&nbsp;&nbsp;</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lion City Dance Competition - Participation </span></li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>2021</strong></span></span></span>
-<ul>
- 	<li>Singapore Youth Festival Arts Presentation – Distinction Group A</li>
- 	<li>Singapore Youth Festival Arts Presentation – Accomplishment Group B Memories” School Production</li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>2019</strong></span>
-<ul>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Singapore Youth Festival Arts Presentation – Distinction</span></li>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Christmas @ Ngee Ann City 2019
-</span></li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>2018</strong></span>
-<ul>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp;The Royal Dance-Off Competition – Trinity Award (Top 3)</span></li>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Dare to Dream 2’ Dance Production at Republic Polytechnic</span></li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>2017</strong></span>
-<ul>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Singapore Youth Festival Arts Presentation – Distinction</span></li>
-</ul>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>2016</strong></span>
-<ul>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Woodlands Ring Secondary School Public Performance at Republic Polytechnic</span></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>Frequency of CCA</h3>
-</td>
-<td style="width: 2.23214%;" valign="top"></td>
-<td style="width: 68.006%;" valign="top"></td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top"><b>
-School Term
-</b></td>
-<td style="width: 2.23214%;" valign="top"><b>
-:
-</b></td>
-<td style="width: 68.006%;" valign="top">
-<ul style="list-style-type: circle;">
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Monday; 2.30 pm - 5.30 pm</span></li>
- 	<li><span style="font-weight: 400;">Friday,</span><span style="font-weight: 400;"> 1:30 p.m. – 5.30 p.m.&nbsp;</span><span style="font-weight: 400;">Towards major performances, the frequency of CCA will be increased to 3 times a week. </span></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top"><b>
-School Holiday
-</b></td>
-<td style="width: 2.23214%;" valign="top"><b>
-:
-</b></td>
-<td style="width: 68.006%;" valign="top">
-<ul style="list-style-type: circle;">
- 	<li>&nbsp;*Holiday Dance Camp (<span style="font-weight: 400;">March/June</span>)</li>
- 	<li>&nbsp;*November to December – 8 to 10 sessions</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top"><b>
-Others
-</b></td>
-<td style="width: 2.23214%;" valign="top"><b>
-:
-</b></td>
-<td style="width: 68.006%;" valign="top">
-<ul style="list-style-type: circle;">
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Performance, competition and learning journey(s) on weekends (3 to 5 weekends)</span></li>
- 	<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;">CCA-based VIA</span></li>
-</ul>
-<div><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 10pt;"> *Parents/guardians are advised not to make holiday plans until the holiday training schedule is given to the students.</span></em></span></div></td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>Expenses to be brone by students</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top">
-<ul style="list-style-type: circle;">
- 	<li><span style="font-weight: 400;">Dance attire:</span>
-<ul>
- 	<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Black tights for girls</span></li>
- 	<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Black training pants/short boys</span></li>
-</ul>
-</li>
- 	<li>Learning journey(s) (can be<span style="font-weight: 400;"> co-paid via Edusave)</span></li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>Targeted Student Profile</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top">
-<ul style="list-style-type: circle;">
- 	<li>Students of all races and backgrounds, both boys and girls, and of all skill levels with the eagerness to learn and a positive attitude towards trying something new.</li>
- 	<li>Students who can endure long hours of physical training.</li>
- 	<li>Students with dance background are most encouraged to join us.</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>CCA Trial Procedures</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top">
-<ul style="list-style-type: circle;">
- 	<li>Simple warm-up and a simple dance routine</li>
- 	<li>Reporting attire - P.E. shirt and shorts</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>Target number of students</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top"><span style="font-weight: 400;">8 student</span></td>
-</tr>
-<tr>
-<td style="width: 28.2738%;" valign="top">
-<h3>Photos</h3>
-</td>
-<td style="width: 2.23214%;" valign="top">
-<h3>:</h3>
-</td>
-<td style="width: 68.006%;" valign="top"><img class="wp-image-9300 size-large" src="https://woodlandsringsec-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/01/Modern-Dance-2022-455x1024.jpg" alt="Modern Dance 2022" width="455" height="1024"></td>
-</tr>
-</tbody>
-</table>
-</div>
+![](/images/MODERN%202.jpg)

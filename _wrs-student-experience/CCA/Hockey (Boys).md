@@ -179,20 +179,19 @@ third_nav_title: CCA
   margin-left:.5in;text-align:justify;text-indent:-.25in;line-height:normal;
   mso-list:l2 level1 lfo5;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">are fit, agile and brave;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">are fit, agile and brave;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.5in;text-align:justify;text-indent:-.25in;line-height:normal;
   mso-list:l2 level1 lfo5;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">possess good hand-eye coordination and are positive team players;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">possess good hand-eye coordination and are positive team players;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:.5in;text-align:justify;text-indent:-.25in;line-height:normal;
   mso-list:l2 level1 lfo5;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Noto Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">desire to become strong and disciplined young men as training will be tough and conducted outdoors.</span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:47.85pt"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:47.85pt" valign="top" width="126"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial">CCA Trial Procedures</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt;
+  mso-fareast-font-family:&quot;Noto Sans&quot;;color:black"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black">desire to become strong and disciplined young men as training will be tough and conducted outdoors.</span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:47.85pt"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:47.85pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">CCA Trial Procedures</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:47.85pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:47.85pt" valign="top" width="450"><p style="text-align:justify" class="MsoNormal"><u><span style="font-family:
@@ -205,73 +204,112 @@ third_nav_title: CCA
  0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:
  .5pt solid black" width="585" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.65pt"><td style="width:133.1pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:.65pt" valign="top" width="177"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  height:.65pt" valign="top" width="177"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">&nbsp;</span></b></p></td><td style="width:148.5pt;border:solid black 1.0pt;border-left:none;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid black .5pt;
   mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:.65pt" width="198"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  height:.65pt" width="198"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Description</span></b></p></td><td style="width:157.5pt;border:solid black 1.0pt;border-left:none;
   mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:.65pt" width="210"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  padding:0in 5.4pt 0in 5.4pt;height:.65pt" width="210"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Skill</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:2.7pt"><td style="width:133.1pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:2.7pt" valign="top" width="177"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></p></td><td style="width:148.5pt;border-top:none;border-left:none;
+  height:2.7pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black">&nbsp;</span></p></td><td style="width:148.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid black .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:2.7pt" width="198"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Able to perform simple hand-eye coordination skills</span></p></td><td style="width:157.5pt;border-top:none;border-left:none;
+  height:2.7pt" width="198"><p class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black">Able to perform simple hand-eye coordination skills</span></p></td><td style="width:157.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:2.7pt" width="210"><p style="margin-left:6.95pt;text-indent:-6.95pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">- Juggling of hockey ball using a hockey stick</span></p><p style="margin-left:6.95pt;text-indent:-6.95pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  padding:0in 5.4pt 0in 5.4pt;height:2.7pt" width="210"><p style="margin-left:6.95pt;text-indent:-6.95pt" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black">- Juggling of hockey ball using a hockey stick</span></p><p style="margin-left:6.95pt;text-indent:-6.95pt" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">- Dribbling a hockey ball using a hockey stick</span></p></td></tr><tr style="mso-yfti-irow:2;height:1.3pt"><td style="width:133.1pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:1.3pt" valign="top" width="177"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></p></td><td style="width:148.5pt;border-top:none;border-left:none;
+  height:1.3pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black">&nbsp;</span></p></td><td style="width:148.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid black .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:1.3pt" width="198"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Able to complete basic psychomotor ability test</span></p></td><td style="width:157.5pt;border-top:none;border-left:none;
+  height:1.3pt" width="198"><p class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black">Able to complete basic psychomotor ability test</span></p></td><td style="width:157.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:1.3pt" width="210"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:6.95pt;text-indent:-6.95pt;line-height:normal;mso-list:l0 level1 lfo1;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">Speed, agility and quickness test</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:2.0pt"><td style="width:133.1pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:2.0pt" valign="top" width="177"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></p></td><td style="width:148.5pt;border-top:none;border-left:none;
+  height:2.0pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black">&nbsp;</span></p></td><td style="width:148.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid black .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:2.0pt" width="198"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Basic understanding of ball/game sense, decision making and communicative characteristics</span></p></td><td style="width:157.5pt;border-top:none;border-left:none;
+  height:2.0pt" width="198"><p class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:black">Basic understanding of ball/game sense, decision making and communicative characteristics</span></p></td><td style="width:157.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:2.0pt" width="210"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:6.95pt;text-indent:-6.95pt;line-height:normal;mso-list:l0 level1 lfo1;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
   color:black">To be observed through a 4v4 Captain’s Ball game</span></p></td></tr></tbody></table>
 <table style="margin-left:4.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  mso-padding-alt:0in 5.4pt 0in 5.4pt" width="594" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.95pt"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:1.95pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Target number of students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:1.95pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:1.95pt" valign="top" width="450"><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">1</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2 boys<span style="color:black"></span></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:36.85pt"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:36.85pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">Photos</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:36.85pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt;
-  height:36.85pt" valign="top" width="450"><p style="text-align:justify" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial">&lt;Some photographs were taken during pre-covid period&gt;</span></p></td></tr></tbody></table>
+  height:1.95pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Target number of students</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:1.95pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:1.95pt" valign="top" width="450"><p style="text-align:justify" class="MsoNormal"><span style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">1</span><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">2 boys<span style="color:black"></span></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:36.85pt"><td style="width:94.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:36.85pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Photos</span></b></p></td><td style="width:13.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:36.85pt" valign="top" width="18"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin">:</span></b></p></td><td style="width:337.5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:36.85pt" valign="top" width="450"><p style="text-align:justify" class="MsoNormal"><span style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">&lt;Some photographs were taken during pre-covid period&gt;</span></p></td></tr></tbody></table>
 	
 ![](/images/HOC%201.jpg)
 
