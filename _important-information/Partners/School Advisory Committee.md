@@ -8,7 +8,7 @@ third_nav_title: Partners
 
 | Name | Role |
 |:---:|:---:|
-| **Dr Djoni Huang Sian Wei | Chairman** |
+| **Dr Djoni Huang Sian Wei** | **Chairman** |
 | Mrs Ng-Ng Siew Bee | Honorary Secretary |
 | Mr Heah Kian Beng@Ridwan Heah | Member |
 | Dr Ng Wai May | Member |
