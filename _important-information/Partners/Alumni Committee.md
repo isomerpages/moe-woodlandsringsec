@@ -35,5 +35,6 @@ In addition, the alumni have been actively involved in supporting the school's a
 Moreover, the alumni have consistently lent their support and participation to school events such as Sports Day, Teachers and Staff Appreciation Day, and Graduation Night. As the school's 25th anniversary approaches, the committee is organising a homecoming celebration for alumni from various graduating batches, as well as supporting the school's carnival.
 
 For more updates, follow us @wrsalumni
+![](/images/Logo_%20facebook%20&%20instagam%201.jpg)
 
-<img style="width:25%" src="/images/wrsalumni.jpg" align = left>
+
