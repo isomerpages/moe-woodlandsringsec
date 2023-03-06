@@ -14,7 +14,7 @@ third_nav_title: Partners
 
 The committee designed a logo that is inspired by the school song. The W in WRS is spread out, mimicking the wings of a butterfly as they have unfolded from their cocoons (as stated in the school song). The letters W, R and S are linked to represent the role of the Alumni Committee, to be the bridge between the school and all of the alumni of WRS. The three school colours have also been incorporated into the design, serving as a reminder that the alumni will always be part of the WRS community. The colours are splattered, showing the growth that they have gone through during their time in the school.
 
-![](/images/Logo_alumni%20committee.jpg)
+![](/images/Alumni%20Logo.jpg)
 <br>
 **Committee:**
 The committee was formally established in 2018, in commemoration of the school's 20th anniversary. Its primary composition consists of students from diverse graduating classes, thereby reflecting the full range of skills and experiences represented by the alumni community.
@@ -35,6 +35,4 @@ In addition, the alumni have been actively involved in supporting the school's a
 Moreover, the alumni have consistently lent their support and participation to school events such as Sports Day, Teachers and Staff Appreciation Day, and Graduation Night. As the school's 25th anniversary approaches, the committee is organising a homecoming celebration for alumni from various graduating batches, as well as supporting the school's carnival.
 
 For more updates, follow us @wrsalumni
-![](/images/Logo_%20facebook%20&%20instagam%201.jpg)
-
-
+![](/images/social%20media%20logos%201.jpg)
