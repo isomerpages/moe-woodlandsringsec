@@ -22,10 +22,6 @@ third_nav_title: For Students
 </td>
 <td style="width: 48.2759%; height: 94px;">
 	<p><a href="https://drive.google.com/file/d/1L4neu-jKbA14Wbkt9uaJtjMyT8gJ0Q6-/view?usp=share_link">Secondary 1 TOS</a></p>
-</tr>
-</tbody>
-</table>
-</figure>
 <h3> </h3>
 <figure class="wp-block-table is-style-stripes"></figure>
 <!-- /wp:tadv/classic-paragraph -->
