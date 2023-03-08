@@ -17,6 +17,6 @@ description: ""
 |  | School Green Awards – Yellow Flame Award | ![](/images/sch%20award%208.png) |
 | 2019 | School Green Awards – Yellow Flame Award | ![](/images/sch%20award%209.png) |
 | 2021 | School Green Awards – Yellow Flame Award | ![](/images/sch%20award%2010.png) |
-| 2022 | Green Living Awards – Gold | ![](/images/Green%20Living.jpg) |
+| 2022 | Green Living Awards – Gold |![](/images/Logo_green%20living.jpg) |
 |  | School’s Green Awards – Singapore Kopsia Award | ![](/images/Singapre%20Kopsia%20Award.png) |
 |  | NS Mark – Gold | ![](/images/NSmark%20Gold.png)
