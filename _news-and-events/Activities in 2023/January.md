@@ -1,9 +1,10 @@
 ---
 title: January
-permalink: /news-and-events/2023/
+permalink: /news-and-events/2023/january/
 description: ""
 third_nav_title: Activities in 2023
 ---
+
 
 
 
