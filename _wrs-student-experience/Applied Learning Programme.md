@@ -34,11 +34,12 @@ The Tier 1 programme are designed for all secondary one and two students.
 
 **Secondary 1 - Exploring the Future of Transportation with Lego Spike Prime**
 
+![](/images/Alp%20pic%201%20&%202.jpg)
 
 Secondary one students learn to use LEGO Spike Prime building components and hardware, as well as a drag-and-drop coding language based on Scratch. The emphasis of the programme is on transportation challenges and exploration tasks that necessitate the creation and programming of robots that are applicable to real-world scenarios. Students can also learn at their own pace from the resources designed by teachers in the SLS course with the help of their PDLP devices.
 
 **Secondary 2 - Fun with Arduino and Tinkercad Circuit**
-
+![](/images/Alp%20pic%203%20&%204.jpg)
 
   
 
@@ -49,7 +50,7 @@ Secondary two students explore using Tinkercad Circuits simulation software befo
 For Tier 2 programme, students are engaged in more advanced programme in Robotics Club and Singapore Youth Flying Club CCA as well as Applied Science Subjects such as Mobile Robotics and Electronics. The programme involves more complex challenges that demand the application of critical and inventive skills, design thinking and inter-disciplinary knowledge to create advanced transportation models in order to solve real-world problems.
 
 **Robotics Club**
-
+![](/images/Alp%20pic%205%20&%206.jpg)
 
 The Robotics Club offers the Robotics Talent Program (RTP) to Secondary 2 and 3 students. Students learn about robot design, building, programming, and testing with various robot types. The RTP utilises the Jupiter Robot for advanced learning about Artificial Intelligence (AI) and robotics integration. Students apply their knowledge and skills gained from their CCA training in electronics components and coding in the RTP projects.
 
@@ -63,7 +64,7 @@ The Singapore Youth Flying Club (SYFC) aims to develop aviation knowledge and pa
         
 
 **Mobile Robotics (MR) – MOE-Applied Science Subject**
-
+![](/images/Alp%20pic%209%20&%2010.jpg)
 
 
 Secondary 3 MR students use Cubric Coding Blocks to design a mobile robot that solves real-life problems. For instance, through role-playing as members of the Singapore Bomb Squad, they navigate obstacles such as schools or residential HDB blocks while disposing of an explosive in their residential neighborhood. The activity teaches students problem-solving skills while keeping in mind the urgency of time.
@@ -72,15 +73,16 @@ Secondary 3 MR students use Cubric Coding Blocks to design a mobile robot that s
 
 We also organise learning journeys, industrial visits and STEM related educational talks and workshops for our Tier 2 students.
 
+![](/images/Alp%20pic%2011%20&%2012.jpg)
 
 During the learning journey to ABB Singapore Pte Ltd, our pathfinder, conducted a demonstration of the use of Google Hub in controlling electrical appliances and showcased how their inventions have enabled smart shipping operations. Our students gained insights into how automation has evolved to embrace innovation and AI-tech in daily business operations during the learning journey.
 
-
+![](/images/Alp%20pic%2013%20&%2014.jpg)
 
 
 GlobalFoundries Inc. (GF), our industry partner, hosted an Industrial Experiential Visit for our students.  Students experienced a mobile robot handling silicon wafer production pods, visited a semiconductor fabrication plant virtually through Virtual Reality (VR), observed ICs in a chip through microscopes, and learned about GF's efforts to promote sustainability.
 
-
+![](/images/Alp%20pic%2015%20&%2016.jpg)
  
 
 Our tertiary partner, Ngee Ann Polytechnic School of Engineering, organised a customised electronics workshop for our students taking Electronics (O Level Applied Science Subject), where they experienced the "temperature-controlled fans with op-amp" systems.
