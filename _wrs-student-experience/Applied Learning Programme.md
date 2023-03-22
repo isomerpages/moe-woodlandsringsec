@@ -4,28 +4,87 @@ permalink: /wrs-student-experience/alp/
 description: ""
 ---
 ### **Applied Learning Programme**
-##### **The Robotics Education and Enterprise (TREE)**
-The Applied Learning Programme (ALP) provides opportunities for students to discover their strengths and interests, and to find greater relevance and motivation in their learning. They complement the school’s core academic and student development programmes. The ALP helps students appreciate the relevance and value of what they are learning in the academic curriculum to the real world, and develop stronger motivation and purpose to acquire knowledge and skills. The emphasis is on the application of thinking skills, integrating knowledge across subject disciplines, stretching the imagination and applying these in real-world settings in society and industries.
+At Woodlands Ring Secondary School (WRSS), the Applied Learning Programme (ALP) aims to cultivate students’ interest in STEM (Science, Technology, Engineering, and Mathematics) with the theme of “Future of Transportation".
 
-At Woodlands Ring Secondary School (WRSS), our ALP focus area is on Science, Technology, Engineering and Math (STEM). As such, our school offers all Lower Secondary students The Robotics Education and Enterprise (TREE). WRSS is one of the 11 secondary schools to offer ALP in the Robotics domain. It is an approach that emphasises authentic and practice-oriented learning experiences. It also gives students additional opportunities to acquire skills and qualities based on the practical application of knowledge in real-world contexts, and strongly supports our focus on developing 21st century competencies and values in our students.
+The objectives of our ALP are: 
 
-In partnership with STEM Inc., Science Centre Singapore, we have reviewed our ALP to include coding. In 2017, students learn to programme, code and upload to an Arduino microcontroller to perform simple tasks like lighting up an LED or make a buzzer sound, to more complicated tasks such as mimicking a traffic-light system or use infra-red input devices to measure and control output devices. Authentic scenarios are presented to challenge students’ critical and inventive thinking; to test their troubleshooting skills besides learning soft skills such as communicating with team members and learning to make responsible decisions.
+●        to foster a sense of curiosity in students and encourage them to explore new ideas and concepts through experimentation, questioning, taking risks, and learning from mistakes,
 
-Involvement of students in larger project tasks such as designing and prototyping a robot arm to perform precise functions or to make it ‘dance’ to a one-minute music tune, using smartphone to control Robotics arms via Bluetooth, further stretches the students’ imagination and potential to complete the task while living out the school core values of Responsibility, Respect and Resilience.
+●        to develop in students the ability to apply what they learn in real-life situations and make connections between different subjects and disciplines,
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%201.jpg">
-<img style="width:25%" src="/images/alp1.jpg" align = left>
+●        to promote collaboration among students and provide opportunities for them to work together to co-create knowledge and solve problems, and
+
+●        to develop a new generation of engineers with effective communication skills.
+
+**ALP Teaching and Learning Framework**
+
+Our ALP curriculum anchors on 4Cs - Connect, Construct, Contemplate, and Continue.
+
+![](/images/Alp%20framework.jpg)
+
+At the Connect phase, students are encouraged to relate new experiences to their existing knowledge or to explore ideas that spark their curiosity. The Construct phase emphasises on hands-on and minds-on activities that enable students to acquire and apply knowledge. During the Contemplate phase, students take time to reflect on what they have learned and deepen their understanding of the experience. Finally, the Continue phase builds on the students' desire to continue learning and exploring.
+
+**Programme and Key Activities**
+
+The programme comprises of two tiers which targets at different groups of students.
+
+**Tier 1 programme**
+
+The Tier 1 programme are designed for all secondary one and two students.
+
+**Secondary 1 - Exploring the Future of Transportation with Lego Spike Prime**
+
+![](/images/Alp%20pic%201%20&%202.jpg)
+
+Secondary one students learn to use LEGO Spike Prime building components and hardware, as well as a drag-and-drop coding language based on Scratch. The emphasis of the programme is on transportation challenges and exploration tasks that necessitate the creation and programming of robots that are applicable to real-world scenarios. Students can also learn at their own pace from the resources designed by teachers in the SLS course with the help of their PDLP devices.
+
+**Secondary 2 - Fun with Arduino and Tinkercad Circuit**
+![](/images/Alp%20pic%203%20&%204.jpg)
+
+  
+
+Secondary two students explore using Tinkercad Circuits simulation software before advancing to use a physical Arduino system to apply their problem-solving and critical thinking skills. They learn to control LEDs, buzzers, circuits that sense light and temperature, and code for an Arduino robot car. They also learn basic movements such as forward, backward, turn, and how to perform line tracing and distance sensing. The key intended outcome of the programme is to instill in students a curiosity to learn through experimentation, questioning, risk-taking and mistake-making.
+
+**Tier 2 programme**
+
+For Tier 2 programme, students are engaged in more advanced programme in Robotics Club and Singapore Youth Flying Club CCA as well as Applied Science Subjects such as Mobile Robotics and Electronics. The programme involves more complex challenges that demand the application of critical and inventive skills, design thinking and inter-disciplinary knowledge to create advanced transportation models in order to solve real-world problems.
+
+**Robotics Club**
+![](/images/Alp%20pic%205%20&%206.jpg)
+
+The Robotics Club offers the Robotics Talent Program (RTP) to Secondary 2 and 3 students. Students learn about robot design, building, programming, and testing with various robot types. The RTP utilises the Jupiter Robot for advanced learning about Artificial Intelligence (AI) and robotics integration. Students apply their knowledge and skills gained from their CCA training in electronics components and coding in the RTP projects.
+
+**Singapore Youth Flying Club (SYFC)**
+
+![](/images/Alp%20pic%207%20&%208.jpg)
+ 
+
+The Singapore Youth Flying Club (SYFC) aims to develop aviation knowledge and passion for flying in youths, aligning with the school's philosophy of maximising each student's potential. Members experience hands-on glider building and flying, model aircraft control, coding, and drone flying, as well as using the PC Flight Simulator to learn basic piloting skills. SYFC members can participate in competitions and outreach programs, fostering exploration, innovation, and excellence.Our tertiary partner, Ngee Ann Polytechnic School of Engineering, organised a customised electronics workshop for our students taking Electronics (O Level Applied Science Subject), where they experienced the "temperature-controlled fans with op-amp" systems. ``
+
+        
+
+**Mobile Robotics (MR) – MOE-Applied Science Subject**
+![](/images/Alp%20pic%209%20&%2010.jpg)
+
+
+Secondary 3 MR students use Cubric Coding Blocks to design a mobile robot that solves real-life problems. For instance, through role-playing as members of the Singapore Bomb Squad, they navigate obstacles such as schools or residential HDB blocks while disposing of an explosive in their residential neighborhood. The activity teaches students problem-solving skills while keeping in mind the urgency of time.
+
+**Industrial Visits and Workshops**
+
+We also organise learning journeys, industrial visits and STEM related educational talks and workshops for our Tier 2 students.
+
+![](/images/Alp%20pic%2011%20&%2012.jpg)
+
+During the learning journey to ABB Singapore Pte Ltd, our pathfinder, conducted a demonstration of the use of Google Hub in controlling electrical appliances and showcased how their inventions have enabled smart shipping operations. Our students gained insights into how automation has evolved to embrace innovation and AI-tech in daily business operations during the learning journey.
+
+![](/images/Alp%20pic%2013%20&%2014.jpg)
+
+
+GlobalFoundries Inc. (GF), our industry partner, hosted an Industrial Experiential Visit for our students.  Students experienced a mobile robot handling silicon wafer production pods, visited a semiconductor fabrication plant virtually through Virtual Reality (VR), observed ICs in a chip through microscopes, and learned about GF's efforts to promote sustainability.
+
+![](/images/Alp%20pic%2015%20&%2016.jpg)
+ 
+
+Our tertiary partner, Ngee Ann Polytechnic School of Engineering, organised a customised electronics workshop for our students taking Electronics (O Level Applied Science Subject), where they experienced the "temperature-controlled fans with op-amp" systems.
+
 </a></p>
-
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%202.jpg">
-<img style="width:25%" src="/images/alp2%20new.jpg" align = left>
-</a></p>
-
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%203.jpg">
-<img style="width:25%" src="/images/alp3.jpg" align = left>
-</a></p>
-
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/ALP%20enlarged%204.jpg">
-<img style="width:25%" src="/images/alp4.jpg" align = left>
-</a></p>
-
