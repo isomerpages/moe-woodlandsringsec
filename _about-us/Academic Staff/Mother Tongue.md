@@ -18,4 +18,6 @@ third_nav_title: Academic Staff
 | Mr Adnan Bin Mahmud | Teacher | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
 | Mr Zulhafiz Bin Zainal | Teacher | [zulhafiz_zainal@moe.edu.sg](mailto:zulhafiz_zainal@moe.edu.sg) |
 | Mdm Sun Lingling | FAJT | [sun_lingling@moe.edu.sg](mailto:sun_lingling@moe.edu.sg) |
-|
+| Mdm Yoong Wei Lain | FAJT | |
+| Mr Hoe Siang Liang | FAJT | [hoe_siang_ling@moe.edu.sg](mailto:sun_lingling@moe.edu.sg) |
+| Mr Nuriskandar bin Mohd Kassim | FAJT | [nuriskandar_mohd_kassim@moe.edu.sg](mailto:nuriskandar_mohd_kassim@moe.edu.sg) |
