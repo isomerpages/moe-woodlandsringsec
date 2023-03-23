@@ -23,4 +23,5 @@ Rise (to every challenge)<br>
 Serve (the school and community)
 
 ##### **School Values**
-Responsibility Respect Resilience
+Responsibility. Respect. Resilience.
+
