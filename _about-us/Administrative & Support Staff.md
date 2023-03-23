@@ -17,7 +17,7 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 
 | Name | Appointment |
 |---|---|
-| Mr Mohamad Ismail Bin Haron | Operations Manager |
+| Mr Philix Joseph | Operations Manager |
 | Mdm Vandana Khanna | Full Time School Counsellor |
 | Mr Soon Min Hian Matthew | ECG Counsellor |
 | Mdm Andal d/o Chidambaram | Corporate Support Officer |
