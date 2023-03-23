@@ -84,4 +84,3 @@ GlobalFoundries Inc. (GF), our industry partner, hosted an Industrial Experienti
  
 
 Our tertiary partner, Ngee Ann Polytechnic School of Engineering, organised a customised electronics workshop for our students taking Electronics (O Level Applied Science Subject), where they experienced the "temperature-controlled fans with op-amp" systems.
-
