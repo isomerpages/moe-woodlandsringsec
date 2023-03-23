@@ -6,7 +6,7 @@ description: ""
 ### **Administrative and Support Staff**
 
 | Name | Appointment | Email |
-|:---:|:---:|:---:|
+|---|---|
 | Mr Hee Juay Ay | Vice-Principal (Admin) | [Hee_juay_ay@moe.edu.sg](mailto:Hee_juay_ay@moe.edu.sg) |
 | Mdm Norasheedah Bte Mohammed Ali | Administration Manager | [norasheedah_mohammad_ali@moe.edu.sg](mailto:norasheedah_mohammad_ali@moe.edu.sg) |
 | Mdm Roslinda Bte Ismail | Administrative Executive | [roslinda_ismail@moe.edu.sg](mailto:roslinda_ismail@moe.edu.sg) |
