@@ -59,9 +59,7 @@ The Robotics Club offers the Robotics Talent Program (RTP) to Secondary 2 and 3 
 ![](/images/Alp%20pic%207%20&%208.jpg)
  
 
-The Singapore Youth Flying Club (SYFC) aims to develop aviation knowledge and passion for flying in youths, aligning with the school's philosophy of maximising each student's potential. Members experience hands-on glider building and flying, model aircraft control, coding, and drone flying, as well as using the PC Flight Simulator to learn basic piloting skills. SYFC members can participate in competitions and outreach programs, fostering exploration, innovation, and excellence.Our tertiary partner, Ngee Ann Polytechnic School of Engineering, organised a customised electronics workshop for our students taking Electronics (O Level Applied Science Subject), where they experienced the "temperature-controlled fans with op-amp" systems. ``
-
-        
+The Singapore Youth Flying Club (SYFC) aims to develop aviation knowledge and passion for flying in youths, aligning with the school's philosophy of maximising each student's potential. Members experience hands-on glider building and flying, model aircraft control, coding, and drone flying, as well as using the PC Flight Simulator to learn basic piloting skills. SYFC members can participate in competitions and outreach programs, fostering exploration, innovation, and excellence.
 
 **Mobile Robotics (MR) – MOE-Applied Science Subject**
 ![](/images/Alp%20pic%209%20&%2010.jpg)
@@ -86,5 +84,3 @@ GlobalFoundries Inc. (GF), our industry partner, hosted an Industrial Experienti
  
 
 Our tertiary partner, Ngee Ann Polytechnic School of Engineering, organised a customised electronics workshop for our students taking Electronics (O Level Applied Science Subject), where they experienced the "temperature-controlled fans with op-amp" systems.
-
-</a></p>

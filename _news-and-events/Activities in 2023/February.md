@@ -1,9 +1,11 @@
 ---
 title: February
-permalink: /news-and-events/activities-in-2023/
+permalink: /news-and-events/2023/
 description: ""
 third_nav_title: Activities in 2023
 ---
+
+
 
 ### 2NT ITE Visit (APLM)
 

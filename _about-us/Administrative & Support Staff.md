@@ -6,7 +6,7 @@ description: ""
 ### **Administrative and Support Staff**
 
 | Name | Appointment | Email |
-|:---:|:---:|:---:|
+|---|---|
 | Mr Hee Juay Ay | Vice-Principal (Admin) | [Hee_juay_ay@moe.edu.sg](mailto:Hee_juay_ay@moe.edu.sg) |
 | Mdm Norasheedah Bte Mohammed Ali | Administration Manager | [norasheedah_mohammad_ali@moe.edu.sg](mailto:norasheedah_mohammad_ali@moe.edu.sg) |
 | Mdm Roslinda Bte Ismail | Administrative Executive | [roslinda_ismail@moe.edu.sg](mailto:roslinda_ismail@moe.edu.sg) |
@@ -17,7 +17,7 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 
 | Name | Appointment |
 |---|---|
-| Mr Mohamad Ismail Bin Haron | Operations Manager |
+| Mr Philix Joseph | Adjunct Operations Manager |
 | Mdm Vandana Khanna | Full Time School Counsellor |
 | Mr Soon Min Hian Matthew | ECG Counsellor |
 | Mdm Andal d/o Chidambaram | Corporate Support Officer |
@@ -28,7 +28,7 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Mr Amirul Amri Bin Mohd Noor | Technical Support Officer |
 | Mdm Siti Nurvanee | Technical Support Officer |
 | Ms Syahirah Binte Rosli | Technical Support Officer |
-| Mdm Zubaidah Saat | AED (Learning & Behaviour Support) |
+| Mdm Zubaidah Saat | AED (Special Education Needs) |
 | Mr Soh Kee Seng | ICT Manager |
 | Ms Siti Nurbaiyah Binte Jaffar | ICT Manager |
 | Mr Logindran A/L Balachandran | DE (IT) |

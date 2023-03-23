@@ -30,4 +30,4 @@ third_nav_title: Academic Staff
 |Miss Low Xue Zhen (Sheryl) | Teacher | low_xue_zhen@moe.edu.sg |
 | Miss Christina Pillai | FAJT | [pillai_christina@moe.edu.sg](mailto:pillai_christina@moe.edu.sg) |
 | Mr Adnan Abdul Rahman | FAJT | [adnan_abdul_rahman@moe.edu.sg](mailto:adnan_abdul_rahman@moe.edu.sg) |
-|
+| Mdm Nur Radiana Bte Yahaya | FAJT | [nur_radiana_yahaya@moe.edu.sg](mailto:nur_radiana_yahaya@moe.edu.sg) |

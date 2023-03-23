@@ -25,4 +25,5 @@ third_nav_title: Academic Staff
 | Mr Jimmy Kong | Teacher | [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
 | Mdm Norhani Binte Samsuri | AED |  – |
 | Mdm Elizabeth Tung Wai Ling | FAJT |   [tung_wai_ling_elizabeth@moe.edu.sg](mailto:tung_wai_ling_elizabeth@moe.edu.sg) |
-|
+| Mdm Ng Siew Lai | FAJT |   [ng_siew_lai@moe.edu.sg](mailto:ng_siew_lai@moe.edu.sg) |
+| Mdm Shermine | FAJT |   [chia_beitian@moe.edu.sg](mailto:chia_beitian@moe.edu.sg) |
