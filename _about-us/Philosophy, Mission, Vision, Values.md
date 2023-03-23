@@ -6,12 +6,12 @@ description: ""
 ### **Philosophy, Mission, Vision, Values**
 
 ##### **School Philosophy**
-We believe that each student is unique and<br>
-whose potential can be maximised so as<br>
+We believe that each student is unique and
+whose potential can be maximised so as
 to contribute selflessly to society.
 
 ##### **School Vision**
-Every WRS Student is Worthy,<br>
+Every WRS Student is Worthy,
 Resilient and Selfless
 
 ##### **School Mission**
