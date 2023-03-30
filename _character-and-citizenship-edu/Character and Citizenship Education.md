@@ -3,8 +3,6 @@ title: Character and Citizenship Education
 permalink: /wrs-student-experience/cce/
 description: ""
 ---
-
-
 **Character and Citizenship Education**
 
 ‘Active Citizens, Vibrant Leaders’
@@ -70,6 +68,7 @@ a.	The programme employs the Service-Learning strategy so that students learn th
 b.	Through these meaningful activities, we hope to raise the self-esteem of students so that they become confident citizens, and know that they can contribute in many ways to the community.
  
 c.	Students will go through the Service-Learning experience as follows:
+
 * Sec 1: Care for Social/Physical Environment in School
 * Sec 2: Care for Environment outside school 
 * Sec 3, 4 & 5: Student initiated Service-Learning projects.
@@ -78,7 +77,7 @@ d.	Global Classroom Experiences (GCE) provide students with an opportunity to de
 
 **VIA Guidelines**
 
-a.	6 hours of VIA participation is expected of all students every year for personal development through Community Service.
+a. 6 hours of VIA participation is expected of all students every year for personal development through Community Service.
  
 b.	Parents’ support is very much appreciated to enable participation at all Community Service events.
 
@@ -99,7 +98,8 @@ To build the leadership capacity of students using “The Leadership Challenge�
 To enable students to make a difference in the community as leaders.
 
 Students are trained according to the following levels:
-* Level 1: All students will be equipped to lead themselves through school-wide events and platforms of learning through our Learning for Life Programme (LLP) sessions;
+
+*  Level 1: All students will be equipped to lead themselves through school-wide events and platforms of learning through our Learning for Life Programme (LLP) sessions;
 
 * Level 2: Class Leaders (Chairpersons and CCE Ambassadors), Junior Peer Support Leaders, Junior Student Councillors and Junior CCA Leaders will be equipped to lead their peers;
 
@@ -131,7 +131,7 @@ To equip students with the necessary knowledge, skills and values to make inform
      *  Competitions
 *	The ECG Counsellor also provides individual counselling and group guidance to guide students to make informed decisions about their education and career plans.
  
-**7.	Student Recognition **
+**7.	Student Recognition**
 
 Objective:
 
