@@ -1,8 +1,9 @@
 ---
 title: Education and Career Guidance
-permalink: /wrs-student-experience/cce/
+permalink: /wrs-student-experience/ecg/
 description: ""
 ---
+
 ### **Education and Career Guidance**
 ##### **What is it about?**
 In the volatile, uncertain, complex and ambiguous (VUCA) world today, new occupations are emerging while some become obsolete. Education and Career Guidance (ECG) is important to prepare our students to be future-ready and be able to navigate the evolving landscape. Through ECG, students will acquire the necessary knowledge, skills and values to enable them to make informed education and career decisions.
