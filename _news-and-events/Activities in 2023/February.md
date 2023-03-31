@@ -4,10 +4,7 @@ permalink: /news-and-events/2023/
 description: ""
 third_nav_title: Activities in 2023
 ---
-
-
-
-### 2NT ITE Visit (APLM)
+### 2NT ITE Visit (EIP)
 
 **6 & 16 Feb** – Class 2R7 became the first batch of students to visit ITE College Central under the Experience ITE Programme (EIP). It enables students to experience what it is like to learn at ITE, giving them a taste of the learning environment, range of Co-Curricular Activities (CCAs) and student facilities available. Through the two visits, students got to try out a variety of fun and practical projects that help instill interests in skills and build aptitude while giving them exposure them to options for future careers in skills-related professions. It was indeed an eye-opening experience for our students!
 
@@ -62,8 +59,10 @@ Students also got to choose among workshops like Clay Modelling, Manga Art, Sand
 
 The Secondary 3 certainly worked hard and played hard during Week X to develop their self-management and relationship management skills. Through the Positive Intelligence Workshop, students learnt how to strengthen their mental fitness by shifting the power from their negative selves to their positive selves. Through a trip to NERF Action Xperience and Sentosa for the Sandcastle Challenge, students were given the opportunities to lead and forge better relationships with their peers. 
 ![](/images/eXperiental%20Week%205.jpg)
-Secondary 4E and 5O
-Various activities were carefully organised to prepare our graduating cohort for their post-secondary education and beyond. Students from the graduating cohort who will be taking their O-Level Examination this year were given the choice to select from various self-improvement workshops – on motivation or study skills – which they felt fit them best. 
+
+**Graduating Cohort**
+
+Secondary 4E and 5O various activities were carefully organised to prepare our graduating cohort for their post-secondary education and beyond. Students from the graduating cohort who will be taking their O-Level Examination this year were given the choice to select from various self-improvement workshops – on motivation or study skills – which they felt fit them best. 
 
 To gain exposure to various industries, students were also given the autonomy to choose companies which they were interested in. Students visited companies like 3M, Laselle College of the Arts, SHATEC, ABB and Maritime Port Authority to engage with industry professionals and find out more about possible career pathways.  
 Through an Interview Preparation Workshop, students were also given the opportunity to don on their best formal attire and acquire feedback on their performance during interviews. 
