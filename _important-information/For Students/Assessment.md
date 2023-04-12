@@ -4,13 +4,26 @@ permalink: /important-information/for-students/assesment/
 description: ""
 third_nav_title: For Students
 ---
-### Weighted Assessment 1 (WA1)
+### Preliminary Mother Tongue O Level Examination  and NFS Course Work Execution (Exp and NA)
 
 
 
 | Schedule of Assessment | Topics/Skills Assessed |
 | -------- | -------- |
-| [Secondary 1](https://drive.google.com/file/d/16qPUehE8DwtWLlkY2ZkTKlTFC2tMgApM/view?usp=share_link)     | [Secondary 1 TOS](https://drive.google.com/file/d/1L4neu-jKbA14Wbkt9uaJtjMyT8gJ0Q6-/view?usp=share_link)     |
+| [Prelim](https://drive.google.com/file/d/1iHyQ7HmLV3argIjtVl5I7cDEZQg39HFl/view?usp=share_link)     |      |
+
+
+
+### Weighted Assessment Sec 4 and 5
+
+
+
+| Schedule of Assessment | Topics/Skills Assessed |
+| -------- | -------- |
+| [Sec 4 & 5](https://drive.google.com/file/d/1DzqKNHQyJ_pxYGKdLL7oXOaoXQsZwWkh/view?usp=share_link)    | [Sec 4 Exp & 5 NA](https://drive.google.com/file/d/1ClxSoso8lLCcmWlxV7Zlc_mBAdPaYXgN/view?usp=share_link)|
+| | [Sec 4 NA](https://drive.google.com/file/d/1fzkDSfbqb54zfGK6eFU1CjCzf7Oocawl/view?usp=share_link)|
+| | [Sec 4 NT](https://drive.google.com/file/d/1suzBx0_OYLutoaZs6Nu_pdHmmqz5S_WI/view?usp=share_link)|
+
 
 
 	
