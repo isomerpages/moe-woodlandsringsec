@@ -60,7 +60,8 @@ With these broad based and rich experiences in STEAM@WRS, we aim to nurture crit
 **D1. DSA – Badminton (Boys)** <br>
 Pupils who play competitive badminton at school or zonal level and/or those who possess athletic ability, good movements, reflex and hand/eye coordination skills together with a deep strong passion for sports may wish to take part in our DSA - Badminton.
 
-By joining our WRSS Badminton, pupils can look forward to being developed holistically to be student-athletes who model the school values of Responsibility, Respect and Resilience, and embodies commitment, dedication, and discipline consistently, both in and out of school. We are looking for passionate, confident and reflective team players who can work diligently together to maximising everybody’s potential in the team. 
+By joining our WRSS Badminton, pupils can look forward to being developed holistically to be student-athletes who model the school values of Responsibility, Respect and Resilience, and embodies commitment, dedication, and discipline consistently, both in and out of school. We are looking for passionate, confident and reflective team players who can work diligently together to maximising everybody’s potential in the team.
+
 Many developmental opportunities will be provided through school’s practices, peer coaching, various age group competitions and tournaments to become the student-athlete of robust character that we envision. 
 
 **D2. DSA – Hockey (Boys)** <br>
@@ -73,6 +74,7 @@ If you think you have what it takes, do apply to join our school through the var
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
+
 Parents and pupils are encouraged to choose schools wisely based on the pupils’ aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. 
 
 Pupils who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4. 
