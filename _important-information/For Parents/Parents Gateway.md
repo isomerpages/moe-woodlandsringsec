@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /important-information/for-parents/
+permalink: /important-information/for-parents/pg/
 description: ""
 third_nav_title: For Parents
 ---
