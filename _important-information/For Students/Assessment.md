@@ -20,7 +20,7 @@ third_nav_title: For Students
 
 | Schedule of Assessment | Topics/Skills Assessed |
 | -------- | -------- |
-| [Sec 4 & 5](https://drive.google.com/file/d/1DzqKNHQyJ_pxYGKdLL7oXOaoXQsZwWkh/view?usp=share_link)    | [Sec 4 Exp & 5 NA](https://drive.google.com/file/d/1ClxSoso8lLCcmWlxV7Zlc_mBAdPaYXgN/view?usp=share_link)|
+| [Sec 4 & 5](https://drive.google.com/file/d/1DzqKNHQyJ_pxYGKdLL7oXOaoXQsZwWkh/view?usp=share_link)    | [Sec 4 Exp & 5 NA](https://drive.google.com/file/d/1QUsTo_nikk0HXbtBR_LS1P7b09aY0CYl/view?usp=share_link)|
 | | [Sec 4 NA](https://drive.google.com/file/d/1fzkDSfbqb54zfGK6eFU1CjCzf7Oocawl/view?usp=share_link)|
 | | [Sec 4 NT](https://drive.google.com/file/d/1suzBx0_OYLutoaZs6Nu_pdHmmqz5S_WI/view?usp=share_link)|
 
