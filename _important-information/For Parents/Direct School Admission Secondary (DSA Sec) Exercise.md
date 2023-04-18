@@ -45,12 +45,16 @@ By joining Woodlands Ring Secondary School Cultural Dance CCA, pupils can look f
 
 **C1. DSA – Robotics** <br>
 Pupils with skills in robot building and programming and ICT skills in web design, programming and video editing may wish to take part in our DSA-Robotics.
+
 By joining and contributing in our WRSS Robotics Club, pupils will be given opportunities to learn and demonstrate the school core values of Responsibility, Respect and Resilience. We are looking for team players who can demonstrate values of patience, respect and readiness in helping others. In so doing, the members take responsibility for their own learning and develop higher order thinking skills as well as resilience to be actively engaged in problem-solving tasks.
 
 **C2. DSA – STEAM** <br>
 Pupils who possess the ability to empathise with others, look at problems from different perspectives, have strong curiosity for the unknown and passion for learning, may wish to take part in our DSA – STEAM.
+
 Problem solving in our world today is one which is complex, multi-faceted and interdisciplinary, often situated at the interface of Science, Technology, Engineering, Arts and Mathematics. Through DSA-STEAM, our pupils learn to collaborate in a systematic and logical approach to solve real life problems.
+
 By joining STEAM@WRS, pupils can look forward to attending a structured STEAM programme where your passions and skills will be further developed, through a wide array of opportunities in science research (e.g. International Elementz, Singapore Youth Science Fair), creative problem solving (e.g. Odyssey of the Mind), scientific communication (e.g Singapore Buskers Festival), and exposure to science Junior Olympiads competitions (Biology, Physics, Chemistry).
+
 With these broad based and rich experiences in STEAM@WRS, we aim to nurture critical and inventive thinkers, collaborative problem-solvers with strong empathy, resilience and creativity.
 
 **D1. DSA – Badminton (Boys)** <br>
