@@ -7,7 +7,7 @@ third_nav_title: For Parents
 We are looking for interested Primary 6 pupils with talents / skills in the following Talent Areas under 4 different categories:
 
 **A. Leadership and Uniformed Groups** <br>
-1. Student Leadership
+1\. Student Leadership
 
 **B. Performing Arts** <br>
 1\. Choir <br>
@@ -16,14 +16,15 @@ We are looking for interested Primary 6 pupils with talents / skills in the foll
 
 **C. Science, Technology, Engineering and Mathematics** <br>
 1\. Robotics <br>
-2\. STEAM (Science, Technology, Engineering, Aesthetics and Mathematics) <br>
+2\. STEAM (Science, Technology, Engineering, Aesthetics and Mathematics)
 
 **D. Sports and Games** <br>
 1\. Badminton <br>
-2\. Hockey <br>
+2\. Hockey
 
 **A1. DSA – Student Leadership** <br>
 Pupils who possess positive attitude, good communication skills and have demonstrated leadership capabilities, preferably have led a group of students in planning and executing school events or level-wide programmes, may wish to take part in our DSA – Student Leadership.
+
 By joining WRSS, pupils can look forward to attending a structured leadership training programme where their leadership skills will be honed and strengthen further. Many opportunities to put into practice their leadership skills will be provided through authentic learning platforms like organising events and activities for the level, within school and beyond.
 
 **B1. DSA – Choir** <br>
