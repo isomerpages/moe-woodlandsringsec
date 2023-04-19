@@ -62,8 +62,6 @@ links:
         url: /important-information/for-parents/
       - title: Partners
         url: /important-information/partners/
-      - title: Direct School Admission (DSA)
-        url: /important-information/dsa/
   - title: News & Events
     url: /news-and-events/wrs-in-the-news/
     sublinks:
@@ -83,3 +81,5 @@ links:
         url: /news-and-events/2022/
       - title: Activities in 2023
         url: /news-and-events/2023/
+  - title: Direct School Admission (SEC)
+    url: /dsa

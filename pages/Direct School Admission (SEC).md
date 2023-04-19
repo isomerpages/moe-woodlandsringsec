@@ -1,6 +1,6 @@
 ---
-title: Direct School Admission (DSA)
-permalink: /important-information/dsa/
+title: Direct School Admission (SEC)
+permalink: /dsa/
 description: ""
 ---
 We are looking for interested Primary 6 pupils with talents / skills in the following Talent Areas under 4 different categories:
