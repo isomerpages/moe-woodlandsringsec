@@ -2,21 +2,21 @@ collections:
   important-information:
     output: true
     order:
+      - For Students/.keep
       - For Students/School Uniform.md
       - For Students/Calendar.md
       - For Students/An Evening with Parents.md
       - For Students/Class Timetable.md
       - For Students/Assessment.md
       - For Students/Useful Links.md
-      - For Students/.keep
       - For Parents/.keep
-      - For Parents/Direct School Admission Secondary (DSA Sec) Exercise.md
       - For Parents/Parents Gateway.md
       - For Parents/Student Insurance Coverage.md
       - For Parents/Financial Assistance.md
       - For Parents/Booklists for 2023.md
+      - Partners/.keep
       - Partners/School Advisory Committee.md
       - Partners/Family Matters @ School.md
       - Partners/Parents Support Group.md
       - Partners/Alumni Committee.md
-      - Partners/.keep
+      - Direct School Admission (DSA).md

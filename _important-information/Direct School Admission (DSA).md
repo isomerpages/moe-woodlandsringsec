@@ -1,8 +1,7 @@
 ---
-title: Direct School Admission Secondary (DSA Sec) Exercise
-permalink: /important-information/for-parents/
+title: Direct School Admission (DSA)
+permalink: /important-information/dsa/
 description: ""
-third_nav_title: For Parents
 ---
 We are looking for interested Primary 6 pupils with talents / skills in the following Talent Areas under 4 different categories:
 
