@@ -8,7 +8,7 @@ notification: Welcome to Woodlands Ring Secondary School
 sections:
   - hero:
       title: Woodlands Ring Secondary School
-      background: /images/hero banner.gif
+      background: /images/homepg banner.gif
       key_highlights:
         - title: Featured Posts
           description: Click here for more info
