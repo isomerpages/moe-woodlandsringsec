@@ -7,8 +7,7 @@ permalink: /
 notification: Welcome to Woodlands Ring Secondary School
 sections:
   - hero:
-      title: Woodlands Ring Secondary School
-      background: /images/hero banner.gif
+      background: /images/homepg banner7.gif
       key_highlights:
         - title: Featured Posts
           description: Click here for more info
@@ -19,6 +18,5 @@ sections:
         - title: Contact Us
           description: Click here for more details
           url: /contact-us/
-      button: "Contact us "
       url: https://staging.d1zt0oshmgcgjg.amplifyapp.com/contact-us/
 ---
