@@ -66,11 +66,11 @@ Many developmental opportunities will be provided through school’s practices, 
 **D2. DSA – Hockey (Boys)** <br>
 Pupils who are currently playing competitive hockey/floorball and/or those who possess athletic ability, good reflex and hand/eye coordination skills together with a deep strong passion for sports may wish to take part in our DSA- Hockey.
 
-By joining and contributing in our WRSS Hockey CCA, pupils can look forward to opportunities to build character by learning and demonstrating the school core values of Responsibility, Respect and Resilience. We are looking for team players who can work synergistically with others through camaraderie while at the same time excel in honing hockey skills, game tactics and sense with the aim of maximising everybody’s potential in the team. Many opportunities will be provided to further grow the learning acquired through school’s practices, various age group competitions and tournaments and youth development programmes. 
+By joining and contributing in our WRSS Hockey CCA, pupils can look forward to opportunities to build character by learning and demonstrating the school core values of Responsibility, Respect and Resilience. We are looking for team players who can work synergistically with others through camaraderie while at the same time excel in honing hockey skills, game tactics and sense with the aim of maximising everybody’s potential in the team. Many opportunities will be provided to further grow the learning acquired through school’s practices, various age group competitions and tournaments and youth development programmes.
 
 If you think you have what it takes, do apply to join our school through the various Talent Areas above. 
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+The selection criteria and process for the talent can be found [here](/files/dsa%20selection%20process%20and%20criteria%202023.pdf).
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 
