@@ -4,9 +4,11 @@ permalink: /important-information/for-students/2003-jun-holiday-supplementary-le
 description: ""
 third_nav_title: For Students
 ---
+Please refer to the 2023 Jun Holiday Supplemenary Lesson Class Timetable below:
+
 |  |
 |---|
-| [Secondary One](https://drive.google.com/file/d/1s_iL8ixlGNb0DLy5qqO465lnkAw53bET/view?usp=share_link)
-| [Secondary Two](https://drive.google.com/file/d/1c4yxcZfzSpQwsqzhx18fOr8uH643keR1/view?usp=share_link)
-| [Secondary Three](https://drive.google.com/file/d/1yfoIxxiX_hLfSJqfLu4dNQ5Bt9WweHHa/view?usp=share_link)
+| [Class 4R1](/files/class%204r1.pdf)
+| [Class 4R2A](/files/class%204r2a.pdf)
+| [[](/files/class%204r2b.pdf)]
 | [Secondary Four / Five](https://drive.google.com/file/d/1SpU6fkeCvsFsZgPik4JD2I_qKnFtx1hz/view?usp=share_link)
