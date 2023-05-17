@@ -6,8 +6,7 @@ third_nav_title: Staff
 ---
 ### **School Leaders and Key Personnel**
 
-![](/images/sls%20pic.jpg)
-
+![](/images/sls%20pic%20amend.jpg)
 
 | Appointment | Names | Email Address |
 |---|---|---|
