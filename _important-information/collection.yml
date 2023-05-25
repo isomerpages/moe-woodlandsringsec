@@ -2,7 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - For Students/2023 Jun Holiday Learning Task.md
       - For Students/.keep
       - For Students/School Uniform.md
       - For Students/Calendar.md
@@ -10,6 +9,7 @@ collections:
       - For Students/Class Timetable.md
       - For Students/Assessment.md
       - For Students/2023 Jun Holiday Supplementary Lesson Class Timetable.md
+      - For Students/2023 Jun Holiday Learning Task.md
       - For Students/Useful Links.md
       - For Parents/.keep
       - For Parents/Parents Gateway.md
