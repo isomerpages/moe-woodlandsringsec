@@ -18,4 +18,4 @@ Please refer to the 2023 Jun Holiday Learning Task for the various levels below:
 | [Sec 4 Express](https://drive.google.com/file/d/1uFZ3RINDCPph37b16n9J4l3PyDGtuV4N/view?usp=drive_link)
 | [Sec 4 Normal Academic](https://drive.google.com/file/d/1WToL3JsqS7htBsRFuiSKa1clQRVMo_KB/view?usp=drive_link)
 | [Sex 4 Normal Technical](https://drive.google.com/file/d/1iRctxOT4OPQ_DaL01xu_oNpc8v0lOT4N/view?usp=drive_link)
-| []
+| [Sec 5](https://drive.google.com/file/d/1afk7JuzpKVv6utpWbDW8P3nTMdyOqbez/view?usp=drive_link)
