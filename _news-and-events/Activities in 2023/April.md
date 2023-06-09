@@ -6,7 +6,7 @@ third_nav_title: Activities in 2023
 ---
 #### Celebrating Excellence: Awards Day for Class of 2022
 
-**6 April –** At WRS, we take immense pride in acknowledging and celebrating the remarkable accomplishments of our students. The recently concluded Awards Day 2023 honoured the outstanding achievements of our students in the 2022 national examinations. It served as a testament to their hard work, dedication, and academic excellence
+**6 April –** At WRS, we take immense pride in acknowledging and celebrating the remarkable accomplishments of our students. The recently concluded Awards Day 2023 honoured the outstanding achievements of our students in the 2022 national examinations. It served as a testament to their hard work, dedication, and academic excellence.
 ![](/images/picture1may%202023.jpg)
 Highlights of the event included the **Student of Special Mention Award**, presented to Waylon Seth Wong Ju Jin of Class 4-6. Waylon's exceptional commitment, exemplary character, and pursuit of excellence in his academic journey set him apart as a role model of resilience for his peers.
 
