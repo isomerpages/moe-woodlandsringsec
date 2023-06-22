@@ -10,7 +10,7 @@ Please refer to the 2023 Semester 2 timetable below:
 |  |
 |---|
 | [Secondary One](https://drive.google.com/drive/u/1/folders/1jr1GdMeK5VNUZIfp5BWJUVpfxedirYVc)
-| [Secondary Two](https://drive.google.com/file/d/1c4yxcZfzSpQwsqzhx18fOr8uH643keR1/view?usp=share_link)
+| [Secondary Two](https://drive.google.com/drive/u/1/folders/1jr1GdMeK5VNUZIfp5BWJUVpfxedirYVck)
 | [Secondary Three](https://drive.google.com/file/d/1yfoIxxiX_hLfSJqfLu4dNQ5Bt9WweHHa/view?usp=share_link)
 | [Secondary Four / Five](https://drive.google.com/file/d/1SpU6fkeCvsFsZgPik4JD2I_qKnFtx1hz/view?usp=share_link)
 |
