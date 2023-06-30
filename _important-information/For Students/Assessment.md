@@ -20,4 +20,6 @@ third_nav_title: For Students
 
 |  Schedule of Assessment | Topics/Skills Assessed |
 | -------- | -------- |
-| [Secondary 1](https://drive.google.com/file/d/1Gg3bJgxuVg9tEsjPegvJrOi33AdpO78J/view?usp=drive_link)     | [Secondary 1](https://drive.google.com/file/d/17n0dJR2M0aGMFYSu8QCQPVGS6bhvXaWd/view?usp=drive_link)  | 
+| [Secondary 1](https://drive.google.com/file/d/1Gg3bJgxuVg9tEsjPegvJrOi33AdpO78J/view?usp=drive_link)     | [Secondary 1](https://drive.google.com/file/d/17n0dJR2M0aGMFYSu8QCQPVGS6bhvXaWd/view?usp=drive_link)  |
+| [Secondary 2 - Geography](https://drive.google.com/file/d/1Yvxhyz612wPl3J96t1Khv0-SfxdlQbCA/view?usp=drive_link)     |  |
+| [Secondary 3 - Social Studies](https://drive.google.com/file/d/1Y-kAvVCJnYZAA3sIZvjs85KhkX0FpNNU/view?usp=drive_link)     |  |
