@@ -22,5 +22,6 @@ third_nav_title: Academic Staff
 | Miss Lim Ee Teng Elaine | Teacher |   [lim_ee_teng_elaine@moe.edu.sg](mailto:lim_ee_teng_elaine@moe.edu.sg) |
 | Miss Aruna Govind | Teacher | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
 | Mr Neo Kai Sheng | Teacher | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
+| Ms Chua Seok Hui  | FAJT | [chua_seok_hui@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
 | Mdm Siti Nurvanee | Technical Support Officer |  – |
 | Ms Syahirah Binte Rosli | Technical Support Officer |  – |
