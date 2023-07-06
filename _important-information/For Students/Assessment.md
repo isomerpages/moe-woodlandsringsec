@@ -14,7 +14,7 @@ third_nav_title: For Students
 
 ### Preliminary Examination
 
-| Schedule of Assessment | Topics/Skills Assessed |
+| Schedule of Examination |  |
 | -------- | -------- |
 | [Prelim](https://drive.google.com/file/d/1iHyQ7HmLV3argIjtVl5I7cDEZQg39HFl/view?usp=share_link)     |      |
 
