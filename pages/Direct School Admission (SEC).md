@@ -70,7 +70,7 @@ By joining and contributing in our WRSS Hockey CCA, pupils can look forward to o
 
 If you think you have what it takes, do apply to join our school through the various Talent Areas above. 
 
-The selection criteria and process for the talent can be found [here](/files/dsa%20selection%20process%20and%20criteria%202023.pdf).
+The selection criteria and process for the talent can be found [here](https://drive.google.com/file/d/1H7_xYM5Inz80OyI6CtnTjPCSGbnDpdlf/view?usp=sharing)
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11 am to 31 May 2023, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 
