@@ -24,7 +24,7 @@ description: ""
 
 **How to get there?**
 * Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 912, 912A - 8 minutes walking distance
+* Bus number: 912, 912A
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
