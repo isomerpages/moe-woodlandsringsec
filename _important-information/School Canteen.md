@@ -3,6 +3,8 @@ title: School Canteen
 permalink: /important-information/school-canteen/
 description: ""
 ---
+#### School Canteen Advertisement
+
 | Type of Stall | Closing Date | Requirements |
 
 | -------- | -------- | -------- |
