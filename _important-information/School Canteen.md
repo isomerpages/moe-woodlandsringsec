@@ -19,8 +19,8 @@ description: ""
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3.	Submit the completed application form and documents by closing date via email OR to the School’s General Office.
-* Address: Woodlands Ring Road Singapore 738239
-* Contact No: 63643712
+* Address: 10 Woodlands Ring Road Singapore 738239
+* Contact No: 6364 3712
 * Email: wrs@moe.edu.sg
 * Contact Person: Mdm Roslinda Bte Ismail
 
