@@ -43,4 +43,3 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 * d.	Photocopy of the NRIC (front & back)  
 * e.	Records of past catering or canteen experiences, if any
 * Shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).
-
