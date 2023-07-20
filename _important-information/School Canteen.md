@@ -31,7 +31,6 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 
 11.	Applicants with catering experience or experience operating in a school environment are preferred.
 
-
 **Application Procedure**
 1.	Download [Application Form](https://drive.google.com/file/d/1th-ZQ4wz_VS9lWXslPE3X2i3PAuMlWCE/view?usp=sharing) or obtain hardcopy form from the Corporate Office.
 
