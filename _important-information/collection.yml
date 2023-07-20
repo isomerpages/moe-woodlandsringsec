@@ -2,7 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - School Canteen.md
       - For Students/.keep
       - For Students/School Uniform.md
       - For Students/Calendar.md
@@ -22,3 +21,4 @@ collections:
       - Partners/Family Matters @ School.md
       - Partners/Parents Support Group.md
       - Partners/Alumni Committee.md
+      - School Canteen.md
