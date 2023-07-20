@@ -37,9 +37,10 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 
 2.	Submit the following documents to Corporate Office or email to wrss@moe.edu.sg  by Friday, 4 Aug 2023.
 	
-	a. Completed application form 
-  b.	Proposed menu and price list of all items to be sold
-* c.	Photocopy of relevant certificates of applicant and stall assistant(s) such as Basic Food Hygiene Course certificate etc 
-* d.	Photocopy of the NRIC (front & back)  
-* e.	Records of past catering or canteen experiences, if any
-* Shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).
+*   Completed application form
+*   Proposed menu and price list of all items to be sold
+*   Photocopy of relevant certificates of applicant and stall assistant(s) such as Basic Food Hygiene Course certificate etc 
+*   Photocopy of the NRIC (front & back)  
+*   Records of past catering or canteen experiences, if any
+ 
+Shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).
