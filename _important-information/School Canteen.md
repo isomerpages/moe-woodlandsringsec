@@ -33,7 +33,7 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 
 
 **Application Procedure**
-1.	Download application form or obtain hardcopy form from the Corporate Office.
+1.	Download [Application Form](https://drive.google.com/file/d/1th-ZQ4wz_VS9lWXslPE3X2i3PAuMlWCE/view?usp=sharing) or obtain hardcopy form from the Corporate Office.
 
 2.	Submit the following documents to Corporate Office or email to wrss@moe.edu.sg  by Friday, 4 Aug 2023.
 	
