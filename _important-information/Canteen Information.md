@@ -34,12 +34,27 @@ description: ""
 **Application Procedure**
 1.	Download [Application Form](https://drive.google.com/file/d/1th-ZQ4wz_VS9lWXslPE3X2i3PAuMlWCE/view?usp=sharing) or obtain hardcopy form from the Corporate Office.
 
-2.	Submit the following documents to Corporate Office or email to wrss@moe.edu.sg  by Friday, 4 Aug 2023.
-	
-*   Completed application form
-*   Proposed menu and price list of all items to be sold
-*   Photocopy of relevant certificates of applicant and stall assistant(s) such as Basic Food Hygiene Course certificate etc 
-*   Photocopy of the NRIC (front & back)  
-*   Records of past catering or canteen experiences, if any
- 
+2. Attached the following documents together with application form:
+
+    a.	Proposed menu and price list of all items to be sold
+
+    b.	Photocopy of relevant certificates of applicant and stall assistant(s) such as Basic Food Hygiene Course certificate etc 
+
+    c.	Photocopy of the NRIC (front & back)  
+
+    d.	Records of past catering or canteen experiences, if any
+
+3. Submit the completed application form and documents by 4 August 2023 via email or to the School Corporate Office.
+* Address: 10 Woodlands Ring Road S(738239)
+* Contact: 63643712
+* Email: wrss@moe.edu.sg
+
+
+**How to get there?**
+
+Nearest MRT: Admiralty
+
+Bus No. 912 from Woodlands Regional Interchange or Admiralty MRT Station
+
+
 Shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).
