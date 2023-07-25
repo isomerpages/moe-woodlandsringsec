@@ -50,7 +50,7 @@ description: ""
 
     d.	Records of past catering or canteen experiences, if any
 
-3. Submit the completed application form and documents by 4 August 2023 via email or to the School Corporate Office.
+3. Submit the completed application form and documents via email or to the School Corporate Office.
 * Address: 10 Woodlands Ring Road S(738239)
 * Contact: 63643712
 * Email: wrss@moe.edu.sg
