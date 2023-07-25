@@ -5,7 +5,13 @@ description: ""
 ---
 #### School Canteen Advertisement
 
-**Woodlands Ring Secondary School** has a vacancy for **Hot Drinks and Snacks** canteen stall.
+
+| Type of Stall | Closing Date | Requirement |
+| -------- | -------- | -------- |
+| Hot drinks and snacks     | 4 Aug     |      |
+| Vegetarian / Non-vegetarian Indian Food     | 7 Aug     | Prefer vegetarian food. Examples of non- vegetarian Indian food: Nasi briyani, thosei, Indian savouries.
+     |
+
 
 **Criteria**
 1.	Stallholder(s) and assistant(s) who are Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.
