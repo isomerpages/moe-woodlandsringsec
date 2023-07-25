@@ -10,8 +10,8 @@ third_nav_title: For Students
 | -------- | -------- |
 | [Secondary 4 NA](https://drive.google.com/file/d/1UavIgKJnM7JSoe_diBioglMjVCltFaIG/view?usp=drive_link)     |      |
 | [Secondary 4 NT](https://drive.google.com/file/d/1toEGgQqTvdarL8zVHOgk3rDNeyEM4gZR/view?usp=drive_link)     |      |
-
-
+| [Secondary 4E/5NA](https://drive.google.com/file/d/1RyYYUwdZaOvQvnr50_tPvBNdLoOB2ENn/view?usp=drive_link)     |      |
+| [Secondary 4NA offering O Level Subjects](https://drive.google.com/file/d/1oOLDMFF3X2mRLoKDznanGBdIknW4AWS0/view?usp=drive_link)     |      |
 
 	
 ### 	Weighted Assessment 2 (WA2)
