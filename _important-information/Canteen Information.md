@@ -9,8 +9,8 @@ description: ""
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
 | Hot drinks and snacks     | 4 Aug     |      |
-| Vegetarian / Non-vegetarian Indian Food     | 7 Aug     | Prefer vegetarian food. Examples of non- vegetarian Indian food: Nasi briyani, thosei, Indian savouries.
-     |
+| Vegetarian / Non-vegetarian Indian Food     | 7 Aug     | Prefer vegetarian food. Examples of non- vegetarian Indian food: Nasi briyani, thosei, Indian savouries. Open to Halal/Non-Halal
+   |
 
 
 **Criteria**
