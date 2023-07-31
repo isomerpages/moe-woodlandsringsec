@@ -88,8 +88,12 @@ third_nav_title: Staff
 | 4R3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
 |  | Mdm Chong Nyok Fang | [chong_nyok_fang@moe.edu.sg](mailto:chong_nyok_fang@moe.edu.sg) |
 | 4R4 | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
+|  | Mdm Saratha Arumugam | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg) |
+|  | Mr Jason Charles Ingham | [jason_ingham@moe.edu.sg](mailto:jason_ingham@moe.edu.sg) |
 | 4R5 | Mr Tok Hong Da | [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
+|  | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
 | 4R6 | Mr Yeoh Sin Hui (Felix) (SH/Education Support) | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
+|  | Mdm Siti Aisah Mohamed Yusop | [siti_aisah mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg) |
 |  | Mdm Nor Lizawati Bte Mohd Tahir (LH/EL) | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
 | 4R7 | Mr Adnan Bin Mahmud | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
 |  | Ms Li Zhiping | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
