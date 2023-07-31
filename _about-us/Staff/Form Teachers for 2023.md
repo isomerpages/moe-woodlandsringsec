@@ -18,8 +18,10 @@ third_nav_title: Staff
 | Class | Form Teachers | Email |
 |---|---|---|
 | 1R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg](mailto:ong_chee_lim@moe.edu.sg) |
+|  | Mr Loy Liang Teck | [loy_liang_teck@moe.edu.sg](mailto:loy_liang_teck@moe.edu.sg) |
 | 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg](mailto:lee_shih_min_patricia@moe.edu.sg) |
 | 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg](mailto:toh_wei_xian_eugene@moe.edu.sg) |
+|  | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
 | 1R4 | Miss Elaine Lim Ee Teng | [lim_ee_teng_elaine@moe.edu.sg](mailto:lim_ee_teng_elaine@moe.edu.sg) |
 |  | Mr Lim Ding Xun | [lim_ding_xun@moe.edu.sg](mailto:lim_ding_xun@moe.edu.sg) |
 | 1R5 | Mr Sheikh Faraz B Sheikh A Rashid | [sheikh_faraz_sheikh_rashid@moe.edu.sg](mailto:sheikh_faraz_sheikh_rashid@moe.edu.sg) |
@@ -43,6 +45,7 @@ third_nav_title: Staff
 | 2R5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
 |  | Mrs Anita Long   | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
 | 2R6 | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
+|  | Miss Lim Hwee Ee | [lim_hwee_ee@moe.edu.sg](mailto:lm_hwee_ee@moe.edu.sg) |
 | 2R7 | Mr Zulhafiz Bin Zainal (SH/ML covering) | [zulhafiz_zainal@moe.edu.sg](mailto:zhlhafiz_zainal@moe.edu.sg) |
 |  | Miss Gwendolyn Koh Jianing | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
 | 
@@ -64,7 +67,9 @@ third_nav_title: Staff
 | 3R2 | Mr Neo Kai Sheng | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
 |  | Miss Liyana Bte Juma'eh | [liyana_jumaeh@moe.edu.sg](mailto:liyana_jumaeh@moe.edu.sg) |
 | 3R3 | Mr Toh Yeow Chong (John) |[toh_yeow_chong@moe.edu.sg](mailto:toh_yew_chong@moe.edu.sg) |
+|  | Mr Fan Ruizhong | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
 | 3R4 | Mr Malcolm Tan Shih Lung | [malcolm_tan_shih_lung@moe.edu.sg](mailto:malcolm_tan_shih_lung@moe.edu.sg) |
+|  | Miss Selina Gomez | [selina_marie_gomes@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | 3R5 | Mr Choy Cheng Zhen | [choy_chenzhen@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
 |  | Ms Siti Hafizah d/o Subramaniam | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
 | 3R6 | Mr Faizal Bin Farouk | [faizal_farouk@moe.edu.sg](mailto:faizal_farouk@moe.edu.sg) |
@@ -77,14 +82,18 @@ third_nav_title: Staff
 | Class | Form Teachers | Email |
 |---|---|---|
 | 4R1 | Mr Low Chun Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
-|  | Miss Raidah Binte Moktar | [raidah_moktar@moe.edu.sg](mailto:raidah+moktar@moe.edu.sg) |
+|  | Mr Hoe Siang Ling | [hoe_siang_ling@moe.edu.sg](mailto:hoe_siang_ling@moe.edu.sg) |
 | 4R2A | Miss Ong Wan Ying | [ong_wan_ying_a@moe.edu.sg](mailto:ong_wan_ying_a@moe.edu.sg) |
-| 4R2B | Mdm Farhanah Bte Samat | [farhanah_samat@moe.edu.sg](mailto:farhanah_samat@moe.edu.sg) |
+| 4R2B | Mdm Memymiswati Chokri | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
 | 4R3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
 |  | Mdm Chong Nyok Fang | [chong_nyok_fang@moe.edu.sg](mailto:chong_nyok_fang@moe.edu.sg) |
 | 4R4 | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
+|  | Mdm Saratha Arumugam | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg) |
+|  | Mr Jason Charles Ingham | [jason_ingham@moe.edu.sg](mailto:jason_ingham@moe.edu.sg) |
 | 4R5 | Mr Tok Hong Da | [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
+|  | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
 | 4R6 | Mr Yeoh Sin Hui (Felix) (SH/Education Support) | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
+|  | Mdm Siti Aisah Mohamed Yusop | [siti_aisah mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg) |
 |  | Mdm Nor Lizawati Bte Mohd Tahir (LH/EL) | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
 | 4R7 | Mr Adnan Bin Mahmud | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
 |  | Ms Li Zhiping | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |

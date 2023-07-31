@@ -24,7 +24,7 @@ third_nav_title: CCA
   127.5pt" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
   minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin" lang="EN-SG">Mr Tan Gim Yong (Justin) (I/C)</span></p><p style="margin-bottom:0in;line-height:normal;tab-stops:
+  minor-latin" lang="EN-SG"></span></p><p style="margin-bottom:0in;line-height:normal;tab-stops:
   127.5pt" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
   minor-latin;mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
