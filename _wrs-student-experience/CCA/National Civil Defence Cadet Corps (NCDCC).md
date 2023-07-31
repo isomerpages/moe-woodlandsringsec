@@ -24,7 +24,7 @@ third_nav_title: CCA
   mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
   major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:major-latin">Mr John Toh Yeow Chong (Officer in Commanding)</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;
   mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-  major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:major-latin">Mr Ariff Bin Abdul Aziz (Training Officer)</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;
+  major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:major-latin">Mr Felix Yeoh(Training Officer)</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;
   mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
   major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:major-latin">Miss Aruna Govind (Training Officer)</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;
   mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -38,7 +38,7 @@ third_nav_title: CCA
   0in;margin-left:0in;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;
   mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
   major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:major-latin">National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under the purview of the Ministry of Education and the Ministry of Home Affairs, Singapore Civil Defence Force.</span></p><p style="margin-top:0in;margin-right:-.8pt;margin-bottom:
-  0in;margin-left:0in;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;
+  0in;margin-left:0in;text-align:ju````stify;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;
   mso-fareast-font-family:Arial;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
   major-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:major-latin">&nbsp;</span></p><p style="margin-top:0in;margin-right:-.8pt;margin-bottom:
   0in;margin-left:0in;text-align:justify;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:major-latin;
