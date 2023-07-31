@@ -82,7 +82,7 @@ third_nav_title: Staff
 | Class | Form Teachers | Email |
 |---|---|---|
 | 4R1 | Mr Low Chun Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
-|  | Mr Hoe Siang Ling | [heo_siang_ling@moe.edu.sg](mailto:heo_siang_ling@moe.edu.sg) |
+|  | Mr Hoe Siang Ling | [hoe_siang_ling@moe.edu.sg](mailto:hoe_siang_ling@moe.edu.sg) |
 | 4R2A | Miss Ong Wan Ying | [ong_wan_ying_a@moe.edu.sg](mailto:ong_wan_ying_a@moe.edu.sg) |
 | 4R2B | Mdm Memymiswati Chokri | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
 | 4R3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
