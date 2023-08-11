@@ -8,9 +8,9 @@ description: ""
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Hot drinks and snacks     | 4 Aug     |      |
-| Vegetarian / Non-vegetarian Indian Food     | 7 Aug     | Prefer vegetarian food. Examples of non- vegetarian Indian food: Nasi briyani, thosei, Indian savouries. Open to Halal/Non-Halal
-   |
+|  Indian Cuisine    | 18 Aug 2023     |  With vegetarian options. Examples of Indian food: Nasi briyani, thosei, Indian savouries 
+ 
+
 
 
 **Criteria**
@@ -38,6 +38,7 @@ description: ""
 11.	Applicants with catering experience or experience operating in a school environment are preferred.
 
 **Application Procedure**
+
 1.	Download [Application Form](https://drive.google.com/file/d/1th-ZQ4wz_VS9lWXslPE3X2i3PAuMlWCE/view?usp=sharing) or obtain hardcopy form from the Corporate Office.
 
 2. Attached the following documents together with application form:
@@ -63,4 +64,4 @@ Nearest MRT: Admiralty
 Bus No. 912 from Woodlands Regional Interchange or Admiralty MRT Station
 
 
-Shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).
+*Shortlisted applicants will be notified for an interview and food sampling at the school on 22nd August morning (at the applicant’s own expense).*
