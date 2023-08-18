@@ -8,7 +8,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-|  Indian Cuisine    | 18 Aug 2023     |  With vegetarian options. Examples of Indian food: Nasi briyani, thosei, Indian savouries 
+|  Indian Cuisine    | 25 Aug 2023     |  With vegetarian options. Examples of Indian food: Nasi briyani, thosei, Indian savouries 
  
 
 
@@ -64,4 +64,4 @@ Nearest MRT: Admiralty
 Bus No. 912 from Woodlands Regional Interchange or Admiralty MRT Station
 
 
-*Shortlisted applicants will be notified for an interview and food sampling at the school on 22nd August morning (at the applicant’s own expense).*
+*Shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).*
