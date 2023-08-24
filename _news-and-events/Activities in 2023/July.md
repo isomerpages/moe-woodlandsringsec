@@ -4,7 +4,14 @@ permalink: /news-and-events/2023/july/
 description: ""
 third_nav_title: Activities in 2023
 ---
-#### WRS’ First ‘No Schoolbag Day’ 
-**2 May** – WRS joined the global initiative of ‘No Backpack Day’ to raise awareness for students without access to backpacks due to poverty. Our students rose to the challenge, carrying their school supplies in unconventional ways, showcasing their resilience and creativity. 'Backpacks' included pots, pet carriers, makeshift baskets, boxes, pails, fans, and stools. 
-![](/images/picture1may23.jpg)
-As we walked in the shoes of the less fortunate, we learned to appreciate life's little luxuries. We thank our students for their enthusiasm and staff for their support in making this event meaningful. No Schoolbag Day teaches empathy, compassion, and social responsibility, inspiring positive change. We at WRS will continue to inspire a more inclusive and compassionate environment for everyone. 
+#### Racial Harmony Week 
+Racial Harmony Day this year took a different spin as we commemorated this important day a week earlier. You might ask why. We had good reason to do so. The students and teachers of our twinning school, Yayasan Sekolah Kristen Indonesia (YSKI), Semarang, made a visit to our school in Term 3 Week 3 so we decided it would be most fitting to show them what Racial Harmony is all about.
+
+The theme for this year is ‘Singapore: Our Multicultural Mosaic’. The student committee hinged the event on the following objectives: To value racial harmony, to appreciate our cultural heritage and to celebrate our diversity.
+
+Throughout the week students partook in the pledge-taking in the morning by listening to or reciting the National Pledge in not just English Language but our Mother Tongue Languages as well. There were also different cultural activities run by the student committee and the Parents Support Group! Students even got to wear their traditional outfits to school and some classes got to interact with our guests from Indonesia during lessons. 
+
+Many friendships between students from both countries were formed. We look forward to more such opportunities to build bridges of understanding and appreciation of our diversity.
+![](/images/picture1july23.GIF)
+![](/images/picture2july23.GIF)
+![](/images/picture3july23.GIF)
