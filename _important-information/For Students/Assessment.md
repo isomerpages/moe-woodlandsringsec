@@ -4,6 +4,16 @@ permalink: /important-information/for-students/assesment/
 description: ""
 third_nav_title: For Students
 ---
+### 	End of Year Examination
+
+| Topics/Skills Assessed |
+| -------- |
+| [Secondary 1](https://drive.google.com/file/d/1EuyjbcY5TTanNwIJVAty9MGmwLjswq2s/view?usp=drive_link)     | 
+| [Secondary 2](https://drive.google.com/file/d/1o4RdTxYfYycEwZRNZALAL9g-oHjHwJER/view?usp=drive_link)     | 
+| [Secondary 3](https://drive.google.com/file/d/1qMHGHLluJq_1dcr68WwV6E9NsnDklOmR/view?usp=drive_link)     | 
+
+
+
 ### Preliminary Examination
 
 | Schedule of Examination |  |
