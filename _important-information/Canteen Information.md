@@ -8,7 +8,6 @@ description: ""
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-|  Indian Cuisine    | 25 Aug 2023     |  With vegetarian options. Examples of Indian food: Nasi briyani, thosei, Indian savouries |
 |  Vegetarian Food    | 5 Sep 2023     |   |
  
 
