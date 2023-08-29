@@ -6,12 +6,15 @@ third_nav_title: For Students
 ---
 ### 	End of Year Examination
 
-| Topics/Skills Assessed |
-| -------- |
-| [Secondary 1](https://drive.google.com/file/d/1EuyjbcY5TTanNwIJVAty9MGmwLjswq2s/view?usp=drive_link)     | 
-| [Secondary 2](https://drive.google.com/file/d/1o4RdTxYfYycEwZRNZALAL9g-oHjHwJER/view?usp=drive_link)     | 
-| [Secondary 3](https://drive.google.com/file/d/19rJfKWYVwqiAI3VlnwgVkQAMCbSaG4Ji/view?usp=drive_link)     | 
-
+| Schedule of Examination | Topics/Skills Assessed |
+| -------- | -------- |
+| [Secondary 1](https://drive.google.com/file/d/12KFsDSMN_2jhUWLNHAHk_Cyj2K49ndee/view?usp=drive_link)| [Secondary 1](https://drive.google.com/file/d/1EuyjbcY5TTanNwIJVAty9MGmwLjswq2s/view?usp=drive_link)     | 
+| [Secondary 2 EXP](https://drive.google.com/file/d/1FzV7ou9gyQ24u1r7HWOiVQ_tqIfkmjxU/view?usp=drive_link)| [Secondary 2](https://drive.google.com/file/d/1o4RdTxYfYycEwZRNZALAL9g-oHjHwJER/view?usp=drive_link)     | 
+| [Secondary 2 NA](https://drive.google.com/file/d/1BfL8oiTm-BkdEXbVCqkbNtW2okpGCyRU/view?usp=drive_link)|  | 
+| [Secondary 2 NT](https://drive.google.com/file/d/118O9VcK_08fRCUY54N_URsD-O_BrT2gH/view?usp=drive_link)|  | 
+| [Secondary 3 EXP](https://drive.google.com/file/d/1vCsZOEx6BjIM94GGWwNHD68m186S5Y_k/view?usp=drive_link)| [Secondary 3](https://drive.google.com/file/d/19rJfKWYVwqiAI3VlnwgVkQAMCbSaG4Ji/view?usp=drive_link)     | 
+| [Secondary 3 NA](https://drive.google.com/file/d/1saZwqufyo7hxC8iaCAb6MBksU5xNRav-/view?usp=drive_link)|   | 
+| [Secondary 3 NT](https://drive.google.com/file/d/1UFH81BsTf_3HMVSvPMq2jyHurUk3A67e/view?usp=drive_link)|   | 
 
 
 ### Preliminary Examination
