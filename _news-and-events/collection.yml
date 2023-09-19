@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Activities in 2017/.keep
-      - Activities in 2017/eXperiential Week.md
       - Activities in 2018/.keep
       - Activities in 2018/January.md
       - Activities in 2018/February.md
