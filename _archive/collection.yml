@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Activities in 2018/.keep
+      - Activities in 2017/Community Morning.md
       - Activities in 2017/Activities in 2017.md
       - Activities in 2017/.keep
       - WRS In the News.md
