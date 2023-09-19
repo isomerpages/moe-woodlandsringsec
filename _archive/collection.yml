@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Activities in 2018/August.md
       - Activities in 2018/July.md
       - Activities in 2018/June.md
       - Activities in 2018/April.md
