@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - WRS in Social Media/Facebook.md
       - WRS in Social Media/.keep
       - Activities in 2019/.keep
       - Activities in 2019/January.md
