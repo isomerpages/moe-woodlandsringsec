@@ -2,7 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - WRS In the News.md
       - Activities in 2017/.keep
       - Activities in 2017/Activities in 2017.md
       - Activities in 2017/Community Morning.md
