@@ -65,12 +65,8 @@ links:
   - title: News & Events
     url: /news-and-events/wrs-in-the-news/
     sublinks:
-      - title: WRS in the News
-        url: /news-and-events/wrs-in-the-news/
-      - title: Activities in 2017
-        url: /news-and-events/2017/
-      - title: Activities in 2018
-        url: /news-and-events/2018/
+      - title: WRS on Social Media
+        url: /news-and-events/wrs-in-social-media/facebook/
       - title: Activities in 2019
         url: /news-and-events/2019/
       - title: Activities in 2020
@@ -81,5 +77,5 @@ links:
         url: /news-and-events/2022/
       - title: Activities in 2023
         url: /news-and-events/2023/
-  - title: Direct School Admission (SEC)
-    url: /dsa
+  - title: Open House
+    url: /openhouse

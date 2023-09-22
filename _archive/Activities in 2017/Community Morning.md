@@ -7,8 +7,7 @@ third_nav_title: Activities in 2017
 ### **Community Morning**
 
 <figure>
-<img src="/images/community%20morning%201.jpg" 
-     style="width:75%">
+<img src="/images/community%20morning%201.jpg" style="width:75%">
 <figcaption>  Students and our special guests from Red House Kindergarden giving out oranges to residents in the community.
  </figcaption>
 </figure>
@@ -19,17 +18,13 @@ The school started the celebration with the surprise appearance of our Year Head
 
 Then, students and teachers got to work, packing over 10,000 oranges to be given out thank the residents in our neighbourhood for their support of the school.
 
-<img src="/images/community%20morning%202.jpg"
-     style="width:49%" align=left>
-<img src="/images/community%20morning%203.jpg"
-     style="width:49%" align=right>
+<img src="/images/community%20morning%202.jpg" style="width:49%" align="left">
+<img src="/images/community%20morning%203.jpg" style="width:49%" align="right">
 
 ![](/images/cm%20caption%201.jpg)
 
-<img src="/images/community%20morning%204.jpg"
-     style="width:49%" align=left>
-<img src="/images/community%20morning%205.jpg"
-     style="width:49%" align=right>
+<img src="/images/community%20morning%204.jpg" style="width:49%" align="left">
+<img src="/images/community%20morning%205.jpg" style="width:49%" align="right">
 		 
 ![](/images/cm%20caption%202.jpg)
 
@@ -38,57 +33,57 @@ Our students fanned out across the area to distribute oranges to more than 5,000
 Community Morning is an important activity for the students as it not only teaches them gratitude, it also allows them to exercise good interpersonal skills with residents. This will definitely develop them into becoming more confident individuals and active contributors of society.
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms1.jpg">
-<img style="width:24.8%" src="/images/cmb1.jpg" align = left>
+<img style="width:24.8%" src="/images/cmb1.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms2.jpg">
-<img style="width:24.8%" src="/images/cmb2.jpg" align = left>
+<img style="width:24.8%" src="/images/cmb2.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms3.jpg">
-<img style="width:24.8%" src="/images/cmb3.jpg" align = left>
+<img style="width:24.8%" src="/images/cmb3.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms4.jpg">
-<img style="width:25%" src="/images/cmb4.jpg" align = left>
+<img style="width:25%" src="/images/cmb4.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms5.jpg">
-<img style="width:24.6%" src="/images/cmb5.jpg" align = left>
+<img style="width:24.6%" src="/images/cmb5.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms6.jpg">
-<img style="width:25%" src="/images/cmb6.jpg" align = left>
+<img style="width:25%" src="/images/cmb6.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms7.jpg">
-<img style="width:25%" src="/images/cmb7.jpg" align = left>
+<img style="width:25%" src="/images/cmb7.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms8.jpg">
-<img style="width:25%" src="/images/cmb8.jpg" align = left>
+<img style="width:25%" src="/images/cmb8.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms9.jpg">
-<img style="width:25%" src="/images/cmb9.jpg" align = left>
+<img style="width:25%" src="/images/cmb9.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms10.jpg">
-<img style="width:25%" src="/images/cmb10.jpg" align = left>
+<img style="width:25%" src="/images/cmb10.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms11.jpg">
-<img style="width:24.8%" src="/images/cmb11.jpg" align = left>
+<img style="width:24.8%" src="/images/cmb11.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms12.jpg">
-<img style="width:25%" src="/images/cmb12.jpg" align = left>
+<img style="width:25%" src="/images/cmb12.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms13.jpg">
-<img style="width:25%" src="/images/cmb13.jpg" align = left>
+<img style="width:25%" src="/images/cmb13.jpg" align="left">
 </a></p>
 
 <p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/cms14.jpg">
-<img style="width:25%" src="/images/cmb14.jpg" align = left>
+<img style="width:25%" src="/images/cmb14.jpg" align="left">
 </a></p>
