@@ -8,7 +8,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-|  Vegetarian Food    | 5 Sep 2023     |   |
+|  Vegetarian Food    | 11 Oct 2023     |   |
  
 
 
@@ -64,4 +64,4 @@ Nearest MRT: Admiralty
 Bus No. 912 from Woodlands Regional Interchange or Admiralty MRT Station
 
 
-*Shortlisted applicants will be notified for an interview and food sampling at the school (at the applicant’s own expense).*
+*Shortlisted applicants will be notified for an interview and food sampling at the school on 13th October afternoon (at the applicant’s own expense).*
