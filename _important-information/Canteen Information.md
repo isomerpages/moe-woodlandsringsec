@@ -64,4 +64,4 @@ Nearest MRT: Admiralty
 Bus No. 912 from Woodlands Regional Interchange or Admiralty MRT Station
 
 
-*Shortlisted applicants will be notified for an interview and food sampling at the school on 13th October afternoon (at the applicant’s own expense).*
+*Shortlisted applicants will be notified for an interview and food sampling at the school on 12th October afternoon (at the applicant’s own expense).*
