@@ -8,7 +8,7 @@ Please refer to the 2023 November Holiday Supplemenary Lessons Class Timetable b
 
 |  |
 |---|
-| [Class 3R1](https://drive.google.com/file/d/1a3ESNyHMHqlg9T2Jq7nGQHzkv42el3b1/view?usp=share_link)
+| [Class 3R1](https://drive.google.com/file/d/1mR7krMrREzEhPYCQ3vMF-s62d8-3BvOU/view?usp=sharing)
 | [Class 3R2](https://drive.google.com/file/d/1TyFUtD-7iS2M7GqqSyx6PdOjp9XQWzvs/view?usp=share_link)
 | [Class 3R3](https://drive.google.com/file/d/1VysN1lsjvx07WEyXZMVHIMVdyq0xkvyt/view?usp=share_link)
 | [Class 3R4](https://drive.google.com/file/d/1mwyAGLKRYghpQF-Ef0ZTBfKAtauw17s_/view?usp=share_link)
