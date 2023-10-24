@@ -23,6 +23,7 @@ third_nav_title: Staff
 | HOD / ICT | Miss Oei Hun Ling | [oei_hun_ling@moe.edu.sg](mailto:oei_hun_ling@moe.edu.sg) |
 | HOD / PE & CCA | Mr Ganesan Nadarajan | [ganesan_nadarajan@moe.edu.sg](mailto:ganesan_nadarajan@moe.edu.sg) |
 | HOD / Science | Mrs Teo – Ong Huei Huey | [ong_huei_huey@moe.edu.sg](mailto:ong_huei_huey@moe.edu.sg) |
+| Covering HOD / EL | Miss Selina Gomez | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | AYH (Upper Sec) | Mdm Elena Chong Siew Foong | [chong_siew_foong@moe.edu.sg](mailto:chong_siew_foong@moe.edu.sg) |
 | AYH (Lower Sec) | Mr Chung Yong Kai | [chung_yong_kai@moe.edu.sg](mailto:chung_yong_kai@moe.edu.sg) |
 | SH / Aesthetics | Miss Low Mun Fei | [low_mun_fei@moe.edu.sg](mailto:low_mun_fei@moe.edu.sg) |
