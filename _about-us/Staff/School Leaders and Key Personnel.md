@@ -17,7 +17,7 @@ third_nav_title: Staff
 | Year Head ( Lower Sec) | Mr Kheng Kok Seong | [kheng_kok_seong@moe.edu.sg](mailto:kheng_kok_seong@moe.edu.sg) |
 | HOD / Curriculum | Mdm Lee Swee Hoon Joyce | [lee_swee_hoon_joyce@moe.edu.sg](mailto:lee_swee_hoon_joyce@moe.edu.) |
 |  HOD / Craft & Technology | Mr Toh Hiew Kang | [toh_hiew_kang@moe.edu.sg](mailto:toh_hiew_kang@moe.edu.sg) |
-|  HOD / English and Literature | Mdm Rabiaton Bte Mohamed Zin | [rabiaton_mohamed_zin@moe.edu.sg](mailto:rabiaton_mohamed_zin@moe.edu.sg) |
+|  HOD / CCE | Mdm Rabiaton Bte Mohamed Zin | [rabiaton_mohamed_zin@moe.edu.sg](mailto:rabiaton_mohamed_zin@moe.edu.sg) |
 |  HOD / Mathematics | Miss Tan Wei Yea Angelina | [tan_wei_yea@moe.edu.sg](mailto:tan_wei_yea@moe.edu.sg) |
 | HOD / Humanities | Mr Chua Chong Guan Roy | [chua_chong_guan_roy@moe.edu.sg](mailto:chua_chong_guan_roy@moe.edu.sg) |
 | HOD / ICT | Miss Oei Hun Ling | [oei_hun_ling@moe.edu.sg](mailto:oei_hun_ling@moe.edu.sg) |
