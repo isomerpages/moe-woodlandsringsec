@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-Please refer to the 2023 Jun Holiday Learning Task for the various levels below:
+Please refer to the 2023 Year End Holiday Learning Tasks for the various levels below:
 
 |  |
 |---|
@@ -17,3 +17,4 @@ Please refer to the 2023 Jun Holiday Learning Task for the various levels below:
 | [Sec 2 Normal Technical](https://drive.google.com/file/d/13pEUiObDkfctbMY5VbPGgBNunTTK7-Nx/view?usp=sharing)
 | [Sec 3 Express](https://drive.google.com/file/d/1wzGkfSJgtTdh9WIVrOVzWLMfxfiYouA6/view?usp=sharing)
 | [Sec 3 Normal Academic](https://drive.google.com/file/d/1HctKxnxABTaWo0fBJKCFScL-1fQnDyNw/view?usp=sharing)
+| [Sec 3 Normal Technical](https://drive.google.com/file/d/1lZI3O2cKlAKQuICzz7hpb3usthGIW2nU/view?usp=sharing)
