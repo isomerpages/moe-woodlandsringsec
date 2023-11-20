@@ -3,8 +3,9 @@ title: Booklists for 2023
 permalink: /important-information/For-Parents/Booklists-2023/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
-<h3>Secondary 1 </h3>
+<h3>Secondary 1&nbsp;</h3>
 <table style="border-collapse: collapse; width: 100%; height: 90px;">
 <tbody>
 <tr style="height: 23px;">
@@ -25,7 +26,7 @@ third_nav_title: For Parents
 </tr>
 </tbody>
 </table>
-<h3>Secondary 2 </h3>
+<h3>Secondary 2&nbsp;</h3>
 <table style="border-collapse: collapse; width: 100%; height: 92px;">
 <tbody>
 <tr style="height: 23px;">
@@ -46,7 +47,7 @@ third_nav_title: For Parents
 </tr>
 </tbody>
 </table>
-<h3>Secondary 3 </h3>
+<h3>Secondary 3&nbsp;</h3>
 <table style="border-collapse: collapse; width: 100%; height: 89px;">
 <tbody>
 <tr style="height: 23px;">
@@ -67,7 +68,7 @@ third_nav_title: For Parents
 </tr>
 </tbody>
 </table>
-<h3>Secondary 4 </h3>
+<h3>Secondary 4&nbsp;</h3>
 <table style="border-collapse: collapse; width: 100%; height: 92px;">
 <tbody>
 <tr style="height: 23px;">
