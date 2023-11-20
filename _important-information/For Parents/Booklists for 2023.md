@@ -34,7 +34,7 @@ variant: markdown
 <td style="width: 50%; text-align: center; height: 23px;"><strong>Stationery List</strong></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 23px;"><a href="(https://drive.google.com/file/d/1PsK3qk3Z7dNxXS-6HpYKHoc36EwHzgqC/view?usp=sharing)">Sec 2 Exp</a></td>
+<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1PsK3qk3Z7dNxXS-6HpYKHoc36EwHzgqC/view?usp=sharing">Sec 2 Exp</a></td>
 <td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1gdIjC55qZukWHTYAuAs2nvb3HMnwgfT8/view?usp=share_link">Sec 2 Exp</a></td>
 </tr>
 <tr style="height: 23px;">
