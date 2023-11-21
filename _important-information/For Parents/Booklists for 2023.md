@@ -9,41 +9,20 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%; height: 90px;">
 <tbody>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 23px;"><strong>Textbook List</strong></td>
-<td style="width: 50%; text-align: center; height: 23px;"><strong>Stationery List</strong></td>
+<td style="width: 50%; text-align: height: 23px;"><strong>Textbook List &amp; Stationery List</strong></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1KvaSU3yxg5tdDNNVrxbHl_G76eC7D8Ir/view?usp=share_link">Sec 1 Exp</a></td>
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1PH3roQg7LAI_dCpnBHklzRGNn7ohwong/view?usp=share_link">Sec 1 Exp</a></td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1pFF76u9RxXnSoJjYsNd6Xdg9LMA5bbB0/view?usp=share_link">Sec 1 NA</a></td>
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1MBEf5wr5T4q9DebE05DpkPAkvw8Hxc3q/view?usp=share_link">Sec 1 NA</a></td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 21px;"><a href="https://drive.google.com/file/d/1cgPSl4c2ptbYJ11wKAmvMEgAJMsyfOyf/view?usp=share_link">Sec 1 NT</a></td>
-<td style="width: 50%; text-align: center; height: 21px;"><a href="https://drive.google.com/file/d/16RCIfiPmVXDOOf7PT81G3L_yHvz19vix/view?usp=share_link">Sec 1 NT</a></td>
-</tr>
-</tbody>
-</table>
+<td style="width: 50%; text-align:height: 23px;"><a href="https://drive.google.com/file/d/1KvaSU3yxg5tdDNNVrxbHl_G76eC7D8Ir/view?usp=share_link">Sec 1</a></td>
+</tr></tbody></table>
 <h3>Secondary 2&nbsp;</h3>
 <table style="border-collapse: collapse; width: 100%; height: 92px;">
 <tbody>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 23px;"><strong>Textbook List</strong></td>
-<td style="width: 50%; text-align: center; height: 23px;"><strong>Stationery List</strong></td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1PsK3qk3Z7dNxXS-6HpYKHoc36EwHzgqC/view?usp=sharing">Sec 2 Exp</a></td>
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1gdIjC55qZukWHTYAuAs2nvb3HMnwgfT8/view?usp=share_link">Sec 2 Exp</a></td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/10goba7RA-UFxrNV1qqzQ6xsaGzCg2bIB/view?usp=share_link">Sec 2 NA</a></td>
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/109vm0vJQamH3LbObna--In5i87v0DO6R/view?usp=share_link">Sec 2 NA</a></td>
-</tr>
-<tr style="height: 23px;">
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1xxcGLRiMQhr2OaLgkqSxZceSS4hIhn4P/view?usp=share_link">Sec 2 NT</a></td>
-<td style="width: 50%; text-align: center; height: 23px;"><a href="https://drive.google.com/file/d/1aOJnfkNB8ex7ZD-wJ4FA5mY8cwEl4_W3/view?usp=share_link">Sec 2 NT</a></td>
+<td style="width: 50%; text-align: height: 23px;"><strong>Textbook  &amp; Stationery List</strong></td>
+</tr><tr style="height: 23px;">
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1PsK3qk3Z7dNxXS-6HpYKHoc36EwHzgqC/view?usp=sharing">Sec 2</a></td>
+
+
 </tr>
 </tbody>
 </table>
