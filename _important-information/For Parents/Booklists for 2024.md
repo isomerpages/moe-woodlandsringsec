@@ -33,7 +33,7 @@ variant: markdown
 <td style="width: 50%; text-align: height: 23px;"><strong>Textbook &amp; Stationery List</strong></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 20px;"><a href="https://drive.google.com/file/d/1KUzftc-GQDzjAgKZkV3g5fGXNtO_xJGv/view?usp=sharing">Sec 3 Exp</a></td>
+<td style="width: 50%; text-align: height: 20px;"><a href="https://drive.google.com/file/d/1EJmmGEQoml5P76sBzZCz0hMn_83IUwXR/view?usp=sharing">Sec 3 Exp</a></td>
 
 </tr>
 <tr style="height: 23px;">
