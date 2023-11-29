@@ -9,7 +9,7 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%; height: 90px;">
 <tbody>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><strong>Textbook &amp; Stationery List (*only available after Sec 1 posting result*)</strong></td>
+<td style="width: 50%; text-align: height: 23px;"><strong>Textbook &amp; Stationery List (only available after Sec 1 posting result)</strong></td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 50%; text-align:height: 23px;"><a href="">Sec 1</a></td>
