@@ -60,7 +60,7 @@ variant: markdown
 <td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1sQNCPsqJW0gtw91WCG6hJqwHJwqT_ezb/view?usp=sharing">Sec 4 NA</a></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1asopTnCyreDSgqDfCF_nKDlSIJ7Ohqo2/view?usp=sharing">Sec 4 NT</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1_XJSjWCLlyzQaPVdst50fgLc-V441OE2/view?usp=sharing">Sec 4 NT</a></td>
 </tr>
 </tbody>
 </table>
