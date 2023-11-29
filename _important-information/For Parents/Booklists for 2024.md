@@ -9,7 +9,7 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%; height: 90px;">
 <tbody>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><strong>Textbook &amp; Stationery List (*only available after Sec 1 posting result*)</strong></td>
+<td style="width: 50%; text-align: height: 23px;"><strong>Textbook &amp; Stationery List (only available after Sec 1 posting result)</strong></td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 50%; text-align:height: 23px;"><a href="">Sec 1</a></td>
@@ -20,7 +20,7 @@ variant: markdown
 <tr style="height: 23px;">
 <td style="width: 50%; text-align: height: 23px;"><strong>Textbook  &amp; Stationery List</strong></td>
 </tr><tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1LQ0DuRaJtJznwAqL5X5H5Ag3M6Gmfvr9/view?usp=sharing">Sec 2</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1Oh5y3iitL5Nj85Dn1Nv5I4y-5lA4xqg4/view?usp=sharing">Sec 2</a></td>
 
 
 </tr>
@@ -33,15 +33,15 @@ variant: markdown
 <td style="width: 50%; text-align: height: 23px;"><strong>Textbook &amp; Stationery List</strong></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 20px;"><a href="https://drive.google.com/file/d/1EJmmGEQoml5P76sBzZCz0hMn_83IUwXR/view?usp=sharing">Sec 3 Exp</a></td>
+<td style="width: 50%; text-align: height: 20px;"><a href="https://drive.google.com/file/d/1NiW_t1bxWbL41gldMnSxDCQga_rYgFt1/view?usp=sharing">Sec 3 Exp</a></td>
 
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/15X8B8QstvLSMf1JlVt7Ky0MSVcmomkXX/view?usp=sharing">Sec 3 NA</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1UjbzV79wvFYE4yuE4VIdiMmzMUSA9mWV/view?usp=sharing">Sec 3 NA</a></td>
 
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1kii0b6zIHYjpQdwXt2hGMdAE8CvwjrAK/view?usp=sharing">Sec 3 NT</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1EfdY_bi60ncVWCQrNRzB3NfpjEiz6zno/view?usp=sharing">Sec 3 NT</a></td>
 
 </tr>
 </tbody>
@@ -54,13 +54,13 @@ variant: markdown
 
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/14nkxnki2F7nypNaiqrgqiTTlPcZ_FlzK/view?usp=sharing">Sec 4 Exp</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1Iz1COaje3_ti6SSBmCilvgB-rbCOqJpQ/view?usp=sharing">Sec 4 Exp</a></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1kZI6x8uNHvxFkTIlhcfGh_U3X97EPxn-/view?usp=sharing">Sec 4 NA</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1sQNCPsqJW0gtw91WCG6hJqwHJwqT_ezb/view?usp=sharing">Sec 4 NA</a></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1asopTnCyreDSgqDfCF_nKDlSIJ7Ohqo2/view?usp=sharing">Sec 4 NT</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1_XJSjWCLlyzQaPVdst50fgLc-V441OE2/view?usp=sharing">Sec 4 NT</a></td>
 </tr>
 </tbody>
 </table>
@@ -72,7 +72,7 @@ variant: markdown
 
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1v_qs_gMVvdtJ7GX2OvAuAt8wT7hgOQ-M/view?usp=sharing">Sec 5 NA</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1nh6jZXjUag_QhPmmOBKrBv1U4VrntHCR/view?usp=sharing">Sec 5 NA</a></td>
 
 
 <!-- wp:tadv/classic-paragraph /--></tr></tbody></table>
