@@ -37,7 +37,7 @@ variant: markdown
 
 </tr>
 <tr style="height: 23px;">
-<td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1nh6jZXjUag_QhPmmOBKrBv1U4VrntHCR/view?usp=sharing">Sec 3 NA</a></td>
+<td style="width: 50%; text-align: height: 23px;"><a href="[undefined](https://drive.google.com/file/d/1UjbzV79wvFYE4yuE4VIdiMmzMUSA9mWV/view?usp=sharing)">Sec 3 NA</a></td>
 
 </tr>
 <tr style="height: 23px;">
