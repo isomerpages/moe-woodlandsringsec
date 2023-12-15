@@ -8,7 +8,7 @@ variant: markdown
 
 Secondary One Registration for 2024
 
-Secondary one registration will take place, tentatively, on 21 December 2023. There is **no need** to report in person to school on registration day. The acceptance form will be sent to parents via Parents Gateway to complete your registration on the day your child receives his/her secondary school posting result. 
+Secondary one registration will take place on 21 December 2023. There is **no need** to report in person to school on registration day. The acceptance form will be sent to parents via Parents Gateway to complete your registration on the day your child receives his/her secondary school posting result. 
 
 More details will be provided in December. 
 
