@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **School Leaders and Key Personnel**
 
-![](/images/sls%20pic%20amend.jpg)
+![](/images/SL_Photo_2.jpg)
 
 | Appointment | Names | Email Address |
 |---|---|---|
