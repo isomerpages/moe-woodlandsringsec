@@ -2,11 +2,11 @@
 title: Education and Career Guidance
 permalink: /wrs-student-experience/ecg/
 description: ""
+variant: markdown
 ---
-
 ### **Education and Career Guidance**
 ##### **What is it about?**
-In the volatile, uncertain, complex and ambiguous (VUCA) world today, new occupations are emerging while some become obsolete. Education and Career Guidance (ECG) is important to prepare our students to be future-ready and be able to navigate the evolving landscape. Through ECG, students will acquire the necessary knowledge, skills and values to enable them to make informed education and career decisions.
+In the volatile, uncertain, complex and ambiguous (VUCA) world today, new occupations are emerging while some become obsolete. Education and Career Guidance (ECG) is important to prepare our students to be future-ready and be able to navigate the evolving landscape. Through ECG, students will acquire the necessary knowledge, skills and values to enable them to make informed education and career decisions. Click [here](https://sites.google.com/view/wrss-ecg/home) to visit WRSS ECG site for more information.
 
 ##### **ECG the WRS Way**
 The WRS ECG Curriculum is aligned closely to the national movement, SkillsFuture, and the MOE ECG Development Model.
@@ -38,9 +38,3 @@ In WRS, the ECG Syllabus is supplemented with customised enrichment programmes t
 Some of the enrichment programmes include:
 
 ![](/images/ecg3.jpg)
-
-
-
-
-
-
