@@ -2,6 +2,7 @@
 title: Administrative & Support Staff
 permalink: /about-us/administrative-staff-and-support-staff/
 description: ""
+variant: markdown
 ---
 ### **Administrative and Support Staff**
 
@@ -21,14 +22,16 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Mr Philix Joseph | Adjunct Operations Manager |
 | Mdm Vandana Khanna | Full Time School Counsellor |
 | Mr Soon Min Hian Matthew | ECG Counsellor |
-| Mdm Andal d/o Chidambaram | Corporate Support Officer |
+| Mdm Masni Binte Marsiber | Corporate Support Officer |
+| Ms Law Siew Kim | Corporate Support Officer |
 | Mdm Amravathi D/O Manickam | Operations Support Officer |
 | Mdm Sarasvathi D/O Narayanasamy | Operations Support Officer |
 | Mr Leow Kean Chun | Operation Support Office |
+ Mr Mohd Rafid | Operation Support Office |
 | Mr Abdul Wahab Bin Ashek | Technical Support Officer |
 | Mr Amirul Amri Bin Mohd Noor | Technical Support Officer |
 | Mdm Siti Nurvanee | Technical Support Officer |
-| Ms Syahirah Binte Rosli | Technical Support Officer |
+| Mdm Syahirah Binte Rosli | Technical Support Officer |
 | Mdm Zubaidah Saat | AED (Special Education Needs Officer) |
 | Mr Soh Kee Seng | ICT Manager |
 | Ms Siti Nurbaiyah Binte Jaffar | ICT Manager |
