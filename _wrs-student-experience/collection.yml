@@ -21,7 +21,6 @@ collections:
       - CCA/.keep
       - CCA/Media Resource Library Club.md
       - CCA/AVA & Photography Club.md
-      - CCA/English Drama Club.md
       - CCA/Robotics.md
       - CCA/Basketball (Boys).md
       - CCA/Badminton (Boys).md
@@ -29,9 +28,11 @@ collections:
       - CCA/Softball (Boys).md
       - CCA/Netball (Girls).md
       - CCA/Volleyball (Girls).md
-      - CCA/Modern Dance.md
-      - CCA/Chinese Dance.md
+      - CCA/English Drama Club.md
       - CCA/Cultural Dance (Chinese & Malay Dance).md
+      - CCA/Chinese Dance.md
+      - CCA/Malay Dance (Gerayu).md
+      - CCA/Modern Dance.md
       - CCA/Choir.md
       - CCA/Guzheng Ensemble.md
       - CCA/Concert Band.md
