@@ -6,6 +6,7 @@ third_nav_title: CCA
 variant: markdown
 ---
 ![](/images/CCA/NCC_1.jpg)
+![](/images/CCA/NCC_2.jpg)
 ![](/images/CCA/NCC_3.jpg)
 ![](/images/CCA/NCC_4.jpg)
 ![](/images/CCA/NCC_5.jpg)
