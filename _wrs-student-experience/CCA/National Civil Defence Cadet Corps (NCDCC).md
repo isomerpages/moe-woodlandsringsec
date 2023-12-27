@@ -13,3 +13,4 @@ variant: markdown
 ![](/images/CCA/NCDCC_6.jpg)
 ![](/images/CCA/NCDCC_7.jpg)
 ![](/images/CCA/NCDCC_8.jpg)
+![](/images/CCA/NCDCC_9.jpg)
