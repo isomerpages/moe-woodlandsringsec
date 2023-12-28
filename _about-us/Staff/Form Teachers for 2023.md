@@ -18,7 +18,7 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 1R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg](mailto:ong_chee_lim@moe.edu.sg) |
+| 1R1 | Ms Li Zhiping | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
 |  | Mr Loy Liang Teck | [loy_liang_teck@moe.edu.sg](mailto:loy_liang_teck@moe.edu.sg) |
 | 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg](mailto:lee_shih_min_patricia@moe.edu.sg) |
 | 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg](mailto:toh_wei_xian_eugene@moe.edu.sg) |
