@@ -20,17 +20,19 @@ variant: markdown
 |---|---|---|
 | 1R1 | Ms Li Zhiping | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
 |  | Mr Loy Liang Teck | [loy_liang_teck@moe.edu.sg](mailto:loy_liang_teck@moe.edu.sg) |
-| 1R2 | Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg](mailto:lee_shih_min_patricia@moe.edu.sg) |
-| 1R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg](mailto:toh_wei_xian_eugene@moe.edu.sg) |
-|  | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
-| 1R4 | Miss Elaine Lim Ee Teng | [lim_ee_teng_elaine@moe.edu.sg](mailto:lim_ee_teng_elaine@moe.edu.sg) |
-|  | Mr Lim Ding Xun | [lim_ding_xun@moe.edu.sg](mailto:lim_ding_xun@moe.edu.sg) |
-| 1R5 | Mr Sheikh Faraz B Sheikh A Rashid | [sheikh_faraz_sheikh_rashid@moe.edu.sg](mailto:sheikh_faraz_sheikh_rashid@moe.edu.sg) |
-|  | Ms Li Kaiyuan | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
-| 1R6 | Miss Lim Si Xuan, Rachel | [lim_si_xian_rachel@moe.edu.sg](mailto:lim_si_xian_rachel@moe.edu.sg) |
-|  | Mdm Norhani Bte Samsuri (AED-Maths) | [norhani_samsuri@moe.edu.sg](mailto:northani_samsuri@moe.edu.sg) |
+| 1R2 | Mr Adnan Bin Mahmud | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
+|  | Mdm Ang Shao Mei| [ang_shao_mei@moe.edu.sg](mailto:ang_shao_mei@moe.edu.sg) |
+| 1R3 | Mdm Memymiswati Chokri | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
+|  | Mr Chew Tec Heng Edwin| [chew_tec_heng_edwin@moe.edu.sg](mailto:chew_tec_heng_edwin@moe.edu.sg) |
+| 1R4 | Mr Jeremy See Poo Leng | [see_poo_len@moe.edu.sg](mailto:see_poo_len@moe.edu.sg) |
+|  | Mdm Saratha Arumugam | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg) |
+| 1R5 | Mr Low Chun Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
+|  | Mdm Ismiralda Masduki | [ismiralda_masduki@moe.edu.sg](mailto:ismiralda_masduki@moe.edu.sg) |
+| 1R6 | Miss Low Xue Zhen (Sheryl) | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
+|  |Mr Fan Ruizhong | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
+| 1R7 | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
+|  |Mr Tan Chek Soon (Jackson) | [tan_chek_soon@moe.edu.sg](mailto:tan_chek_soon@moe.edu.sg) |
 |
-
 ##### **Form Teachers for Secondary 2**
 
 | Class | Form Teachers | Email |
