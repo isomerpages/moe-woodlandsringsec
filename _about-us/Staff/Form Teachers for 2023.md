@@ -83,15 +83,15 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 4R1 | Mr Low Chun Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
-|  | Mr Hoe Siang Ling | [hoe_siang_ling@moe.edu.sg](mailto:hoe_siang_ling@moe.edu.sg) |
-| 4R2A | Miss Ong Wan Ying | [ong_wan_ying_a@moe.edu.sg](mailto:ong_wan_ying_a@moe.edu.sg) |
-| 4R2B | Mdm Memymiswati Chokri | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
-| 4R3 | Mr Jeremy See Poo Leng | [see_poo_leng@moe.edu.sg](mailto:see_poo_leng@moe.edu.sg) |
+| 4R1 | Mr Chan Han Yen | [chan_han_yeni@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
+|  | Mdm Siti Aisah Mohamed Yusop | [siti_aisah mohamed_yusop@moe.edu.sg](mailto:siti_aisah mohamed_yusop@moe.edu.sg) |
+| 4R2 | Mr Neo Kai Sheng | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
+|  | Miss Liyana Bte Juma'eh | [liyana_jumaeh@moe.edu.sg](mailto:liyana_jumaeh@moe.edu.sg) |
+|
+| 4R3 | Mr Toh Yeow Chong (John) | [toh_yeow_chong@moe.edu.sg](mailto:toh_yeow_chong@moe.edu.sg) |
 |  | Mdm Chong Nyok Fang | [chong_nyok_fang@moe.edu.sg](mailto:chong_nyok_fang@moe.edu.sg) |
-| 4R4 | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
-|  | Mdm Saratha Arumugam | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg) |
-|  | Mr Jason Charles Ingham | [jason_ingham@moe.edu.sg](mailto:jason_ingham@moe.edu.sg) |
+| 4R4 | Mr Malcolm Tan Shih Lung | [malcolm_tan_shih_lung@moe.edu.sg](mailto:malcolm_tan_shih_lung@moe.edu.sg) |
+|  | Miss Selina Gomez | [selina_marie_gomes@moe.edu.sg](mailto:selina_marie_gomes@moe.edu.sg) |
 | 4R5 | Mr Tok Hong Da | [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
 |  | Mr Oh Jin Sheng | [oh_jin_sheng@moe.edu.sg](mailto:oh_jin_sheng@moe.edu.sg) |
 | 4R6 | Mr Yeoh Sin Hui (Felix) (SH/Education Support) | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
