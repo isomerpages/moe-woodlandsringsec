@@ -38,15 +38,15 @@ variant: markdown
 | Class | Form Teachers | Email |
 |---|---|---|
 | 2R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg](mailto:ong_chee_lim@moe.edu.sg) |
-|  | Mdm Anita Mansor-Long | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
+|  | Mrs Anita Long | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
 | 2R2 |Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg](mailto:lee_shih_min_patricia@moe.edu.sg) |
 |  | Miss Grace Kang Mei Chen | [kang_mei_chen_grace@moe.edu.sg](mailto:kang_mei_chen_grace@moe.edu.sg) |
-| 2R3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:chung_xiao_gloria@moe.edu.sg) |
-|  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
-| 2R4 | Miss Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
-|  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
-| 2R5 | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
-|  | Mrs Anita Long   | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
+| 2R3 | Mr Tok Wei Xian, Eugene | [toh_wei_xian_eugene@moe.edu.sg](mailto:toh_wei_xian_eugene@moe.edu.sg) |
+|  | Mdm Jenifer Stephanie A/P Paskaran | [jenifer_stephanie_ap@moe.edu.sg](mailto:jenifer_stephanie_ap@moe.edu.sg) |
+| 2R4 | Miss Elaine Lim Ee Teng | [lim_ee_teng_elaine@moe.edu.sg](mailto:lim_ee_teng_elaine@moe.edu.sg) |
+|  | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
+| 2R5 | Mr Sheikh Faraz B Sheikh A Rashid | [sheikh_faraz_sheikh_rashid@moe.edu.sg](mailto:sheikh_faraz_sheikh_rashid@moe.edu.sg) |
+|  | Ms Li Kaiyuan   | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
 | 2R6 | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
 |  | Miss Lim Hwee Ee | [lim_hwee_ee@moe.edu.sg](mailto:lm_hwee_ee@moe.edu.sg) |
 | 2R7 | Mr Zulhafiz Bin Zainal (SH/ML covering) | [zulhafiz_zainal@moe.edu.sg](mailto:zhlhafiz_zainal@moe.edu.sg) |
