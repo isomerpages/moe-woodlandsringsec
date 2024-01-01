@@ -68,10 +68,10 @@ variant: markdown
 |  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
 | 3R3 | Miss Aruna Govind |[aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
 |  | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
-| 3R4 | Mr Malcolm Tan Shih Lung | [malcolm_tan_shih_lung@moe.edu.sg](mailto:malcolm_tan_shih_lung@moe.edu.sg) |
-|  | Miss Selina Gomez | [selina_marie_gomes@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
-| 3R5 | Mr Choy Cheng Zhen | [choy_chenzhen@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
-|  | Ms Siti Hafizah d/o Subramaniam | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
+| 3R4 | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
+|  | Mr Tan Hong Tee | [tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
+| 3R5 | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
+|  | Mdm Khamisah Binte Saman | [khamisah_saman@moe.edu.sg](mailto:khamisah_saman@moe.edu.sg) |
 | 3R6 | Mr Faizal Bin Farouk | [faizal_farouk@moe.edu.sg](mailto:faizal_farouk@moe.edu.sg) |
 |  | Miss Tan Gek Eng (LH/Math) | [tan_gek_eng@moe.edu.sg](mailto:tan_gek_eng@moe.edu.sg) |
 | 3R7 | Mr Karamjit Singh | [karamjit_singh_s_singh@moe.edu.sg](mailto:karamjit_singh_s_singh@moe.edu.sg) |
