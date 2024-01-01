@@ -28,7 +28,7 @@ variant: markdown
 |  | Mdm Saratha Arumugam | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg) |
 | 1R5 | Mr Low Chun Wei | [low_chun_wei@moe.edu.sg](mailto:low_chun_wei@moe.edu.sg) |
 |  | Mdm Ismiralda Masduki | [ismiralda_masduki@moe.edu.sg](mailto:ismiralda_masduki@moe.edu.sg) |
-| 1R6 | Miss Low Xue Zhen (Sheryl) | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
+| 1R6 | Ms Low Xue Zhen (Sheryl) | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
 |  |Mr Fan Ruizhong | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
 | 1R7 | Mdm Ng Mei Ting | [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
 |  |Mr Tan Chek Soon (Jackson) | [tan_chek_soon@moe.edu.sg](mailto:tan_chek_soon@moe.edu.sg) |
@@ -83,8 +83,8 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 4R1 | Mr Chan Han Yen | [chan_han_yeni@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
-|  | Mdm Siti Aisah Mohamed Yusop | [siti_aisah mohamed_yusop@moe.edu.sg](mailto:siti_aisah mohamed_yusop@moe.edu.sg) |
+| 4R1 | Mr Chan Han Yen | [chan_han_yen@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
+|  | Mdm Siti Aisah Mohamed Yusop | [siti_aisah_mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg) |
 | 4R2 | Mr Neo Kai Sheng | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
 |  | Miss Liyana Bte Juma'eh | [liyana_jumaeh@moe.edu.sg](mailto:liyana_jumaeh@moe.edu.sg) |
 |
