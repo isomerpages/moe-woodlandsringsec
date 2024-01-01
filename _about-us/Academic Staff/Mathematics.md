@@ -21,6 +21,8 @@ variant: markdown
 | Mdm Sri Ratinawati Bte Hussein | Teacher |   [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
 | Mr Tok Hong Da | Teacher |   [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
 | Mdm Ismiralda Bte Masduki | Teacher |   [ismiralda_masduki@moe.edu.sg](mailto:ismiralda_masduki@moe.edu.sg) |
+| Mdm Ang Shao Mei | Teacher |   [ang_shao_mei@moe.edu.sg](mailto:ang_shao_me@moe.edu.sg) |
+| Mr Tan Chek Soon (Jackson) | Teacher |   [tan_chek_soon@moe.edu.sg](mailto:tan_chek_soon@moe.edu.sg) |
 | Mdm Norhani Binte Samsuri | AED |  – |
 | Mdm Elizabeth Tung Wai Ling | FAJT |   [tung_wai_ling_elizabeth@moe.edu.sg](mailto:tung_wai_ling_elizabeth@moe.edu.sg) |
 | Mdm Ng Siew Lai | FAJT |   [ng_siew_lai@moe.edu.sg](mailto:ng_siew_lai@moe.edu.sg) |
