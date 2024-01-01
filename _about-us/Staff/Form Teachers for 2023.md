@@ -95,8 +95,9 @@ variant: markdown
 | 4R5 | Mr Choy Cheng Zhen | [choy_chenzhen@moe.edu.sg](mailto:choy_chenzhen@moe.edu.sg) |
 |  | Ms Siti Hafizah d/o Subramaniam | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
 | 4R6 | Mr Faizal Bin Farouk | [faizal_farouk@moe.edu.sg](mailto:faizal_farouk@moe.edu.sg) |
-|  | Ms Foo Hui Ling Rebekah | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
-|  | Mdm Nor Lizawati Bte Mohd Tahir (LH/EL) | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
-| 4R7 | Mr Adnan Bin Mahmud | [adnan_mahmud@moe.edu.sg](mailto:adnan_mahmud@moe.edu.sg) |
-|  | Ms Li Zhiping | [li_zhiping@moe.edu.sg](mailto:li_zhiping@moe.edu.sg) |
-| 5R1 | Miss Low Xue Zhen (Sheryl) | [low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
+|  | Mrs Foo Hui Ling Rebekah | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
+| 4R7 | Mr Karamjit Singh | [karamjit_singh_s_singh@moe.edu.sg](mailto:karamjit_singh_s_singh@moe.edu.sg) |
+|  | Mdm Suzana Bte Sarikon | [suzana_sarikon@moe.edu.sg](mailto:suzana_sarikon@moe.edu.sg) |
+| 5R1 | Mr Tok Hong Da | [tok_hong_da@moe.edu.sg](mailto:tok_hong_da@moe.edu.sg) |
+|  | Mr Yeoh Sin Hui (Felix) (SH/Education Support) | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
+|
