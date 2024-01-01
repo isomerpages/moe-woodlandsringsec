@@ -66,16 +66,18 @@ variant: markdown
 |  | Mr Jason Charles Ingham | [jason_ingham@moe.edu.sg](mailto:jason_ingham@moe.edu.sg) |
 | 3R2 | Mdm Farhanah Samat | [farhanah_samat@moe.edu.sg](mailto:farhanah_samat@moe.edu.sg) |
 |  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
-| 3R3 | Miss Aruna Govind |[aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
+| 3R3 | Ms Aruna Govind |[aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
 |  | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
 | 3R4 | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
 |  | Mr Tan Hong Tee | [tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
 | 3R5 | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
 |  | Mdm Khamisah Binte Saman | [khamisah_saman@moe.edu.sg](mailto:khamisah_saman@moe.edu.sg) |
-| 3R6 | Mr Faizal Bin Farouk | [faizal_farouk@moe.edu.sg](mailto:faizal_farouk@moe.edu.sg) |
-|  | Miss Tan Gek Eng (LH/Math) | [tan_gek_eng@moe.edu.sg](mailto:tan_gek_eng@moe.edu.sg) |
-| 3R7 | Mr Karamjit Singh | [karamjit_singh_s_singh@moe.edu.sg](mailto:karamjit_singh_s_singh@moe.edu.sg) |
-|  | Mdm Suzana Bte Sarikon | [suzana_sarikon@moe.edu.sg](mailto:suzana_sarikon@moe.edu.sg) |
+| 3R6A | Miss Azyan Bte Azami | [azyan_azamik@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
+|  | Ms Sri Ratinawati Bte Hussein | [sri_ratinawati@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
+| 3R6B | Miss Lim Hwee Ee | [lim_hwee_ee@moe.edu.sg](mailto:lim_hwee_ee@moe.edu.sg) |
+|  | Mr Johni Masli | [johni_masli@moe.edu.sg](mailto:sri_ratinawati@moe.edu.sg) |
+| 3R7 |Mr Zulhafiz Bin Zainal (SH/ML covering) | [zulhafiz_zainal@moe.edu.sg](mailto:zulhafiz_zainal@moe.edu.sg) |
+|  | Miss Gwendolyn Koh Jianing| [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
 
 ##### **Form Teachers for Secondary 4 and 5**
 
