@@ -37,10 +37,10 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 2R1 | Mr Jimmy Siow Long Kong Yong Kong | [jimmy_kong@moe.edu.sg](mailto:jimmy_kong@moe.edu.sg) |
-|  | Miss Aruna Govind | [aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
-| 2R2 | Mr Tan Hong Tee | [tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
-|  | Mrs Angelia Tan | [tan_guat_yen_angelia@moe.edu.sg](mailto:tan_guat_yen_angelia@moe.edu.sg) |
+| 2R1 | Mr Ong Chee Lim | [ong_chee_lim@moe.edu.sg](mailto:ong_chee_lim@moe.edu.sg) |
+|  | Mdm Anita Mansor-Long | [anita_mansor@moe.edu.sg](mailto:anita_mansor@moe.edu.sg) |
+| 2R2 |Ms Patricia Lee Shih Min | [lee_shih_min_patricia@moe.edu.sg](mailto:lee_shih_min_patricia@moe.edu.sg) |
+|  | Miss Grace Kang Mei Chen | [kang_mei_chen_grace@moe.edu.sg](mailto:kang_mei_chen_grace@moe.edu.sg) |
 | 2R3 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:chung_xiao_gloria@moe.edu.sg) |
 |  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
 | 2R4 | Miss Azyan Bte Azami | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
