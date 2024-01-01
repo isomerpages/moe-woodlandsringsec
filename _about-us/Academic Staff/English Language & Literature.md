@@ -3,6 +3,7 @@ title: English Language & Literature
 permalink: /about-us/academic-staff/english-and-lit/
 description: ""
 third_nav_title: Academic Staff
+variant: markdown
 ---
 ### **English Language and Literature**
 
@@ -27,7 +28,7 @@ third_nav_title: Academic Staff
 | Mdm Siti Hafizah d/o Subramaniam | Teacher | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
 | Miss Azyan Azami | Teacher | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 | Miss Gwendolyn Koh Jianing | Teacher | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
-|Miss Low Xue Zhen (Sheryl) | Teacher | low_xue_zhen@moe.edu.sg |
-| Miss Christina Pillai | FAJT | [pillai_christina@moe.edu.sg](mailto:pillai_christina@moe.edu.sg) |
+| Miss Low Xue Zhen (Sheryl) | Teacher |[low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
+| Mr Chew Tec Heng (Edwin) | Teacher |[chew_tec_heng_edwin@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
 | Mr Adnan Abdul Rahman | FAJT | [adnan_abdul_rahman@moe.edu.sg](mailto:adnan_abdul_rahman@moe.edu.sg) |
 | Mdm Nur Radiana Bte Yahaya | FAJT | [nur_radiana_yahaya@moe.edu.sg](mailto:nur_radiana_yahaya@moe.edu.sg) |
