@@ -47,11 +47,8 @@ variant: markdown
 |  | Mr Soh Kian Hong | [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
 | 2R5 | Mr Sheikh Faraz B Sheikh A Rashid | [sheikh_faraz_sheikh_rashid@moe.edu.sg](mailto:sheikh_faraz_sheikh_rashid@moe.edu.sg) |
 |  | Ms Li Kaiyuan   | [li_kaiyuan@moe.edu.sg](mailto:li_kaiyuan@moe.edu.sg) |
-| 2R6 | Ms Chan Cee Teing | [chan_cee_teing@moe.edu.sg](mailto:chan_cee_teing@moe.edu.sg) |
-|  | Miss Lim Hwee Ee | [lim_hwee_ee@moe.edu.sg](mailto:lm_hwee_ee@moe.edu.sg) |
-| 2R7 | Mr Zulhafiz Bin Zainal (SH/ML covering) | [zulhafiz_zainal@moe.edu.sg](mailto:zhlhafiz_zainal@moe.edu.sg) |
-|  | Miss Gwendolyn Koh Jianing | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
-| 
+| 2R6 | Miss Lim Si Xuan, Rachel | [lim_si_xian_rachel@moe.edu.sg](mailto:lim_si_xian_rachel@moe.edu.sg) |
+|  | Mdm Norhani Bte Samsuri (AED-Maths) | [norhani_samsuri@moe.edu.sg](mailto:norhani_samsuri@moe.edu.sg) |
 
 #### **Year Heads for Upper Secondary**
 
@@ -65,12 +62,12 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-| 3R1 | Mr Chan Han Yen | [chan_han_yen@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
-|  | Ms Cheong Mun Mun Michelle (SH/ICT) | [cheong_mun_mun_michelle@moe.edu.sg](mailto:cheong_mun_mun_michelle@moe.edu.sg) |
-| 3R2 | Mr Neo Kai Sheng | [neo_kai_sheng@moe.edu.sg](mailto:neo_kai_sheng@moe.edu.sg) |
-|  | Miss Liyana Bte Juma'eh | [liyana_jumaeh@moe.edu.sg](mailto:liyana_jumaeh@moe.edu.sg) |
-| 3R3 | Mr Toh Yeow Chong (John) |[toh_yeow_chong@moe.edu.sg](mailto:toh_yew_chong@moe.edu.sg) |
-|  | Mr Fan Ruizhong | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |
+| 3R1 | Miss Chung Xiao Xuan Gloria | [chung_xiao_xuan_gloria@moe.edu.sg](mailto:chung_xiao_xuan_gloria@moe.edu.sg) |
+|  | Mr Jason Charles Ingham | [jason_ingham@moe.edu.sg](mailto:jason_ingham@moe.edu.sg) |
+| 3R2 | Mdm Farhanah Samat | [farhanah_samat@moe.edu.sg](mailto:farhanah_samat@moe.edu.sg) |
+|  | Mdm Siti Shahzuliahari Binte Johari | [siti_shahzuliahari_johari@moe.edu.sg](mailto:siti_shahzuliahari_johari@moe.edu.sg) |
+| 3R3 | Miss Aruna Govind |[aruna_govind@moe.edu.sg](mailto:aruna_govind@moe.edu.sg) |
+|  | Miss Gan Hwee Fern | [gan_hwee_fern@moe.edu.sg](mailto:gan_hwee_fern@moe.edu.sg) |
 | 3R4 | Mr Malcolm Tan Shih Lung | [malcolm_tan_shih_lung@moe.edu.sg](mailto:malcolm_tan_shih_lung@moe.edu.sg) |
 |  | Miss Selina Gomez | [selina_marie_gomes@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | 3R5 | Mr Choy Cheng Zhen | [choy_chenzhen@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |
