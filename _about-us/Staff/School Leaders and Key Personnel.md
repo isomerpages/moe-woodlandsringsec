@@ -13,7 +13,7 @@ variant: markdown
 |---|---|---|
 | Principal | Mrs Ng Siew Bee | [ng_siew_bee_a@moe.edu.sg](mailto:ng_siew_Bee_a@moe.edu.sg) |
 | Vice-Principal | Mdm Nur Hidayani Ibrahim | [nur_hidayani_ibrahim@moe.edu.sg](mailto:nur_hidayani_ibrahim@moe.edu.sg) |
-| Vice-Principal | Mr Yay Yong Seah Melvin | [tay_yong_seah_melvin@moe.edu.sg](mailto:tay_yong_seah_melvin@moe.edu.sg) |
+| Vice-Principal | Mr Tay Yong Seah Melvin | [tay_yong_seah_melvin@moe.edu.sg](mailto:tay_yong_seah_melvin@moe.edu.sg) |
 | Vice-Principal (Admin) | Mr Hee Juay Ay | [hee_juay_ay@moe.edu.sg](mailto:hee_juay_ay@moe.edu.sg) |
 | Year Head (Upper Sec) | Mr Yap Choong Shiong | [yap_choong_shiong@moe.edu.sg](mailto:yap_choong_shiong@moe.edu.sg) |
 | Year Head ( Lower Sec) | Mr Kheng Kok Seong | [kheng_kok_seong@moe.edu.sg](mailto:kheng_kok_seong@moe.edu.sg) |
