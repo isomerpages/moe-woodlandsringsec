@@ -25,7 +25,7 @@ variant: markdown
 | HOD / ICT | Miss Oei Hun Ling | [oei_hun_ling@moe.edu.sg](mailto:oei_hun_ling@moe.edu.sg) |
 | HOD / PE & CCA | Mr Ganesan Nadarajan | [ganesan_nadarajan@moe.edu.sg](mailto:ganesan_nadarajan@moe.edu.sg) |
 | HOD / Science | Mrs Teo – Ong Huei Huey | [ong_huei_huey@moe.edu.sg](mailto:ong_huei_huey@moe.edu.sg) |
-HOD / Mother Tongue | Mdm Hafiza Binte Yahya | [hafiza_yahya@moe.edu.sg](mailto:hafiza_yahya@moe.edu.sg) |
+HOD / Mother Tongue | Mdm Hafiza Bte Yahya | [hafiza_yahya@moe.edu.sg](mailto:hafiza_yahya@moe.edu.sg) |
 | Covering HOD / EL | Miss Selina Gomez | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | AYH (Upper Sec) | Mdm Elena Chong Siew Foong | [chong_siew_foong@moe.edu.sg](mailto:chong_siew_foong@moe.edu.sg) |
 | AYH (Lower Sec) | Mr Chung Yong Kai | [chung_yong_kai@moe.edu.sg](mailto:chung_yong_kai@moe.edu.sg) |
@@ -33,7 +33,7 @@ HOD / Mother Tongue | Mdm Hafiza Binte Yahya | [hafiza_yahya@moe.edu.sg](mailto:
 | SH / Chemistry | Mdm Siti Aisah Bte Mohamed Yusop | [siti_aisah_mohamed_yusop@moe.edu.sg](mailto:siti_aisah_mohamed_yusop@moe.edu.sg) |
 | SSD | Mdm Chan May Peng | [chan_may_peng@moe.edu.sg](mailto:chan_may_peng@moe.edu.sg) |
 | LH / English | Mdm Nor Lizawati Mohd Tahir | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
-| LH /Mathematics | Mr Johni Masli | [johni_masli@moe.edu.sg](mailto:johni_masl@moe.edu.sg) |
+| LH / Mathematics | Mr Johni Masli | [johni_masli@moe.edu.sg](mailto:johni_masl@moe.edu.sg) |
 | SH / Education Support |  Mr Felix Yeoh Sin Hui | [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
 | SH / Social Studies | Mrs Rebekah Lim | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
 | SH / Student Behaviour Management | Mr Tan Yu Wei Joshua | [tan_yu_wei_joshua@moe.edu.sg](mailto:tan_yu_wei_joshua@moe.edu.sg) |
