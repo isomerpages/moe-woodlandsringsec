@@ -14,8 +14,8 @@ variant: markdown
 |  Miss Oei Hun Ling | HOD / ICT | [oei_hun_ling@moe.edu.sg](mailto:oei_hun_ling@moe.edu.sg) |
 | Miss Selina Gomez | Senior Teacher / EL | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | Miss Low Mun Fei | SH / Aesthetics | [low_mun_fei@moe.edu.sg](mailto:low_mun_fei@moe.edu.sg) |
-| Mrs Rebekah Lim | SH/Citizenship Education | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
-|  Mr Tan Yu Wei Joshua |  SH/ Student Behaviour Management | [tan_yu_wei_joshua@moe.edu.sg](mailto:tan_yu_wei_joshua@moe.edu.sg) |
+| Mrs Rebekah Lim | SH / Citizenship Education | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
+|  Mr Tan Yu Wei Joshua |  SH / Student Behaviour Management | [tan_yu_wei_joshua@moe.edu.sg](mailto:tan_yu_wei_joshua@moe.edu.sg) |
 | Mrs Chuah Ng Lih Yng | Teacher | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
 | Mdm Lim Guat Yen Angelia | Teacher | [lim_guat_yen_angelia@moe.edu.sg](mailto:lim_guat_yen_angelia@moe.edu.sg) |
 | Mdm Saratha D/O Arumugam | Teacher | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg) |
