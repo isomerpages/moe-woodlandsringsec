@@ -23,7 +23,7 @@ variant: markdown
 | Mdm Ismiralda Bte Masduki | Teacher |   [ismiralda_masduki@moe.edu.sg](mailto:ismiralda_masduki@moe.edu.sg) |
 | Mdm Ang Shao Mei | Teacher |   [ang_shao_mei@moe.edu.sg](mailto:ang_shao_me@moe.edu.sg) |
 | Mr Tan Chek Soon (Jackson) | Teacher |   [tan_chek_soon@moe.edu.sg](mailto:tan_chek_soon@moe.edu.sg) |
-| Mdm khamisah Bte Saman | Teacher |   [khamisah_saman@moe.edu.sg](mailto:khamisah_saman@moe.edu.sg) |
+| Mdm Khamisah Bte Saman | Teacher |   [khamisah_saman@moe.edu.sg](mailto:khamisah_saman@moe.edu.sg) |
 | Mdm Norhani Binte Samsuri | AED |  – |
 | Mdm Elizabeth Tung Wai Ling | FAJT |   [tung_wai_ling_elizabeth@moe.edu.sg](mailto:tung_wai_ling_elizabeth@moe.edu.sg) |
 | Mdm Ng Siew Lai | FAJT |   [ng_siew_lai@moe.edu.sg](mailto:ng_siew_lai@moe.edu.sg) |
