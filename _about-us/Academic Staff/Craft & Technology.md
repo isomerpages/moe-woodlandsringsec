@@ -10,7 +10,7 @@ variant: markdown
 | Names | Appointment |  Email Address |
 |---|---|---|
 | Mr Dennis Toh Hiew Kang | HOD / Craft & Technology |   [toh_hiew_kang@moe.edu.sg](mailto:toh_hiew_kang@moe.edu.sg) |
-| Mr Loy Liang Teck | Senior Teacher / Design & Technology | [loy_liang_teck@moe.edu.sg](mailto:loy_liang_teck@moe.edu.sg) |
+| Mr Loy Liang Teck | ST / Design & Technology | [loy_liang_teck@moe.edu.sg](mailto:loy_liang_teck@moe.edu.sg) |
 | Mr Tan Hong Tee | Teacher |   [tan_hong_tee@moe.edu.sg](mailto:tan_hong_tee@moe.edu.sg) |
 | Mr Chan Han Yen | Teacher |   [chan_han_yen@moe.edu.sg](mailto:chan_han_yen@moe.edu.sg) |
 | Mr Choy Chengzhen | Teacher |   [choy_chengzhen@moe.edu.sg](mailto:choy_chengzhen@moe.edu.sg) |

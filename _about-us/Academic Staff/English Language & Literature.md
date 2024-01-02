@@ -12,10 +12,10 @@ variant: markdown
 | Mdm Rabiaton Bte Mohamed Zin | HOD / English & Literature |   [rabiaton_mohamed_zin@moe.edu.sg](mailto:rabiaton_mohamed_zin@moe.edu.sg) |
 | Mdm Nor Lizawati Bte Mohd Tahir | LH /English | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
 |  Miss Oei Hun Ling | HOD / ICT | [oei_hun_ling@moe.edu.sg](mailto:oei_hun_ling@moe.edu.sg) |
-| Miss Selina Gomez | Senior Teacher / EL | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
+| Miss Selina Gomez | ST / EL | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | Miss Low Mun Fei | SH / Aesthetics | [low_mun_fei@moe.edu.sg](mailto:low_mun_fei@moe.edu.sg) |
-| Mrs Rebekah Lim | SH/Citizenship Education | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
-|  Mr Tan Yu Wei Joshua |  SH/ Student Behaviour Management | [tan_yu_wei_joshua@moe.edu.sg](mailto:tan_yu_wei_joshua@moe.edu.sg) |
+| Mrs Rebekah Lim | SH / Citizenship Education | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
+|  Mr Tan Yu Wei Joshua |  SH / Student Behaviour Management | [tan_yu_wei_joshua@moe.edu.sg](mailto:tan_yu_wei_joshua@moe.edu.sg) |
 | Mrs Chuah Ng Lih Yng | Teacher | [ng_lih_yng@moe.edu.sg](mailto:ng_lih_yng@moe.edu.sg) |
 | Mdm Lim Guat Yen Angelia | Teacher | [lim_guat_yen_angelia@moe.edu.sg](mailto:lim_guat_yen_angelia@moe.edu.sg) |
 | Mdm Saratha D/O Arumugam | Teacher | [saratha_arumugam@moe.edu.sg](mailto:saratha_arumugam@moe.edu.sg) |
@@ -28,7 +28,7 @@ variant: markdown
 | Mdm Siti Hafizah d/o Subramaniam | Teacher | [siti_hafizah_subramaniam@moe.edu.sg](mailto:siti_hafizah_subramaniam@moe.edu.sg) |
 | Miss Azyan Azami | Teacher | [azyan_azami@moe.edu.sg](mailto:azyan_azami@moe.edu.sg) |
 | Miss Gwendolyn Koh Jianing | Teacher | [gwendolyn_koh_jianing@moe.edu.sg](mailto:gwendolyn_koh_jianing@moe.edu.sg) |
-| Miss Low Xue Zhen (Sheryl) | Teacher |[low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
+| Ms Low Xue Zhen (Sheryl) | Teacher |[low_xue_zhen@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
 | Mr Chew Tec Heng (Edwin) | Teacher |[chew_tec_heng_edwin@moe.edu.sg](mailto:low_xue_zhen@moe.edu.sg) |
 | Mr Adnan Abdul Rahman | FAJT | [adnan_abdul_rahman@moe.edu.sg](mailto:adnan_abdul_rahman@moe.edu.sg) |
 | Mdm Nur Radiana Bte Yahaya | FAJT | [nur_radiana_yahaya@moe.edu.sg](mailto:nur_radiana_yahaya@moe.edu.sg) |
