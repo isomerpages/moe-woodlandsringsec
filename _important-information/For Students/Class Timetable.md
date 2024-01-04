@@ -6,7 +6,7 @@ third_nav_title: For Students
 variant: markdown
 ---
 ### **Class Timetable**
-Please refer to the 2023 Semester 2 timetable below:
+Please refer to the 2024 Semester 1 timetable below:
 
 |  |
 |---|
