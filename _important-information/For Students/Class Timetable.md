@@ -3,6 +3,7 @@ title: Class Timetable
 permalink: /important-information/for-students/class-timetable/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 ### **Class Timetable**
 Please refer to the 2023 Semester 2 timetable below:
