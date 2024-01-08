@@ -12,4 +12,5 @@ For more information, please click link below:
 |---|
 | Sec 1 |
 | [2024 Sec 1 PTM Principal's Time & YH Address - 29 Dec 2023](https://drive.google.com/file/d/1MFLzCEAMCNPWPM1f-F_UX8C-a48INT9h/view?usp=sharing) |
+| [2024 Sec 1 Evening with Parents_AYH Address_CCA Briefing_PDLP (Part 2) Briefing_5 Jan 2024](https://drive.google.com/file/d/1esT_ch-cPL1_0sbpq0dNJRXTxLcmcn0q/view?usp=sharing) |
 |
