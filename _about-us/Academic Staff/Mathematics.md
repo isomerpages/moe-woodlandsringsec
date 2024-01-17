@@ -10,9 +10,9 @@ variant: markdown
 | Names | Appointment | Email Address |
 |---|---|---|
 | Miss Angelina Tan Wei Yea | HOD / Mathematics |   [tan_wei_yea@moe.edu.sg](mailto:tan_wei_yea@moe.edu.sg) |
-| Mdm Elena Chong Siew Foong | AYH (Upper Sec) |   [chong_siew_foong@moe.edu.sg](mailto:chong_siew_foong@moe.edu.sg) |
-| Mr Felix Yeoh Sin Hui | SH / Edun Support |   [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
 | Mr Johni Masli | LH / Math |   [johni_masli@moe.edu.sg](mailto:johni_masli@moe.edu.sg) |
+| Mdm Elena Chong Siew Foong | AYH (Lower Sec) |   [chong_siew_foong@moe.edu.sg](mailto:chong_siew_foong@moe.edu.sg) |
+| Mr Yeoh Sin Hui (Felix)| SH / Education Support |   [yeoh_sin_hui@moe.edu.sg](mailto:yeoh_sin_hui@moe.edu.sg) |
 | Mr Ingham Jason Charles | LT / Math |   [jason_ingham@moe.edu.sg](mailto:jason_ingham@moe.edu.sg) |
 | Mr Soh Kian Hong | Teacher |   [soh_kian_hong@moe.edu.sg](mailto:soh_kian_hong@moe.edu.sg) |
 | Mdm Ng Mei Ting | Teacher |   [ng_mei_ting@moe.edu.sg](mailto:ng_mei_ting@moe.edu.sg) |
