@@ -21,18 +21,18 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Mr Hamran Bin Mohd Zain | Operations Manager |
 | Mr Philix Joseph | Adjunct Operations Manager |
 | Mdm Vandana Khanna | Full Time School Counsellor |
-| Mr Soon Min Hian Matthew | ECG Counsellor |
+| Mr Wong Mun Chung | ECG Counsellor |
 | Mdm Masni Binte Marsiber | Corporate Support Officer |
 | Ms Law Siew Kim | Corporate Support Officer |
 | Mdm Amravathi D/O Manickam | Operations Support Officer |
 | Mdm Sarasvathi D/O Narayanasamy | Operations Support Officer |
 | Mr Leow Kean Chun | Operation Support Office |
- Mr Mohd Rafid | Operation Support Office |
+| Mr Mohd Rafid Bin Amat Puteh | Operation Support Office |
 | Mr Abdul Wahab Bin Ashek | Technical Support Officer |
 | Mr Amirul Amri Bin Mohd Noor | Technical Support Officer |
 | Mdm Siti Nurvanee | Technical Support Officer |
 | Mdm Syahirah Binte Rosli | Technical Support Officer |
-| Mdm Zubaidah Saat | AED (Special Education Needs Officer) |
+| Mdm Zubaidah Saat | AED (SEN Officer) |
 | Mr Soh Kee Seng | ICT Manager |
 | Ms Siti Nurbaiyah Binte Jaffar | ICT Manager |
 | Mr Logindran A/L Balachandran | DE (IT) |
