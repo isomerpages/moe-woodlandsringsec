@@ -13,20 +13,23 @@ Our programme is designed to be age-appropriate and progressive, catering to the
 - Tier 2, specifically tailored for Student Leaders to deepen students’ leadership competencies
 
 **Tier 1 - Baseline Leadership Development**
+
 The five Practices of TLC are introduced at various stages during students' secondary school years. The first practice, Model the Way, is taught in Secondary 1. It empowers students to discover their own voice by clarifying their values and aligning their actions with shared values. This emphasises the importance of self-leadership and sets a positive tone for others to follow. Overall, it lays a solid foundation for developing leadership skills in students throughout their secondary school journey.
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%201.jpg">
-<img style="width:25%" src="/images/llp1.jpg" align="left">
-</a></p>
+![](/images/LLP_pic_1.jpg)
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%202.jpg">
-<img style="width:25%" src="/images/llp2.jpg" align="left">
-</a></p>
+During Secondary 2, students are given various opportunities to collaborate with diverse groups of people through level camp, VIA (Values in Action) projects, and celebrative and commemorative events within their class. As such, our focus shifts towards team leadership using TLC practices "Enabling Others to Act" and "Encouraging the Heart." It involves empowering and supporting others to take actions as well as recognising and celebrating the contributions of their peers. This encourages a positive and collaborative environment, fostering leadership skills and a sense of appreciation among students.
+In Upper Secondary, thought leadership is developed through the last two TLC practices "Inspire a Shared Vision" and "Challenge the Process". Thought leadership is ultimately about exercising critical and inventive thinking to set the strategic direction and break new ground in one’s field to engender positive changes. Students who demonstrate thought leadership that is also built upon strong self and team leadership are better able to effectively influence others and create value to the community.
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%203.jpg">
-<img style="width:25%" src="/images/llp3.jpg" align="left">
-</a></p>
+**Tier 2 - Deepening Leadership Capacities**
 
-<p><a href="https://staging.d1zt0oshmgcgjg.amplifyapp.com/images/llp%20enlarged%204.jpg">
-<img style="width:25%" src="/images/llp4.jpg" align="left">
-</a></p>
+Tier 2 programmes are designed to develop the leadership potential of Student Leaders who hold designated leadership roles such as Student Councillors, Peer Support Leaders (PSLs), CCA Leaders, and Class Leaders. These roles are crucial in serving the school and community. 
+Upper Secondary Student Leaders are entrusted with planning and executing major school events like the Secondary 1 Orientation Programmes, Secondary 2 Cohort Camps, the four National Education (NE) commemorative events, and Teacher and Staff Appreciation Day. These events provide authentic platforms for students to transfer and put into practice values, character, social-emotional competencies, and citizenship dispositions. In addition to being mentored by teachers and Senior Student Leaders, they attend specialised leadership workshops such as Project Management, Facilitation Skills, Peer-support Relations, and Mental Well-being workshops.
+
+![](/images/LLP_pic_2.jpg)
+
+We believe in our students, and this belief drives our actions as we guide them to make responsible decisions and build confidence in taking the initiative to make a positive difference wherever they go. Our goal is to prepare them to serve the needs of their friends, family members, community, and nation.
+By intentionally and purposefully tiering our developmental programmes and learning experiences, we can maximise our students' potential according to their readiness. Our LLP is structured to empower students with the skills, qualities, and opportunities necessary for effective leadership, equipping them to contribute positively to their communities and beyond.
+
+
+<p></p>
