@@ -30,9 +30,12 @@ Pada tahun 2022, dua orang pelajar kami mewakili sekolah dalam peraduan ini. Per
 Program tahunan ini merupakan program yang dianjurkan oleh MENDAKI. Dalam program ini, para peserta diberikan peluang untuk melibatkan diri dalam kegiatan-kegiatan yang menarik bersama seorang mentor dalam jangka masa sepuluh minggu. Mentor yang digandingkan dengan mereka selalunya mempunyai minat yang serupa dengan para peserta. Selain memberikan nasihat yang baik kepada para peserta, mentor ini juga mendorong mereka untuk terus mengejar kejayaan pada masa hadapan. Bagi penglibatan kami dalam tahun kedua, seramai lima orang pelajar  secara suka rela mengambil bahagian. Kami berharap penglibatan mereka dalam program ini akan memberi manfaat kepada mereka dalam membentuk sahsiah diri yang lebih positif
 
 
-**2) Perkhemahan Bahasa dan Budaya Melayu untuk Menengah 2**
+**2) Kegiatan Tahunan Dwi-Minggu Bahasa Melayu**
 
-*   Para pelajar Menengah 2 pula telah mengambil bahagian dalam perkhemahan yang diadakan di Pulau Ubin pada 31 Ogos 2019. Di sana, para pelajar telah didedahkan kepada pelbagai kegiatan seperti membatik, membuat roti kirai dan juga menjelajah hutan paya Chek Jawa. Daripada pengalaman itu, pelajar dapat belajar tentang budaya dalam keadaan yang santai serta menyeronokkan. Pada masa yang sama, mereka dapat menikmati suasana kampung yang aman dan permai. Ini merupakan satu pengalaman yang pasti tidak akan dilupakan oleh mereka.
+*   Bagi meningkatkan penghayatan para pelajar kepada budaya Melayu, Unit Bahasa Melayu Sekolah Menengah Woodlands Ring juga menganjurkan pelbagai kegiatan untuk pelajar-pelajar Menengah 1 hingga Menengah 3 sebagai kegiatan paska-peperiksaan. Kegiatan-kegiatan ini dianjurkan dengan tujuan untuk memberikan peluang kepada para pelajar mempelajari budaya Melayu dalam konteks yang berlainan. Melalui usaha ini, kami juga mengharapkan agar para pelajar akan menghargai budaya mereka, di samping mendalami cinta mereka terhadap bahasa Melayu.
+
+Kegiatan-kegiatan yang telah dijalankan:
+![](/images/Table_2.jpg)
 
 **3) Apresiasi Drama**
 
