@@ -2,7 +2,6 @@
 title: 2023 November Holiday Supplementary Lessons
 permalink: /important-information/for-students/2023-november-holiday-supplementary-lessons/
 description: ""
-third_nav_title: For Students
 ---
 Please refer to the 2023 November Holiday Supplemenary Lessons Class Timetable below:
 

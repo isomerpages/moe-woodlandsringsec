@@ -2,7 +2,6 @@
 title: 2023 Sec 1 to 3 Dec Holiday Year End Learning Tasks
 permalink: /important-information/for-students/2023-sec-1-to-3-dec-holiday-year-end-learning-tasks/
 description: ""
-third_nav_title: For Students
 variant: markdown
 ---
 Please refer to the 2023 Year End Holiday Learning Tasks for the various levels below:

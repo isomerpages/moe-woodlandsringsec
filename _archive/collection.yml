@@ -2,6 +2,10 @@ collections:
   archive:
     output: true
     order:
+      - PSG 2022.md
+      - Release of GCE O Level Examination Results on 11 January 2024.md
+      - 2023 Sec 1 to 3 Dec Holiday Year End Learning Tasks.md
+      - 2023 November Holiday Supplementary Lessons.md
       - Secondary One Registration 2024.md
       - Release of GCE N Level Examination Results on 18 December 2023.md
       - Release of GCE N Level Exam Results on 18 December 2023.md

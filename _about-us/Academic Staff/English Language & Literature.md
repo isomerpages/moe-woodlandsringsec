@@ -9,10 +9,10 @@ variant: markdown
 
 | Name | Appointment |  Email Address |
 |---|---|---|
-| Mdm Rabiaton Bte Mohamed Zin | HOD / English & Literature |   [rabiaton_mohamed_zin@moe.edu.sg](mailto:rabiaton_mohamed_zin@moe.edu.sg) |
+| Mdm Rabiaton Bte Mohamed Zin | HOD / CCE |   [rabiaton_mohamed_zin@moe.edu.sg](mailto:rabiaton_mohamed_zin@moe.edu.sg) |
 | Mdm Nor Lizawati Bte Mohd Tahir | LH /English | [nor_lizawati_mohd_tahir@moe.edu.sg](mailto:nor_lizawati_mohd_tahir@moe.edu.sg) |
 |  Miss Oei Hun Ling | HOD / ICT | [oei_hun_ling@moe.edu.sg](mailto:oei_hun_ling@moe.edu.sg) |
-| Miss Selina Gomez | ST / EL | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
+| Miss Selina Gomez | Covering EL HOD | [selina_marie_gomez@moe.edu.sg](mailto:selina_marie_gomez@moe.edu.sg) |
 | Miss Low Mun Fei | SH / Aesthetics | [low_mun_fei@moe.edu.sg](mailto:low_mun_fei@moe.edu.sg) |
 | Mrs Rebekah Lim | SH / Citizenship Education | [foo_hui_ling_rebekah@moe.edu.sg](mailto:foo_hui_ling_rebekah@moe.edu.sg) |
 |  Mr Tan Yu Wei Joshua |  SH / Student Behaviour Management | [tan_yu_wei_joshua@moe.edu.sg](mailto:tan_yu_wei_joshua@moe.edu.sg) |
