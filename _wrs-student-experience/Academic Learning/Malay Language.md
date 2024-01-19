@@ -37,10 +37,9 @@ Kegiatan-kegiatan yang telah dijalankan:
 ![](/images/Table_2.jpg)
 
 **3) Apresiasi Drama**
-
 *   Lazimnya, di dalam bilik darjah, guru-guru mendedahkan para pelajar kepada bahan-bahan video supaya mereka dapat mengapresiasi drama serta filem Melayu. Namun, apabila terdapat peluang untuk menonton drama secara langsung, para pelajar Menengah 3 selalunya diberikan kesempatan tersebut. Setiap tahun, apabila ada pementasan drama Melayu yang sesuai, para pelajar yang berminat akan dibawa untuk menonton drama tersebut. Dengan cara ini, para pelajar akan menyedari bahawa penggunaan bahasa Melayu di Singapura masih relevan dan patut dilestarikan. Apa yang diharapkan ialah para pelajar sedar bahawa bahasa Melayu bukanlah bahasa yang digunakan sekadar di dalam bilik darjah bahasa Melayu atau di rumah, iaitu dalam kalangan ahli keluarga sahaja, namun boleh digunakan dalam bidang kesenian.
 
 ![](/images/ML_Picture1.jpg)
 ![](/images/ML_Picture2.jpg)
 ![](/images/ML_Picture4.jpg)
-height="350" width="700"&gt;
+
