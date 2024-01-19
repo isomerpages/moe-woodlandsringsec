@@ -3,15 +3,19 @@ title: Malay Language
 permalink: /wrs-student-experience/academic-learning/malay-language/
 description: ""
 third_nav_title: Academic Learning
+variant: markdown
 ---
 ### **Malay Language**
-#### **Program Bahasa Melayu pada tahun 2019**
+#### **Program Bahasa Melayu @WRSS**
 ##### **Matlamat:**
-Untuk menghidupkan Bahasa Melayu dengan memberi peluang kepada para pelajar untuk meraih pengalaman serta melibatkan mereka dalam kegiatan-kegiatan kebudayaan yang akan meningkatkan penggunaan Bahasa Melayu secara aktif dan pada masa yang sama, memperkaya pengetahuan mereka tentang budaya.
+Untuk menghidupkan bahasa Melayu dengan memberi peluang kepada para pelajar untuk meraih pengalaman serta melibatkan mereka dalam kegiatan-kegiatan bahasa dan budaya yang akan mempertingkatkan penggunaan bahasa Melayu dan pada masa yang sama, memperkaya pengetahuan mereka tentang budaya.
 
-**1) Perkhemahan Bahasa dan Budaya Melayu untuk Menengah 1**
+**1) Pertandingan &amp; Program Luaran**
 
-*   Pelajar-pelajar Menengah 1 telah dibawa ke Taman Warisan Melayu pada 16 Oktober 2019 untuk mempelajari tentang sejarah orang Melayu di Singapura yang dipandu oleh pelajar-pelajar Menengah 4. Kolaborasi ini bukan sahaja menguntungkan para pelajar Menengah 1, malah memberi peluang kepada pelajar Menengah 4 untuk mengasah kemahiran berkomunikasi, satu kemahiran yang penting dalam abad ke-21 ini.Selain itu, para pelajar juga berpeluang untuk bermain permainan tradisional di halaman bangunan Istana Kampung Gelam yang juga dikelolakan oleh pelajar Menengah 4. Melalui kegiatan ini, para pelajar dapat berinterasi dengan rakan-rakan dalam keadaan yang menyeronokkan. Pelajar Menengah 4 pula dapat meningkatkan keyakinan diri semasa menjadi pemudah cara bagi kegiatan tersebut
+*   **Pertandingan Bahas4PM pada 25 Feb &amp; 4 Mac 2023**
+Pertandingan ini dianjurkan oleh Bahas4PM dan disokong oleh MLLPC MOE. Buat julung-julung kalinya, seramai empat orang pelajar 4HML kami menyertai pertandingan ini yang ditandingi oleh 20 buah sekolah menengah lain di Singapura. Wakil -wakil dari sekolah kami telah berjaya menduduki tangga ke-8 dalam pusingan saringan. Walaupun tewas dalam pusingan suku akhir, kami amat berbangga dengan pencapaian para peserta kami yang berjuang habis-habisan sepanjang penglibatan mereka dalam pertandingan ini.  
+Pendedahan kepada pertandingan bahas membolehkan para peserta kami menggunakan bahasa Melayu dalam situasi yang autentik dan pengalaman ini membuat mereka lebih menghargai bahasa ibunda. Dalam pertandingan ini juga, para peserta kami telah dicabar untuk menunjukkan keupayaan mereka berhujah dengan berkesan dan hal ini pasti menjadikan mereka pelajar yang lebih berdaya saing. Kami juga amat kagum dengan pencapaian dua orang peserta kita yang berjaya menjadi pembahas terbaik bagi pusingan saringan serta pusingan suku akhir
+
 
 **2) Perkhemahan Bahasa dan Budaya Melayu untuk Menengah 2**
 
@@ -39,4 +43,4 @@ Untuk menghidupkan Bahasa Melayu dengan memberi peluang kepada para pelajar untu
 
 <img src="/images/malay.jpg" style="width:75%">
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/BIm0Z0_OG8w" title="MT Dept" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/BIm0Z0_OG8w" title="MT Dept" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
