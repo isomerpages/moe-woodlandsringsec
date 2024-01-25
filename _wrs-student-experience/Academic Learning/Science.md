@@ -23,36 +23,10 @@ Students are given opportunities to attend enrichment workshops and participate 
 
 ![](/images/Sci_pic_3.jpg)
 ![](/images/Sci_pic_4.png)
-
-
-**(3) Talent Development programme**<br>
-The department also believes in providing opportunities for students with an aptitude for the subject to immerse themselves in scientific research and real-world applications of Science to foster their love for the subject. Through our Talent Development programme (TDP), students develop 21st century competencies such as critical and inventive thinking, and communication, collaboration and information skills.
-
-In 2022 (Term 1), Sec 1 Science TDP students participated in the Cardboard Challenge activity. Each group of students was required to create a chair using only carboard without any types of adhesive material (e.g., glue, tape). 
-
-<img src="/images/sci1.jpg" style="width:85%">
-
-On 28 April 2022, Secondary 1 Science TDP students celebrated World DNA Day through learning to extract DNA from strawberry.
-
-<img src="/images/sci2.jpg" style="width:85%">
-
-The DNA extraction kits used in the workshop were generously provided by Illumina Singapore.
-
-In 2022, the Science TDP students also participated in the following competitions:
-
-**20th Elementz Science Project Competition**
-![](/images/Picture1.jpg)
-
-**Science Buskers Festival**
-![](/images/Pic%203.png)
-
-**Swift Explorer Singapore**
-![](/images/Pic%204.png)
-
-![](/images/Pic%205.png)
-
-#### Electronics ####
-
+![](/images/Sci_Pic_5.jpg)
+![](/images/Sci_Pic_6.jpg)
+![](/images/Sci_pic_7.jpg)
+#### Electronics ###
 Electronics is offered as an O-Level subject in our school. This subject aims to provide students with an understanding of the fundamental working of electronic components and systems, as well as engineering design process. It provides a broad-based foundation for further studies in electronics, engineering and related fields.
 
 Students will have hands-on practical to understand circuits and their functionality. Students not only build prototype circuits but also use computer simulation software to investigate and verify their designs.  
@@ -61,11 +35,10 @@ Through coursework projects, students are exposed to engineering design that req
 
 ![](/images/Pic11.png)
 
-#### Mobile Robotics ####
-
-Mobile Robotics is offered to Upper Secondary School Normal Technical students in our school.  It focuses on the design, construction, and control of mobile robots. The subject provides students with hands-on experience in building their own robots and lays the foundation for further studies in the field of mechatronics engineering or related fields.
-
-![](/images/Pic%206.png)
+#### Mobile Robotics: Nurturing Future Engineers ####
+**Introduction** <br>
+The Mobile Robotics programme equips Upper Secondary School Normal Technical students with the hands-on skills and theoretical knowledge to design, build, and control their own mobile robots. This program provides a strong foundation for further studies in Mechatronics Engineering and related fields.
+![](/images/Sci_pic_8.jpg)
 
 Students will learn the basics of electronics and robot design, as well as develop problem-solving and critical thinking skills through hands-on projects and activities. The subject also covers the impact of automated technology on society and its changing nature. It provides students with the essential knowledge and skills that can be useful in pursuing further studies in the field of Robotics.
 
