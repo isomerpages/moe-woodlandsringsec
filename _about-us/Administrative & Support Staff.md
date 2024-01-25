@@ -32,7 +32,7 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Mr Amirul Amri Bin Mohd Noor | Technical Support Officer |
 | Mdm Siti Nurvanee | Technical Support Officer |
 | Mdm Syahirah Binte Rosli | Technical Support Officer |
-| Mdm Zubaidah Saat | AED (SEN Officer) |
+| Mdm Zubaidah Saat | SEN Officer |
 | Mr Soh Kee Seng | ICT Manager |
 | Ms Siti Nurbaiyah Binte Jaffar | ICT Manager |
 | Mr Logindran A/L Balachandran | DE (IT) |
