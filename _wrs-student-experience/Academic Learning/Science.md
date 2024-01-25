@@ -50,3 +50,6 @@ The Mobile Robotics programme equips Upper Secondary School Normal Technical stu
 Our Mobile Robotics Talent Programme students have consistently demonstrated their skills and creativity in competitive events:<br>
 •	2022: 3rd Prize in the Sense Time Autonomous Challenge (ITE Ignite) and Judges Award for Most Futuristic Robot (National Robotics Competition).<br>
 •	2023: 2nd Prize in the Mobile Robot Challenge (ITE Ignite).
+
+![](/images/Sci_pic_9.jpg)
+
