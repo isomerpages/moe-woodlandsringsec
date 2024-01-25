@@ -10,12 +10,10 @@ variant: markdown
 
 In line with the Science Curriculum Framework, WRS aims to develop our students to be critical thinkers, inquisitive and innovative learners. 
 
-![](/images/Sci_Picture2.png)
-<img src="/images/science.jpg" style="width:85%">
+![](/images/Sci__Picture1.jpg)
+In addition to the national curriculum, the following are some platforms designed to engage students in scientific inquiry.
 
-The following are some platforms designed to engage students in scientific inquiry.
-
-**(1) School-wide programmes**<br>
+**(1) Level-wide programmes**<br>
 All students are engaged in the assembly programmes that showcase science demonstrations and provides opportunities for students to apply their scientific concepts to explain daily phenomena.
 
 **(2) Level-wide programmes**<br>
