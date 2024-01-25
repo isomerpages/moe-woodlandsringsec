@@ -14,10 +14,16 @@ In line with the Science Curriculum Framework, WRS aims to develop our students 
 In addition to the national curriculum, the following are some platforms designed to engage students in scientific inquiry.
 
 **(1) Level-wide programmes**<br>
-All students are engaged in the assembly programmes that showcase science demonstrations and provides opportunities for students to apply their scientific concepts to explain daily phenomena.
+All Secondary 1 to 3 students are engaged in scientific investigation and /or research projects which aims to develop critical and inventive thinking, collaboration and communication skills. Students are engaged in collaborative projects to investigate phenomena, analyse data and present their findings.  
 
-**(2) Level-wide programmes**<br>
-All Secondary 1 to 3 students are engaged in scientific investigation and /or research projects which aims to develop critical and inventive thinking, collaboration and communication skills. Students are engaged in collaborative projects to investigate phenomena, analyse data and present their findings.
+**(2) Talent Development programmes**<br>
+The department also believes in providing opportunities for students with an aptitude for the subject to immerse themselves in scientific research and real-world applications of Science to foster their love for the subject. Through our Talent Development programme (TDP), students develop 21st century competencies such as critical and inventive thinking, and communication, collaboration and information skills. 
+
+Students are given opportunities to attend enrichment workshops and participate in science competitions such as International Elementz Science Project Competitions, Science Buskers Festival, National Digital Explorer, International C.B. Paul Science Quiz, Singapore Junior Biology, Chemistry and Physics Olympiads
+
+![](/images/Sci_pic_3.jpg)
+![](/images/Sci_pic_4.png)
+
 
 **(3) Talent Development programme**<br>
 The department also believes in providing opportunities for students with an aptitude for the subject to immerse themselves in scientific research and real-world applications of Science to foster their love for the subject. Through our Talent Development programme (TDP), students develop 21st century competencies such as critical and inventive thinking, and communication, collaboration and information skills.
