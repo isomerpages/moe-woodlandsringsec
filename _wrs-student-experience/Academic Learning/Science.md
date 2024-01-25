@@ -53,3 +53,4 @@ Our Mobile Robotics Talent Programme students have consistently demonstrated the
 
 ![](/images/Sci_pic_9.jpg)
 
+![](/images/Sci_table.jpg)
