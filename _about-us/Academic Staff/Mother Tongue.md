@@ -10,7 +10,7 @@ variant: markdown
 | Name | Appointment |  Email Address |
 |---|---|---|
 | Mdm Hafiza Bte Yahya | HOD / MTL | [hafiza_yahya@moe.edu.sg](mailto:hafiza_yahya@moe.edu.sg) |
-| Mr Zulhafiz Bin Zainal | SH / ML (Covering) | [zulhafiz_zainal@moe.edu.sg](mailto:zulhafiz_zainal@moe.edu.sg) |
+| Mr Zulhafiz Bin Zainal | SH / ML | [zulhafiz_zainal@moe.edu.sg](mailto:zulhafiz_zainal@moe.edu.sg) |
 | Ms Chua Kah Hsing | SH / CL (Covering) | [chua_kah_hsing@moe.edu.sg](mailto:chua_kah_hsing@moe.edu.sg) |
 | Mdm Memymiswati Bte Chokri | ST / ML | [memymiswati_chokri@moe.edu.sg](mailto:memymiswati_chokri@moe.edu.sg) |
 | Mr Fan Ruizhong | Teacher | [fan_ruizhong@moe.edu.sg](mailto:fan_ruizhong@moe.edu.sg) |

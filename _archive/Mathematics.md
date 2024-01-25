@@ -2,7 +2,6 @@
 title: Mathematics
 permalink: /wrs-student-experience/academic-learning/mathematics/
 description: ""
-third_nav_title: Academic Learning
 ---
 ### **Mathematics**
 ##### **Department Programmes / Highlight**
@@ -15,13 +14,12 @@ In Woodlands Ring Secondary School (WRSS), in order to prepare our students for 
 *   acquire mathematical concepts and skills for continuous learning in Mathematics and to support learning in other subjects;
 *   develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving;
 *   connect ideas within Mathematics and between Mathematics and other subjects through applications of Mathematics; and
-*    inculcate positive attitudes, build confidence and foster interest in Mathematics so as to enable all to appreciate its value in making informed decisions in real life.
+*   &nbsp;inculcate positive attitudes, build confidence and foster interest in Mathematics so as to enable all to appreciate its value in making informed decisions in real life.
 
 The school-based Mathematics curriculum of WRSS is based on the national Mathematics Framework as seen in Diagram 1, developed by the Mathematics Unit of Curriculum Planning and Development Division (CPDD), Ministry of Education (MOE), Singapore. The central focus of this framework is mathematical problem-solving, i.e. using Mathematics to solve problems. This framework sets the direction for and provides guidance in the teaching, learning, and assessment of Mathematics at all levels, from primary to pre-university; and also reflects the 21st Century Competencies.
 
 <figure>
-<img src="/images/math%20framework.jpg" 
-     style="width:55%">
+<img src="/images/math%20framework.jpg" style="width:55%">
 <figcaption>  Diagram 1: The Mathematics Framework, Math Unit of CPDD, MOE (Singapore)
  </figcaption>
 </figure>
@@ -36,7 +34,7 @@ Diagram 2: Overview of GCE O/N(A)/N(T)-Level Mathematics Syllabi
 
 In brief, the respective content strands are as described below:
 
-*   ‘Number & Algebra’ is the basic building block of school Mathematics. A good understanding of numbers in terms of their meanings, properties and operations provides the foundation for the learning of Mathematics. Basic algebra concepts and skills, and algebraic thinking are essential for problem-solving and these should be developed progressively.
+*   ‘Number &amp; Algebra’ is the basic building block of school Mathematics. A good understanding of numbers in terms of their meanings, properties and operations provides the foundation for the learning of Mathematics. Basic algebra concepts and skills, and algebraic thinking are essential for problem-solving and these should be developed progressively.
 *   ‘Geometry’ is the study of points, lines, angles, figures and their properties and relationships. The study of geometry develops spatial visualisation and reasoning skills, which are critical in solving geometrical problems in the real world.
 *   ‘Measurement’ involves finding physical quantities such as length, mass, area, volume and time. Units such as centimetres, kilogrammes, square metres, cubic metres and seconds are attached to numbers in order to make sense of the quantities. Both ‘Geometry’ and ‘Measurement’ deal with shapes and figures that serve as models of real objects.
 *   ‘Statistics’ provides the methods and tools to summarise, represent, analyse and interpret data such that useful information can be derived for decision-making and in understanding a situation.
@@ -69,10 +67,10 @@ Given the department’s endeavour to stretch the capacity of and to widen the e
 
 In 2019, our team comprising Mohd Mahfuz, Mohd Hilmi and Francis Ng of 4T7 emerged as the National Champions for the Upper Secondary Normal (Technical) \[N(T)\] category in the “All Singapore Secondary Mathematics Competition for Normal Course Students (ASSMC 2019)”.
 
-In addition, amongst all the participants in the category, Mahfuz achieved sterling results to top the list of 4N(T) students to attain the first placing for this competition while Hilmi likewise did very well to obtain a 7th placing.
+In addition, amongst all the participants in the category, Mahfuz achieved sterling results to top the list of 4N(T) students to attain the first placing for this competition while Hilmi likewise did very well to obtain a 7th&nbsp;placing.
 
 The following photos show the National Champions Team for the ASSMC 2019 and the team comprising Chia Meng Jit, Chng Ryan and Lin Minkang from 3E1 2019 discussing and working together in the “Problems in Real World Context Mathematics Competition”.
 
 <img src="/images/math4.jpg" style="width:85%">
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/XB7WfX1X-vs" title="Mathematics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/XB7WfX1X-vs" title="Mathematics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
