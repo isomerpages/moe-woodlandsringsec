@@ -40,11 +40,19 @@ Through coursework projects, students are exposed to engineering design that req
 The Mobile Robotics programme equips Upper Secondary School Normal Technical students with the hands-on skills and theoretical knowledge to design, build, and control their own mobile robots. This program provides a strong foundation for further studies in Mechatronics Engineering and related fields.
 ![](/images/Sci_pic_8.jpg)
 
-Students will learn the basics of electronics and robot design, as well as develop problem-solving and critical thinking skills through hands-on projects and activities. The subject also covers the impact of automated technology on society and its changing nature. It provides students with the essential knowledge and skills that can be useful in pursuing further studies in the field of Robotics.
+**Curriculum**<br>
 
-In 2022, selected Mobile Robotics students from the inaugural Mobile Robotics Talent Programme participated in two competitions, namely the ITE Ignite Challenge and the National Robotics Competition. Students built and coded mobile robots with sensors and actuators to solve problems for authentic tasks such as rescue missions. They had also demonstrated and communicated their ideas and learnings to external judges. As a result of their efforts, they clinched the following awards:
-- 3rd Prize for the Sense Time Autonomous Challenge (ITE Ignite)
-- Judges Award (Most Futuristic Robot) (National Robotics Competition)
+•	Fundamentals: Students gain in-depth understanding of electronics, mechanics, and programming, enabling them to translate theory into tangible robotic creations.
+*	Problem-Solving Skills: Through engaging projects and activities, students develop critical thinking, logic, and decision-making skills as they navigate robots through challenges and scenarios.
+
+ •	Technological Awareness: This program explores the impact of automated technology on society, preparing students for a future where robots play an increasingly significant role.
+
+**Achievements**<br>
+Our Mobile Robotics Talent Programme students have consistently demonstrated their skills and creativity in competitive events:
+
+•	2022: 3rd Prize in the Sense Time Autonomous Challenge (ITE Ignite) and Judges Award for Most Futuristic Robot (National Robotics Competition).
+•	2023: 2nd Prize in the Mobile Robot Challenge (ITE Ignite).
+
 
 ![](/images/Pic%202.png)
 
