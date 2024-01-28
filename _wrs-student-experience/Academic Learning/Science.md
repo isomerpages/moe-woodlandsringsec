@@ -21,7 +21,8 @@ The department also believes in providing opportunities for students with an apt
 
 Students are given opportunities to attend enrichment workshops and participate in science competitions such as International Elementz Science Project Competitions, Science Buskers Festival, National Digital Explorer, International C.B. Paul Science Quiz, Singapore Junior Biology, Chemistry and Physics Olympiads
 
-![](/images/Sci_pic_3.jpg)
+![](/images/Sci2_pic_2.jpg)
+
 ![](/images/Sci_pic_4.png)
 ![](/images/Sci_Pic_5.jpg)
 ![](/images/Sci_Pic_6.jpg)
