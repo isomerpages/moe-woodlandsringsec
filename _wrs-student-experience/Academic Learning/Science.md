@@ -10,7 +10,7 @@ variant: markdown
 
 In line with the Science Curriculum Framework, WRS aims to develop our students to be critical thinkers, inquisitive and innovative learners. 
 
-![](/images/Sci__Picture1.jpg)
+![](/images/Sci2_logo2.jpg)
 In addition to the national curriculum, the following are some platforms designed to engage students in scientific inquiry.
 
 **(1) Level-wide programmes**<br>
@@ -21,11 +21,12 @@ The department also believes in providing opportunities for students with an apt
 
 Students are given opportunities to attend enrichment workshops and participate in science competitions such as International Elementz Science Project Competitions, Science Buskers Festival, National Digital Explorer, International C.B. Paul Science Quiz, Singapore Junior Biology, Chemistry and Physics Olympiads
 
-![](/images/Sci_pic_3.jpg)
-![](/images/Sci_pic_4.png)
-![](/images/Sci_Pic_5.jpg)
-![](/images/Sci_Pic_6.jpg)
-![](/images/Sci_pic_7.jpg)
+![](/images/Sci2_pic_2.jpg)
+![](/images/Sci2_pic_3.jpg)
+![](/images/Sci2_pic_4.jpg)
+![](/images/Sci2_pic_5.jpg)
+![](/images/Sci2_pic_6.jpg)
+![](/images/Sci2_pic_7.jpg)
 #### Electronics ###
 Electronics is offered as an O-Level subject in our school. This subject aims to provide students with an understanding of the fundamental working of electronic components and systems, as well as engineering design process. It provides a broad-based foundation for further studies in electronics, engineering and related fields.
 
@@ -52,5 +53,3 @@ Our Mobile Robotics Talent Programme students have consistently demonstrated the
 •	2023: 2nd Prize in the Mobile Robot Challenge (ITE Ignite).
 
 ![](/images/Sci_pic_9.jpg)
-
-![](/images/Sci_table.jpg)
