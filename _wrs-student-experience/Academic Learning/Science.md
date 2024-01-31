@@ -9,10 +9,7 @@ variant: markdown
 ##### **Department Programmes / Highlights**<br><br>**The WRS Science Experience**
 
 In line with the Science Curriculum Framework, WRS aims to develop our students to be critical thinkers, inquisitive and innovative learners. 
-
-![](/images/Sci2_logo2.jpg)
-![](/images/sci2_Logo_4.jpg)
-![](/images/sci2_Logo_5.jpg)
+![](/images/sci2_Logo_6.jpg)
 In addition to the national curriculum, the following are some platforms designed to engage students in scientific inquiry.
 
 **(1) Level-wide programmes**<br>
