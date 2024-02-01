@@ -5,8 +5,8 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/principals-message/
-      - title: Philosophy,Mission,Vision,Va..
-        url: /about-us/philosophy-mission-vision-values/
+      - title: Mission,Vision,Value
+        url: /about-us/mission-vision-values/
       - title: School History
         url: /about-us/school-history/
       - title: School Song
@@ -41,7 +41,7 @@ links:
     sublinks:
       - title: Academic Learning
         url: /wrs-student-experience/academic-learning/
-      - title: Character and Citizenship Edu
+      - title: CCE
         url: /wrs-student-experience/cce/
       - title: Global Classroom Experience
         url: /wrs-student-experience/global-classroom-experience/
