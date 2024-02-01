@@ -1,7 +1,8 @@
 ---
-title: Philosophy, Mission, Vision, Values
-permalink: /about-us/philosophy-mission-vision-values/
+title: Mission, Vision, Values
+permalink: /about-us/mission-vision-values/
 description: ""
+variant: tiptap
 ---
 ### **Philosophy, Mission, Vision, Values**
 
@@ -24,4 +25,3 @@ Serve (the school and community)
 
 ##### **School Values**
 Responsibility. Respect. Resilience.
-
