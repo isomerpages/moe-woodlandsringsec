@@ -3,13 +3,14 @@ title: Mathematics
 permalink: /wrs-student-experience/academic-learning/mathematics/
 description: ""
 third_nav_title: Academic Learning
+variant: markdown
 ---
 ### **Mathematics**
-##### **Department Programmes / Highlight**
+##### **WRSS Mathematics Curriculum**
 The Mathematics Department in WRSS adopts a two-prong approach to deliver our curriculum to cater to the learning needs of our students, primarily to strengthen the foundation for the masses, and to enhance the competency in numeracy for those with a keen interest to pursue Science, Technology, Engineering and Mathematics (STEM) education and career.
 
 The overarching goal of the national Mathematics curriculum is to ensure that all students will achieve a level of mastery of Mathematics to serve them well in life, and for those who have the interest and ability, to learn mathematics at the highest possible level.
-
+ 
 In Woodlands Ring Secondary School (WRSS), in order to prepare our students for the respective GCE O/N(A)/N(T)-Level Examinations, the school-based Mathematics curriculum is structured to enable our students to:
 
 *   acquire mathematical concepts and skills for continuous learning in Mathematics and to support learning in other subjects;
@@ -17,7 +18,7 @@ In Woodlands Ring Secondary School (WRSS), in order to prepare our students for 
 *   connect ideas within Mathematics and between Mathematics and other subjects through applications of Mathematics; and
 *   &nbsp;inculcate positive attitudes, build confidence and foster interest in Mathematics so as to enable all to appreciate its value in making informed decisions in real life.
 
-The school-based Mathematics curriculum of WRSS is based on the national Mathematics Framework as seen in Diagram 1, developed by the Mathematics Unit of Curriculum Planning and Development Division (CPDD), Ministry of Education (MOE), Singapore. The central focus of this framework is mathematical problem-solving, i.e. using Mathematics to solve problems. This framework sets the direction for and provides guidance in the teaching, learning, and assessment of Mathematics at all levels, from primary to pre-university; and also reflects the 21st Century Competencies.
+The school-based Mathematics curriculum of WRSS is based on the national Mathematics Framework as seen in Diagram 1, developed by the Mathematics Unit of Curriculum Planning and Development Division (CPDD), Ministry of Education (MOE), Singapore.  The central focus of this framework is mathematical problem-solving, i.e. using Mathematics to solve problems.  This framework sets the direction for and provides guidance in the teaching, learning, and assessment of Mathematics at all levels, from primary to pre-university; and also reflects the 21st Century Competencies.
 
 <figure>
 <img src="/images/math%20framework.jpg" style="width:55%">
