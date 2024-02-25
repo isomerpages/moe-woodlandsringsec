@@ -6,6 +6,7 @@ third_nav_title: Academic Learning
 variant: markdown
 ---
 ### **Mathematics**
+#### **Mathematics Department / Highlights**
 ##### **WRSS Mathematics Curriculum**
 The Mathematics Department in WRSS adopts a two-prong approach to deliver our curriculum to cater to the learning needs of our students, primarily to strengthen the foundation for the masses, and to enhance the competency in numeracy for those with a keen interest to pursue Science, Technology, Engineering and Mathematics (STEM) education and career.
 
