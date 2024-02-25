@@ -2,15 +2,16 @@ collections:
   wrs-student-experience:
     output: true
     order:
+      - Academic Learning/.keep
       - Academic Learning/Teaching and Learning Framework.md
       - Academic Learning/English Language & Literature.md
       - Academic Learning/Chinese Language.md
       - Academic Learning/Malay Language.md
       - Academic Learning/Humanities.md
       - Academic Learning/Science.md
+      - Academic Learning/Mathematics.md
       - Academic Learning/Craft & Technology.md
       - Academic Learning/Physical Education.md
-      - Academic Learning/.keep
       - CCE/.keep
       - Global Classroom Experience/China.md
       - Global Classroom Experience/Central Java.md
