@@ -32,8 +32,7 @@ This framework emphasises conceptual understanding, skills proficiency and mathe
 The GCE O/N(A)/N(T)-Level Mathematics syllabi are organised along three content strands while the development of processes, metacognition and attitudes are embedded in the learning experiences that are associated with the content as seen in Diagram 2.
 
 ![](/images/math2.jpg)
-
-Diagram 2: Overview of GCE O/N(A)/N(T)-Level Mathematics Syllabi
+*Diagram 2: Overview of GCE O/N(A)/N(T)-Level Mathematics Syllabi*
 
 In brief, the respective content strands are as described below:
 
