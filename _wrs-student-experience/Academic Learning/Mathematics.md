@@ -76,6 +76,7 @@ To further stretch our Express students, our teachers overseeing the Mathematics
 
 The tables below summarise our students’ achievements over the years.
 ![](/images/Math_table_1d.jpg)
+
 ![](/images/Math_pic_2.jpg)
 
 ![](/images/Math_table_2a.jpg)
