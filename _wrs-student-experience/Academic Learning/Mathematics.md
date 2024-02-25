@@ -75,7 +75,7 @@ The Normal stream students took part in the Singapore Math Global Assessment (SI
 To further stretch our Express students, our teachers overseeing the Mathematics Talent Development Programme conducted in-house training to prepare them for the American Mathematics Olympiad and the Singapore Mathematical Olympiad.
 
 The tables below summarise our students’ achievements over the years.
-![](/images/Math_table_1a.jpg)
+![](/images/Math_table_1d.jpg)
 ![](/images/Math_pic_2.jpg)
 
 ![](/images/Math_table_2a.jpg)
