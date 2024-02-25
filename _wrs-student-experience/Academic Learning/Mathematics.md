@@ -57,22 +57,31 @@ By the end of the fourth/fifth year in offering Mathematics, our students will t
 
 Mathematics Department Highlights
 
-Experiential Learning through Solving Authentic Problems in Mathematics Trails
+*Realising Students’ Potential in Mathematics*
 
-To enable students to see the relevance of Mathematics in the real-world context, Mathematics Trails are conducted within and beyond school. This experiential learning provides students with the chance to see how Mathematics is more than just numbers and symbols, and is actually part and parcel of their lives. Through working collaboratively with one another in groups to move from station to station in the Mathematics Trails, students are challenged to apply their learning to solve the authentic problems designed.
+![](/images/Math_pic_1.jpg)
 
-The following photos show our students actively engaged in the numerous activities for the Mathematics Trail conducted at Terminal 3 of Changi Airport.
+The Mathematics Department seeks to develop our students into analytical and logical thinkers with problem solving skills for application in the real-world context.  Over the years from 2019 till presently, the department has endeavoured to enhance the quality of students’ learning through our curriculum within and beyond the classroom as we believe that inherent in every child, there is a potential to be developed, when given the right stimulus, nurturing, and platforms for exposure.
 
-<img src="/images/math3.jpg" style="width:65%">
+In WRSS, our students in the Normal (Academic) and Normal (Technical) streams have always done the school proud with their achievements in the annual All Singapore Secondary Mathematics Competition (ASMC) for Normal Course students.  Building on our strengths, post-Covid 2020, the Mathematics Department expanded our focus to our students in the Express stream, such that we can likewise nurture the budding talents amongst them.
 
-Given the department’s endeavour to stretch the capacity of and to widen the exposure of our students to Mathematics beyond the syllabi, those with a keen interest in Mathematics are offered the opportunity to participate in a number of competitions, such as the annual “All Singapore Secondary Mathematics Competition for Normal Course Students” and “Problems in Real World Context Mathematics Competition”.
+From 2021 onwards, a tiered approach was adopted to actively stretch and prepare our students through a variety of competitions, both at the national and international levels.  In 2021, our students participated in the International Competition and Assessments for Schools (ICAS), which is designed to enable students to apply their classroom learning to new contexts, through their use of higher-order thinking and problem-solving skills.  This assessment allows students to demonstrate a deeper, integrated, and thorough level of mathematical knowledge for meaningful learning.  For this inaugural year of participation, our students bagged 7 Distinction Awards, 28 Credit Awards, and 10 Merit Awards.
 
-In 2019, our team comprising Mohd Mahfuz, Mohd Hilmi and Francis Ng of 4T7 emerged as the National Champions for the Upper Secondary Normal (Technical) \[N(T)\] category in the “All Singapore Secondary Mathematics Competition for Normal Course Students (ASSMC 2019)”.
+Riding on the success of our efforts in both ASMC and ICAS, in 2022, the department identified our students with potential across all 3 streams to participate in other competitions.
 
-In addition, amongst all the participants in the category, Mahfuz achieved sterling results to top the list of 4N(T) students to attain the first placing for this competition while Hilmi likewise did very well to obtain a 7th&nbsp;placing.
+The Normal stream students took part in the Singapore Math Global Assessment (SINGA) Math, which is designed to enable students to apply their classroom learning across a variety of topics, so as to enable them to obtain feedback on their acquisition of essential mathematical concepts and skills.
 
-The following photos show the National Champions Team for the ASSMC 2019 and the team comprising Chia Meng Jit, Chng Ryan and Lin Minkang from 3E1 2019 discussing and working together in the “Problems in Real World Context Mathematics Competition”.
+To further stretch our Express students, our teachers overseeing the Mathematics Talent Development Programme conducted in-house training to prepare them for the American Mathematics Olympiad and the Singapore Mathematical Olympiad.
 
-<img src="/images/math4.jpg" style="width:85%">
+The tables below summarise our students’ achievements over the years.
+![](/images/Math_table_1a.jpg)
+![](/images/Math_pic_2.jpg)
 
+![](/images/Math_table_2a.jpg)
+
+![](/images/Math_pic_3.jpg)
+
+![](/images/Math_table_3.jpg)
+
+![](/images/Math_pic_4.jpg)
 <iframe width="700" height="350" src="https://www.youtube.com/embed/XB7WfX1X-vs" title="Mathematics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
