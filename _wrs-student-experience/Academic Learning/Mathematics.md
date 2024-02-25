@@ -20,8 +20,9 @@ In Woodlands Ring Secondary School (WRSS), in order to prepare our students for 
 
 The school-based Mathematics curriculum of WRSS is based on the national Mathematics Framework as seen in Diagram 1, developed by the Mathematics Unit of Curriculum Planning and Development Division (CPDD), Ministry of Education (MOE), Singapore.  The central focus of this framework is mathematical problem-solving, i.e. using Mathematics to solve problems.  This framework sets the direction for and provides guidance in the teaching, learning, and assessment of Mathematics at all levels, from primary to pre-university; and also reflects the 21st Century Competencies.
 
+![](/images/Math_dia_2.jpg)
 <figure>
-<img src="/images/math%20framework.jpg" style="width:55%">
+
 <figcaption>  Diagram 1: The Mathematics Framework, Math Unit of CPDD, MOE (Singapore)
  </figcaption>
 </figure>
