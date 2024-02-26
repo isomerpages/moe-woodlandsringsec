@@ -56,7 +56,7 @@ By the end of the fourth/fifth year in offering Mathematics, our students will t
 *   solve problems in a variety of contexts (AO2); and
 *   reason and communicate mathematically (AO3).
 
-Mathematics Department Highlights
+##### **Mathematics Department Highlights**
 
 *Realising Students’ Potential in Mathematics*
 
