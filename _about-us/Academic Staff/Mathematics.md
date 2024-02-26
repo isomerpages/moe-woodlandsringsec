@@ -25,4 +25,4 @@ variant: markdown
 | Mdm Norhani Binte Samsuri | AED |   [norhani_samsuri@moe.edu.sg](mailto:norhani_samsuri@moe.edu.sg@moe.edu.sg) |
 | Mdm Elizabeth Tung Wai Ling | FAJT |   [tung_wai_ling_elizabeth@moe.edu.sg](mailto:tung_wai_ling_elizabeth@moe.edu.sg) |
 | Mdm Ivy Ng Siew Lai | FAJT |   [ng_siew_lai@moe.edu.sg](mailto:ng_siew_lai@moe.edu.sg) |
-| Mdm Shermaine Chia | FAJT |   [chia_beitian@moe.edu.sg](mailto:chia_beitian@moe.edu.sg) |
+| Mdm Shermaine Chia beitian | FAJT |   [chia_beitian@moe.edu.sg](mailto:chia_beitian@moe.edu.sg) |
