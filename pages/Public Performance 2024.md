@@ -20,14 +20,14 @@ activities!</p>
 <p></p>
 <h4><strong>A sneak peek at what our students are preparing!</strong></h4>
 <div class="iframe-wrapper">
-<iframe width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nSExeRTQST0"></iframe>
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nSExeRTQST0"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z4FrVGwVMsk"></iframe>
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z4FrVGwVMsk"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PPiAe7PeCNg"></iframe>
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PPiAe7PeCNg"></iframe>
 </div>
 <p></p>
