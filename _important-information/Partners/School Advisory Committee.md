@@ -3,6 +3,7 @@ title: School Advisory Committee
 permalink: /important-information/partners/
 description: ""
 third_nav_title: Partners
+variant: markdown
 ---
 ### **School Advisory Committee**
 
@@ -14,4 +15,5 @@ third_nav_title: Partners
 | Dr Ng Wai May | Member |
 | Mr Rodney Adrian Nicholas | Member |
 | Mr Tan Yan Boon (Alex) | Member |
+| Ms Chng Hui Jia Karen | Member |
 |
