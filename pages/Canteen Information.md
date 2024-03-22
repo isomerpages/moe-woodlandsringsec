@@ -2,13 +2,14 @@
 title: Canteen Information
 permalink: /important-information/canteen-information/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-|  Vegetarian Food    | 11 Oct 2023     |   |
+|  Halal Noodles    | 1 April 2024     |   |
  
 
 
@@ -64,4 +65,4 @@ Nearest MRT: Admiralty
 Bus No. 912 from Woodlands Regional Interchange or Admiralty MRT Station
 
 
-*Shortlisted applicants will be notified for an interview and food sampling at the school on 12th October afternoon (at the applicant’s own expense).*
+*Only shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.*
