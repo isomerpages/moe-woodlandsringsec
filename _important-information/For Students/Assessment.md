@@ -5,6 +5,14 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
+### 	Weighted Assessment 2 (WA2)
+
+|  Schedule of Assessment | Topics/Skills Assessed |
+| -------- | -------- |
+| [Secondary 2](https://drive.google.com/file/d/1OlMtD0S5iMFPEKR7j9LByIoHqM6Wl7jn/view?usp=drive_link)     |  [Secondary 2](https://drive.google.com/file/d/1urmWGeyj6u4UcbffP5ge7Xr9BW0_yfBR/view?usp=drive_link)  |
+| [Secondary 3](https://drive.google.com/file/d/1N7xdhwc30U-K4FST68m7Gf2K177sbtp8/view?usp=drive_link)     |  [Secondary 3](https://drive.google.com/file/d/1r5bzqTp_UTs_bhTsRRq-lHha_t0QfoUH/view?usp=drive_link)      |
+
+
 ### 	Timed Practice 
 
 |  Schedule of Assessment | Topics/Skills Assessed |
