@@ -68,7 +68,7 @@ variant: tiptap
 <p>Ms Li Zhiping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_zhiping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_shiping@moe.edu.sg</a>
+<p><a href="mailto:li_zhiping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_zhiping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
