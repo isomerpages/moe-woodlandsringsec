@@ -2,7 +2,6 @@
 title: Booklists for 2024
 permalink: /important-information/for-parents/booklists-2024/
 description: ""
-third_nav_title: For Parents
 variant: markdown
 ---
 <h3>Secondary 1&nbsp;</h3>
@@ -75,4 +74,4 @@ variant: markdown
 <td style="width: 50%; text-align: height: 23px;"><a href="https://drive.google.com/file/d/1nh6jZXjUag_QhPmmOBKrBv1U4VrntHCR/view?usp=sharing">Sec 5 NA</a></td>
 
 
-<!-- wp:tadv/classic-paragraph /--></tr></tbody></table>
+</tr></tbody></table>
