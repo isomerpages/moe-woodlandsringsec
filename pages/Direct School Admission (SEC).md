@@ -76,3 +76,13 @@ Pupils who are currently playing competitive hockey/floorball and/or those who p
 By joining and contributing in our WRSS Hockey CCA, pupils can look forward to opportunities to build character by learning and demonstrating the school core values of Responsibility, Respect and Resilience. We are looking for team players who can work synergistically with others through camaraderie while at the same time excel in honing hockey skills, game tactics and sense with the aim of maximising everybody’s potential in the team. Many opportunities will be provided to further grow the learning acquired through school’s practices, various age group competitions and tournaments and youth development programmes.
 
 If you think you have what it takes, do apply to join our school through the various Talent Areas above.
+
+The selection criteria and process for the talent can be found [here](https://drive.google.com/file/d/1fc_ypVtDB_1NZ3PztB-IN-LCxxPabE90/view?usp=drive_link). 
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 Jun 2024, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
+
+Parents and pupils are encouraged to choose schools wisely based on the pupils’ aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+Pupils who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4.
+
+Woodlands Ring Secondary School and Fuchun Secondary School will merge in January 2025. The merged school will be located at 21 Woodlands Avenue 1, S739062, from January 2025 to December 2028, as its merged site at the existing Woodlands Ring Secondary School will be undergoing upgrading.
