@@ -2,15 +2,18 @@
 title: Featured Posts
 permalink: /featured-posts/
 description: ""
+variant: markdown
 ---
-<!-- wp:tadv/classic-paragraph -->
-<h3>UPDATE ON UPGRADING PLAN FOR WOODLANDS RING SECONDARY SCHOOL</h3>
-<p>Woodlands Ring Secondary School was originally due for upgrading at the existing site in Woodlands from January 2023 to December 2024 and that the school was to hold temporarily at the former North View Secondary site at 530 Yishun Ring Road during the upgrading period.</p>
-<p>However, in order to minimise inconvenience to our existing students, the start date for the upgrading of Woodlands Ring Secondary will be deferred by two years to coincide with its merger with Fuchun Secondary that would take place in January 2025.</p>
-<p>During the upgrading works which would tentatively take two years (from January 2025 to December 2026)<strong>, the merged school will operate from the Fuchun Secondary site at 21 Woodlands Ave 1 S(739062) instead of the former North View Secondary site</strong>. Upon completion of upgrading, the merged school will return to the upgraded Woodlands Ring Secondary site.</p>
-<p>The school will continue to operate at its current site until end of 2024. The school together with MOE will ensure that the existing school facilities are well-maintained to provide a conducive learning environment for our students.</p>
+### Rebuilding of Woodlands Ring Secondary School
 
-<h3>WRS in the News</h3>
+In February 2022, it is shared that the upgrading plans of Woodlands Ring Secondary School (WRSS) would coincide with the merger of the school with Fuchun Secondary School (FCSS) in Jan 2025 and that the merged school would operate at FCSS during the upgrading. 
+
+To provide new facilities that will better support teaching and learning, WRSS will undergo a full rebuilding of its campus. The school can look forward to new and updated educational facilities such as a re-designed library, science laboratories and canteen that incorporate flexible spaces and furniture– as well as areas to enhance student socio-emotional and physical development –such as a Student Services Hub, Dance Studio and larger Health and Fitness room. In addition, the school will be provided with an Indoor Sports Hall (ISH) to facilitate PE lessons, sports, which will also be shared with the community under the MOE-SportSG Dual Use Scheme. Given this change, WRSS will operate at the <strong>FCSS site at 21 Woodlands Ave 1 S(739062) for a longer period, from Jan 2025 until the rebuilding works are completed in December 2028. </strong>
+
+There is no change to the plan for WRSS to merge with FCSS in 2025 at the FCSS site. The school, together with MOE will ensure that the existing school facilities are well-maintained to provide a conducive learning environment for our students. 
+
+
+### WRS in the News
 
 <span style="font-size: 18pt;"><strong><a href="/wrs-in-the-news/bringing-virtual-reality-into-the-classroom/">Bringing virtual reality into the classroom</a></strong></span>
 
@@ -34,5 +37,3 @@ At Woodlands Ring Secondary School (WRSS), our ALP focus area is on Science, Tec
 In partnership with STEM Inc., Science Centre Singapore, we have reviewed our ALP to include coding. In 2017, students learn to programme, code and upload to an Arduino microcontroller to perform simple tasks like lighting up an LED or make a buzzer sound, to more complicated tasks such as mimicking a traffic-light system or use infra-red input devices to measure and control output devices. Authentic scenarios are presented to challenge students’ critical and inventive thinking; to test their troubleshooting skills besides learning soft skills such as communicating with team members and learning to make responsible decisions.
 
 Involvement of students in larger project tasks such as designing and prototyping a robot arm to perform precise functions or to make it ‘dance’ to a one-minute music tune, using smartphone to control Robotics arms via Bluetooth, further stretches the students’ imagination and potential to complete the task while living out the school core values of Responsibility, Respect and Resilience.
-
-<!-- /wp:tadv/classic-paragraph -->
