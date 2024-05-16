@@ -30,7 +30,7 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1KwGRWJKuINeJrTamD7w1kV9HqOUlZ_N1/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">4R2</a>
+<p><a href="https://drive.google.com/file/d/1ESp_b4lodptXyvhma5UzVfPBEFMZLYCR/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4R2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
