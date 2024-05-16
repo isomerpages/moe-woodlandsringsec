@@ -2,6 +2,7 @@ collections:
   wrs-student-experience:
     output: true
     order:
+      - Academic Learning/testing.md
       - Academic Learning/.keep
       - Academic Learning/Teaching and Learning Framework.md
       - Academic Learning/English Language & Literature.md
