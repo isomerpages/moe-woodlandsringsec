@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - For Students/2024 June Supplementary Lesson Timetable.md
       - For Students/.keep
       - For Students/School Uniform.md
       - For Students/Calendar.md
