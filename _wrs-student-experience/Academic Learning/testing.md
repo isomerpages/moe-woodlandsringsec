@@ -17,6 +17,6 @@ third_nav_title: Academic Learning
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XB7WfX1X-vs?si=nUZieEFAWRLB1d0j"></iframe>
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XB7WfX1X-vs"></iframe>
 </div>
 <p></p>
