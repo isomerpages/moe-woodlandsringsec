@@ -20,3 +20,11 @@ third_nav_title: Academic Learning
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XB7WfX1X-vs"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z4FrVGwVMsk?si=rd7KsmTEMNT0OPAg"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VpxBzvg6ExM?si=35SzqWzlUplR8gDm"></iframe>
+</div>
+<p></p>
