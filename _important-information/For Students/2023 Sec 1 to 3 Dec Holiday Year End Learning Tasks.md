@@ -5,16 +5,20 @@ description: ""
 variant: markdown
 third_nav_title: For Students
 ---
-Please refer to the 2023 Year End Holiday Learning Tasks for the various levels below:
+Please refer to the 2024 June Holiday Learning Tasks for the various levels below:
 
 |  |
 |---|
-| [Sec 1 (G1)](https://drive.google.com/file/d/1azV9qCpp8ewWMe2lKhmOVcrmjTRdwD5_/view?usp=sharing)
-| [Sec 1 (G2)](https://drive.google.com/file/d/1DEyEwh_Z2GCGglgfWCIcvUZdNhviB8OL/view?usp=sharing)
-| [Sec 1 (G3)](https://drive.google.com/file/d/1N9RsOeL07dLVYBC_fbOEWKPg2cqalZBz/view?usp=sharing)
-| [Sec 2 Express](https://drive.google.com/file/d/1un7kJeGBg-8an0uDhji5Ya8B6kNw0Gwb/view?usp=sharing)
-| [Sec 2 Normal Academic](https://drive.google.com/file/d/15wr7dy3KPfc5BtowTJUvYQNmqM9AqieL/view?usp=sharing)
-| [Sec 2 Normal Technical](https://drive.google.com/file/d/13pEUiObDkfctbMY5VbPGgBNunTTK7-Nx/view?usp=sharing)
-| [Sec 3 Express](https://drive.google.com/file/d/1wzGkfSJgtTdh9WIVrOVzWLMfxfiYouA6/view?usp=sharing)
-| [Sec 3 Normal Academic](https://drive.google.com/file/d/1HctKxnxABTaWo0fBJKCFScL-1fQnDyNw/view?usp=sharing)
-| [Sec 3 Normal Technical](https://drive.google.com/file/d/1lZI3O2cKlAKQuICzz7hpb3usthGIW2nU/view?usp=sharing)
+| [Sec 1 (G1)](https://drive.google.com/file/d/14R9zU25kmd8DLMtT9X_MYQSic2NGy-uM/view?usp=sharing)
+| [Sec 1 (G2)](https://drive.google.com/file/d/1n7jymzR-WwuGsQwm6Nw9LpdBGgZMIk7Y/view?usp=sharing)
+| [Sec 1 (G3)](https://drive.google.com/file/d/1kvmAV94Za73zHdkrPKM1iAkpQBflCJSz/view?usp=sharing)
+| [Sec 2 (G1)](https://drive.google.com/file/d/1Xn6wNzraCdC3Ox9w4KK-hk6qYoCywcX1/view?usp=sharing)
+| [Sec 2 (G2)](https://drive.google.com/file/d/1DyWT3V7ioVHO-EbP_fWxJx3dEDRbtsK9/view?usp=sharing)
+| [Sec 2 (G3)](https://drive.google.com/file/d/14Gk8gw0i6yXmrxbD94hURz7k_25HDm9T/view?usp=sharing)
+| [Sec 3 Express](https://drive.google.com/file/d/18jaAohd4rJo_zSddIqtW2Qcj4totjnoC/view?usp=sharing)
+| [Sec 3 Normal Academic](https://drive.google.com/file/d/1tBbO5FWRu8-jeLbREBu6dAoA4wR7rkcf/view?usp=sharing)
+| [Sec 3 Normal Technical](https://drive.google.com/file/d/1oGtSmQFvDbd7ewr8MgUYLM9rrBUNHUMc/view?usp=sharing)
+| [Sec 4 Express](https://drive.google.com/file/d/1ztfUWrH3Cq9XnDEclDpEXFDOQBNFFoZe/view?usp=sharing)
+| [Sec 4 Normal Academic](https://drive.google.com/file/d/1daBlWnVWIsNm7mEgXQqt7fc-28TtlZTO/view?usp=sharing)
+| [Sec 4 Normal Technical](https://drive.google.com/file/d/1qIXfrrMv2H4DDSO1JzTK_ZKgThAZ9Y4v/view?usp=sharing)
+| [Sec 5](https://drive.google.com/file/d/1xi9jqQzxDRDMd-9Dz2K2tn17bueqrTpi/view?usp=sharing)
