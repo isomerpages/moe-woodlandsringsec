@@ -57,7 +57,6 @@ third_nav_title: For Students
 </tbody>
 </table>
 <h4>Secondary 4 Schedule</h4>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
