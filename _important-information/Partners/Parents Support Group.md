@@ -3,6 +3,7 @@ title: Parents Support Group
 permalink: /important-information/partners/psg/
 description: ""
 third_nav_title: Partners
+variant: markdown
 ---
 ###  **Parents Support Group**
 ##### **VISION &nbsp; &nbsp;: &nbsp; Together we build a&nbsp;**_BETTER_**&nbsp;school <br>MISSION : &nbsp;&nbsp;_**SUPPORTING**_&nbsp;as partners in education and&nbsp;_**INSPIRING**_&nbsp;as parents.**
@@ -16,21 +17,16 @@ Click&nbsp;[here](https://go.gov.sg/wrspsg)&nbsp;to apply to be part of our PSG.
 
 
 
-### **2023 PSG Activities**
-![](/images/psg23_slide1.JPG)
+### **2024 PSG Activities**
+![](/images/Slide1_PSG24.jpg)
 
-![](/images/psg23_slide2.JPG)
+![](/images/Slide2_PSG24.jpg)
 
-![](/images/psg23_slide3.JPG)
+![](/images/Slide3_PSG24.jpg)
 
-![](/images/psg23_slide4.JPG)
+![](/images/Slide4_PSG24.jpg)
+![](/images/Slide5_PSG24.jpg)
 
-![](/images/psg23_slide5.JPG)
+![](/images/Slide6_PSG24.jpg)
 
-![](/images/psg23_slide6.JPG)
-
-![](/images/psg23_slide7.JPG)
-
-![](/images/psg23_slide8.JPG)
-
-![](/images/psg23_slide9.JPG)
+![](/images/Slide7_PSG24.jpg)
