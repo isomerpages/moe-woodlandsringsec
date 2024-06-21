@@ -6,14 +6,14 @@ third_nav_title: For Students
 variant: markdown
 ---
 ### **Class Timetable**
-Please refer to the 2024 Semester 1 timetable below:
+Please refer to the 2024 Semester 2 timetable below:
 
 |  |
 |---|
-| [Secondary One](https://drive.google.com/file/d/10T-FY6I6UxgkkLNvyADgKGDupYxD6KMZ/view?usp=sharing)
-| [Secondary Two](https://drive.google.com/file/d/1Ow68Ik33fnz5i5rzXqQS5H4mORhO2Sl5/view?usp=sharing)
-| [Secondary Three](https://drive.google.com/file/d/1AVpuviC2HTeGtmD8eKHtnpobBsGVQ0Rb/view?usp=sharing)
-| [Secondary Four / Five](https://drive.google.com/file/d/118ow1ssILt6jJVAQtGKYiuNYrYceh0tJ/view?usp=sharing)
+| [Secondary One](https://drive.google.com/file/d/1L9ZuhjuDRxXLZkt-5BMpoFKbi1MTY66F/view?usp=drive_link)
+| [Secondary Two](https://drive.google.com/file/d/1dEcp776dhOKG0JCnU622ouUoF1_728gn/view?usp=drive_link)
+| [Secondary Three](https://drive.google.com/file/d/1JHLBxxWMotS4uhSHzNJpnNLhOTYPcX_u/view?usp=drive_link)
+| [Secondary Four / Five](https://drive.google.com/file/d/1R1u6lb2ugXgGfwLM8P476sIYp0P55dra/view?usp=drive_link)
 |
 
 Happy learning!
