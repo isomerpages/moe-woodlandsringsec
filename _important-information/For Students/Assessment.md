@@ -21,8 +21,3 @@ variant: markdown
 | [4 NT](https://drive.google.com/file/d/1Y5oNMYmaxO9DcAiGzAKBWwDHQQu7Qd2A/view?usp=drive_link)     |  NA
 
 
-### 	Preliminary Examination Mother Tongue (O Level) /NFS Coursework Execution
-
-|  Schedule of Assessment | Topics/Skills Assessed |
-| -------- | -------- |
-| [O Level](https://drive.google.com/file/d/1KQQC-TeVbkVcQXsy75l5Wndx_Cd5tXc_/view?usp=drive_link)     |  NA
