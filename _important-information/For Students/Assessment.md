@@ -13,6 +13,14 @@ variant: markdown
 | [Secondary 3](https://drive.google.com/file/d/1YB62ZsLKjVtKj2X80tuY7aEEuv8zxuiZ/view?usp=drive_link)     |  [Secondary 3](https://drive.google.com/file/d/1yQcZO-ZnjzssTcLNFsrH2RkESNODHexT/view?usp=drive_link)      |
 
 
+### 	Preliminary Examination (N Level) 
+
+|  Schedule of Assessment | Topics/Skills Assessed |
+| -------- | -------- |
+| [4 NA](https://drive.google.com/file/d/1xXHWQIydRfnTkuNQAmeQ59R8uY9RX139/view?usp=drive_link)     |  NA
+| [4 NT](https://drive.google.com/file/d/1Y5oNMYmaxO9DcAiGzAKBWwDHQQu7Qd2A/view?usp=drive_link)     |  NA
+
+
 ### 	Preliminary Examination Mother Tongue (O Level) /NFS Coursework Execution
 
 |  Schedule of Assessment | Topics/Skills Assessed |
