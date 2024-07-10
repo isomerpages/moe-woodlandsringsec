@@ -15,9 +15,7 @@ variant: markdown
 
 ### 	Preliminary Examination (N Level) 
 
-|  Schedule of Assessment | Topics/Skills Assessed |
+|  Schedule of Assessment | |
 | -------- | -------- |
-| [4 NA](https://drive.google.com/file/d/1xXHWQIydRfnTkuNQAmeQ59R8uY9RX139/view?usp=drive_link)     |  NA
-| [4 NT](https://drive.google.com/file/d/1Y5oNMYmaxO9DcAiGzAKBWwDHQQu7Qd2A/view?usp=drive_link)     |  NA
-
-
+| [4 NA](https://drive.google.com/file/d/1gZCWGIweSje1mwpvCF4pkyZmcQOvL7yD/view?usp=drive_link)     |  
+| [4 NT](https://drive.google.com/file/d/16UOI4R-xIqZDrDNxXJTNWfUkMwAiM8LP/view?usp=drive_link)     | 
