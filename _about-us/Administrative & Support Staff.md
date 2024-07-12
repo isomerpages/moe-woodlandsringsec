@@ -19,7 +19,7 @@ If you wish to contact other Support Staff, please email to [wrss@moe.edu.sg](m
 | Name | Appointment |
 |---|---|
 | Mr Hamran Bin Mohd Zain | Operations Manager |
-| Mdm Vandana Khanna | Full Time School Counsellor |
+|  | Full Time School Counsellor |
 | Mr Wong Mun Chung | ECG Counsellor |
 | Mdm Masni Binte Marsiber | Corporate Support Officer |
 | Ms Law Siew Kim | Corporate Support Officer |
