@@ -25,5 +25,5 @@ variant: markdown
 
 |  Schedule of Assessment | |
 | -------- | -------- |
-| [4 NA SBB](https://drive.google.com/file/d/15G3H1gfjiC7GjyYW4U5EPRjUvyj8RO8S/view?usp=drive_link)     |  
+| [4 NA (SBB)](https://drive.google.com/file/d/15G3H1gfjiC7GjyYW4U5EPRjUvyj8RO8S/view?usp=drive_link)     |  
 | [4 EXP & 5 NA](https://drive.google.com/file/d/19RFCglr4kajkUFPk9jLcItet1Ydo7D-A/view?usp=drive_link)     |
