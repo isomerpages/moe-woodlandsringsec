@@ -5,6 +5,18 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
+### 	End of Year Examination (EOY)
+
+|  Schedule of Assessment | Topics/Skills Assessed |
+| -------- | -------- |
+| [Secondary 1](https://drive.google.com/file/d/15CkThF1uUYLHQIpUdVMnrZqA6fL70Lu3/view?usp=drive_link)     |  [Secondary 1](https://drive.google.com/file/d/1P9dsqQoiwU6sNVixuBEdqyaeY1SYgTsO/view?usp=drive_link)  |
+| [Secondary 2](https://drive.google.com/file/d/1bwL6Rky_VAk1QtsKnqb_t1rbzQVIut8v/view?usp=drive_link)     |  [Secondary 2](https://drive.google.com/file/d/1MIxEaram8jf_X5Qg23AQ7phxQR8-kzcM/view?usp=drive_link)      |
+| [Secondary 3 EXP](https://drive.google.com/file/d/1Gtke6xsTfk-4mDoSjYb3XkVma2mQprEr/view?usp=drive_link)    |    [Secondary 3](https://drive.google.com/file/d/16zOG5Kjo3RLUlINPc222xXXOzzGByiHT/view?usp=drive_link)    |
+|  [Secondary 3 NA](https://drive.google.com/file/d/1PkGgR1KGWbNdXxgQ8V8FNdtjlPm-KAlq/view?usp=drive_link)   |   [Secondary 3](https://drive.google.com/file/d/16zOG5Kjo3RLUlINPc222xXXOzzGByiHT/view?usp=drive_link)      |
+| [Secondary 3 NT](https://drive.google.com/file/d/1VqZLxOPvBNj_jVrATDEmgY0T7Owy0Aac/view?usp=drive_link)     |  [Secondary 3](https://drive.google.com/file/d/16zOG5Kjo3RLUlINPc222xXXOzzGByiHT/view?usp=drive_link)      |
+
+
+
 ### 	Weighted Assessment (WA2)
 
 |  Schedule of Assessment | Topics/Skills Assessed |
