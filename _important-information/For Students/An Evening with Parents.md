@@ -16,4 +16,4 @@ For more information, please click link below:
 |
 | Sec 2 |
 | [2024 Sec 2 PTM Principal's Address - An Eevning with Parents 1 April ](https://drive.google.com/file/d/1IIG0I4v3na13NCWPJaRH21092LJ8GyQO/view?usp=sharing) |
-| [Briefing for Sec 2 Parents - Sec 2 Subject Preference Survey and Subject Combination for 2025 ](https://drive.google.com/file/d/1jOODeW95wRKumeaQyAshmj9BII9ASSMD/view?usp=sharing) 
+| [Briefing for Sec 2 Parents - Sec 2 Subject Preference Survey and Subject Combination for 2025 ](https://drive.google.com/file/d/1jOODeW95wRKumeaQyAshmj9BII9ASSMD/view?usp=sharing)
