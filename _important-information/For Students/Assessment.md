@@ -16,15 +16,6 @@ variant: markdown
 | [Secondary 3 NT](https://drive.google.com/file/d/1VqZLxOPvBNj_jVrATDEmgY0T7Owy0Aac/view?usp=drive_link)     |  [Secondary 3](https://drive.google.com/file/d/16zOG5Kjo3RLUlINPc222xXXOzzGByiHT/view?usp=drive_link)      |
 
 
-
-### 	Weighted Assessment (WA2)
-
-|  Schedule of Assessment | Topics/Skills Assessed |
-| -------- | -------- |
-| [Secondary 1](https://drive.google.com/file/d/1dRTTf8Q5PyR64TcSFBeOpQgmTRdpW4wA/view?usp=drive_link)     |  [Secondary 1](https://drive.google.com/file/d/1_IXChgk-BDqihxLCaV6fd6k-BMmowGKd/view?usp=drive_link)  |
-| [Secondary 3](https://drive.google.com/file/d/1YB62ZsLKjVtKj2X80tuY7aEEuv8zxuiZ/view?usp=drive_link)     |  [Secondary 3](https://drive.google.com/file/d/1yQcZO-ZnjzssTcLNFsrH2RkESNODHexT/view?usp=drive_link)      |
-
-
 ### 	Preliminary Examination (N Level) 
 
 |  Schedule of Assessment | |
