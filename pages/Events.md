@@ -8,9 +8,11 @@ variant: tiptap
 <p>We are excited to welcome you to our Open House 2024! Join us for an informative
 and engaging day where you’ll have the opportunity to tour our school,
 meet our dedicated staff and students and learn about the unique programs
-that make our school a vibrant place of learning! Click here for more information.
-(insert link to banner)</p>
+that make our school a vibrant place of learning! Click here for more information.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="open house" src="/images/G12386_110x300cm_1A.jpg">
+</div>
 <h3>Class Timetable</h3>
 <p>Click the link for <a href="/important-information/for-students/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">Class timetable</a>
 </p>
