@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - 2024 June Supplementary Lesson Timetable.md
       - testing.md
       - Booklists for 2024.md
       - PSG 2022.md
