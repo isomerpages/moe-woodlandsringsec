@@ -3,7 +3,6 @@ title: 2024 June Supplementary Lesson Timetable
 permalink: /important-information/for-students/2024-june-supplementary-lesson-timetable/
 description: ""
 variant: tiptap
-third_nav_title: For Students
 ---
 <h4>Secondary 3 Schedule</h4>
 <table style="minWidth: 75px">

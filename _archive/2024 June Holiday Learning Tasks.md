@@ -3,7 +3,6 @@ title: 2024 June Holiday Learning Tasks
 permalink: /important-information/for-students/2024-june-holiday-learning-tasks/
 description: ""
 variant: markdown
-third_nav_title: For Students
 ---
 Please refer to the 2024 June Holiday Learning Tasks for the various levels below:
 
