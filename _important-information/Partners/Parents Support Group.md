@@ -30,3 +30,9 @@ Click&nbsp;[here](https://go.gov.sg/wrspsg)&nbsp;to apply to be part of our PSG.
 ![](/images/Slide6_PSG24.jpg)
 
 ![](/images/Slide7_PSG24.jpg)
+
+![](/images/Slide8_PSG24.jpg)
+
+![](/images/Slide9_PSG24.jpg)
+
+![](/images/Slide10.jpg)
