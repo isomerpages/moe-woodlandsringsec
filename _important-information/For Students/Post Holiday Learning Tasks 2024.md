@@ -10,7 +10,8 @@ third_nav_title: For Students
 | Levels |
 | -------- | 
 | [Secondary 1](https://drive.google.com/file/d/1AdnrANiTpr2KobtW4KbiY0RSumZ6L0Y7/view?usp=sharing)     | 
-| [Secondary 2](https://drive.google.com/file/d/163kt6_-84X5Z7TV3HcABsDgs5y1mt8ek/view?usp=sharing)     | 
-| [Secondary 3](https://drive.google.com/file/d/1uhSvhho8n9PyLBRlB1qktiq87ZZ275eG/view?usp=sharing)    |
-<p>| [Secondary 3](<a href="https://drive.google.com/file/d/1uhSvhho8n9PyLBRlB1qktiq87ZZ275eG/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1uhSvhho8n9PyLBRlB1qktiq87ZZ275eG/view?usp=sharing</a>)
-|</p>
+| [Secondary 2 G1](https://drive.google.com/file/d/13-1eUc9PiB_iuFPfBNloOit7qzdBBj26/view?usp=sharing)     | 
+| [Secondary 2 G2](https://drive.google.com/file/d/1JzqYuQBFya1DQARZfd_1H9XOjIyse9jT/view?usp=sharing)     | 
+| [Secondary 2 G3](https://drive.google.com/file/d/1BReJC1nVDCC-CGfShf42mpqv09iOEx4Z/view?usp=sharing)     | 
+| [Secondary 3E](https://drive.google.com/file/d/1OPTLZJkWXJ9t5cS5yG0JdKscQ0i1hBZ8/view?usp=sharing)    |
+| [Secondary 3NA](https://drive.google.com/file/d/1bnnorzqxldIuXXdoQsunRysyT2cg7VH0/view?usp=sharing)    |
