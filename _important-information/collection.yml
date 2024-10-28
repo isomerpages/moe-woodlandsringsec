@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - For Students/Post Holiday Learning Task.md
       - For Students/.keep
       - For Students/School Uniform.md
       - For Students/Calendar.md
