@@ -2,13 +2,13 @@ collections:
   important-information:
     output: true
     order:
-      - For Students/Post Holiday Learning Task.md
       - For Students/.keep
       - For Students/School Uniform.md
       - For Students/Calendar.md
       - For Students/An Evening with Parents.md
       - For Students/Booklist 2025.md
       - For Students/Class Timetable.md
+      - For Students/Post Holiday Learning Task.md
       - For Students/Post Exam Activities Timetable 2024.md
       - For Students/Assessment.md
       - For Students/Useful Links.md
