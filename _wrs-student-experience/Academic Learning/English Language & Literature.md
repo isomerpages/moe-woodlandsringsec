@@ -3,46 +3,50 @@ title: English Language & Literature
 permalink: /wrs-student-experience/academic-learning/english-language-and-literature/
 description: ""
 third_nav_title: Academic Learning
+variant: markdown
 ---
 ### **English Language and Literature**
 #### **Department Programmes / Highlights**
-In line with the department’s vision of getting our students to be confident users of the English Language, we have several key programmes and strategies to support our vision.
+At WRSS, our English Language (EL) &amp; Literature Department is dedicated to cultivating students who are empathetic communicators, discerning readers, and creative inquirers. Our curriculum aligns with the national EL curriculum, focusing on developing students' competencies across various facets of language and literature.
 
-#### **Whole school approach to reading**
-<img src="/images/Logo_RA.jpg" style="width:15%" align=right>
+Our mission is to develop students int
 
-At WRSS, we believe in inculcating a lifelong reading habit among our<br> students and for the students to enjoy reading. The importance of<br> reading a wide repertoire of books across different genres is also essential.<br> As such, we use various platforms to promote the importance of reading. <br>Among them are :
+Find out more through our department video: 
 
-*   **Appointment of Reading Ambassadors** **(RA)**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/geyvFtn2rWU?si=mQ7QfXQCf2JoJwLo" height="315" width="560"></iframe>
 
-Students are appointed as RAs and receive training on how to pass on the passion for reading to their friends. They also have the opportunity to take part in competitions like the Kids Lit Quiz National Storytelling Challenge as well as National Schools Literature Festival to further hone their passion for reading and the English Language as a whole.
+#### We achieve our goals through the following platforms: 
+##### 1. Level-Wide Programmes
 
-*   **Our RAs take part in the following competitions annually**
+From Secondary One through Secondary Three, our students participate in a variety of activities designed to bolster their informational, collaborative, and communication skills. Here's how we do it:
 
-<img src="/images/ra.jpg" style="width:65%">
+* **Secondary 1:** Students focus on communicating effectively, enhancing their ability to articulate ideas clearly and confidently. 
 
-* **Achievements 2021**
+![](/images/el_1.jpg)
 
-| Name of Competition | Awards (if any) |
-|:---:|:---:|
-| Speech Arts Festival 2021 (by ACJC) | Top 10 for Comic Monologue (Lower Secondary) – Muhammad Hairul Qusyairul S/O Harjit Singh |
-| National Schools Literature Festival (Unseen Debates)) | Winners for Sec 3 team |
-| National Schools Literature Festival (Choral Speaking & Book Trailer) | Participation |
-| 2nd Eurasian Spelling Bee English Language Competition | Participation |
-|
+* **Secondary 2:** The emphasis shifts to engaging audiences through dynamic public speaking, helping students to captivate and persuade their listeners. 
 
-Our RAs are also given the opportunities to organise activities for EL Reading Week and to promote reading to their schoolmates.
+![](/images/el_2.png)
 
-<img src="/images/ra1.jpg" style="width:65%">
+* **Secondary 3:** We hone students' critical thinking abilities, enabling them to construct and present convincing arguments with ease and confidence. 
 
-#### **Communication Skills**
-*   Communication skill is a much sought-after skill by employers in the 21st Century and at Woodlands Ring Secondary, we ensure that our students get sufficient exposure to this skill in an authentic setting. Among these platforms are :
-    *   Public Speaking Workshop at Secondary 1
-    *   Poetry Slam through Literature at Secondary 2
-    *   Debates at Secondary 3
+![](/images/el_3.png)
 
-<img src="/images/ra2.jpg" style="width:85%">
-<img src="/images/ra3.jpg" style="width:85%">
-<img src="/images/ra4.jpg" style="width:85%">
+* **Learning Journeys:** Students participate in visits to theatrical productions, enriching their understanding and appreciation of the spoken and written word.
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/geyvFtn2rWU" title="English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Across all levels, we leverage technology to acquire and apply New Media Literacy (NML) skills in their research and creation of podcasts, vodcasts and presentation slides.  
+
+##### 2. Talent Development Programme
+Our commitment to nurturing a love for the English Language and Literature is evident through our Talent Development Programme. These include:
+
+* **Workshops and Seminars:** Tailored sessions to refine students' writing, reading, and speaking skills.
+
+* **School-based Competitions:** Opportunities such as inter-class debates, public speaking contests, poetry slams, drama showcases, and flash fiction writing encourage students to apply their skills in competitive and creative settings. We support and encourage our students to participate in various competitions, including *National Schools Literature Festival, Live On Festival Design &amp; Essay Competitions, Plain English Speaking Awards (PESA), HIPPO English Olympiad, Marshall Cavendish Global Writing Competition and The Queen's Commonwealth Essay Competition.*
+![](/images/el_4.png)
+
+* **Service Opportunities:** Students can serve as emcees for school events and participate in outreach initiatives to primary schools, thereby honing crucial communication skills and building confidence. 
+
+* **Meet Creative Professionals:** We arrange for students to meet and interact with renowned local creators of creative content, like authors and directors, both in and out of school, providing them with unique insights into the literary world.
+![](/images/el_5.png)
+
+Through these various platforms, our students acquire invaluable experiences that contribute to their holistic development as proficient users of the English language. This exposure to diverse language use further enhances their communicative abilities, ensuring they are well-prepared for future academic success and meaningful endeavours. 
