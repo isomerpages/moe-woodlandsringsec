@@ -6,7 +6,8 @@ description: ""
 third_nav_title: For Students
 ---
 <h3><strong>Post Exam Activities Timetable 2024</strong></h3>
-<p>Levels</p>
+<p><strong>Levels</strong>
+</p>
 <p>Secondary 1</p>
 <p><a href="https://drive.google.com/file/d/1AdnrANiTpr2KobtW4KbiY0RSumZ6L0Y7/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">(https://drive.google.com/file/d/1x6Q6FZSIBPaV7c6xfKOiYiojuXxRS7wn/view?usp=sharing)</a>
 </p>
