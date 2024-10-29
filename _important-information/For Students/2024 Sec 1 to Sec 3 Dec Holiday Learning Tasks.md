@@ -1,11 +1,11 @@
 ---
-title: Post Holiday Learning Tasks 2024
-permalink: /important-information/for-students/post-holiday-learning-tasks/
+title: 2024 Sec 1 to Sec 3 Dec Holiday Learning Tasks
+permalink: /important-information/for-students/2024-sec-1-to-sec-3-dec-holiday-learning-tasks/
 variant: markdown
 description: ""
 third_nav_title: For Students
 ---
-### 	Post Holiday Learning Tasks 2024
+### 	2024 Sec 1 to Sec 3 Dec Holiday Learning Tasks
 
 | Levels |
 | -------- | 
