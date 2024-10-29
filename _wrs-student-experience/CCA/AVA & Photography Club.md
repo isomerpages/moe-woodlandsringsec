@@ -5,10 +5,6 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-![](/images/CCA/AVA_1.png)
-![](/images/CCA/AVA_2.png)
-![](/images/CCA/AVA_3.png)
-![](/images/CCA/AVA_4.png)
 #### **Name of Teachers**
 
 Mr. Sheikh Faraz Bin Sheikh A Rashid (Overall I/C)
@@ -68,4 +64,41 @@ Members have ample opportunities to develop their leadership capabilities and st
 * Participated in the ‘Our Schools, Our Stories’ Photo Competition organised by the Ministry of Education.
 * Participated and won the Lidice Medal in the International Children’s Exhibition of Fine Arts Lidice organised by The Lidice Memorial, Lidice Gallery of Czech Republic. Our winners were:
 Smith Belle (2-4) 	Na Jie Yun Nicia (2-4)		Too Minyu (3-1B)	Wee Zhenhua (4-1)	Neo Wei Jie Jacky (4-6) 	
-Chong Kar Yin Daniel (4-6) 
+Chong Kar Yin Daniel (4-6)
+
+#### Frequency of CCA
+
+**School Term**
+* Morning Duty: 7.00 – 7.50 am. After school Duty: 2.30 – 5.00 pm (Ad hoc basis). Make-up session will be conducted in the event of school or public holiday. 
+
+* Training session every Monday. Time: 2.30 – 5.30 pm
+
+**School Holiday**
+
+Once per term  
+
+**Others**
+
+Need to be committed during major school events in providing Audio-Visual & Photography/ Videography support.   
+
+**Expenses to be borne by students**
+
+Related workshops (e.g. photography/ videography workshops)
+
+**Targeted Student Profile**
+
+* must be physically fit;
+* keen interest in photography and videography; 
+* shows initiative;
+* positive learning attitude and willingness to serve the school and committee
+
+**CCA Trial Procedures**
+
+Interview with Teachers-in-charge to determine interest and suitability for the CCA, including the execution of a photography task to determine student’s aptitude.
+
+**Target number of students**
+
+10 students
+
+#### Photos
+![](/images/CCA/ava1.jpg)
