@@ -40,69 +40,75 @@ Through the guidance of the dance instructors, Miss Zhang Xiaoqi (Chinese Dance)
 
 **2024**
 
-* North-Zone Inter-school Volleyball Competition ‘B’ and ‘C’ Div – Participation
-* Mintonette Cup U14 Volleyball Invitational Games
+* WRS Public Performance “A Midsummer Night’s Dream”
+* National Day School Concert
+* Hari Raya School Concert
+* Chinese New Year School Concert
+* Chinese New Year Celebrations at Kampong Admiralty
 
 **2023**
 
-* North-Zone Inter-school Volleyball Competition ‘B’ Div – Top 4
-* North-Zone Inter-school Volleyball Competition ‘C’ Div – Participation
-* ActiveSG Cup Volleyball U15
+* National Day School Concert
+* SYF Certificate of Accomplishment (Chinese Dance)
+* SYF Certificate of Distinction (Malay Dance)
 
+**2022**
 
-**2021 - 2022**
-
-* North-Zone Inter-school Volleyball Competition ‘B’ and ‘C’ Div – Participation
-* Mintonette Cup U16 Volleyball Invitational Games
-* ActiveSG U17 Games
-
-**2020**
-
-* North-Zone Inter-school Volleyball Competition ‘B’ Div – Top 4
+* National Day School Concert
 
 #### Frequency of CCA
 
 **School Term**
 
-* 2 times/week; Monday, Wednesday
-* 2.30pm – 5.30pm (Monday)
-* 2.30pm – 5.30pm (Wednesday)
-
+ Every Monday, 2.30 – 5.30 pm
 
 **School Holiday**
 
-* 3 times/week
-* 9.00 am – 1.00 pm / 1.00pm – 5.00pm 
-
+* March holidays: 3 sessions, 3 hours per session.
+* June holidays: 3 – 5 sessions, 3 hours per session.
+* November and December holidays: 5 - 10 sessions, 3 hours per session.
 
 **Others**
 
-Players will be required to attend additional training or play in inter-school volleyball games on non-training days.
+Frequency will increase by *one session per week (on Friday, 1.30 - 4.30pm)* closer to major performances which include the following:
+* School’s Public Performance 
+* School’s Performance e.g. Chinese New Year Concert, Homecoming dinner concert
+* SYF Arts Presentation
+
+*If Monday happens to be a public/school holiday, CCA will be held on the Friday of that week.*
+
 
 
 **Expenses to be borne by students**
 
-* Volleyball T-shirt (~$20)
-* Competition Jersey (~$30, partially subsidised by the school)
-* Tights (~$10)
-* Shorts (~$10)
-* Knee Pads (~$20)
-* Volleyball Shoes (~$80)
+* CCA T-Shirt
+* Black Tights (Chinese Dance) / Black Track pants (Malay Dance)
+* Leotard (Chinese Dance)
+* Dance shoes (Chinese Dance)
+* Hair pins
+* Hair nets
+* Enrichment courses
+* Tickets for cultural dance performances 
 
 
 **Targeted Student Profile**
 
-Responsible, committed and thinking students who are willing to constantly challenge themselves mentally and physically to develop their strengths and understanding of the game. Team players who are willing to bring out the best in others. 
+Students who:
+* are open to learning different cultural dances (e.g.: Chinese Dance, Malay Dance and Indian Dance)
+* are disciplined individuals;
+* can commit to intensive sessions and endure rigorous training.
+
 
  **CCA Trial Procedures**
 
-* Test items on jump ability, agility, speed, coordination and ball awareness will be conducted to select suitable members. 
-* Selected S1 students could also be interviewed by our teachers and coach to learn more about their personalities and aspirations. 
-
- **Target number of Students**
- 
-10 girls
+The interviewees are to give a short introduction of themselves. They will also be required to do some basic dance moves by following the seniors.
 
 #### Photos
-![](/images/CCA/vol1.jpg)
-![](/images/CCA/vol2.jpg)
+![](/images/CCA/cul1.jpg)
+![](/images/CCA/cul2.jpg)
+![](/images/CCA/cul3.jpg)
+![](/images/CCA/cul4.jpg)
+![](/images/CCA/cul5.jpg)
+![](/images/CCA/cul6.jpg)
+![](/images/CCA/cul7.jpg)
+![](/images/CCA/cul8.jpg)
