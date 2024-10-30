@@ -94,3 +94,14 @@ Speed and agility test, catching and throwing test and mini court game.
 10 girls
 
 #### Photos
+![](/images/CCA/net1.jpg)
+![](/images/CCA/net2.jpg)
+![](/images/CCA/net3.jpg)
+![](/images/CCA/net4.jpg)
+![](/images/CCA/net5.jpg)
+![](/images/CCA/net6.jpg)
+![](/images/CCA/net7.jpg)
+![](/images/CCA/net8.jpg)
+![](/images/CCA/net9.jpg)
+![](/images/CCA/net10.jpg)
+![](/images/CCA/net11.jpg)
