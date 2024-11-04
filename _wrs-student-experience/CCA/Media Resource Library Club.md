@@ -1,6 +1,6 @@
 ---
 title: Media Resource Library Club
-permalink: /wrs-student-experience/cca/
+permalink: /wrs-student-experience/cca/mrl/
 description: ""
 third_nav_title: CCA
 variant: markdown
