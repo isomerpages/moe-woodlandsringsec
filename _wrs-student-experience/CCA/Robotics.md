@@ -125,5 +125,11 @@ Up to 20 students.
 
 #### Photos
 ![](/images/CCA/robo1.jpg)
+National Robotics Competition 2024
+
 ![](/images/CCA/robo2.jpg)
+Qihua Primary School Innojoy Fest 2024
+
 ![](/images/CCA/robo3.jpg)
+National Robotics Competition 2023 (Best Presentation Award
+2nd)
