@@ -80,9 +80,24 @@ Student who:
 
 #### Photos
 ![](/images/CCA/Air_Force_Museum_LJ.jpg)
+ **Air Force Museum LJ**
+ 
 ![](/images/CCA/Drone_flying_practice.jpg)
+**Drone Flying Practice**
+
 ![](/images/CCA/Rank_promotion.jpg)
+**Rank Promotion**
+
 ![](/images/CCA/SAFMC2024_00.jpg)
+**SAFMC 00**
+
 ![](/images/CCA/SAFMC2024_01.jpg)
+**SAFMC 01**
+
 ![](/images/CCA/SAFMC2024_02.jpg)
+**SAFMC 02**
+
 ![](/images/CCA/West_Camp_Road.jpg)
+**West Camp Road**
+
+![](/images/CCA/SYFC7.jpg)
