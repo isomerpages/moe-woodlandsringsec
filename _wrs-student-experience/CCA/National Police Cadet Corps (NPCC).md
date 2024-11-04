@@ -19,74 +19,99 @@ Our mission in NPCC is to develop our cadets into community leaders who
 
 Our cadets go through a structured and progressive training programme that challenges and develops them into selfless and resilient leaders who possess integrity and persevere in adverse and rugged contexts. Their growth and development is guided by NPCC’s Learning Path: 
 
-
-| Level 1 | Aware of Self and Others | Column 3 |
+| Level 1 | Aware of Self and Others | Knowing oneself |
 | -------- | -------- | -------- |
-| Level 2  | Text     | Text     |
-| Level 3 | -------- | -------- |
-| Level 4    | Text     | Text     |
+| Level 2  | Acquire skills and knowledge     | Stepping out and interacting     |
+| Level 3 | Actuate as leader | First taste of taking charge |
+| Level 4/5    | Aspire to serve     | Stepping out to lead     |
+
+Some of our unique programmes include:
+* Leadership Programme - Cadets plan camps, online and face-to-face training and execute them to learn experientially what it means to be a leader.
+* Outdoor activities such as campcraft training and adventure training camps at NPCC HQ’s campsite on Pulau Ubin
+* Courses related to work of Singapore Police Force such as Crime Scene Investigation (CSI), Cybercrime Prevention, Police Procedures, Basic Law and SG Secure
+* Crime Outreach programmes such as Community Safety and Security Programme and Police Youth Ambassador
+* 0.22 revolver shooting  
 
 #### **Achievement(s)**
 
+**2024**
+
+* Achieved Distinction in the Unit Overall Proficiency Award 2023
+* 3 cadets were awarded the SPF-NPCC Badge (Highest Accolade for NPCC Cadet)
+
 **2023**
 
-* Achieved DISTINCTION in Unit Recognition
-* Achieved NATIONAL 2nd RUNNER UP in the Orienteering Competition
-* Achieved NATIONAL GRAND FINALIST in the Precision Drill Squad Competition
-* Achieved NATIONAL GRAND FINALIST in the Freestyle Drill Competition
+* Achieved Distinction in the Unit Overall Proficiency Award 2022
+* 2 cadets were awarded the SPF-NPCC Badge (Highest Accolade for NPCC Cadet)
 
 **2022**
-* Achieved DISTINCTION in Unit Recognition 
-* Achieved NATIONAL CHAMPION in the Precision Drill Squad Competition
-* Achieved NATIONAL CHAMPION in the Freestyle Drill Competition
+* Achieved Gold in the Unit Overall Proficiency Award 2021
+* 2 cadets were awarded the SPF-NPCC Badge (Highest Accolade for NPCC Cadet)
+* Attained 1st Position in inaugural Inter-Unit e-CSI competition
+
+**2021**
+* Achieved Gold in the Unit Overall Proficiency Award 2020
+* 1 cadet was awarded the SPF-NPCC Badge
+
+**2020**
+* Achieved Gold in the Unit Overall Proficiency Award 2019
+* 1 cadet was awarded the SPF-NPCC Badge
 
 #### Frequency of CCA
 
 **School Term**
 
-* Fridays: 2.30 - 5.30 pm
+Regular training every Friday, 2.30 – 5.30 pm (if any school or public holiday falls on a Friday, the regular weekly training will be held on Monday instead.)
+
+Courses for Proficiency Badges (e.g. Police Knowledge, Civil Defence, CSI)
+
+Overall, there are about 1.5 days of training every week. 
 
 **School Holiday**
 
-* March holiday: Camp VALUES (for all Sec 1 cadets)
-* March holiday: 1-Star Kayaking Course (for all Sec 2 cadets)
-* June holiday Week 4: Senior Specialist Leaders Course (for selected Sec 3 cadets)
-* September Holiday: Senior Specialist Leaders Course (for selected Sec 3 cadets)
+* School Camps (Sec 1 Induction Camp, Sec 3 Leadership Camp, Annual Unit Camp)
+* Sec 2 Adventure Training Camp at Pulau Ubin
+* Sec 2 Cadet Leader Course
+* Sec 3 Enhanced Crime Scene Investigation Course
 
+*All these camps and courses are compulsory for promotion*
 
 **Others**
 
-* Freestyle Drill & Precision Drill Practice for competitions
-* Parents / Guardians will be informed through Parents Gateway
- 
+There will be certain compulsory learning journeys and activities scheduled by NPCC HQ on weekdays after school and/or during holidays. *Cadets are expected to attend these activities.* Parents / guardians will be informed via Parents Gateway in advance.
+
 
 **Expenses to be borne by students**
 
-All cadets are provided with two sets of NCC uniforms (free of charge). They are allowed to do kit-exchange at the beginning of each year for misfit sizes or worn-off items. However, they have to bear the full cost for any lost item.
-
-Enrichment Courses such as 1-Star Kayaking will be co-paid between school and students through Edusave account or by cash (for PR/non-Singaporean). FAS students will be subsidised.
+* Cadet Leaders T-shirt (for Sec 3 cadets upon taking over from their seniors) 
+* Enrichment courses (partially subsidised by the school and the remaining amount to be paid in cash or Edusave by the cadets)
+* Overseas expedition organised by HQ (paid by cadets in cash)
+* Cadets will need to bear the full cost for any lost / damaged uniform part or accessories provided by HQ 
 
 **Targeted Student Profile**
 
-While some activities can be strenuous, they are gradual and progressive. All teacher officers take a serious view on the well-being and safety of every cadet.
-
-Cadets will be challenged by choice to carry out any activity, and teacher officers will provide the necessary guidance and support.
-Cadets with a positive mindset will gain meaningful and enjoyable learning experiences.
-
-All teacher officers are committed to monitoring the well-being and holistic development of every cadet to ensure a good balance between studies and NCC activities.
-
+* Students who like to be outdoor
+* Students who enjoy working as a team and would like to learn to lead
+* Students who have an open heart to learn from others
+* Students who have no serious medical condition (e.g. fractured limbs, chronic asthma, severe allergic to grass)
+* Students who value discipline and enjoy challenges
 
 **CCA Trial Procedures**
 
-The selection process will include an interview.
+* Complete a simple situational test
+* Interview with the teacher officers
 
  **Target number of students**
 
-16 cadets
+14 cadets
 
 #### Photos
-![](/images/CCA/ncc1.jpg)
-![](/images/CCA/ncc2.jpg)
-![](/images/CCA/ncc3.jpg)
-![](/images/CCA/ncc4.jpg)
-![](/images/CCA/ncc5.jpg)
+![](/images/CCA/npcc1.jpg)
+![](/images/CCA/npcc2.jpg)
+![](/images/CCA/npcc3.jpg)
+![](/images/CCA/npcc4.jpg)
+![](/images/CCA/npcc5.jpg)
+![](/images/CCA/npcc6.jpg)
+![](/images/CCA/npcc7.jpg)
+![](/images/CCA/npcc8.jpg)
+![](/images/CCA/npcc9.jpg)
