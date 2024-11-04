@@ -11,84 +11,97 @@ Mr John Toh Yeow Chong (Officer Commanding)
 
 #### **About the CCA**
 
-The NCC Syllabus is gradual and progressive. It aims to provide a diverse range of challenging and enriching activities. The five broad objectives of our activities are **Character Building, National Education, Adventurous Spirit, Leadership and Military Awareness.**
+National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under the purview of the Ministry of Education and the Ministry of Home Affairs.
 
-NCC is guided by** 3 key thrusts** – Leadership, Fitness and Commitment to Singapore and is driven by 8 core values – Loyalty to Country, Uprightness, Leadership, Discipline, Commitment & Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.
+Our School’s NCDCC was established in 2019 with the aim of promoting awareness and emergency preparedness amongst students with regard to fire-fighting, rescue as well rendering effective first-aid among others. NCDCC believes in developing and empowering youths to be active and concerned citizens advocating life-saving skills. 
 
-NCC has a Leadership Competency Model (LCM) that ensures cadets are equipped with sound leadership skills at the end of 4 to 5 years.
+Cadets will be equipped with the practical skills which are critical in the face of danger and emergencies and be nurtured with the attitude of readiness against adversity.
 
-During their 1st year, the cadets learn basic military knowledge and skills such as the history and role of SAF and NCC, Footdrills, SAR 21 weapon handling, Individual Field Craft (IFC) and Orienteering. They are initiated into NCC through the HQ’s Affirmation Ceremony and our unit’s Camp VALUES where they get to visit the Singapore Army Museum. NCC HQ also organises Camp FORGE to build confidence in the cadets through adventure elements.
+NCDCC is strongly supported by the Singapore Civil Defence Force (SCDF) in terms of logistics, as well as providing relevant and quality training to our cadets. Thus, we hope to instil the spirit of civic-mindedness as well as to carry on the proud tradition of civil defence among our youths.
 
-During their 2nd year, the cadets will deepen their knowledge of the military skills they have learnt in the 1st year. Besides more advanced drills, IFC and Orienteering, they are also introduced to the fundamentals of shooting through an Air Rifle Shooting program organised by NCC HQ. In addition, they will attend another adventure camp called Camp STEEL which focuses on the value of teamwork. Cadets will also learn life skills and build up their ruggedness through other adventure activities such as the Unit Hike and the 1-Star Kayaking Course.
+**Secondary 1**
+Cadets are provided with basic training such as foot drill and fire safety. They are also trained in first-aid, fire-fighting and campcraft. In addition, they are strongly encouraged to participate in courses such as kayaking and self-defence to boost confidence. 
 
-During their 3rd and 4th / 5th year, the cadets will be given the opportunity to lead, plan and execute training programmes. The aim is to allow the cadets to pick up leadership skills under the guidance of teacher officers. To ensure that the cadets can impart the necessary military knowledge confidently, NCC conducts Specialist Assessment in which they earn the rank of third sergeant and the Army-NCC badge. Outstanding cadets will attend the Senior Specialist Leaders Course and they can look forward to becoming key appointment holders in the school’s NCC unit. In addition, cadets hone their SAR21 marksmanship in the Individual Marksmanship Training and Live Shooting program organised by NCC HQ.
+The three badges that a Secondary One Cadets will need to complete include Total Defence (Bronze), Foot Drill (Bronze) and Fire Safety Proficiency. They are eligible for promotion to Lance Corporal upon completion of the three badge works.
 
-All cadets have the option to learn Freestyle Drill and Precision Drill movements which build teamwork and resilience. Besides having a chance to participate in Freestyle Drill Competition and Precision Drill Squad Competition, cadets also perform at school-based events such as Total Defence Day Commemoration and National Day Celebration.
+**Secondary 2**
+Cadets are given more opportunities to participate in various activities and competitions such as CPR-AED course, Precision Drill Challenge and UACDC. Promising cadets are also sent to attend certain workshops that train them to be effective leaders who are capable of guiding the junior cadets. 
 
-In line with the school’s strategic thrust of Character Excellence, the NCC unit also embarks on meaningful service-learning project each year to inculcate in cadets, a sense of responsibility to their immediate community, and to enable them to understand that they too can become active contributors to their society.
+Secondary Two Cadets typically will complete six badges within the year. These include Civil Defence Knowledge, First Aid Proficiency, SANA, Foot Drill (Silver), CPR+AED Proficiency and Rescue Proficiency. They are eligible for promotion to Sergeant upon completion of six badge works.
 
+**Secondary 3**
+At this level, the cadets are given more responsibilities to lead the whole unit. They will undergo a Specialisation course and upon successful completion of the course, they will be promoted to Staff Sergeant. Secondary Three Cadets are also required to complete the HAZMAT Proficiency and Homefront Security Badges. Top Tier cadets can be shortlisted to attend Foot Drill Gold Assessment, the Unit Drill Instructor Course, and represent in SCDF parade as well as an Overseas Educational Visit.	 
+
+Cadets can choose to specialise in one of the following specialisations in Secondary 3.  
+* Fire Safety
+* Medical Response
+* Urban Search and Rescue
+* Marine Fire and Safety
+
+**Secondary 4**
+Senior leaders will mentor their junior leaders and guide them in their training programme. Cadet Leaders who have demonstrated exemplary performance and are inspiring role models will be promoted to the rank of Warrant Officers (WO). Cadets will also be attending Psychological First Aid Course.
 
 #### **Achievement(s)**
 
-**2023**
+Participated in National Competitions:
+* NCDCC Unit Overall Proficient Award (Distinction) 2021 ~ 2023
+* Precision Drill Challenge (PDC) 2019 ~ 2024
+* Urban Adventure Civil Defence Competition (UACDC) 2019 ~ 2024
+* NCDCC Infographic Poster Competition 2021 - Merit Award
+* NCDCC Informative Video Competition 2022 - Merit Award
+* NCDCC 20th Anniversary Logo Competition 2024
 
-* Achieved DISTINCTION in Unit Recognition
-* Achieved NATIONAL 2nd RUNNER UP in the Orienteering Competition
-* Achieved NATIONAL GRAND FINALIST in the Precision Drill Squad Competition
-* Achieved NATIONAL GRAND FINALIST in the Freestyle Drill Competition
-
-**2022**
-* Achieved DISTINCTION in Unit Recognition 
-* Achieved NATIONAL CHAMPION in the Precision Drill Squad Competition
-* Achieved NATIONAL CHAMPION in the Freestyle Drill Competition
 
 #### Frequency of CCA
 
 **School Term**
 
-* Fridays: 2.30 - 5.30 pm
+1 weekly training on Friday, 2.00pm – 5.30 pm 
+
+Additional sessions on Monday – 2.30 pm – 5.30 pm 
+
+(for School NDP and NCDCC Day Parades, Competitions and Leadership Trainings)
+
+Saturday Activities/Events (for selected cadets)
+* Fire Station Visit
+* Community Outreach
+* Precision Drill Challenge 
+* SDCF/NCDCC Day Parade 
+* Urban Adventure Civil Defence Skills Challenge 
+* Singapore Global Firefighters & Paramedics Challenge
 
 **School Holiday**
 
-* March holiday: Camp VALUES (for all Sec 1 cadets)
-* March holiday: 1-Star Kayaking Course (for all Sec 2 cadets)
-* June holiday Week 4: Senior Specialist Leaders Course (for selected Sec 3 cadets)
-* September Holiday: Senior Specialist Leaders Course (for selected Sec 3 cadets)
-
-
-**Others**
-
-* Freestyle Drill & Precision Drill Practice for competitions
-* Parents / Guardians will be informed through Parents Gateway
- 
+* March or June - Annual Camp
+* May or November:  Sec 3 Specialisation Course
+* November: Overseas Educational Visit (for selected cadets)
+* September: Unit Drill Instructor Course (for selected cadets)
 
 **Expenses to be borne by students**
 
-All cadets are provided with two sets of NCC uniforms (free of charge). They are allowed to do kit-exchange at the beginning of each year for misfit sizes or worn-off items. However, they have to bear the full cost for any lost item.
-
-Enrichment Courses such as 1-Star Kayaking will be co-paid between school and students through Edusave account or by cash (for PR/non-Singaporean). FAS students will be subsidised.
+Only for Secondary 3 cadets who are selected for Overseas Educational Visit
 
 **Targeted Student Profile**
 
-While some activities can be strenuous, they are gradual and progressive. All teacher officers take a serious view on the well-being and safety of every cadet.
-
-Cadets will be challenged by choice to carry out any activity, and teacher officers will provide the necessary guidance and support.
-Cadets with a positive mindset will gain meaningful and enjoyable learning experiences.
-
-All teacher officers are committed to monitoring the well-being and holistic development of every cadet to ensure a good balance between studies and NCC activities.
-
+Students who:
+* aspire to be in the fire-fighting or medical field (e.g. fire-fighters, paramedics, nurses, doctors);
+* have the zeal to learn and apply first aid, and life-saving skills;
+* are team players;
+* are critical thinkers.
 
 **CCA Trial Procedures**
 
-The selection process will include an interview.
+Interview and/or Aptitude Test
 
  **Target number of students**
 
-16 cadets
+15 cadets
 
 #### Photos
-![](/images/CCA/ncc1.jpg)
-![](/images/CCA/ncc2.jpg)
-![](/images/CCA/ncc3.jpg)
-![](/images/CCA/ncc4.jpg)
-![](/images/CCA/ncc5.jpg)
+![](/images/CCA/ncdcc1.jpg)
+![](/images/CCA/ncdcc2.jpg)
+![](/images/CCA/ncdcc3.jpg)
+![](/images/CCA/ncdcc4.jpg)
+![](/images/CCA/ncdcc5.jpg)
+![](/images/CCA/ncdcc6.jpg)
+![](/images/CCA/ncdcc7.jpg)
