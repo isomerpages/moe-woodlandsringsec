@@ -26,7 +26,7 @@ SYFC members will have the opportunity to apply their knowledge and skills by pa
 * Singapore Amazing Flying Machine Competition - Participation in Unpowered Glider
 * SYFC Inter-Aeromodelling Competition SIAC (Launch Glider) - Participation
 * SIAC (Teacher-Student LG Team)
-* Aerobot Challenge
+* Aerobot Challenge - 1st Runner Up
 
 
 #### Frequency of CCA
