@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Humanities Talent Development Programme.md
       - 2022/.keep
       - School Awards.md
       - Lee Kuan Yew Special Awards.md
