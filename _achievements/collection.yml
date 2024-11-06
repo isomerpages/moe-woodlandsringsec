@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Humanities Talent Dev Program.md
       - School Awards.md
       - Lee Kuan Yew Special Awards.md
       - Awards for Alumni/.keep
