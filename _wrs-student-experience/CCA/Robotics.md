@@ -81,13 +81,12 @@ Our Robotics Club serves to identify and train passionate members with inquiring
 
 Weekly Sessions
 
-2 sessions per week, 3 - 4 hours per session
+2 sessions per week, 3 hours per session
 
 Monday : 2.30 to 5.30pm
 
-Friday : 1.30 to 5.30pm
+Friday : 1.30 to 4.30pm
 
-Venues : Robo Arena & Design Studio 
 
 **School Holiday**
 
