@@ -50,11 +50,8 @@ In line with the school’s strategic thrust of Character Excellence, the NCC un
 
 **School Holiday**
 
-* March holiday: Camp VALUES (for all Sec 1 cadets)
-* March holiday: 1-Star Kayaking Course (for all Sec 2 cadets)
-* June holiday Week 4: Senior Specialist Leaders Course (for selected Sec 3 cadets)
+* June Holiday: Camp VALUES (for all Sec 1 cadets), 1-Star Kayaking Course (for all Sec 2 cadets) & Senior Specialist Leaders Course (for selected Sec 3 cadets)
 * September Holiday: Senior Specialist Leaders Course (for selected Sec 3 cadets)
-
 
 **Others**
 

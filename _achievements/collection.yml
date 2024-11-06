@@ -4,8 +4,8 @@ collections:
     order:
       - School Awards.md
       - Lee Kuan Yew Special Awards.md
-      - Awards for Alumni/2023.md
       - Awards for Alumni/.keep
+      - Awards for Alumni/2023.md
       - Awards for Alumni/2022.md
       - Awards for Alumni/2021.md
       - Awards for Alumni/2020.md
@@ -14,13 +14,15 @@ collections:
       - Awards for Alumni/2017.md
       - Awards for Alumni/2016.md
       - Soldier of the Year.md
+      - Science Talent Dev Programme/.keep
       - Science Talent Dev Programme/2024.md
       - Science Talent Dev Programme/2023.md
-      - Science Talent Dev Programme/.keep
       - Science Talent Dev Programme/2022.md
       - Science Talent Dev Programme/2021.md
       - Science Talent Dev Programme/2020.md
       - Science Talent Dev Programme/2019.md
       - Science Talent Dev Programme/2018.md
       - Science Talent Dev Programme/2017.md
-      - Humanities Talent Development Programme.md
+      - Humanities Talent Dev Program/.keep
+      - Humanities Talent Dev Program/2024.md
+      - Humanities Talent Dev Program/2022.md
