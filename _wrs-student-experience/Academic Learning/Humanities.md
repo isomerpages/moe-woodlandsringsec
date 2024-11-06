@@ -45,4 +45,12 @@ Our Secondary Two students headed to the National Museum of Singapore to take pa
 ![](/images/Week_X_pic_4.jpg)
 In this artefact-centric programme that was co-developed with the Ministry of Education, our students were given the autonomy to explore the galleries independently. Guided by a Passport activity booklet, students decided on the exhibits to visit based on their interests. They also discovered fascinating stories about specific artefacts from Singapore’s 700 years of history as they interacted with the Museum Educators.
 
+**Elements of Business Skills (EBS) Out-of-Class Learning**
+
+In the study of EBS, our students are taught the basic concepts of marketing and customer relations in the Travel and Tourism industry, Hospitality industry, and Retail industry.
+The highlight for our Secondary Three EBS students is a one-day experiential learning where students can relate basic concepts learned in the classroom to authentic working environments. In addition, they also get to hear from service industry practitioners on career options, business trends and innovations to embrace the opportunities and challenges posed by changing customers’ expectations and technological advancement.
+![](/images/EBS_pic_1.jpg)
+![](/images/EBS_pic_2.jpg)
+![](/images/EBS_pic_3.jpg)
+![](/images/EBS_pic_4.jpg)
 <iframe width="700" height="350" src="https://www.youtube.com/embed/1sUnelcziAA" title="Humanities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
