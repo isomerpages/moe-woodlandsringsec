@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - 2022/.keep
       - School Awards.md
       - Lee Kuan Yew Special Awards.md
       - Awards for Alumni/2023.md
