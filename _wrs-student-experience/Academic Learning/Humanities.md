@@ -39,6 +39,10 @@ During Week X, our Secondary One students explored the Civic District to learn m
 They then ended their walking trail with a cruise onboard the iconic bumboat. As the bumboat glided through the waters, the young historians admired the iconic landmarks, learning about the river's important role in the early days of Singapore. This learning journey experience has enabled our students to connect to our city’s past.
 
 **Week X Secondary 2 History Learning Journey – National Museum of Singapore**
+![](/images/Week_X_pic_3.jpg)
+Our Secondary Two students headed to the National Museum of Singapore to take part in the ‘Artefactually Speaking’ programme. 
 
+![](/images/Week_X_pic_4.jpg)
+In this artefact-centric programme that was co-developed with the Ministry of Education, our students were given the autonomy to explore the galleries independently. Guided by a Passport activity booklet, students decided on the exhibits to visit based on their interests. They also discovered fascinating stories about specific artefacts from Singapore’s 700 years of history as they interacted with the Museum Educators.
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/1sUnelcziAA" title="Humanities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
