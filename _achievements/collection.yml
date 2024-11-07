@@ -2,9 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Humanities Talent Dev Program/.keep
-      - Humanities Talent Dev Program/2024.md
-      - Humanities Talent Dev Program/2022.md
       - School Awards.md
       - Lee Kuan Yew Special Awards.md
       - Awards for Alumni/.keep
@@ -26,3 +23,6 @@ collections:
       - Science Talent Dev Programme/2019.md
       - Science Talent Dev Programme/2018.md
       - Science Talent Dev Programme/2017.md
+      - Humanities Talent Dev Program/.keep
+      - Humanities Talent Dev Program/2024.md
+      - Humanities Talent Dev Program/2022.md
