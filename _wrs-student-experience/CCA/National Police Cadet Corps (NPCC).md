@@ -83,7 +83,6 @@ There will be certain compulsory learning journeys and activities scheduled by N
 
 **Expenses to be borne by students**
 
-* Cadet Leaders T-shirt (for Sec 3 cadets upon taking over from their seniors) 
 * Enrichment courses (partially subsidised by the school and the remaining amount to be paid in cash or Edusave by the cadets)
 * Overseas expedition organised by HQ (paid by cadets in cash)
 * Cadets will need to bear the full cost for any lost / damaged uniform part or accessories provided by HQ 
