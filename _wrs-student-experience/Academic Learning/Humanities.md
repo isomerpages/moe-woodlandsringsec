@@ -8,7 +8,7 @@ variant: markdown
 ### **Humanities**
 #### **Department Programmes / Highlights**
 ##### **Humanities Department**
-&nbsp;**Learning Vision:&nbsp;_To equip our student with appropriate values, critical thinking skills and knowledge so that they can to appreciate and navigate the world we live in_**
+&nbsp;**Learning Vision:&nbsp;_To equip our student with the appropriate values &amp; skills so that they can develop the 21st Century Competencies to navigate the world_**
  
 ##### **Subjects Offered**
 **The Humanities Department at WRS offers the following subjects to our students:**
