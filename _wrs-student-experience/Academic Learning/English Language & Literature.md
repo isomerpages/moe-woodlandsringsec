@@ -9,8 +9,6 @@ variant: markdown
 #### **Department Programmes / Highlights**
 At WRSS, our English Language (EL) &amp; Literature Department is dedicated to cultivating students who are empathetic communicators, discerning readers, and creative inquirers. Our curriculum aligns with the national EL curriculum, focusing on developing students' competencies across various facets of language and literature.
 
-Our mission is to develop students int
-
 Find out more through our department video: 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/geyvFtn2rWU?si=mQ7QfXQCf2JoJwLo" height="315" width="560"></iframe>
@@ -49,4 +47,4 @@ Our commitment to nurturing a love for the English Language and Literature is ev
 * **Meet Creative Professionals:** We arrange for students to meet and interact with renowned local creators of creative content, like authors and directors, both in and out of school, providing them with unique insights into the literary world.
 ![](/images/el_5.png)
 
-Through these various platforms, our students acquire invaluable experiences that contribute to their holistic development as proficient users of the English language. This exposure to diverse language use further enhances their communicative abilities, ensuring they are well-prepared for future academic success and meaningful endeavours. 
+Through these various platforms, our students acquire invaluable experiences that contribute to their holistic development as proficient users of the English language. This exposure to diverse language use further enhances their communicative abilities, ensuring they are well-prepared for future academic success and meaningful endeavours.
