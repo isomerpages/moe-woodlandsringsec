@@ -15,6 +15,10 @@ your registration on the day your child receives his/her secondary school
 posting result.</p>
 <p>More details will be provided in December.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/Sec_1_Reg_2025.jpg">
+</div>
+<p></p>
 <h3><strong>OPEN HOUSE 2024</strong>&nbsp;</h3>
 <p>We are excited to welcome you to our Open House 2024! Join us for an informative
 and engaging day where you’ll have the opportunity to tour our school,
