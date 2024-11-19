@@ -9,7 +9,7 @@ variant: tiptap
 re-located to 21 Woodlands Avenue 1, S739062 (current Fuchun Secondary
 School building).</p>
 <p>Secondary One Registration will take place, tentatively, on 21 December
-2023. There is no need to report in person to school on registration day.</p>
+2024. There is no need to report in person to school on registration day.</p>
 <p>The acceptance form will be sent to parents via Parents Gateway to complete
 your registration on the day your child receives his/her secondary school
 posting result.</p>
