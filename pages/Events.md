@@ -4,6 +4,21 @@ permalink: /events/
 description: ""
 variant: tiptap
 ---
+<h3><strong>Secondary One Registration for 2025</strong>&nbsp;</h3>
+<p>Dear Parents, please note that Woodlands Ring Secondary School will be
+re-located to 21 Woodlands Avenue 1, S739062 (current Fuchun Secondary
+School building).</p>
+<p>Secondary One Registration will take place, tentatively, on 19 December
+2024. There is no need to report in person to school on registration day.</p>
+<p>The acceptance form will be sent to parents via Parents Gateway to complete
+your registration on the day your child receives his/her secondary school
+posting result.</p>
+<p>More details will be provided in December.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/Sec_1_Reg_2025.jpg">
+</div>
+<p></p>
 <h3><strong>OPEN HOUSE 2024</strong>&nbsp;</h3>
 <p>We are excited to welcome you to our Open House 2024! Join us for an informative
 and engaging day where you’ll have the opportunity to tour our school,
