@@ -5,22 +5,22 @@ permalink: /contact-us/
 agency_name: Woodlands Ring Secondary School
 locations:
   - address:
-      - 10 Woodlands Ring Road
-      - Singapore 738239
+      - 21 Woodlands Ave 1
+      - Singapore 739062
       - ""
     operating_hours: []
-    maps_link: https://www.google.com.sg/maps/place/Woodlands+Ring+Secondary+School/@1.4336508,103.7963348,15.92z/data=!4m5!3m4!1s0x31da139f1d5601b1:0xb727b3f22a63f15e!8m2!3d1.436382!4d103.8007729
+    maps_link: https://maps.app.goo.gl/QMjQxzkG6zmd2FRA9
     title: Address
 contacts:
   - content:
       - phone: +65 6364 3712
       - email: wrss@moe.edu.sg
-      - other: "Nearest MRT Station : Admiralty"
+      - other: "Nearest MRT Station : Marsling"
     title: General Enquiries & Feedback
   - content:
-      - phone: +65 6364 3713
+      - phone: ""
       - email: ""
-      - other: "Bus : SMRT Bus No.  912 from Woodlands Regional Interchange or Admiralty
-          MRT Station"
-    title: Fax
+      - other: SMRT Bus No.  912 or 912B from Woodlands Regional Interchange
+    title: Transport
+feedback: ""
 ---
