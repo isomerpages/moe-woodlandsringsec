@@ -4,6 +4,25 @@ permalink: /events/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<h3><strong>Release of GCE N-Level Examination Results on 16 December 2024</strong></h3>
+<p>As per press release on Mon, 9 Dec, school candidates will be receiving
+their GCE NA-Level and NT-Level results on <strong>Mon, 16 Dec from 2.00 pm.</strong>
+</p>
+<p>School candidates are to return to school (<strong>21 Woodlands Ave 1, Singapore 739062</strong>)
+and assemble in the school hall by 1.50 pm, <strong>respectfully attired</strong> in
+their <strong>full school uniform</strong>. Parents/guardians may accompany
+their child/ward to the school to collect their results.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">School candidates who are unable to collect their results in person should inform the school/form teacher via email. They can appoint a proxy to collect a physical copy of their results on their behalf. In the email to the school/form teacher, please indicate the following:</a>
+</p>
+<p>o&nbsp;&nbsp; Full Name of Proxy</p>
+<p>o&nbsp;&nbsp; Last 4 character of the Proxy’s identification number (eg.
+SXXX0456)</p>
+<p>Proxies must be above 21 years old, and he/she will be required to produce
+the relevant documents for the school’s verification when collecting the
+result.</p>
+<p>&nbsp;</p>
+<p></p>
 <h3><strong>Secondary One Registration for 2025</strong>&nbsp;</h3>
 <p>Dear Parents, please note that Woodlands Ring Secondary School has re-located
 to 21 Woodlands Avenue 1, S739062 (current Fuchun Secondary School building).</p>
