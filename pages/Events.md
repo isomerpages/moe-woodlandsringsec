@@ -4,7 +4,17 @@ permalink: /events/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h3><strong>WOODLANDS RING SECONDARY SCHOOL</strong><br><strong>N-LEVEL RESULTS 2024 BRIEFING ANNOUNCEMENT</strong></h3>
+<hr>
+<p><strong>Dear Parents/Guardians and Students,</strong>
+</p>
+<p>We are pleased to inform you that the briefing for the <strong>N-Level Results 2024</strong> is
+now available. It contains important information regarding the release
+of results and guidance on post-secondary pathways.</p>
+<p><strong>To view the full briefing details, please click the link below:</strong>
+</p>
+<p>👉 <a href="/files/2024_N_Level_Results_Briefing_Students_Final.pdf" rel="noopener nofollow" target="_blank">N-Level Results 2024 Briefing</a>
+</p>
 <h3><strong>Release of GCE N-Level Examination Results on 16 December 2024</strong></h3>
 <p>As per press release on Mon, 9 Dec, school candidates will be receiving
 their GCE NA-Level and NT-Level results on <strong>Mon, 16 Dec from 2.00 pm.</strong>
