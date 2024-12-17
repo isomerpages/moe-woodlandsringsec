@@ -14,7 +14,7 @@ sections:
           url: /featured-posts
         - title: Sec 1 Registration 2025
           description: Click here for more info
-          url: ""
+          url: /secondary-1-registration-2025/
         - title: Events
           description: Click here for more info
           url: /events
