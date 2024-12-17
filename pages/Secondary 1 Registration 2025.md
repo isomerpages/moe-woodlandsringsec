@@ -21,8 +21,6 @@ School!</p>
 acceptance form will be sent to parents via Parents Gateway. Please complete
 your registration on the day your child/ward receives his/her secondary
 school posting result.</p>
-<p>Parents Gateway is currently experiencing downtime. A message will be
-sent to parents via Parents Gateway once it is up with the following details.</p>
 <hr>
 <h3><strong>Purchase of Books and Uniform</strong></h3>
 <p>To avoid a long waiting time, it is strongly recommended that you purchase
@@ -62,11 +60,6 @@ provided below:</p>
 <p>If you wish to submit a hardcopy application, please submit the necessary
 document by <strong>20 December</strong> and book your preferred time slot
 <a href="https://sites.google.com/moe.edu.sg/wrssreg2025" rel="noopener" target="_new">here</a>.</p>
-<hr>
-<h3><strong>Information on Sec 1 Orientation</strong></h3>
-<p>Please <a href="#" rel="noopener" target="_blank">click here</a> for important
-information regarding the Sec 1 Orientation. <em>(Yi Wen to provide link)</em>
-</p>
 <hr>
 <h3><strong>Other Useful Links</strong></h3>
 <p><strong>Transfer / Appeal into WRS</strong>
