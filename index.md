@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to Woodlands Ring Secondary School
 sections:
   - hero:
-      background: /images/Sec_1_Hero_Banner_MODIFIED.png
+      background: /images/Banners/Sec_1_Hero_Banner_MODIFIED_1.png
       key_highlights:
         - title: Featured Posts
           description: Click here for more info
