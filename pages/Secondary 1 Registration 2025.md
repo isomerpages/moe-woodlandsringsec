@@ -47,7 +47,7 @@ school, students will be allowed to wear PE attire, or primary school uniform
 in lieu of their secondary school uniform for the first few weeks of the
 school term.</p>
 <hr>
-<h3><strong>New Financial Assistance Scheme (FAS) Application</strong></h3>
+<h3><strong>Financial Assistance Scheme (FAS) Application</strong></h3>
 <p>You are encouraged to submit your application online through the links
 provided below:</p>
 <ul data-tight="true" class="tight">
