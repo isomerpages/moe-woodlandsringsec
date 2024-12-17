@@ -6,10 +6,11 @@ description: ""
 image: /images/Banners/Sec_1_Reg_jpg.png
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/Sec_1_Reg_jpg.png">
-</div>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Hero_Banner_MODIFIED_2.png">
+</div>
 <p><strong>Dear Parents/Guardians,</strong>
 </p>
 <p>Congratulations on your child’s/ward’s posting to Woodlands Ring Secondary
