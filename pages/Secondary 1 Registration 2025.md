@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 image: /images/Banners/Sec_1_Reg_jpg.png
 ---
-<p></p>
+<h3></h3>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -86,6 +86,26 @@ document by <strong>20 December</strong> and book your preferred time slot
 <li>
 <p><a href="https://www.woodlandsringsec.moe.edu.sg/important-information/partners/psg/" rel="noopener" target="_new">Click here</a> to
 find out more about our PSG activities.</p>
+</li>
+</ul>
+<hr>
+<h3><strong>First day of school on 2 January 2025</strong></h3>
+<ul>
+<li>
+<p>Reporting time: 9.00 a.m.</p>
+</li>
+<li>
+<p>Address: 21 Woodlands Avenue 1 Singapore 739062</p>
+</li>
+<li>
+<p>Attire: School uniform (without tie)</p>
+</li>
+<li>
+<p>Venue: School hall</p>
+</li>
+<li>
+<p>Things to bring: School bag containing water bottle, writing materials,
+a storybook and pocket money for recess.</p>
 </li>
 </ul>
 <hr>
