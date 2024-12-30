@@ -4,6 +4,18 @@ permalink: /events/
 description: ""
 variant: tiptap
 ---
+<h3><strong>WOODLANDS RING SECONDARY SCHOOL</strong><br><strong>School Uniform Information - 2024 Announcement</strong></h3>
+<hr>
+<p>Dear Parents/Guardians and Students,</p>
+<p>We are pleased to inform you that details regarding the <strong>2024 School Uniform Sales Schedule</strong> are
+now available. It includes important information on selling dates, timings,
+and specific arrangements for FAS and S1 students.</p>
+<p>To view the full uniform sales schedule and additional information, please
+click the link below:</p>
+<p>👉 <strong><a href="#" rel="noopener" target="_blank">2024 School Uniform Sales Schedule</a></strong>
+</p>
+<p>Thank you!</p>
+<p></p>
 <h3><strong>WOODLANDS RING SECONDARY SCHOOL</strong><br><strong>N-LEVEL RESULTS 2024 BRIEFING ANNOUNCEMENT</strong></h3>
 <hr>
 <p><strong>Dear Parents/Guardians and Students,</strong>
@@ -13,7 +25,7 @@ now available. It contains important information regarding the release
 of results and guidance on post-secondary pathways.</p>
 <p><strong>To view the full briefing details, please click the link below:</strong>
 </p>
-<p>👉 <a href="/files/2024_N_Level_Results_Briefing_Students_Final.pdf" rel="noopener nofollow" target="_blank">N-Level Results 2024 Briefing</a>
+<p>👉 <a href="https://woodlandsringsecondary.sg/wrss-uniform-sales-2024/" rel="noopener nofollow" target="_blank">2024 School Uniform Sales Schedule</a>
 </p>
 <h3><strong>Release of GCE N-Level Examination Results on 16 December 2024</strong></h3>
 <p>As per press release on Mon, 9 Dec, school candidates will be receiving
