@@ -15,7 +15,7 @@ contacts:
   - content:
       - phone: +65 6364 3712
       - email: wrss@moe.edu.sg
-      - other: "Nearest MRT Station : Marsling"
+      - other: "Nearest MRT Station : Marsiling"
     title: General Enquiries & Feedback
   - content:
       - phone: ""
