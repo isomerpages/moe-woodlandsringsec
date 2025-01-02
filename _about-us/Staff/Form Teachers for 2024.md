@@ -5,10 +5,14 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<p><strong>Form Teachers for 2024</strong>
+<p><strong>Form Teachers for 2025</strong>
 </p>
 <h4><strong>Year Heads for Lower Secondary</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,10 +24,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kheng Kok Seong (YH)</p>
+<p>Mrs Koh-Teh Yi Wen (YH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kheng_kok_seong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kheng_kok_seong@moe.edu.sg</a>
+<p><a href="mailto:teh_yi_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_yi_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +51,12 @@ variant: tiptap
 </tbody>
 </table>
 <h5><strong>Form Teachers for Secondary 1</strong></h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -231,7 +240,12 @@ variant: tiptap
 </tbody>
 </table>
 <h5><strong>Form Teachers for Secondary 2</strong></h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -391,7 +405,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Year Heads for Upper Secondary</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -430,7 +448,12 @@ variant: tiptap
 </tbody>
 </table>
 <h5><strong>Form Teachers for Secondary 3</strong></h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -638,7 +661,12 @@ variant: tiptap
 </tbody>
 </table>
 <h5><strong>Form Teachers for Secondary 4 and 5</strong></h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
