@@ -4,6 +4,23 @@ permalink: /featured-posts/
 description: ""
 variant: markdown
 ---
+# Release of GCE O-Level Examination Results on 10 Jan 2025
+
+As per press release on Fri, 3 Jan, school candidates will be receiving their GCE O-Level results on **Fri, 10 Jan from 2.30 pm.**
+
+<p>School candidates are to return to school (**21 Woodlands Ave 1, Singapore 739062**) and assemble in the school hall by 2.20 pm, **respectfully attired** in their **full school uniform**. Parents/guardians may accompany their child/ward to the school to collect their results.
+School candidates who are unable to collect their results in person should inform the school/form teacher via email. They can appoint a proxy to collect a physical copy of their results on their behalf. In the email to the school/form teacher, please indicate the following:
+<br>
+o&nbsp;&nbsp; Full Name of Proxy
+<br>
+o&nbsp;&nbsp; Last 4 character of the Proxy’s identification number (eg. SXXX0456)
+
+Proxies must be above 21 years old, and he/she will be required to produce the relevant documents for the school’s verification when collecting the result.
+
+**Resources for Parents**<br>
+Please refer to the website link below for some useful resources for social and emotional support for your child.<br>
+[https://go.gov.sg/selresforparents](https://go.gov.sg/selresforparents)
+
 ### Rebuilding of Woodlands Ring Secondary School
 
 In February 2022, it is shared that the upgrading plans of Woodlands Ring Secondary School (WRSS) would coincide with the merger of the school with Fuchun Secondary School (FCSS) in Jan 2025 and that the merged school would operate at FCSS during the upgrading. 
@@ -26,7 +43,7 @@ Imagine stepping into Elias's house in The Forest. Time seems to be suspended in
 ![](/images/wrs2.jpg)
 去年年底假期间，辅廉中学37名同学参加了学校举办海外学习之旅。这次学习之旅包括去上海、平湖以及苏州等地去接触当地的人文文化。在这7天里学生不但有机会见识到中国的科技发展进度，也加深了他们对中国历史文化的认识。<a href="/news-and-events/wrs-in-the-news/chinese/">[more]</a>
 
-<h3>Applied Learning Programme</h3>
+</p><h3>Applied Learning Programme</h3>
 
 <strong>The Robotics Education and Enterprise (TREE)</strong>
 
