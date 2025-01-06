@@ -4,7 +4,6 @@ permalink: /featured-posts/
 description: ""
 variant: markdown
 ---
-     
 # Release of GCE O-Level Examination Results on 10 Jan 2025
 
 As per press release on Fri, 3 Jan, school candidates will be receiving their GCE O-Level results on **Fri, 10 Jan from 2.30 pm.**
