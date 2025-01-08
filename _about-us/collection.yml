@@ -7,9 +7,10 @@ collections:
       - School History.md
       - School Song.md
       - School Emblem.md
+      - Staff/.keep
       - Staff/School Leaders and Key Personnel.md
       - Staff/Form Teachers for 2025.md
-      - Staff/.keep
+      - Academic Staff/.keep
       - Academic Staff/Aesthetics.md
       - Academic Staff/Craft & Technology.md
       - Academic Staff/English Language & Literature.md
@@ -19,5 +20,4 @@ collections:
       - Academic Staff/CPA.md
       - Academic Staff/Physical Education.md
       - Academic Staff/Science.md
-      - Academic Staff/.keep
       - Administrative & Support Staff.md
