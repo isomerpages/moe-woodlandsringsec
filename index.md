@@ -12,7 +12,7 @@ sections:
         - title: Featured Posts
           description: Click here for more info
           url: /featured-posts
-        - title: Sec 1 Registration 2025
+        - title: Sec 1 CCA Trial Selection 2025
           description: Click here for more info
           url: /secondary-1-registration-2025/
         - title: Events
