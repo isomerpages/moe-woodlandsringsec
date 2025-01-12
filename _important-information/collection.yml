@@ -2,10 +2,10 @@ collections:
   important-information:
     output: true
     order:
-      - For Students/CCA Matters.md
       - For Students/.keep
       - For Students/School Uniform.md
       - For Students/Class Timetable.md
+      - For Students/CCA Matters.md
       - For Students/Booklist 2025.md
       - For Students/2025 Sec 3 Class and Subject Allocation Results.md
       - For Students/Useful Links.md
