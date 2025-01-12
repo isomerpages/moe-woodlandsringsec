@@ -14,7 +14,7 @@ sections:
           url: /featured-posts
         - title: Sec 1 CCA Trial Selection 2025
           description: Click here for more info
-          url: /secondary-1-registration-2025/
+          url: /cca-matters/
         - title: Events
           description: Click here for more info
           url: /events
