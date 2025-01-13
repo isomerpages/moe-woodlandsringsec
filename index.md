@@ -4,7 +4,8 @@ title: Woodlands Ring Secondary School
 description: Brief site description here
 image: /images/logo.gif
 permalink: /
-notification: Welcome to Woodlands Ring Secondary School
+notification: "[Site Update] Slides from the Secondary 1 Evening With Parents
+  can be found under Important Information>For Parents"
 sections:
   - hero:
       background: /images/homepg banner hires2.gif
@@ -12,9 +13,9 @@ sections:
         - title: Featured Posts
           description: Click here for more info
           url: /featured-posts
-        - title: Sec 1 Registration 2025
+        - title: Sec 1 CCA Trial Selection 2025
           description: Click here for more info
-          url: /secondary-1-registration-2025/
+          url: /cca-matters/
         - title: Events
           description: Click here for more info
           url: /events

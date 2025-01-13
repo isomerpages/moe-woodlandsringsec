@@ -134,6 +134,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sivakumar Murugaya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sivakumar_murugaya@moe.edu.sg" rel="noopener nofollow" target="_blank">sivakumar_murugaya@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
