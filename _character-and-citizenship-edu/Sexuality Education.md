@@ -126,9 +126,8 @@ skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
-family values are the key messages. Please click <u>here</u> (please upload
-eTeens Programme and insert a hyperlink for parents to view/ download the
-file) for more details on the eTeens programme.</p>
+family values are the key messages. Please click <a href="/files/Sexuality Education/8__Sec_3_eTeens_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+more details on the eTeens programme.</p>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
