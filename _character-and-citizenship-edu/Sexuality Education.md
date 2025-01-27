@@ -145,5 +145,5 @@ at the start of the year and is also downloadable <a href="/files/Sexuality Educ
 &nbsp;The completed form is to be submitted by 10/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 63643712 or email Mrs Lyn Chuah, Sexuality Education Coordinator, at
-<a href="mailto: ng_lih_yng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lih_yng@moe.edu.sg</a>for discussion or to seek clarification about
+<a href="mailto:ng_lih_yng@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_lih_yng@moe.edu.sg</a>for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
