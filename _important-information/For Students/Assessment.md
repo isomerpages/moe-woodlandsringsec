@@ -15,25 +15,16 @@ third_nav_title: For Students
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Schedule</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Topics</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Assessment/Sec_1_WA_1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Assessment/Sec_1_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,10 +32,12 @@ third_nav_title: For Students
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Assessment/Sec_2_WA_1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Assessment/Sec_2_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,10 +45,12 @@ third_nav_title: For Students
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Assessment/Sec_3_WA_1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Assessment/Sec_3_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -63,10 +58,12 @@ third_nav_title: For Students
 <p>Secondary 4/5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Assessment/Sec_4_5_WA_1_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Assessment/Sec_4_5_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
 </td>
 </tr>
 </tbody>
