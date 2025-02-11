@@ -23,7 +23,7 @@ third_nav_title: For Students
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Sec_1_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/Sec_1_WA_1_TOS_10_Feb.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ third_nav_title: For Students
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Sec_2_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/Sec_2_WA_1_TOS_10_Feb.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
@@ -62,7 +62,7 @@ third_nav_title: For Students
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Sec_4_5_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/Sec_4_5_WA_1_TOS_10_Feb.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
