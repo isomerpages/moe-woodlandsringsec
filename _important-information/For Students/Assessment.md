@@ -58,7 +58,7 @@ third_nav_title: For Students
 <p>Secondary 4/5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Sec_4_5_WA_1_Schedule_2025_5_Feb.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/Sec_4_5_WA_1_Schedule_2025_10_Feb_v2.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
