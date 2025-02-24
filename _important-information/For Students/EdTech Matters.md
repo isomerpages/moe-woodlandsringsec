@@ -234,10 +234,22 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Aliff Sharil Bin Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aliff_sharil_zakariah@moe.edu.sg" rel="noopener nofollow" target="_blank">aliff_sharil_zakariah@moe.edu.sg </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Logindran A/L Balachandran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -245,21 +257,10 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Marcelle Kwan Mun Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
