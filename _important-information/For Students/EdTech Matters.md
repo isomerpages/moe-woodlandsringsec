@@ -126,7 +126,8 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/EdTech/DR4___Student_Device_Information_Kit_2025.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit</a>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>This slide deck contains details on:</p>
@@ -167,18 +168,34 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/EdTech/Responsibility___Part_1.pdf" rel="noopener nofollow" target="_blank">Responsibility (Part 1)</a>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Care for your iPad</p>
+</li>
+<li>
+<p>Warranty and insurance details</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/EdTech/Responsibility___Part_2.pdf" rel="noopener nofollow" target="_blank">Responsibility (Part 2)</a>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Usernames and passwords</p>
+</li>
+<li>
+<p>Use of school devices</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
