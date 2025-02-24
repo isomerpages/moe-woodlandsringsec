@@ -211,14 +211,37 @@ third_nav_title: For Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Email Address</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_teck_kwan_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_teck_kwan_nicholas@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
