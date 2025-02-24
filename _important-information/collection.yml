@@ -2,15 +2,15 @@ collections:
   important-information:
     output: true
     order:
-      - For Students/EdTech Matters.md
-      - For Students/Assessment.md
       - For Students/.keep
-      - For Students/School Uniform.md
-      - For Students/Class Timetable.md
-      - For Students/CCA Matters.md
+      - For Students/Assessment.md
       - For Students/Booklist 2025.md
-      - For Students/2025 Sec 3 Class and Subject Allocation Results.md
+      - For Students/CCA Matters.md
+      - For Students/Class Timetable.md
+      - For Students/EdTech Matters.md
+      - For Students/School Uniform.md
       - For Students/Useful Links.md
+      - For Students/2025 Sec 3 Class and Subject Allocation Results.md
       - For Parents/Evening With Parents.md
       - For Parents/.keep
       - For Parents/Parents Gateway.md
