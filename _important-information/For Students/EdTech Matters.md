@@ -240,7 +240,7 @@ third_nav_title: For Students
 <p>Mr Aliff Sharil Bin Zakariah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aliff_sharil_zakariah@moe.edu.sg" rel="noopener nofollow" target="_blank">aliff_sharil_zakariah@moe.edu.sg </a>
+<p><a href="mailto:aliff_sharil_zakariah@moe.edu.sg" rel="noopener nofollow" target="_blank">aliff_sharil_zakariah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
