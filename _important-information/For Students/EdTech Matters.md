@@ -70,11 +70,12 @@ third_nav_title: For Students
 </ul>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/files/EdTech/MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">Self-Service Password Reset Guide</a>
+</p>
 <p>Forgot password? Approach your form teachers.</p>
 <p><a href="mailto:chua_teck_kwan_nicholas@moe.edu.sg" rel="noopener nofollow" target="_blank">Other issues?</a>
 </p>
-<p><a href="/files/EdTech/MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">Self-Service Password Reset Guide</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
