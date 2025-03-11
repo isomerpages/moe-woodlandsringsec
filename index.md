@@ -2,7 +2,7 @@
 layout: homepage
 title: Woodlands Ring Secondary School
 description: Brief site description here
-image: /images/logo.gif
+image: /images/Crest_Only.png
 permalink: /
 notification: "[Site Update] Slides from the Secondary 1 Evening With Parents
   can be found under Important Information>For Parents"
