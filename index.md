@@ -4,8 +4,8 @@ title: Woodlands Ring Secondary School
 description: Brief site description here
 image: /images/Crest_Only.png
 permalink: /
-notification: "[Site Update] Slides from the Secondary 1 Evening With Parents
-  can be found under Important Information>For Parents"
+notification: "[Site Update] We have a new School Crest! Read more about it
+  under About Us>School Crest!"
 sections:
   - hero:
       background: /images/homepg banner hires2.gif
@@ -13,9 +13,9 @@ sections:
         - title: Featured Posts
           description: Click here for more info
           url: /featured-posts
-        - title: Sec 1 CCA Trial Selection 2025
+        - title: Our new school crest!
           description: Click here for more info
-          url: /cca-matters/
+          url: about-us/school-crest/
         - title: Events
           description: Click here for more info
           url: /events
