@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Tan Pek Gek (Joanne Chen Biyu)</p>
+<p>Ms Joanne Tan Pek Gek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education and Career Guidance Counsellor</p>
