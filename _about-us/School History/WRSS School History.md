@@ -1,8 +1,9 @@
 ---
-title: School History
+title: WRSS School History
 permalink: /about-us/school-history/
 description: ""
 variant: markdown
+third_nav_title: School History
 ---
 ### **School History**
 #### **A Brief History**
