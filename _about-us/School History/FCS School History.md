@@ -53,35 +53,15 @@ cherished teacher and Vice-Principal Miss Aileen Lau, who was battling
 cancer. This inspired her to write the poem ‘One Thousand Paper Cranes’
 that was later published in her collection of poems ‘Face to Faith’ and
 recited on a programme.</p>
-<p><strong>One Thousand Paper Cranes<br></strong>By Miss Aileen Lau
-<br>One thousand paper cranes
-<br>You said the class would make.
-<br>I smiled at your earnestness.
-<br>“That’s the number for good luck
-<br>According to a Japanese legend,”
-<br>You piped on:
-<br>“And cranes symbolise long life.”
-<br>That touched me to the core –
-<br>Having been twice struck by cancer.
-<br>“We will make you one thousand cranes!”
-<br>“You will get better,”
-<br>You promised with all your might.</p>
-<p>At home recuperating, I imagine
-<br>All forty-two pairs of hands busy
-<br>Manly hands cutting tiny squares of colour
-<br>Under the dark brown desks
-<br>While heads look up in attention
-<br>And gentle caring feminine fingers
-<br>Folding each square intricately
-<br>To form the delicate crane</p>
-<p>A visit for Teachers’ Day
-<br>And I’m given a big yellow bag.
-<br>Opening it I find
-<br>One thousand tiny colourful paper cranes.
-<br>My eyes filled with tears
-<br>You kept your promise.
-<br>My heart bursts with hope
-<br>I will get better.</p>
+<blockquote>
+<p><strong>One Thousand Paper Cranes<br></strong>
+<br><sup>One thousand paper cranes <br>You said the class would make. <br>I smiled at your earnestness. <br>“That’s the number for good luck <br>According to a Japanese legend,” <br>You piped on: <br>“And cranes symbolise long life.” <br>That touched me to the core – <br>Having been twice struck by cancer. <br>“We will make you one thousand cranes!” <br>“You will get better,” <br>You promised with all your might.</sup>
+</p>
+<p><sup>At home recuperating, I imagine <br>All forty-two pairs of hands busy <br>Manly hands cutting tiny squares of colour <br>Under the dark brown desks <br>While heads look up in attention <br>And gentle caring feminine fingers <br>Folding each square intricately <br>To form the delicate crane</sup>
+</p>
+<p><sup>A visit for Teachers’ Day <br>And I’m given a big yellow bag. <br>Opening it I find <br>One thousand tiny colourful paper cranes. <br>My eyes filled with tears <br>You kept your promise. <br>My heart bursts with hope <br>I will get better.</sup>
+</p>
+</blockquote>
 <p>Fuchun and Mrs Ngiam were featured in the maiden issue of the ‘Care Connection’,
 a newsletter published by the Pastoral Care and Career Guidance Section
 of the Ministry of Education. The article had a headline that read “You
@@ -141,13 +121,8 @@ Fuchun Symphonica II.</p>
 to the school. This Creed was conceptualized by the student leaders and
 refined by the teachers.</p>
 <blockquote>
-<p><strong>Our Student Creed<br></strong>We are Fuchun students, special
-and unique.
-<br>We are compassionate, caring and upright.
-<br>We respect others and myself.
-<br>We are diligent and seek to excel.
-<br>We are loyal to our school and nation.
-<br>We are Fuchun students and this is our Creed.</p>
+<p><strong>Our Student Creed<br></strong><sup>We are Fuchun students, special and unique. <br>We are compassionate, caring and upright. <br>We respect others and myself. <br>We are diligent and seek to excel. <br>We are loyal to our school and nation. <br>We are Fuchun students and this is our Creed.</sup>
+</p>
 </blockquote>
 <p><strong>2004<br></strong>The school launched the CDP (Character Development
 Programme).</p>
