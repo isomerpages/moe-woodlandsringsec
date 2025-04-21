@@ -32,7 +32,7 @@ third_nav_title: For Students
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2025/Sec_2_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA2 2025/Sec_2_WA_2_Schedule_16_April_2025.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +45,7 @@ third_nav_title: For Students
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2025/Sec_3_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA2 2025/Sec_3_WA_2_Schedule_16_April_2025.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,7 +58,7 @@ third_nav_title: For Students
 <p>Secondary 4/5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2025/Sec_4_5_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA2 2025/Sec_4_5_WA_2_Schedule_final_16_April_2025_final.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,3 +69,6 @@ third_nav_title: For Students
 </tbody>
 </table>
 <p></p>
+<h4>[Sec 4/5] O Level Mother Tongue Prelim</h4>
+<p><a href="/files/Assessment/Prelim/MT_Prelim_2025.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
