@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - School History/School History.md
+      - School History/WRSS School History.md
       - School History/.keep
       - Principal's Message.md
       - Mission, Vision, Values.md
