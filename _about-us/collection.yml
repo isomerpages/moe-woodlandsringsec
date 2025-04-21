@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School History/FCS School History.md
-      - School History/WRSS School History.md
       - School History/.keep
+      - School History/WRSS School History.md
+      - School History/FCS School History.md
       - Principal's Message.md
       - Mission, Vision, Values.md
       - School Crest.md
