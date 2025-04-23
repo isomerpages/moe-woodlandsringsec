@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/.keep
       - Principal's Message.md
       - Mission, Vision, Values.md
       - School Crest.md
