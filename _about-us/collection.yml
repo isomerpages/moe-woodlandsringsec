@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Adminstrative staff/.keep
       - Staff/.keep
       - Principal's Message.md
       - Mission, Vision, Values.md
