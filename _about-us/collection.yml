@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff/.keep
       - Principal's Message.md
       - Mission, Vision, Values.md
       - School Crest.md
@@ -13,14 +12,4 @@ collections:
       - Our People/.keep
       - Our People/School Leaders and Key Personnel.md
       - Our People/Form Teachers for 2025.md
-      - Academic Staff/.keep
-      - Academic Staff/Craft & Technology.md
-      - Academic Staff/CPA.md
-      - Academic Staff/English Language & Literature.md
-      - Academic Staff/Humanities.md
-      - Academic Staff/Mathematics.md
-      - Academic Staff/Mother Tongue.md
-      - Academic Staff/Music.md
-      - Academic Staff/Physical Education.md
-      - Academic Staff/Science.md
       - Administrative & Support Staff.md
