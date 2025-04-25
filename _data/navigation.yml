@@ -1,0 +1,81 @@
+logo: /images/Crest_Only.png
+links:
+  - title: About Us
+    url: /about-us/mission-vision-values/
+    sublinks:
+      - title: Principal's Message
+        url: /principals-message/
+      - title: Mission, Vision, Values
+        url: /about-us/mission-vision-values/
+      - title: School History
+        url: /about-us/school-history/
+      - title: School Song
+        url: /about-us/school-song/
+      - title: School Emblem
+        url: /about-us/school-emblem/
+      - title: Staff
+        url: /about-us/staff/
+      - title: Academic Staff
+        url: /about-us/academic-staff/
+      - title: Admin Staff & Support Staff
+        url: /about-us/administrative-staff-and-support-staff/
+      - title: Contact Us
+        url: /contact-us/
+  - title: Achievements
+    url: /achievements/school-awards/
+    sublinks:
+      - title: School Awards
+        url: /achievements/school-awards/
+      - title: Lee Kuan Yew Special Awards
+        url: /achievements/lky-special-awards/
+      - title: Awards for Alumni
+        url: /achievements/awards-for-alumni/
+      - title: Soldier of the Year
+        url: /achievements/soldier-of-the-year/
+      - title: Science Talent Dev. Programme
+        url: /achievements/Science-Talent-Dev-Programme/
+      - title: Humanities Talent Dev Program
+        url: /achievements/humanities-talent-dev-program/
+  - title: WRS Student Experience
+    url: /wrs-student-experience/academic-learning/
+    sublinks:
+      - title: Academic Learning
+        url: /wrs-student-experience/academic-learning/
+      - title: CCE
+        url: /wrs-student-experience/cce/
+      - title: Global Classroom Experience
+        url: /wrs-student-experience/global-classroom-experience/
+      - title: Applied Learning Programme
+        url: /wrs-student-experience/alp/
+      - title: CCA
+        url: /wrs-student-experience/cca/
+      - title: Learning for Life Programme
+        url: /wrs-student-experience/llp/
+      - title: Aesthetics Education Programme
+        url: /wrs-student-experience/aesthetics-education-programme/
+  - title: Important Information
+    url: /important-information/for-students/
+    sublinks:
+      - title: For Students
+        url: /important-information/for-students/
+      - title: For Parents
+        url: /important-information/for-parents/
+      - title: Partners
+        url: /important-information/partners/
+  - title: News & Events
+    url: /news-and-events/wrs-in-the-news/
+    sublinks:
+      - title: WRS on Social Media
+        url: /news-and-events/wrs-in-social-media/facebook/
+      - title: Activities in 2019
+        url: /news-and-events/2019/
+      - title: Activities in 2020
+        url: /news-and-events/2020/
+      - title: Activities in 2021
+        url: /news-and-events/2021/
+      - title: Activities in 2022
+        url: /news-and-events/2022/
+      - title: Activities in 2023
+        url: /news-and-events/2023/
+  - title: Direct School Admission (SEC)
+    url: /dsa/
