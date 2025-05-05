@@ -2,7 +2,7 @@
 title: School Leaders and Key Personnel
 permalink: /about-us/staff/
 description: ""
-third_nav_title: Staff
+third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>School Leaders and Key Personnel</strong></h3>

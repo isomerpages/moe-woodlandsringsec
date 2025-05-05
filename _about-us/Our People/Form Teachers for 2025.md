@@ -2,7 +2,7 @@
 title: Form Teachers for 2025
 permalink: /about-us/staff/form-teachers/
 description: ""
-third_nav_title: Staff
+third_nav_title: Our People
 variant: tiptap
 ---
 <p><strong>Form Teachers for 2025</strong>
