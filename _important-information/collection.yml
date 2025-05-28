@@ -2,13 +2,13 @@ collections:
   important-information:
     output: true
     order:
-      - For Students/Holiday Assignments.md
       - For Students/.keep
       - For Students/Assessment.md
       - For Students/Booklist 2025.md
       - For Students/CCA Matters.md
       - For Students/Class Timetable.md
       - For Students/EdTech Matters.md
+      - For Students/Holiday Assignments.md
       - For Students/School Uniform.md
       - For Students/Useful Links.md
       - For Parents/.keep
