@@ -3,7 +3,6 @@ title: 2025 Sec 3 Class and Subject Allocation Results
 permalink: /important-information/for-students/2025-sec-3-class-and-subject-allocation-results/
 variant: tiptap
 description: ""
-third_nav_title: For Students
 ---
 <h4><strong>2025 Sec 3 Class and Subject Allocation Results</strong></h4>
 <p><strong>Links and QR codes to 2025 Sec 3 Subject Combination Allocation Results</strong>
