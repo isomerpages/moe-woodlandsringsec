@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - 2025 Sec 3 Class and Subject Allocation Results.md
       - 2024 June Holiday Learning Tasks.md
       - 2024 June Supplementary Lesson Timetable.md
       - testing.md
