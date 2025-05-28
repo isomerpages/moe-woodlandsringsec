@@ -1,6 +1,6 @@
 ---
-title: Holiday Assignments
-permalink: /holiday-assignments/
+title: Holiday Learning Tasks
+permalink: /holiday-learning-tasks/
 variant: tiptap
 description: ""
 third_nav_title: For Students
