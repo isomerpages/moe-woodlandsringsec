@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - For Students/Holiday Assignments.md
       - For Students/.keep
       - For Students/Assessment.md
       - For Students/Booklist 2025.md
