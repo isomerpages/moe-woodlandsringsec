@@ -290,18 +290,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH / English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nor Lizawati Mohd Tahir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nor_lizawati_mohd_tahir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_lizawati_mohd_tahir@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
