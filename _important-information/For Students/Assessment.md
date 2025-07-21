@@ -6,7 +6,7 @@ description: ""
 third_nav_title: For Students
 ---
 <h1>Assessment Matters 2025</h1>
-<h4>Preliminary Examinations </h4>
+<h4>Preliminary Examinations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,4 +42,6 @@ third_nav_title: For Students
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Weighted Assessment 3</p>
 <p></p>
