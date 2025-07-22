@@ -6,7 +6,7 @@ description: ""
 third_nav_title: For Students
 ---
 <h1>Assessment Matters 2025</h1>
-<h4>Preliminary Examinations </h4>
+<h4>Preliminary Examinations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -37,6 +37,56 @@ third_nav_title: For Students
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/Prelim/4NT_2025_Prelim_6_June_Final.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Weighted Assessment 3</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2025/Sec_1_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2025/Sec_1_WA_3_Topics_Skills.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2025/Sec_2_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2025/Sec_2_WA_3_Topics_Skills.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2025/Sec_3_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2025/Sec_3_WA_3_Topics_Skills.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
