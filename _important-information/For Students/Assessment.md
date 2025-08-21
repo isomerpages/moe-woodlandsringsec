@@ -18,7 +18,9 @@ third_nav_title: For Students
 <p>4 Express / 5 Normal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Prelim/4E5NA_2025_Prelim_6_June_Final.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/Prelim/4E5NA_2025_Prelim_12_Aug.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+<p><a href="/files/Assessment/Prelim/4E5NA_2025_Prelim_4_NA_SBB_12_Aug.pdf" rel="noopener nofollow" target="_blank">Timetable (for 4NA SBB Students)</a>
 </p>
 </td>
 </tr>
