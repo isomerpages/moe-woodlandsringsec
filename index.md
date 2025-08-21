@@ -8,7 +8,7 @@ notification: "[Site Update] We have a new School Crest! Read more about it
   under About Us>School Crest!"
 sections:
   - hero:
-      background: /images/Banners/NewSchFacade3.jpg
+      background: /images/Banners/Facade3.png
       key_highlights:
         - title: Featured Posts
           description: Click here for more info
