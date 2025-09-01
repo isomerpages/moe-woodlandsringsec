@@ -1,8 +1,9 @@
 ---
 title: Administrative & Support Staff
-permalink: /about-us/administrative-staff-and-support-staff/
+permalink: /about-us/staff/administrative-staff-and-support-staff/
 description: ""
 variant: tiptap
+third_nav_title: Our People
 ---
 <h3><strong>Administrative and Support Staff</strong></h3>
 <table style="minWidth: 75px">
