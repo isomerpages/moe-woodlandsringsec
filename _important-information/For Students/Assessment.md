@@ -45,10 +45,9 @@ third_nav_title: For Students
 </tbody>
 </table>
 <p></p>
-<h4>Weighted Assessment 3</h4>
-<table style="minWidth: 75px">
+<h4>End of Year Examinations</h4>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -58,11 +57,7 @@ third_nav_title: For Students
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA3 2025/Sec_1_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA3 2025/Sec_1_WA_3_Topics_Skills.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/EOY 2025/Sec_1_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 </tr>
@@ -71,24 +66,34 @@ third_nav_title: For Students
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA3 2025/Sec_2_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA3 2025/Sec_2_WA_3_Topics_Skills.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/EOY 2025/Sec_2_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3</p>
+<p>Secondary 3 Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA3 2025/Sec_3_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/EOY 2025/Sec_3_Exp_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA3 2025/Sec_3_WA_3_Topics_Skills.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p>Secondary 3 Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/EOY 2025/Sec_3_NA_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3 Normal (Technical)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/EOY 2025/Sec_3_NT_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 </tr>
