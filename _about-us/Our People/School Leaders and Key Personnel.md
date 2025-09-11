@@ -56,7 +56,7 @@ variant: tiptap
 <p>Mr Kenneth Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kenneth_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_sim@moe.edu.sg</a>
+<p><a href="mailto:sim_kok_hian_kenneth@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_kok_hian_kenneth@moe.edu.sg</a>
 </p>
 </td>
 </tr>
