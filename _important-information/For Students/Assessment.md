@@ -46,8 +46,9 @@ third_nav_title: For Students
 </table>
 <p></p>
 <h4>End of Year Examinations</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -60,6 +61,10 @@ third_nav_title: For Students
 <p><a href="/files/Assessment/EOY 2025/Sec_1_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/EOY 2025/Sec_1_End_Of_Year_Examination_Topics.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -69,13 +74,24 @@ third_nav_title: For Students
 <p><a href="/files/Assessment/EOY 2025/Sec_2_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/EOY 2025/Sec_2_End_Of_Year_Examination_Topics.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secondary 3 Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_3_Exp_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/EOY 2025/Sec_3_Exp_EOY2025_15_Sept.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p><a href="/files/Assessment/EOY 2025/Sec_3_End_Of_Year_Examination_Topics.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
@@ -84,7 +100,7 @@ third_nav_title: For Students
 <p>Secondary 3 Normal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_3_NA_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/EOY 2025/Sec_3_NA_EOY2025_15_Sept.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 </tr>
