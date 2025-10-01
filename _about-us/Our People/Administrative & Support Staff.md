@@ -38,18 +38,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norasheedah Bte Mohammed Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norasheedah_mohammad_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norasheedah_mohammad_ali@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Ershah Bin Ahmad Khalil</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,14 +226,6 @@ third_nav_title: Our People
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ow Kok Kiat Jeremy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJ (SC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Juliana Menon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJ (SC)</p>
