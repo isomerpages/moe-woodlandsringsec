@@ -4,11 +4,10 @@ title: Woodlands Ring Secondary School
 description: Brief site description here
 image: /images/Crest_Only.png
 permalink: /
-notification: "[Site Update] We have a new School Crest! Read more about it
-  under About Us>School Crest!"
+notification: ""
 sections:
   - hero:
-      background: /images/Banners/Facade3.png
+      background: /images/Banners/2025OpenHseBanner.gif
       key_highlights:
         - title: Featured Posts
           description: Click here for more info
