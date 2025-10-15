@@ -22,5 +22,5 @@ sections:
           description: Click here for more details
           url: /contact-us/
       url: https://staging.d1zt0oshmgcgjg.amplifyapp.com/contact-us/
-      variant: center
+      variant: image
 ---
