@@ -849,7 +849,7 @@ details given by their subject teachers.</p>
 <p>23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Element of Business Skills</p>
+<p>Elements of Business Skills</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>✔</p>
