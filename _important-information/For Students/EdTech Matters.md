@@ -270,3 +270,6 @@ third_nav_title: For Students
 </tbody>
 </table>
 <p></p>
+<h4>ICT Hotline</h4>
+<p><a href="https://wa.me/message/HBGOQWAOADWTP1" rel="noopener nofollow" target="_blank">Message Us!</a>
+</p>
