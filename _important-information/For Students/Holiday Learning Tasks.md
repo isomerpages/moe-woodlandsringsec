@@ -6,9 +6,9 @@ description: ""
 third_nav_title: For Students
 ---
 <h3>2025 Year-End Holiday Learning Tasks</h3>
-<p>The subjects with assigned learning tasks for the June holidays are listed
-below. Parents, you may check with your child / ward on the specific details
-given by their subject teachers.</p>
+<p>The subjects with assigned learning tasks for the year-end holidays are
+listed below. Parents, you may check with your child / ward on the specific
+details given by their subject teachers.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Secondary 1</strong>
