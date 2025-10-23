@@ -15,7 +15,7 @@ sections:
         - title: Our new school crest!
           description: Click here for more info
           url: about-us/school-crest/
-        - title: Events
+        - title: Holiday Learning Tasks
           description: Click here for more info
           url: /events
         - title: Contact Us
