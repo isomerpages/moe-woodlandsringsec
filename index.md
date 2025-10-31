@@ -18,9 +18,9 @@ sections:
         - title: Holiday Learning Tasks
           description: Click here for more info
           url: /holiday-learning-tasks/
-        - title: Contact Us
-          description: Click here for more details
-          url: /contact-us/
+        - title: Booklist 2026
+          description: Click here for more info
+          url: /school-bookshop-and-school-attire/
       url: https://staging.d1zt0oshmgcgjg.amplifyapp.com/contact-us/
       variant: image
 ---
