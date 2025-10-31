@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners/School Bookshop and School Attire.md
-      - Our Partners/.keep
       - Principal's Message.md
       - Mission, Vision, Values.md
       - School Crest.md
@@ -14,6 +12,8 @@ collections:
       - Our People/School Leaders and Key Personnel.md
       - Our People/Form Teachers for 2025.md
       - Our People/Administrative & Support Staff.md
+      - Our Partners/.keep
+      - Our Partners/School Bookshop and School Attire.md
       - Academic Staff/.keep
       - Academic Staff/Craft & Technology.md
       - Academic Staff/CPA.md
