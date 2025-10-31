@@ -16,7 +16,7 @@ third_nav_title: Our Partners
 <br>Venue: <strong>At school premise only (WRSS Holding Site @ 21 Woodlands Avenue S739062)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1234567.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/823654.jpg">
 </div>
 <h3><strong><u>School Attire:</u></strong></h3>
 <blockquote>
