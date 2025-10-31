@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Partners
 ---
-<h3><strong><u>School Bookshop </u></strong></h3>
+<h3><strong><u>School Bookshop</u></strong></h3>
 <blockquote>
 <p>Vendor: Cozy Bookstore Pte Ltd
 <br>Contact: Sherry @ (Weekdays from 9.00am to 2.45pm)
