@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Partners/School Bookshop and School Attire.md
       - Our Partners/.keep
       - Principal's Message.md
       - Mission, Vision, Values.md
