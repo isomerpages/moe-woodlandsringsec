@@ -2,7 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - For Students/Booklist 2025.md
       - For Students/.keep
       - For Students/Assessment.md
       - For Students/CCA Matters.md
