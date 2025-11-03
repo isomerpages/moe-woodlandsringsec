@@ -23,7 +23,7 @@ third_nav_title: Bookshop & Uniform
 <br>Venue: <strong>At school premise only (WRSS Holding Site @ 21 Woodlands Avenue S739062)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/124.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Bookshop_timing.png">
 </div>
 <h3><strong><u>School Attire:</u></strong></h3>
 <blockquote>
@@ -38,7 +38,9 @@ enquiries)</p>
 <p><strong><u>Year End Sales Schedule</u></strong>
 <br>Venue: <strong>At school premise only (WRSS Holding Site @ 21 Woodlands Avenue S739062)</strong>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12345.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_attire_timing.png">
 </div>
 <p>&nbsp;</p>
