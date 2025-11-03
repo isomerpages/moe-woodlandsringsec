@@ -8,7 +8,7 @@ third_nav_title: Bookshop & Uniform
 <h3><strong><u>School Bookshop</u></strong></h3>
 <blockquote>
 <p>Vendor: Cozy Bookstore Pte Ltd
-<br>Contact: Sherry @ (Weekdays from 9.00am to 2.45pm)
+<br>Contact: Sherry @ 9328 0203 (Weekdays from 9.00am to 2.45pm)
 <br>
 <br>Booklist:
 <br><a href="/files/2026_Sec_1_Booklist___Final.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
