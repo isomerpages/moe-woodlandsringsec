@@ -2,7 +2,6 @@ collections:
   important-information:
     output: true
     order:
-      - School Bookshop and School Attire.md
       - For Students/Booklist 2026.md
       - For Students/.keep
       - For Students/Assessment.md
