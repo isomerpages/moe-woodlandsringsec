@@ -1,8 +1,8 @@
 ---
 title: School Advisory Committee
-permalink: /important-information/partners/
+permalink: /sac/
 description: ""
-third_nav_title: Partners
+third_nav_title: Our Partners
 variant: tiptap
 ---
 <h3><strong>School Advisory Committee</strong></h3>

@@ -1,13 +1,14 @@
 ---
 title: Alumni Committee
-permalink: /important-information/partners/alumni-committee/
+permalink: /alumni-committee/
 description: ""
-third_nav_title: Partners
+third_nav_title: Our Partners
+variant: tiptap
 ---
 ### **Alumni Committee**
-**Vision:**  Fostering Connections, Building Relationships
+**Vision:**&nbsp; Fostering Connections, Building Relationships
 
-**Mission:**   
+**Mission:**&nbsp;  
 * To be the bridge between the alumni and the school, enabling the alumni to continue to be a part of the WRS family.  
 * To give back to the school that taught them moral values and helped develop their character.  
 * To foster connections and build a network among the alumni.

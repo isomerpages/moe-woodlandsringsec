@@ -13,6 +13,8 @@ links:
         url: /about-us/school-crest/
       - title: Our People
         url: /about-us/staff/
+      - title: Our Partners
+        url: /sac/
       - title: Academic Staff
         url: /about-us/academic-staff/
       - title: Contact Us
@@ -56,8 +58,8 @@ links:
         url: /important-information/for-students/
       - title: For Parents
         url: /important-information/for-parents/
-      - title: Partners
-        url: /important-information/partners/
+      - title: Bookshop and Attire
+        url: /school-bookshop-and-school-attire/
   - title: News & Events
     url: /news-and-events/wrs-in-the-news/
     sublinks:

@@ -1,8 +1,8 @@
 ---
 title: Parents Support Group
-permalink: /important-information/partners/psg/
+permalink: /psg/
 description: ""
-third_nav_title: Partners
+third_nav_title: Our Partners
 variant: markdown
 ---
 ###  **Parents Support Group**

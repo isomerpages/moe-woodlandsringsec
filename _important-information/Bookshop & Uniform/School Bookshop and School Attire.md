@@ -3,7 +3,7 @@ title: School Bookshop and School Attire
 permalink: /school-bookshop-and-school-attire/
 variant: tiptap
 description: ""
-third_nav_title: Our Partners
+third_nav_title: Bookshop & Uniform
 ---
 <h3><strong><u>School Bookshop</u></strong></h3>
 <blockquote>
