@@ -134,18 +134,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tok Hong Da</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tok_hong_da@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tok_hong_da@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ang Shao Mei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,18 +194,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Hian Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_hian_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_hian_hua@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Elizabeth Tung Wai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,18 +201,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tung_wai_ling_elizabeth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tung_wai_ling_elizabeth@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ivy Ng Siew Lai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_siew_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siew_lai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
