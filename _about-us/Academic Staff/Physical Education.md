@@ -96,18 +96,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Quek Hian Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_hian_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quek_hian_hua@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
