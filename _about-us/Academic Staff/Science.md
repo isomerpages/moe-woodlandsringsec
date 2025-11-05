@@ -253,17 +253,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Syahirah Bte Rosli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>–</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Fauziah binte Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
