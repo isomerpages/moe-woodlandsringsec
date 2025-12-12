@@ -38,9 +38,7 @@ enquiries)</p>
 <p><strong><u>Year End Sales Schedule</u></strong>
 <br>Venue: <strong>At school premise only (WRSS Holding Site @ 21 Woodlands Avenue S739062)</strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_attire_timing.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Year_end_sale_12345.png">
 </div>
 <p>&nbsp;</p>
