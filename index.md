@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Banners/2025OpenHseBanner.gif
       key_highlights:
-        - title: Open House 2025
+        - title: Release of GCE N-Level Examination Results
           description: Click here for more info
-          url: /open-house
+          url: /release-of-gce-n-level-examination-results/
         - title: Our new school crest!
           description: Click here for more info
           url: about-us/school-crest/
