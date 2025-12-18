@@ -7,14 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/2025OpenHseBanner.gif
+      background: /images/Banners/Facade3.png
       key_highlights:
         - title: Release of GCE N-Level Examination Results
           description: Click here for more info
           url: /release-of-gce-n-level-examination-results/
-        - title: Our new school crest!
+        - title: Sec 1 Registration 2026
           description: Click here for more info
-          url: about-us/school-crest/
+          url: /welcome-to-woodlands-ring-secondary-school/
         - title: Holiday Learning Tasks
           description: Click here for more info
           url: /holiday-learning-tasks/
