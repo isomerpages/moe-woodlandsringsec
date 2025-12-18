@@ -100,6 +100,5 @@ strengths, and interests.</p>
 purchase the textbook after confirming the subjects they will be taking.
 For students who qualify for MDL subjects, a separate PG message regarding
 MDL subject(s) acceptance will be sent. &nbsp;</p>
-<p>&nbsp;For more information about Full SBB, please visit MOE’s website
-at <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">Secondary school experience under Full SBB.</a>
+<p>For more information about Full SBB, please visit MOE’s website at <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">Secondary school experience under Full SBB.</a>
 </p>
