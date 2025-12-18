@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec 1 Registration
 ---
-<h4><strong>Introduction</strong>&nbsp; </h4>
+<h4><strong>Introduction</strong>&nbsp;</h4>
 <p>MOE launched the National Digital Literacy Programme (NDLP) in March 2020
 for all schools to help students strengthen their digital literacy.&nbsp;</p>
 <p>One of the components of the NDLP is the introduction of the Personalised
