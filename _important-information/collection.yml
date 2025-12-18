@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - 2026 Sec 1 Registration/SBB Information.md
       - 2026 Sec 1 Registration/Welcome to Woodlands Ring Secondary School!.md
       - 2026 Sec 1 Registration/.keep
       - For Students/Release of GCE N Level Examination Results.md
