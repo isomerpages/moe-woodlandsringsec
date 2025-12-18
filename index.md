@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banners/2025OpenHseBanner.gif
+      background: /images/Banners/Facade3.png
       key_highlights:
         - title: Release of GCE N-Level Examination Results
           description: Click here for more info
