@@ -10,6 +10,8 @@ third_nav_title: Bookshop & Uniform
 <p>Contact: Sherry @ 9328 0203 (Weekdays from 9.00am to 2.45pm)</p>
 <p><a href="https://www.woodlandsringsec.moe.edu.sg/booklist/" rel="noopener nofollow" target="_blank">Booklist 2026</a>
 </p>
+<p><em>Note: Please ignore the schedule stated in the booklist and refer to the link further below on this site.</em>
+</p>
 <hr>
 <h4><strong>School Attire</strong></h4>
 <p>Vendor: Chop Kong Chong</p>
