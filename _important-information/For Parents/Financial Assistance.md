@@ -44,4 +44,11 @@ does not exceed $1,000 per month.
 year (For students taking public transport)</p>
 </li>
 </ul>
+<h4><strong>Application</strong></h4>
+<p>You may apply for the FAS via Parent Gateway (under ‘Services’) or click
+<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p></p>
+<p><strong>All Parents / Students who intend to apply for the FAS should wait for the confirmation of FAS status before purchasing any books or uniform.</strong> 
+</p>
 <p></p>
