@@ -18,7 +18,7 @@ third_nav_title: Bookshop & Uniform
 <p>Contact: 6753 1489 / 9077 2932 (WhatsApp text only for online sale enquiries)</p>
 <hr>
 <h4><strong>Schedule</strong></h4>
-<p>Click <a href="/files/Attire and Bookshop/Updated_Schedule_for_Sales_of_School_Uniform_and_Textbooks.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
+<p>Click <a href="/files/Attire and Bookshop/Updated_Schedule_for_Sales_of_School_Uniform_and_Textbooks.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 latest schedule.</p>
 <p></p>
 <p></p>
