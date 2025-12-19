@@ -49,6 +49,5 @@ year (For students taking public transport)</p>
 </ul>
 <h4><strong>Application</strong></h4>
 <p>You may apply for the FAS via Parent Gateway (under ‘Services’) or click
-<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
