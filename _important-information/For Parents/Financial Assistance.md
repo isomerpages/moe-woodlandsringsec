@@ -6,6 +6,9 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h2>MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS)</h2>
+<p><strong><em>Note: All Parents / Students who intend to apply for the FAS <u>should wait for the confirmation of FAS status before purchasing any books or uniform</u>. There will be no reimbursement or retrospective subsidies provided in respect of expenditure items provided under FAS.</em></strong>
+</p>
+<p></p>
 <h4><strong>Objective</strong></h4>
 <p>The objective of the MOE FAS is to help financially needy Singaporean
 students in Government and Government-aided schools to meet basic schooling
@@ -44,4 +47,7 @@ does not exceed $1,000 per month.
 year (For students taking public transport)</p>
 </li>
 </ul>
+<h4><strong>Application</strong></h4>
+<p>You may apply for the FAS via Parent Gateway (under ‘Services’) or click
+<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
