@@ -16,7 +16,7 @@ third_nav_title: For Students
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026_Sec_1_Booklist___Final.pdf" rel="noopener nofollow" target="_blank">Booklist</a>
+<p><a href="/files/Attire and Bookshop/2026_Sec_1_Booklist___Final.pdf" rel="noopener nofollow" target="_blank">Booklist</a>
 </p>
 </td>
 </tr>
