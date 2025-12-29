@@ -110,18 +110,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Curriculum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Swee Hoon Joyce</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_swee_hoon_joyce@moe.edu." rel="noopener noreferrer nofollow" target="_blank">lee_swee_hoon_joyce@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD / Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,19 +242,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rohizan Bte Talib</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rohizan_talib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rohizan_talib@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AYH (Lower Sec)</p>
+<p>AYH (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Elena Chong Siew Foong</p>
@@ -278,7 +254,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH (Upper Sec)</p>
+<p>AYH (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chung Yong Kai</p>
