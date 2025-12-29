@@ -65,7 +65,7 @@ variant: tiptap
 <p>Mr Chung Yong Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Upper Sec)</p>
+<p>AYH (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chung_yong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chung_yong_kai@moe.edu.sg</a>
@@ -122,18 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chung Yong Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chung_yong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chung_yong_kai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Farhanah Binte Samat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,18 +158,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Malcolm Tan Shih Lung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:malcolm_tan_shih_lung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malcolm_tan_shih_lung@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chew Tec Heng (Edwin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,18 +189,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chek_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_chek_soon@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wendy Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yong_wai_yoon@moe.edu.sg" rel="noopener nofollow" target="_blank">yong_wai_yoon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
