@@ -245,18 +245,6 @@ variant: tiptap
 <p>2R1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Han Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_han_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_han_yen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Rajeswari d/o Balasupramaniam&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,13 +254,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Han Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_han_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_han_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2R2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Kai Sheng</p>
+<p>Mdm Suzana Bte Sarikon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_kai_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_kai_sheng@moe.edu.sg</a>
+<p><a href="mailto:suzana_sarikon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suzana_sarikon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -281,10 +281,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suzana Bte Sarikon</p>
+<p>Mr Neo Kai Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suzana_sarikon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suzana_sarikon@moe.edu.sg</a>
+<p><a href="mailto:neo_kai_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_kai_sheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -341,10 +341,10 @@ variant: tiptap
 <p>2R5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Faizal Bin Farouk</p>
+<p>Ms Siti Hafizah d/o Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:faizal_farouk@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_farouk@moe.edu.sg</a>
+<p><a href="mailto:siti_hafizah_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hafizah_subramaniam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -353,10 +353,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Hafizah d/o Subramaniam</p>
+<p>Mr Faizal Bin Farouk</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_hafizah_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hafizah_subramaniam@moe.edu.sg</a>
+<p><a href="mailto:faizal_farouk@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_farouk@moe.edu.sg</a>
 </p>
 </td>
 </tr>
