@@ -125,7 +125,7 @@ variant: tiptap
 <p>Mdm Jasmine Boo Ping Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:boo_ping_ping_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">boo_ping_ping_jasmine@moe.edu.sg</a>
@@ -189,30 +189,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sun_lingling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_lingling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Mang Shang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_kai_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mang_shang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zhuo Ling Xiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhuo_lingxiang_a@moe.edu.sg" rel="noopener nofollow" target="_blank">zhuo_lingxiang_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
