@@ -53,7 +53,7 @@ variant: tiptap
 <p>Mdm Elena Chong Siew Foong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Lower Sec)</p>
+<p>AYH (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_siew_foong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_siew_foong@moe.edu.sg</a>
@@ -81,18 +81,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jason_ingham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jason_ingham@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Kian Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soh_kian_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_kian_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -158,18 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Khamisah Bte Saman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khamisah_saman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khamisah_saman@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ng Yu Yi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,18 +153,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yu_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yu_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Norhani Binte Samsuri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norhani_samsuri@moe.edu.sg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhani_samsuri@moe.edu.sg</a>
 </p>
 </td>
 </tr>
