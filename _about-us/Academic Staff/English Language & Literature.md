@@ -26,18 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rabiaton Bte Mohamed Zin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rabiaton_mohamed_zin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rabiaton_mohamed_zin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Nor Lizawati Bte Mohd Tahir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,6 +34,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nor_lizawati_mohd_tahir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_lizawati_mohd_tahir@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rabiaton Bte Mohamed Zin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rabiaton_mohamed_zin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rabiaton_mohamed_zin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
