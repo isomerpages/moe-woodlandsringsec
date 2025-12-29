@@ -9,8 +9,7 @@ variant: tiptap
 <p><sub>Our motto reflects our commitment to be forward-looking, move ahead with courage, discernment, and integrity. It symbolizes our belief that education is not merely about acquiring knowledge but about applying wisdom to navigate an ever-changing future.</sub>
 </p>
 </blockquote>
-<h3><strong>School Vision</strong></h3>
-<h4>Forward-looking, Compassionate, Wise and Resilient Leaders</h4>
+<h3><strong>School Vision</strong><br>Forward-looking, Compassionate, Wise and Resilient Leaders</h3>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
