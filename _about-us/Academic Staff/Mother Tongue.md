@@ -194,6 +194,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Leow Lea Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leow_lea_ching@moe.edu.sg" rel="noopener nofollow" target="_blank">leow_lea_ching@moe.edu.sg </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Sithrangi Elangovan</p>
 </td>
 <td rowspan="1" colspan="1">
