@@ -225,6 +225,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Siti Zulaiha Amin Eilyaas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chen Jiahao (Zheng Jiahao)</p>
 </td>
 <td rowspan="1" colspan="1">
