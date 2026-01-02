@@ -2,7 +2,6 @@
 title: School Uniform
 permalink: /important-information/for-students/
 description: ""
-third_nav_title: For Students
 ---
 ### **School Uniform**
 #### **Guidelines on School Uniform**
@@ -36,5 +35,4 @@ _Attire for all lessons, activities and occasions, during and after curriculum t
 ##### 6\. **PE ATTIRE**
 
 School PE T-shirt, school PE shorts, school socks, black shoes with laces<br>
-_Attire for Physical Education lessons, and other activities that involve a high level of physical exertion_
-
+_Attire for Physical Education lessons, and other activities that involve a high level of&nbsp;physical exertion_

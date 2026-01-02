@@ -33,5 +33,17 @@ on:</p>
 </ul>
 <p>You may download the letter here: <strong><a href="/files/Sec 1 Registration/Welcome_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Letter</a></strong>
 </p>
-<p></p>
+<p>In addition, here is more information on AEP and MEP:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art Elective Programme (AEP) for Secondary
+<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec</a>
+</p>
+</li>
+<li>
+<p>Music Elective Programme (MEP) for Secondary
+<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec</a>
+</p>
+</li>
+</ul>
 <p>We look forward to meeting your child on <strong>2 January 2026, at 9a.m.</strong>!</p>
