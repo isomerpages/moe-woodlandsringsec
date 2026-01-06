@@ -1,7 +1,8 @@
 ---
 title: School Uniform
-permalink: /important-information/for-students/
+permalink: /important-information/for-students/school-uniform/
 description: ""
+variant: tiptap
 ---
 ### **School Uniform**
 #### **Guidelines on School Uniform**
