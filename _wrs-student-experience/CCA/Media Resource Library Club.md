@@ -112,7 +112,7 @@ Award)</p>
 <p>Learning Journey to Kinokuniya Bookstore</p>
 </li>
 </ul>
-<h4><strong>Frequency of CCA</strong></h4>
+<h4><strong>CCA Details</strong></h4>
 <p>Once a week, in the school library unless there are ad-hoc* activities.
 Students will be required to <strong><u>attend additional sessions</u></strong> on
 Fridays if needed.</p>
@@ -146,22 +146,22 @@ Fridays if needed.</p>
 </p>
 <p><strong>School Holidays</strong>
 </p>
-<p>Student librarians are expected to participate actively in MRL activities
-during the school holidays, if required.</p>
-<p><strong>Others</strong>
-</p>
-<p>Ad-hoc Activities – Student librarians are expected to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>come on extra days when the library organises activities for the school
-community</p>
+<p>Student librarians are expected to participate actively in MRL activities
+during the school holidays, if required.</p>
 </li>
+</ul>
+<p><strong>Others</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>attend meetings and briefing sessions as and when activities are carried
-out</p>
-</li>
-<li>
-<p>participate in internal or external training competitions and enrichment
+<p>Ad-hoc Activities – Student librarians are expected to:
+<br>- come on extra days when the library organises activities for the school
+community
+<br>- attend meetings and briefing sessions as and when activities are carried
+out
+<br>- participate in internal or external training competitions and enrichment
 courses</p>
 </li>
 </ul>
@@ -184,9 +184,17 @@ courses</p>
 </ul>
 <p><strong>CCA Trial Procedures</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>An interview with MRL teachers to determine interest and suitability is
 required.</p>
+</li>
+</ul>
 <p><strong>Target number of students</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>7 students</p>
+</li>
+</ul>
 <p></p>
