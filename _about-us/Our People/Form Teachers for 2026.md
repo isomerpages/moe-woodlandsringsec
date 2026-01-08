@@ -609,7 +609,7 @@ variant: tiptap
 <p>Mr Choy Cheng Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_chenzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">y_chenzhen@moe.edu.sg</a>
+<p><a href="mailto:choy_chengzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_chengzhen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
