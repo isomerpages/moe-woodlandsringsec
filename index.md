@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Banners/Facade3.png
       key_highlights:
-        - title: Release of GCE N-Level Examination Results
+        - title: Release of GCE O-Level Examination Results
           description: Click here for more info
-          url: /release-of-gce-n-level-examination-results/
+          url: /release-of-gce-o-level-examination-results/
         - title: Sec 1 Registration 2026
           description: Click here for more info
           url: /welcome-to-woodlands-ring-secondary-school/
