@@ -94,7 +94,7 @@ for female performers)
 <br>- Optional: Guzheng instrument for self-practice at home.</p>
 </li>
 </ul>
-<p><em>   Note: Prices may vary depending on the suppliers.</em>
+<p><em>Note: Prices may vary depending on the suppliers.</em>
 </p>
 <p><strong>Grading Examination</strong>
 </p>
