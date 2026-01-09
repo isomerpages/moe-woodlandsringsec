@@ -124,13 +124,26 @@ $80)&nbsp;</p>
 </ul>
 <p><strong>Targeted Student Profile</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Girls who like to engage in sports and are physically fit, or with no
 major medical conditions, are suitable for this activity. As netballers
 train under the sun, they must display a high level of resilience as training
 can be challenging.</p>
+</li>
+</ul>
 <p><strong>CCA Trial Procedures</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Speed and agility test, catching and throwing test and mini court game.</p>
+</li>
+</ul>
 <p><strong>Target number of Students</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>10 girls</p>
+</li>
+</ul>
+<p></p>
