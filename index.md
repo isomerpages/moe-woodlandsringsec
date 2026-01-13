@@ -15,9 +15,9 @@ sections:
         - title: Sec 1 Registration 2026
           description: Click here for more info
           url: /welcome-to-woodlands-ring-secondary-school/
-        - title: Holiday Learning Tasks
+        - title: Sec 1 Parents Engagement Session Slides
           description: Click here for more info
-          url: /holiday-learning-tasks/
+          url: /evening-with-parents/
         - title: 2026 Booklist, Bookshop and School Attire
           description: Click here for more info
           url: /school-bookshop-and-school-attire-updated/
