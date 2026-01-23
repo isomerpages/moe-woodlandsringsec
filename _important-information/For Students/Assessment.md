@@ -5,47 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h1>Assessment Matters 2025</h1>
-<h4>Preliminary Examinations</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Express / 5 Normal (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Prelim/4E5NA_2025_Prelim_12_Aug.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-<p><a href="/files/Assessment/Prelim/4E5NA_2025_Prelim_4_NA_SBB_12_Aug.pdf" rel="noopener nofollow" target="_blank">Timetable (for 4NA SBB Students)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Normal (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Prelim/4NA_2025_Prelim_6_June_Final.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Normal (Technical)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Prelim/4NT_2025_Prelim_6_June_Final.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4>End of Year Examinations</h4>
+<h4>Weighted Assessment 1</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -58,11 +18,11 @@ third_nav_title: For Students
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_1_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA1 2026/Secondary_1_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_1_End_Of_Year_Examination_Topics.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/WA1 2026/Sec_1_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
@@ -71,45 +31,47 @@ third_nav_title: For Students
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_2_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA1 2026/Secondary_2_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_2_End_Of_Year_Examination_Topics.pdf" rel="noopener nofollow" target="_blank">Topics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 3 Exp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_3_Exp_EOY2025_15_Sept.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-<td rowspan="3" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p><a href="/files/Assessment/EOY 2025/Sec_3_End_Of_Year_Examination_Topics.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/WA1 2026/Sec_2_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3 Normal (Academic)</p>
+<p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_3_NA_EOY2025_15_Sept.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA1 2026/Secondary_3_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA1 2026/Sec_3_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3 Normal (Technical)</p>
+<p>Secondary 4</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>
+<br><a href="/files/Assessment/WA1 2026/Secondary_4_and_5_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/EOY 2025/Sec_3_NT_EOY2025_30_Aug_Edited.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA1 2026/Sec_4_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA1 2026/Sec_5_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
