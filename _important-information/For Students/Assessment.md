@@ -22,7 +22,7 @@ third_nav_title: For Students
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Sec_1_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/WA1 2026/Sec_1_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
