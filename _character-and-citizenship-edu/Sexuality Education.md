@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /wrs-student-experience/cce/sex-edu/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Sexuality Education</strong></h3>
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
@@ -43,7 +43,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Woodlands Ring Secondary</strong> <strong>School’s</strong> <strong>Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Woodlands Ring Secondary</strong> <strong>School’s</strong> <strong>Sexuality Education Programme for 2026</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
@@ -77,7 +77,7 @@ a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age. Please click on the links below
 to access the details of the Sexuality Education lessons that will be taught
-in 2025 for each level.</p>
+in 2026 for each level.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -89,23 +89,23 @@ in 2025 for each level.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sexuality Education/3__Sec_1_SEd_Lessons_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></strong>
+<p><strong><a href="/files/3__Sec_1_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sexuality Education/4__Sec_2_SEd_Lessons_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
+<p><strong><a href="/files/4__Sec_2_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sexuality Education/5__Sec_3_SEd_Lessons_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
+<p><strong><a href="/files/5__Sec_3_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sexuality Education/6__Sec_4_SEd_Lessons_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a></strong>
+<p><strong><a href="/files/6__Sec_4_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sexuality Education/7__Sec_5_SEd_Lessons_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a></strong>
+<p><strong><a href="/files/7__Sec_5_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a></strong>
 </p>
 </td>
 </tr>
@@ -126,7 +126,7 @@ skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
-family values are the key messages. Please click <a href="/files/Sexuality Education/8__Sec_3_eTeens_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+family values are the key messages. Please click <a href="/files/8__Sec_3_eTeens_Programme_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>her</u></a><a href="/files/8__Sec_3_eTeens_Programme_2026.pdf" rel="noopener nofollow" target="_blank">e</a> for
 more details on the eTeens programme.</p>
 <p></p>
 <p><strong>Information for Parents</strong>
@@ -136,14 +136,15 @@ out of the Sexuality Education lessons and/or <em>eTeens</em> programme.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents of Secondary 1, 2, 4 and
 5 students who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is downloadable <a href="/files/Sexuality Education/9__Annex_A___Opt_out_Form__Sec_1__2__4_and_5__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed form is to be submitted by 10/02/2025.</p>
+at the start of the year and is downloadable <a href="/files/9__Annex_A___Opt_out_Form__Sec_1__2__4_and_5__2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The completed form is to be submitted by 13/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents of Secondary 3 students
 who wish to opt their children out of the <strong>Sexuality Education lessons</strong> and/or <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexuality Education/10__Annex_B___Opt_out_Form__Sec_3__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-&nbsp;The completed form is to be submitted by 10/02/2025.</p>
+at the start of the year and is also downloadable <a href="/files/10__Annex_B___Opt_out_Form__Sec_3__2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+&nbsp;The completed form is to be submitted by 13/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at 63643712 or <a href="mailto:ng_lih_yng@moe.edu.sg" rel="noopener nofollow" target="_blank">email</a> Mrs
-Lyn Chuah, Sexuality Education Coordinator, for discussion or to seek clarification
-about the school’s Sexuality Education programme.</p>
+at 63643712 or email Mrs Lyn Chuah, Sexuality Education
+<br>Coordinator at <a href="mailto:ng_lih_yng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lih_yng@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
