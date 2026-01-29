@@ -126,8 +126,8 @@ skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
-family values are the key messages. Please click <a href="/files/8__Sec_3_eTeens_Programme_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>her</u></a><a href="/files/8__Sec_3_eTeens_Programme_2026.pdf" rel="noopener nofollow" target="_blank">e</a> for
-more details on the eTeens programme.</p>
+family values are the key messages. Please click <a href="/files/8__Sec_3_eTeens_Programme_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for more details
+on the eTeens programme.</p>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
@@ -141,8 +141,8 @@ The completed form is to be submitted by 13/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents of Secondary 3 students
 who wish to opt their children out of the <strong>Sexuality Education lessons</strong> and/or <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/10__Annex_B___Opt_out_Form__Sec_3__2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-&nbsp;The completed form is to be submitted by 13/02/2026.</p>
+at the start of the year and is also downloadable <a href="/files/10__Annex_B___Opt_out_Form__Sec_3__2026__FIX_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 13/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 63643712 or email Mrs Lyn Chuah, Sexuality Education
 <br>Coordinator at <a href="mailto:ng_lih_yng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lih_yng@moe.edu.sg</a> for
