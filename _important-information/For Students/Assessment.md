@@ -44,7 +44,7 @@ third_nav_title: For Students
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Secondary_3_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA1 2026/Secondary_3_WA_1_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
