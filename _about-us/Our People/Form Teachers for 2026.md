@@ -838,18 +838,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5R2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Yih Check</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yih_check@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_yih_check@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
