@@ -96,10 +96,6 @@ assessment, overall homework load.</p>
 <p>Realistic deadlines for submission of homework will be set.</p>
 </li>
 <li>
-<p>The frequency and quantity of homework given will be coordinated among
-subject teachers of the class.</p>
-</li>
-<li>
 <p>Homework will be checked and timely feedback will be given to students.
 Appropriate support and intervention will be provided to students if needed.</p>
 </li>
