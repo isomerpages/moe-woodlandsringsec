@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h4>Weighted Assessment 1</h4>
+<h4>Weighted Assessment 2</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -18,11 +18,11 @@ third_nav_title: For Students
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Secondary_1_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA2 2026/Secondary_1_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Sec_1_WA_1_TOS.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/WA2 2026/Sec_1_WA_2_Topics_Tested_v1.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
@@ -31,11 +31,11 @@ third_nav_title: For Students
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Secondary_2_WA_1_Schedule_19_Feb.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA2 2026/Secondary_2_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Sec_2_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/WA2 2026/Sec_2_WA_2_Topics_Tested_v1.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
@@ -44,34 +44,24 @@ third_nav_title: For Students
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Secondary_3_WA_1_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/WA2 2026/Secondary_3_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Sec_3_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>
-<br><a href="/files/Assessment/WA1 2026/Secondary_4_and_5_WA_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Sec_4_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/WA2 2026/Sec_3_WA_2_Topics_Tested_v1.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 5</p>
+<p>Secondary 4 and 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA1 2026/Sec_5_WA_1_Topics_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/WA2 2026/Secondary_4_and_5_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA2 2026/Sec_4_5_WA_2_Topics_Tested_v1.pdf" rel="noopener nofollow" target="_blank">Topics</a>
 </p>
 </td>
 </tr>
