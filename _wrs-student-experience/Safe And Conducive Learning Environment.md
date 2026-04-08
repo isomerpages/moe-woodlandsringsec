@@ -41,8 +41,8 @@ mend relationships.</p>
 <li>
 <p>While our primary focus is on guidance and education, repeated or serious
 hurtful behaviour/bullying may lead to consequences such as detention,
-suspension, or other disciplinary actions which will be appropriate and
-proportionate to the situation.</p>
+suspension, caning or other disciplinary actions which will be appropriate
+and proportionate to the situation.</p>
 </li>
 </ul>
 <p></p>
