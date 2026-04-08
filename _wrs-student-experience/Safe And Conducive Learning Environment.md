@@ -8,8 +8,10 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>The school adopts a Zero Tolerance Policy as far as hurtful behaviour
-or bullying is concerned and these behaviours in any form are NOT acceptable.
-We do not accept hurtful behaviour or bullying in any form and work to
+or bullying is concerned and these behaviours in any form are NOT acceptable.</p>
+</li>
+<li>
+<p>We do not accept hurtful behaviour or bullying in any form and work to
 build a culture of kindness and understanding. Hurtful behaviours can range
 from once-off insensitive remarks to more persistent, intentional acts
 of bullying, and even physical violence.</p>
