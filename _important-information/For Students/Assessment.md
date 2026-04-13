@@ -68,3 +68,6 @@ third_nav_title: For Students
 </tbody>
 </table>
 <p></p>
+<h4>[For Sec 4s] EL/MT Oral and MT Preliminary Examinations</h4>
+<p><a href="/files/Assessment/Prelim/MT_Prelim_Schedule_and_EL_MT_Oral_Exam.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+</p>
