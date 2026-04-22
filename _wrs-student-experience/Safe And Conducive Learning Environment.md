@@ -45,4 +45,18 @@ suspension, caning or other disciplinary actions which will be appropriate
 and proportionate to the situation.</p>
 </li>
 </ul>
+<h4>Reporting an Incident</h4>
+<p>At Woodlands Ring, your safety is our priority.</p>
+<p>We maintain a zero-tolerance policy toward bullying and take every instance
+of hurtful behavior seriously. If you have been affected, please reach
+out to a teacher or any trusted adult—we are here for you.</p>
+<p>Follow the steps below to report an incident. Together, we keep WRSS a
+safe space for everyone.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT/WebRes_SAFE_hurtfulbehaviour_final.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT/WebRes_SAFE_cyberbullying_png.png">
+</div>
 <p></p>
