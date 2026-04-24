@@ -53,8 +53,8 @@ out to a teacher or any trusted adult—we are here for you.</p>
 <p>Follow the steps below to report an incident. Together, we keep WRSS a
 safe space for everyone.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/WebRes_SAFE_hurtfulbehaviour_final" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strategy to Deal with Hurtful Behaviour and Bullying" src="/images/SDT/WebRes_SAFE_hurtfulbehaviour_final.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strategy to Deal with Hurtful Behaviour and Bullying</div><div class="isomer-card-link">Click for full size image</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/WebRes_SAFE_cyberbullying_png" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/SDT/WebRes_SAFE_hurtfulbehaviour_final" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strategy to Deal with Hurtful Behaviour and Bullying" src="/images/SDT/WebRes_SAFE_hurtfulbehaviour_final.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strategy to Deal with Hurtful Behaviour and Bullying</div><div class="isomer-card-link">Click for full size image</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/SDT/WebRes_SAFE_cyberbullying_png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Strategy to Deal with Cyber Bullying" src="/images/SDT/WebRes_SAFE_cyberbullying_png.png">
