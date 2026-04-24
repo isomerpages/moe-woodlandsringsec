@@ -131,9 +131,6 @@ values, members take ownership of their learning, strengthen their higher-order
 thinking skills, and pursue excellence through rigorous problem-solving
 tasks—building resilience as they persevere through challenges and work
 towards innovative solutions.</p>
-<p></p>
-<p></p>
-<p></p>
 </div>
 </details>
 </div>
