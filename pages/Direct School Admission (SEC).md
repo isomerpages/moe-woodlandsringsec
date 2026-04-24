@@ -204,8 +204,7 @@ youth development programmes.</p>
 <p></p>
 <p>If you think you have what it takes, do apply to join our school through
 the various Talent Areas above.</p>
-<p>The selection criteria and process for the talent can be found&nbsp;
-<a href="/files/DSA/2026_DSA_Selection_Criteria.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The selection criteria and process for the talent can be found <a href="/files/DSA/2026_DSA_Selection_Criteria.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Do note that meeting all the criteria does not guarantee the applicant
 will be shortlisted/given an offer. Applicants who do not have prior experience
 in the talent area may also apply. The school will assess applicants based
