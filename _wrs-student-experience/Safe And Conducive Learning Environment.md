@@ -45,4 +45,25 @@ suspension, caning or other disciplinary actions which will be appropriate
 and proportionate to the situation.</p>
 </li>
 </ul>
+<h4>Reporting an Incident</h4>
+<p>At Woodlands Ring, your safety is our priority.</p>
+<p>We maintain a zero-tolerance policy toward bullying and take every instance
+of hurtful behavior seriously. If you have been affected, please reach
+out to a teacher or any trusted adult—we are here for you.</p>
+<p>Follow the steps below to report an incident. Together, we keep WRSS a
+safe space for everyone.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/SDT/WebRes_SAFE_hurtfulbehaviour_final.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strategy to Deal with Hurtful Behaviour and Bullying" src="/images/SDT/WebRes_SAFE_hurtfulbehaviour_final.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strategy to Deal with Hurtful Behaviour and Bullying</div><div class="isomer-card-link">Click for full size image</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/SDT/WebRes_SAFE_cyberbullying_png.png" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Strategy to Deal with Cyber Bullying" src="/images/SDT/WebRes_SAFE_cyberbullying_png.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Strategy to Deal with Cyber Bullying</div>
+<div class="isomer-card-link">Click for full size image</div>
+</div>
+</a>
+</div>
 <p></p>
