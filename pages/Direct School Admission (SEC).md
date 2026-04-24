@@ -119,15 +119,21 @@ as well as to display their creativity by choreographing performances.</p>
 <summary><strong>C1. DSA – Robotics</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Pupils with a keen interest and aptitude in robot building and programming
-are encouraged to apply for our <strong>DSA-Robotics</strong>.</p>
+<p>Pupils with skills in robot building and programming may wish to take
+part in our DSA-Robotics.</p>
+<p></p>
 <p>Through active participation in the WRSS Robotics Club, pupils will have
-meaningful opportunities to develop and demonstrate the core values of <strong>Responsibility, Respect</strong> and <strong>Resilience</strong>.
-We are looking for committed team players who exhibit patience, respect
-for others and a willingness to collaborate and offer support. By taking
-ownership of their learning, members will not only enhance their problem-solving
-and higher-order thinking skills, they will also build resilience through
-hands-on challenges and collaborative projects.</p>
+opportunities to develop and demonstrate the values of Respect, Integrity,
+Selflessness, Empathy, Excellence, and Resilience. We seek team players
+who show respect for others, uphold integrity in their work, and demonstrate
+selflessness and empathy when collaborating with peers. By embodying these
+values, members take ownership of their learning, strengthen their higher-order
+thinking skills, and pursue excellence through rigorous problem-solving
+tasks—building resilience as they persevere through challenges and work
+towards innovative solutions.</p>
+<p></p>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
@@ -209,13 +215,13 @@ in the talent area may also apply. The school will assess applicants based
 on the selection criteria, which may include assessing the potential of
 the applicants.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025, 11.00 am to 3 June 2025, 3.00 pm</strong>.
+The application is free-of-charge and will be open from <strong>6 May 2026, 11.00 am to 3 June 2026, 3.00 pm</strong>.
 For more details, please refer to MOE website –&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p>Applicant will receive notification from the school by 7 July 2025, if
+<p>Applicants will receive notification from the school by 6 July 2026, if
 you have been shortlisted to undergo Direct School Admission (DSA) selection.
-All applicants will receive their application outcomes between 25 Aug and
-4 Sep 2025.</p>
+All applicants will receive their application outcomes between 17 Aug and
+28 Aug 2026.</p>
 <p>Parents and pupils are encouraged to choose schools wisely based on the
 pupils’ aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
