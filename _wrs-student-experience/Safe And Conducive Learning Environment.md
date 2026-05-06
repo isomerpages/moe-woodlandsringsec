@@ -59,7 +59,7 @@ reach out to us via any of the following methods:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Inform Form Teacher, Discipline Master, Year Head or School Leaders</p>
+<p>Inform Form Teacher, Discipline Master, Year Heads or School Leaders</p>
 </li>
 <li>
 <p><a href="mailto:wrss@moe.edu.sg" rel="noopener nofollow" target="_blank">Email</a>
