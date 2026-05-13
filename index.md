@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Banners/Facade3.png
       key_highlights:
-        - title: Release of GCE O-Level Examination Results
+        - title: Academic Support Programme
           description: Click here for more info
-          url: /release-of-gce-o-level-examination-results/
+          url: /academic-support-programme/
         - title: Sec 1 Registration 2026
           description: Click here for more info
           url: /welcome-to-woodlands-ring-secondary-school/
