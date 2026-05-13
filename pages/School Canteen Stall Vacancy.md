@@ -27,20 +27,16 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Chicken Rice <strong><u>or</u></strong>
-</p>
-<p>Japanese Food <strong><u>or</u></strong>
-</p>
-<p>Chinese Noodle</p>
+<br>Japanese Food <strong><u>or</u></strong>
+<br>Chinese Noodle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chicken/Char Siew/Roasted Pork <strong><u>or</u></strong>
-</p>
-<p>Ramen/Sushi/Don etc <strong><u>or</u></strong>
-</p>
-<p>Prawn/Minced Pork/Fishball/Lor Mee/Laksa etc</p>
+<br>Ramen/Sushi/Don etc <strong><u>or</u></strong>
+<br>Prawn/Minced Pork/Fishball/Lor Mee/Laksa etc</p>
 </td>
 </tr>
 </tbody>
@@ -87,9 +83,9 @@ School’s General Office by the closing date.</p>
 <p>School Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Woodlands Ring Secondary School</p>
-<p>21 Woodlands Avenue 1</p>
-<p>Singapore 739062</p>
+<p>Woodlands Ring Secondary School
+<br>21 Woodlands Avenue 1
+<br>Singapore 739062</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +93,7 @@ School’s General Office by the closing date.</p>
 <p>Contact Person</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Cheryl Sim / Ms Geeta Pillay</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +101,7 @@ School’s General Office by the closing date.</p>
 <p>Contact Number</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6364 3712</p>
 </td>
 </tr>
 <tr>
@@ -113,31 +109,18 @@ School’s General Office by the closing date.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wrss@moe.edu.sg">wrss@moe.edu.sg</a></p>
 </td>
 </tr>
 </tbody>
 </table>
+</li><li>
+<p>How to get to the school:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School Address: Woodlands Ring Secondary School (21 Woodlands Avenue 1,
-Singapore 739062)</p>
+<p>Photocopy of the NRIC (front and back)</p>
 </li>
 <li>
-<p>Contact Person: Ms Cheryl Sim or Ms Geeta Pillay</p>
+<p>List of proposed menu and pricing for all items</p>
 </li>
-<li>
-<p>Contact: 6364 3712</p>
-</li>
-<li>
-<p>Email: <a href="wrss@moe.edu.sg" rel="noopener nofollow" target="_blank">wrss@moe.edu.sg</a>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p>asds</p>
-<p></p>
-</li>
-</ol>
-<p></p>
+</ul></li></ol>
