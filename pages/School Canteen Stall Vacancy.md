@@ -44,12 +44,16 @@ Prawn / Minced Pork / Fishball / Lor Mee / Laksa etc.
 <li>
 Download and complete the Application Form (click on the link below).  
 You may also request for a hardcopy of the Application Form from the School’s General Office. 
-<ul><a href="Application_for_Canteen_Stall___Woodlands_Ring_Sec_Sch" rel="noopener nofollow" target="_blank">Application Form for Canteen Stall</a>
+<ul class="tight" data-tight="true">
+<li>
+<p><a target="_blank" rel="noopener nofollow" href="(/files/School%20Canteen%20Stall%20Vacancy/Application_for_Canteen_Stall___Woodlands_Ring_Sec_Sch.pdf)">Application Form for Canteen Stall - Woodlands Ring Sec Sch</a>
+</p>
+</li>
 </ul>
 </li>
 
 <li>Attach the following documents together with the Application Form:
-<ul>
+<ul class="tight" data-tight="true">
 <li>Photocopy of the NRIC (front and back)</li>
 <li>List of proposed menu and pricing for all items</li>
 <li>Photocopy of relevant certificates such as Food Safety Course Level 1, etc.</li>
@@ -60,33 +64,32 @@ You may also request for a hardcopy of the Application Form from the School’s 
 Submit the completed Application Form and documents via email OR to the School’s General Office by the closing date.  
 </li>
 	
+
 <div>  
 <table>
 <tbody><tr>
 <td>School Address</td>
 <td>21 Woodlands Avenue 1, Singapore 739062</td>
 </tr>
-	
 <tr>
 <td>Contact Person</td>
 <td>Ms Cheryl Sim / Ms Geeta Pillay</td>
 </tr>
-
 <tr>
 <td>Contact Number</td>
 <td>6364 3712</td>
 </tr>
-	
 <tr>
 <td>Email</td>
 <td><a>wrss@moe.edu.sg</a> </td>
 </tr>	
 </tbody></table>
-</div></ol>
+</div>
+</ol>
 
 <h4>How to Get There?</h4>
 <ol>
-<ul>
+<ul class="tight" data-tight="true">
 <li>Nearest MRT: Marsiling</li>
 <li>Bus number: SMRT Bus No. 912 or 912B from Woodlands Regional Interchange</li>
 	</ul>
@@ -94,7 +97,7 @@ Submit the completed Application Form and documents via email OR to the School�
 
 <h4>Interested Applicants Must Meet the Following Criteria</h4>
 <ol>
-<ul>
+<ul class="tight" data-tight="true">
 <li>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.</li>
 <li>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or LTVP-Plus holder with Letter of Consent to work. </li>
 <li>Able to provide good service and quality food/drinks at reasonable prices. Prices will be determined in consultation with the school. </li>
