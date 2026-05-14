@@ -81,7 +81,7 @@ Submit the completed Application Form and documents via email OR to the Schoolâ€
 </tr>
 <tr>
 <td>Email</td>
-<td><a>wrss@moe.edu.sg</a> </td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wrss@moe.edu.sg">wrss@moe.edu.sg</a></td>
 </tr>	
 </tbody></table>
 </div>
