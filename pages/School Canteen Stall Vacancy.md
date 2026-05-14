@@ -44,9 +44,8 @@ Prawn / Minced Pork / Fishball / Lor Mee / Laksa etc.
 <li>
 Download and complete the Application Form (click on the link below).  
 You may also request for a hardcopy of the Application Form from the School’s General Office. 
-<a>
-Application for Canteen Stall - Form BF7 (Click Here)
-</a>
+<ul><a href="Application_for_Canteen_Stall___Woodlands_Ring_Sec_Sch" rel="noopener nofollow" target="_blank">Application Form for Canteen Stall</a>
+</ul>
 </li>
 
 <li>Attach the following documents together with the Application Form:
@@ -119,4 +118,3 @@ Submit the completed Application Form and documents via email OR to the School�
 <ol>
 Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.  
 </ol>
-	
