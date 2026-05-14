@@ -5,11 +5,8 @@ variant: markdown
 description: ""
 ---
 <h3>School Canteen Advertisement</h3>
-<p></p>
 
-
-<div>
-
+<ol>
 <table>
 <tbody><tr>
 <th>Type of Stall</th>
@@ -39,21 +36,20 @@ Prawn / Minced Pork / Fishball / Lor Mee / Laksa etc.
 </td>
 </tr>
 </tbody></table>
-  
-<h4>Application Procedure</h4>  
-  
-<ol> 
-<li>  
+</ol>
+
+<h4>Application Procedure</h4>
+
+<ol>
+<li>
 Download and complete the Application Form (click on the link below).  
-You may also request for a hardcopy of the Application Form from the Schoolâ€™s General Office.  
-  
+You may also request for a hardcopy of the Application Form from the Schoolâ€™s General Office. 
 <a>
 Application for Canteen Stall - Form BF7 (Click Here)
 </a>
 </li>
 
-<li>
-Attach the following documents together with the Application Form:
+<li>Attach the following documents together with the Application Form:
 <ul>
 <li>Photocopy of the NRIC (front and back)</li>
 <li>List of proposed menu and pricing for all items</li>
@@ -91,12 +87,15 @@ Submit the completed Application Form and documents via email OR to the Schoolâ€
 
 <h4>How to Get There?</h4>
 <ol>
+<ul>
 <li>Nearest MRT: Marsiling</li>
 <li>Bus number: SMRT Bus No. 912 or 912B from Woodlands Regional Interchange</li>
+	</ul>
 </ol>
 
 <h4>Interested Applicants Must Meet the Following Criteria</h4>
 <ol>
+<ul>
 <li>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder.</li>
 <li>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or LTVP-Plus holder with Letter of Consent to work. </li>
 <li>Able to provide good service and quality food/drinks at reasonable prices. Prices will be determined in consultation with the school. </li>
@@ -106,17 +105,18 @@ Submit the completed Application Form and documents via email OR to the Schoolâ€
 <li>Healthy and fit to operate the stall.</li>
 <li>Must be in personal attendance at the stall.</li>
 <li>Preferably possess catering experience or experience operating in a school environment.</li>
+</ul>
 </ol>
   
 <h4>Note to Successful Applicants:</h4>
 <ol>
+<ul>
 <li>Successful applicant and stall assistant(s) operating the stall must attend and pass the Food Safety Course Level 1 conducted by SkillsFuture Singapore approved training providers. </li>
 <li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA) to operate the stall.</li>
+</ul>
 </ol>
-
 
 <ol>
 Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicantâ€™s own expense.  
-	</ol>
+</ol>
 	
-</div>
