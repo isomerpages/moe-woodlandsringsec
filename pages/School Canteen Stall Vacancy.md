@@ -46,7 +46,7 @@ Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s General Office. 
 <ul class="tight" data-tight="true">
 <li>
-<p><a target="_blank" rel="noopener nofollow" href="/files/School%20Canteen%20Stall%20Vacancy/Application_for_Canteen_Stall___Woodlands_Ring_Sec_Sch.pdf">Application Form for Canteen Stall - Woodlands Ring Sec Sch</a>
+<p><a target="_blank" rel="noopener nofollow" href="https://www.woodlandsringsec.moe.edu.sg/files/School%20Canteen%20Stall%20Vacancy/Application_for_Canteen_Stall___Woodlands_Ring_Sec_Sch.pdf">Application Form for Canteen Stall - Woodlands Ring Sec Sch</a>
 </p>
 </li>
 </ul>
