@@ -12,9 +12,9 @@ sections:
         - title: Academic Support Programme
           description: Click here for more info
           url: /academic-support-programme/
-        - title: Sec 1 Registration 2026
+        - title: School Canteen Stall Vacancy
           description: Click here for more info
-          url: /welcome-to-woodlands-ring-secondary-school/
+          url: /school-canteen-stall-vacancy/
         - title: Sec 1 Parents Engagement Session Slides
           description: Click here for more info
           url: /evening-with-parents/
