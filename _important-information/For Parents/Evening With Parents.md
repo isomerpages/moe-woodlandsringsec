@@ -35,4 +35,23 @@ third_nav_title: For Parents
 </li>
 </ol>
 <hr>
+<h4><strong>Secondary Three (15 May 2026)</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Evening With Parents/Sec 3 2026/1__Parent_Engagement_Sec_3_2026_Vision_Mission_Values.pdf" rel="noopener nofollow" target="_blank">Vision Mission Values</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Evening With Parents/Sec 3 2026/2__Parent_Engagement_Sec_3_2026_Outward_Bound_Singapore.pdf" rel="noopener nofollow" target="_blank">Outward Bound Singapore</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Evening With Parents/Sec 3 2026/3__Parent_Engagement_Sec_3_2026_School_Programmes_and_Events.pdf" rel="noopener nofollow" target="_blank">School Programmes and Events</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Evening With Parents/Sec 3 2026/4__Parent_Engagement_Sec_3_2026_Post_Secondary_Education.pdf" rel="noopener nofollow" target="_blank">Post-Secondary Education</a>
+</p>
+</li>
+</ol>
 <p></p>
