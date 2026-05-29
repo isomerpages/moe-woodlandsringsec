@@ -6,7 +6,7 @@ description: ""
 third_nav_title: For Students
 ---
 <h3>2026 Mid-Year Holiday Learning Tasks</h3>
-<p>The subjects with assigned learning tasks for the year-end holidays are
+<p>The subjects with assigned learning tasks for the mid-year holidays are
 listed below. Parents, you may check with your child / ward on the specific
 details given by their subject teachers.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
