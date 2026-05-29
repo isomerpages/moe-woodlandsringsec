@@ -738,23 +738,6 @@ details given by their subject teachers.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mobile Robotics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
