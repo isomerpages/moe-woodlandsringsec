@@ -38,6 +38,10 @@ Prawn / Minced Pork / Fishball / Lor Mee / Laksa etc.
 </tbody></table>
 </ol>
 
+<ol>
+*Note: To start operations with effect from 29 June 2026.
+</ol>
+
 <h4>Application Procedure</h4>
 
 <ol>
