@@ -24,7 +24,7 @@ Chinese Noodle
 </td>
 
 <td>
-21 May 2026
+05 June 2026
 </td>
 
 <td>
