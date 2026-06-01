@@ -24,7 +24,7 @@ Chinese Noodle
 </td>
 
 <td>
-21 May 2026
+05 June 2026
 </td>
 
 <td>
@@ -36,6 +36,10 @@ Prawn / Minced Pork / Fishball / Lor Mee / Laksa etc.
 </td>
 </tr>
 </tbody></table>
+</ol>
+
+<ol>
+*Note: To start operations with effect from 29 June 2026.
 </ol>
 
 <h4>Application Procedure</h4>
