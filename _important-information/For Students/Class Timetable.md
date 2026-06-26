@@ -6,7 +6,7 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h3><strong>Class Timetable</strong></h3>
-<p>Please refer to the 2026 Semester 1 timetable below:</p>
-<p><a href="/files/Timetable/sem1 2026 timetable.pdf" rel="noopener nofollow" target="_blank">Semester 1 Timetable 2026</a>
+<p>Please refer to the 2026 Semester 2 timetable below:</p>
+<p><a href="/files/Timetable/2026_Sem_2_Class.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable 2026</a>
 </p>
 <p>Happy learning!</p>
