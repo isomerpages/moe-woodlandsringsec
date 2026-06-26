@@ -5,69 +5,41 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h4>Weighted Assessment 2</h4>
-<table style="minWidth: 75px">
+<h4>[For Sec 4/5s] Preliminary Examinations</h4>
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1</p>
+<p>4E/5N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2026/Secondary_1_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2026/Sec_1_WA_2_Topics_Tested_v2.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/Prelim/3_4E5NA_Prelim_25_Jun.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2</p>
+<p>4NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2026/Secondary_2_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2026/Sec_2_WA_2_Topics_Tested_v1.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/Prelim/2_4NA_Prelim_25_Jun.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3</p>
+<p>4NT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2026/Secondary_3_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2026/Sec_3_WA_2_Topics_Tested_v1.pdf" rel="noopener nofollow" target="_blank">Topics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4 and 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2026/Secondary_4_and_5_WA_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/WA2 2026/Sec_4_5_WA_2_Topics_Tested_v1.pdf" rel="noopener nofollow" target="_blank">Topics</a>
+<p><a href="/files/Assessment/Prelim/1_4NT_Prelim_25_Jun.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h4>[For Sec 4s] EL/MT Oral and MT Preliminary Examinations</h4>
-<p><a href="/files/Assessment/Prelim/MT_Prelim_Schedule_and_EL_MT_Oral_Exam.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
-</p>
