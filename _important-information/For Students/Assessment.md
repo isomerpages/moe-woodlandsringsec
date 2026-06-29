@@ -15,7 +15,7 @@ third_nav_title: For Students
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4E/5N</p>
+<p>4E/5NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/Prelim/3_4E5NA_Prelim_25_Jun.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
