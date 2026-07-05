@@ -214,8 +214,8 @@ the applicants.</p>
 The application is free-of-charge and will be open from <strong>6 May 2026, 11.00 am to 2 June 2026, 4.30 pm</strong>.
 For more details, please refer to MOE website –&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p>Applicants will receive notification from the school by 6 July 2026, if
-you have been shortlisted to undergo Direct School Admission (DSA) selection.
+<p>Applicants will receive notification from the school by 16 July 2026,
+if you have been shortlisted to undergo Direct School Admission (DSA) selection.
 All applicants will receive their application outcomes between 17 Aug and
 28 Aug 2026.</p>
 <p>Parents and pupils are encouraged to choose schools wisely based on the
