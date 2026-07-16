@@ -27,7 +27,7 @@ third_nav_title: For Students
 <p>4NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Prelim/2_4NA_Prelim_25_Jun.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/Prelim/2_4NA_Prelim_FINAL.pdf" rel="noopener nofollow" target="_blank">Timetable (updated with venues)</a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ third_nav_title: For Students
 <p>4NT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/Prelim/1_4NT_Prelim_25_Jun.pdf" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="/files/Assessment/Prelim/1_4NT_Prelim_FINAL.pdf" rel="noopener nofollow" target="_blank">Timetable (updated with venues)</a>
 </p>
 </td>
 </tr>
