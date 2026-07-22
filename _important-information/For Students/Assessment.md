@@ -42,4 +42,53 @@ third_nav_title: For Students
 </tr>
 </tbody>
 </table>
+<h4>[For Sec 1s to 3s] Weighted Assessment 3</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2026/Secondary_1_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2026/Sec_1_Topics_and_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics and Skills</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2026/Secondary_2_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2026/Sec_2_Topics_and_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics and Skills</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2026/Secondary_3_WA_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/WA3 2026/Sec_3_Topics_and_Skills_Tested.pdf" rel="noopener nofollow" target="_blank">Topics and Skills</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
