@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Management</p>
+<p>to HOD / Student Behaviour Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sivakumar Murugaya</p>
